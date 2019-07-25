@@ -9,3 +9,6 @@ we are living in Iran.
 
 I think is ok to ban Iranian from paied services but ban us from having a simple Github page is not right. I want to be a part
 of open source projects ....
+
+## Note
+Please let us get a backup from our private repository before disabling them.
