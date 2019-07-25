@@ -13,5 +13,7 @@ You should not judge people based on their living country. You can restrict a go
 I think having a **simple Github page** is our fundamental right. 
 Don't make us leave the open-source community.
 
+Some of us have published packages that are used by other people that are not right to remove them.
+
 ## Note for GitHub
 Please let us get a backup from our private repository before disabling them.
