@@ -56,6 +56,12 @@ Specifically you can:
   - Create a pull request
   - Add your name and your country to the supporters section
 
+## Further Readings
+  - [GitHub banned Iran-based users](https://financialtribune.com/articles/sci-tech/99111/github-bans-iran-based-users)
+  - [GitHub has blocked an Iranian software developer account](https://hub.packtpub.com/github-has-blocked-an-iranian-software-developers-account)
+  - [GitHub starts blocking developers in countries facing US trade sanctions](https://www.zdnet.com/article/github-starts-blocking-developers-in-countries-facing-us-trade-sanctions)
+
+
 ## Supporters
   - 1995parham from Iran 🇮🇷
   - pesehr from Iran 🇮🇷
@@ -89,4 +95,5 @@ Specifically you can:
   - Sepehr Sameni from Iran 🇮🇷 ([Separius](https://github.com/Separius))
   - Amir Baghaie from Iran 🇮🇷 ([amirbagh75](https://github.com/amirbagh75))
   - Erfan Gholamian from Iran 🇮🇷 ([erfan-gh](https://github.com/erfan-gh))
+  - Ali MohammadPur 🇮🇷 ([alimpfard](https://github.com/alimpfard))
 
