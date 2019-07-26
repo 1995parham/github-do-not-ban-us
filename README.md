@@ -81,3 +81,5 @@ Specifically you can:
   - Ali Izadi from Iran 🇮🇷 ([aliizadi](https://github.com/aliizadi))
   - Milad Nekofar ([nekofar](https://github.com/nekofar))
   - Nikan Dalvand ([nikandlv](https://github.com/nikandlv))
+  - Alireza Torabian from Iran 🇮🇷 ([1997alireza](https://github.com/1997alireza))
+  - Ali Irani from Iran 🇮🇷 ([aliir74](https://github.com/ali74))
