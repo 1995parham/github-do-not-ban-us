@@ -10,7 +10,7 @@ Github bans us from our freedom to contribute and being part of the open-source 
 
 **Github blocked our private repositories without any previous alert, and now we have no access to the codes**
 
-You should not judge people based on their living country. You can restrict a government, but you should not ban your active and loyal users without any caution.
+You should not judge people based on their living country. You might decide to restrict a government, but you should not ban your active and loyal users without any caution.
 
 I think having a **simple Github page** is a basic right for users. 
 Don't make us leave the open-source community.
@@ -34,6 +34,10 @@ https://github.com/sasanrose/phpredmin
 https://github.com/ahmdrz/goinsta
 
 https://github.com/persepolisdm/persepolis
+
+https://github.com/sepandhaghighi/pycm
+
+https://github.com/sepandhaghighi/art
 
 You can find the full list [here](https://github.com/mohebifar/made-in-iran):
 
@@ -60,3 +64,4 @@ Specifically you can:
   - Ali Tavalaie from Iran ([tavallaie](https://github.com/tavallaie))
   - rajabiseraji from Iran 🇮🇷
   - Saman Fekri from Iran 🇮🇷([SamanFekri](https://github.com/SamanFekri))
+  - Sina Sheikholeslami from Iran 🇮🇷  ([ssheikholeslami](https://ssheikholeslami.github.io))
