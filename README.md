@@ -47,5 +47,6 @@ Specifically you can:
   - Add your name and your country to the supporters section
 
 ## Supporters
-
+  - 1995parham from Iran 🇮🇷
+  - pesehr from Iran 🇮🇷
   - Alireza Mahmoudian ([BelegCuthalion](https://github.com/BelegCuthalion))
