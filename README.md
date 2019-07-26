@@ -1,20 +1,21 @@
-# Github Must Be a Free Platform
+# A message to Github
 
 ![alt text](./message.png)
 
 ## Introduction
 
 
-Github was a free platform for everyone since many years ago, but it has decided to restrict **Iranian accounts**.
-We believe living in a country is not a choice that you have, but being a developer and contributing to the open-source community is a choice.
-Github has restricted us from our freedom to contribute and being part of the open-source ecosystem because we are living in Iran.
+Github used to be an open and free platform for everyone, but it has decided to restrict Iranian accounts from contributing and being part of the open-source ecosystem. Although we understand Github might make this decision under the pressure of US government, we were expecting more respectful action from Github.
 
-**Github blocked our private repositories without warning us, and now we have no access to our codes.**
+1) Github restricted our access to private repositories suddenly, but at very least we wanted Github to warn us before limiting our access.
 
-People should not be judged based on their living country. Github might decide to restrict a government, but it should not ban its active and loyal users without any prior caution.
+2) Github's team decided to take one step further and restrict us **based on our Nationality** no matter where we are living, while they were able to just restrict our IP addresses like other US-based companies.
 
-I think having a **simple Github page** is a basic right for users.
-Don't make us leave the open-source community.
+Eventually, we are hoping that Github's team: 
+- let us download our private repositories.
+- change their restriction policies to not limiting users based on their Nationality.
+- announce their decision publicly and apologize for making this situation (like what slack did before in the same situation: https://slackhq.com/an-apology-and-an-update).
+
 
 ## Open-source projects made by Iranian developers
 
@@ -64,6 +65,21 @@ You can:
 
 
 ## Supporters
+  - Conner Orth from 🇳🇱 
+  - Chris C from 🇱🇺 
+  - micheleriva from 🇮🇹 
+  - Angel Uniminin from 🇮🇸 
+  - Fahim from 🇧🇩 
+  - divinity1437 from 🇷🇺 
+  - Enzo from 🇫🇷 
+  - Appadeia from 🇺🇸 
+  - Alexander Shelepenok from 🇧🇾 
+  - Ran Luo from 🇨🇳 
+  - 88250 from 🇨🇳 ([88250](https://github.com/88250))
+  - mighty9245 from 🇷🇺 
+  - speccius from 🇬🇧 
+  - Benjamin Hogué from 🇬🇵 
+  - fredddie from 🇲🇽 
   - Sadra Hallaj from Iran 🇮🇷([sadrahallaj](https://github.com/sadrahallaj))
   - 1995parham from Iran 🇮🇷 ([1995parham](https://github.com/1995parham))
   - pesehr from Iran 🇮🇷 ([pesehr](https://github.com/pesehr))
