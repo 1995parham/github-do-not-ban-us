@@ -13,7 +13,26 @@ You should not judge people based on their living country. You can restrict a go
 I think having a **simple Github page** is a basic right for users. 
 Don't make us leave the open-source community.
 
-Some of us have published packages that are used by other people that are not right to remove them.
+## Open-source projects made by Iranian developers
+
+Some example of open-source projects made by Iranian developers:
+
+https://github.com/usablica/intro.js
+
+https://github.com/lebab/lebab
+
+https://github.com/saeedalipoor/icono
+
+https://github.com/morteza/bootstrap-rtl
+
+https://github.com/ilius/pyglossary
+
+https://github.com/sasanrose/phpredmin
+
+https://github.com/ahmdrz/goinsta
+
+You can find the full list [here](https://github.com/mohebifar/made-in-iran):
+
 
 ## Note for GitHub
 Please let us get a backup from our private repository before disabling them.
