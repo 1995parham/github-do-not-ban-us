@@ -1,0 +1,1 @@
+io.write("Github is for everyone\n")
