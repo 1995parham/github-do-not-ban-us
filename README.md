@@ -66,3 +66,4 @@ Specifically you can:
   - Saman Fekri from Iran 🇮🇷([SamanFekri](https://github.com/SamanFekri))
   - Sina Sheikholeslami from Iran 🇮🇷  ([ssheikholeslami](https://ssheikholeslami.github.io))
   - Rashad Ansari from Iran 🇮🇷 ([RashadAnsari](https://github.com/RashadAnsari))
+  - Farid Forootan Shad from Iran 🇮🇷 ([faridfor](https://github.com/faridfor))
