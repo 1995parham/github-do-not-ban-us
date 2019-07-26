@@ -4,11 +4,12 @@
 
 ## Introduction
 
+
 Github was a free platform for everyone since many years ago, but it has decided to restrict **Iranian accounts**.
 We believe living in a country is not a choice that you have, but being a developer and contributing to the open-source community is a choice.
 Github has restricted us from our freedom to contribute and being part of the open-source ecosystem because we are living in Iran.
 
-**Github blocked our private repositories without any previous alert, and now we have no access to the codes**
+**Github blocked our private repositories without warning us, and now we have no access to our codes.**
 
 People should not be judged based on their living country. Github might decide to restrict a government, but it should not ban its active and loyal users without any prior caution.
 
@@ -17,7 +18,7 @@ Don't make us leave the open-source community.
 
 ## Open-source projects made by Iranian developers
 
-Some example of open-source projects made by Iranian developers:
+Some examples of open-source projects created by Iranian developers:
 
 https://github.com/usablica/intro.js
 
@@ -47,14 +48,14 @@ You can find the full list [here](https://github.com/mohebifar/made-in-iran).
 ## Note for GitHub
 Please let us get a backup from our private repository before disabling them.
 
-## What fellow devs can do?
-Please spread the word by anymeans you can, to let everyone know and keep the Free Software "as in Free speech".
-Specifically you can:
-  - Star and share this repo on social platforms with #githubForEveryone
-  - Add a folder with your username in "together" folder
-  - Develop a code that prints "Github is for everyone" (each language do you want)
-  - Create a pull request
-  - Add your name and your country to the supporters section
+## How you can help us
+You can spread the message everywhere you can, and keep the Free Software "as in Free speech".
+You can:
+  - Star and share this repo on social platforms with #githubForEveryone.
+  - Add a folder with your username in "together" folder.
+  - Write a piece of code that prints "Github is for everyone" (in any language you wish).
+  - Create a pull request.
+  - Add your name and your country to the supporters section.
 
 ## Further Readings
   - [GitHub banned Iran-based users](https://financialtribune.com/articles/sci-tech/99111/github-bans-iran-based-users)
@@ -67,10 +68,10 @@ Specifically you can:
   - 1995parham from Iran 🇮🇷 ([1995parham](https://github.com/1995parham))
   - pesehr from Iran 🇮🇷 ([pesehr](https://github.com/pesehr))
   - Alireza Mahmoudian ([BelegCuthalion](https://github.com/BelegCuthalion))
-  - Amirhossein Yaghoobi from Iran ([amir-yaghoobi](https://github.com/amir-yaghoobi))
+  - Amirhossein Yaghoobi from Iran 🇮🇷 ([amir-yaghoobi](https://github.com/amir-yaghoobi))
   - Hussein Habibi Juybari from Iran 🇮🇷 ([husseinhj](https://github.com/Husseinhj))
-  - Mahdi Ghiasi from Iran ([MahdiGhiasi](https://github.com/MahdiGhiasi))
-  - Ali Tavalaie from Iran ([tavallaie](https://github.com/tavallaie))
+  - Mahdi Ghiasi from Iran 🇮🇷([MahdiGhiasi](https://github.com/MahdiGhiasi))
+  - Ali Tavalaie from Iran 🇮🇷([tavallaie](https://github.com/tavallaie))
   - rajabiseraji from Iran 🇮🇷
   - Saman Fekri from Iran 🇮🇷 ([SamanFekri](https://github.com/SamanFekri))
   - Sina Sheikholeslami from Iran 🇮🇷 ([ssheikholeslami](https://ssheikholeslami.github.io))
@@ -81,6 +82,7 @@ Specifically you can:
   - Vahid Bazzaz from Iran 🇮🇷 ([vahidbazzaz](https://github.com/vahidbazzaz))
   - Iman Khoshabbi from Iran 🇮🇷  ([imaNNeoFighT](https://github.com/imaNNeoFighT))
   - Muhammad Javad Falahi from Iran 🇮🇷  ([MJFalahi](https://github.com/MJFalahi))
+  - Sina Darvishi from Iran 🇮🇷  ([SinaDarvi](https://github.com/SinaDarvi))
   - Abolfazl Amiri from Iran 🇮🇷 ([aasmpro](https://github.com/aasmpro))
   - Taher Ahmadi from Iran 🇮🇷 ([taherahmadi](https://github.com/taherahmadi))
   - Dermohamad from Iran ([dermohamad](https://twitter.com/dermohamad))
@@ -103,3 +105,10 @@ Specifically you can:
   - Max Base ([BaseMax](https://github.com/BaseMax))
   - MohammadHossein Shojaeinia from Iran 🇮🇷 ([MohammadHosseinShojaeinia](https://github.com/MohammadShojaeinia))
   - Mostafa Asadi from Iran 🇮🇷 ([MostafaAsadi](https://github.com/mostafaasadi))
+  - Erfan Alimohammadi from Iran 🇮🇷 ([Erfaniaa](https://github.com/Erfaniaa))
+  - Dharani Akurathi from India ([Dharni0607](https://github.com/Dharni0607))
+  - Saleh Salehizadeh from Iran 🇮🇷 ([SirSaleh](https://github.com/SirSaleh))
+  - Ehsan Souri from Iran 🇮🇷 ([ehsansouri23](https://github.com/ehsansouri23))
+  - Navid Sarhady from Iran 🇮🇷 ([nawwid](https://github.com/nawwid))
+  - Saman Khamesian from Iran 🇮🇷([SamanKhamesian](https://github.com/SamanKhamesian))
+  - Andrii Siriak from Ukraine ([siriak](https://github.com/siriak))
