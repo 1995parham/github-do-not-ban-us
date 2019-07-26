@@ -80,3 +80,4 @@ Specifically you can:
   - Ali Ghahremani from Iran 🇮🇷 ([ali77gh](https://github.com/ali77gh))
   - Ali Izadi from Iran 🇮🇷 ([aliizadi](https://github.com/aliizadi))
   - Milad Nekofar ([nekofar](https://github.com/nekofar))
+  - Ali Irani from Iran 🇮🇷 ([aliir74](https://github.com/ali74))
