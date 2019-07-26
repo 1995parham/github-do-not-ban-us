@@ -29,4 +29,4 @@ Specifically you can:
 
 ## Supporters
 
-  - Alireza Mahmoudian [BelegCuthalion](https://github.com/BelegCuthalion)
+  - Alireza Mahmoudian ([BelegCuthalion](https://github.com/BelegCuthalion))
