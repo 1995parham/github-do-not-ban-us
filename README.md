@@ -102,3 +102,4 @@ You can:
   - Max Base ([BaseMax](https://github.com/BaseMax))
   - MohammadHossein Shojaeinia from Iran 🇮🇷 ([MohammadHosseinShojaeinia](https://github.com/MohammadShojaeinia))
   - Erfan Alimohammadi from Iran 🇮🇷 ([Erfaniaa](https://github.com/Erfaniaa))
+  - Dharani Akurathi from India ([Dharni0607](https://github.com/Dharni0607))
