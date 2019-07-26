@@ -108,4 +108,6 @@ You can:
   - Navid Sarhady from Iran 🇮🇷 ([nawwid](https://github.com/nawwid))
   - Saman Khamesian from Iran 🇮🇷([SamanKhamesian](https://github.com/SamanKhamesian))
   - Andrii Siriak from Ukraine ([siriak](https://github.com/siriak))
+  - Alireza Tarazani from Iran 🇮🇷([ImanX](https://github.com/ImanX))
+
 
