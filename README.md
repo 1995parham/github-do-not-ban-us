@@ -115,4 +115,5 @@ You can:
   - Mehran Rasoli from Iran 🇮🇷 ([mehranrasoli](https://github.com/mehranrasoli))
   - Adnan Babakan from Iran 🇮🇷 ([AdnanBabakan](http://github.com/AdnanBabakan))
   - Ali Molaei from Iran 🇮🇷 ([molaeiali](https://github.com/molaeiali))
-  
+  - mehran motiee from Iran 🇮🇷 ([straxico](http://github.com/straxico))
+  - Alireza Tarazani from Iran 🇮🇷([ImanX](https://github.com/ImanX))
