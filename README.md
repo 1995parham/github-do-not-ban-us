@@ -1,5 +1,7 @@
 # Github Must Be a Free Platform
 
+![alt text](./message.png)
+
 ## Introduction
 
 Github was a free platform for everyone since many years ago, but it has decided to restrict **Iranian accounts**.
