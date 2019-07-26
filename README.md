@@ -5,14 +5,14 @@
 ## Introduction
 
 Github was a free platform for everyone since many years ago, but it has decided to restrict **Iranian accounts**.
-We believe living in a country is not a choice that you have, but being a developer and contributing to the open-source community is a choice. 
+We believe living in a country is not a choice that you have, but being a developer and contributing to the open-source community is a choice.
 Github has restricted us from our freedom to contribute and being part of the open-source ecosystem because we are living in Iran.
 
 **Github blocked our private repositories without any previous alert, and now we have no access to the codes**
 
 People should not be judged based on their living country. Github might decide to restrict a government, but it should not ban its active and loyal users without any prior caution.
 
-I think having a **simple Github page** is a basic right for users. 
+I think having a **simple Github page** is a basic right for users.
 Don't make us leave the open-source community.
 
 ## Open-source projects made by Iranian developers
@@ -102,3 +102,4 @@ Specifically you can:
   - Mostafa Ghadimi from Iran 🇮🇷 ([MostafaGhadimi](https://github.com/mostafaghadimi))
   - Max Base ([BaseMax](https://github.com/BaseMax))
   - MohammadHossein Shojaeinia from Iran 🇮🇷 ([MohammadHosseinShojaeinia](https://github.com/MohammadShojaeinia))
+  - Mostafa Asadi from Iran 🇮🇷 ([MostafaAsadi](https://github.com/mostafaasadi))
