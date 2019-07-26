@@ -72,4 +72,5 @@ Specifically you can:
   - Rashad Ansari from Iran 🇮🇷 ([RashadAnsari](https://github.com/RashadAnsari))
   - Farid Forootan Shad from Iran 🇮🇷 ([faridfor](https://github.com/faridfor))
   - Vahid Bazzaz from Iran 🇮🇷 ([vahidbazzaz](https://github.com/vahidbazzaz))
+  - Abolfazl Amiri from Iran 🇮🇷 ([aasmpro](https://github.com/aasmpro))
   - Iman Khoshabbi from Iran 🇮🇷  ([imaNNeoFighT](https://github.com/imaNNeoFighT))
