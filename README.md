@@ -63,8 +63,8 @@ Specifically you can:
 
 
 ## Supporters
-  - 1995parham from Iran 🇮🇷
-  - pesehr from Iran 🇮🇷
+  - 1995parham from Iran 🇮🇷 ([1995parham](https://github.com/1995parham))
+  - pesehr from Iran 🇮🇷 ([pesehr](https://github.com/pesehr))
   - Alireza Mahmoudian ([BelegCuthalion](https://github.com/BelegCuthalion))
   - Amirhossein Yaghoobi from Iran ([amir-yaghoobi](https://github.com/amir-yaghoobi))
   - Hussein Habibi Juybari from Iran 🇮🇷 ([husseinhj](https://github.com/Husseinhj))
