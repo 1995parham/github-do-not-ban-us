@@ -79,6 +79,7 @@ You can:
   - Vahid Bazzaz from Iran 🇮🇷 ([vahidbazzaz](https://github.com/vahidbazzaz))
   - Iman Khoshabbi from Iran 🇮🇷  ([imaNNeoFighT](https://github.com/imaNNeoFighT))
   - Muhammad Javad Falahi from Iran 🇮🇷  ([MJFalahi](https://github.com/MJFalahi))
+  - Sina Darvishi from Iran 🇮🇷  ([SinaDarvi](https://github.com/SinaDarvi))
   - Abolfazl Amiri from Iran 🇮🇷 ([aasmpro](https://github.com/aasmpro))
   - Taher Ahmadi from Iran 🇮🇷 ([taherahmadi](https://github.com/taherahmadi))
   - Dermohamad from Iran ([dermohamad](https://twitter.com/dermohamad))
