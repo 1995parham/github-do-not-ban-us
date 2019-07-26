@@ -82,3 +82,4 @@ Specifically you can:
   - Milad Nekofar ([nekofar](https://github.com/nekofar))
   - Alireza Torabian from Iran 🇮🇷 ([1997alireza](https://github.com/1997alireza))
   - Ali Irani from Iran 🇮🇷 ([aliir74](https://github.com/ali74))
+  - jocs from China :cn: ([jocs](https://github.com/Jocs))
