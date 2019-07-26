@@ -56,10 +56,18 @@ Specifically you can:
   - Create a pull request
   - Add your name and your country to the supporters section
 
+## Further Readings
+  - [GitHub banned Iran-based users](https://financialtribune.com/articles/sci-tech/99111/github-bans-iran-based-users)
+  - [GitHub has blocked an Iranian software developer account](https://hub.packtpub.com/github-has-blocked-an-iranian-software-developers-account)
+  - [GitHub starts blocking developers in countries facing US trade sanctions](https://www.zdnet.com/article/github-starts-blocking-developers-in-countries-facing-us-trade-sanctions)
+
+
 ## Supporters
   - Sadra Hallaj from Iran 🇮🇷([sadrahallaj](https://github.com/sadrahallaj))
   - 1995parham from Iran 🇮🇷
   - pesehr from Iran 🇮🇷
+  - 1995parham from Iran 🇮🇷 ([1995parham](https://github.com/1995parham))
+  - pesehr from Iran 🇮🇷 ([pesehr](https://github.com/pesehr))
   - Alireza Mahmoudian ([BelegCuthalion](https://github.com/BelegCuthalion))
   - Amirhossein Yaghoobi from Iran ([amir-yaghoobi](https://github.com/amir-yaghoobi))
   - Hussein Habibi Juybari from Iran 🇮🇷 ([husseinhj](https://github.com/Husseinhj))
@@ -88,5 +96,10 @@ Specifically you can:
   - Jérôme Gamez from Germany 🇩🇪 ([jeromegamez](https://github.com/jeromegamez))
   - Mohammadreza Samadi from Iran 🇮🇷 ([MhmDSmdi](https://github.com/MhmDSmdi))
   - Sepehr Sameni from Iran 🇮🇷 ([Separius](https://github.com/Separius))
+  - Habib Kazemi from Iran 🇮🇷 ([kazemihabib](https://github.com/kazemihabib))
   - Amir Baghaie from Iran 🇮🇷 ([amirbagh75](https://github.com/amirbagh75))
-
+  - Ehsan Mohammadi from Iran 🇮🇷 ([ehsan-mohammadi](https://github.com/ehsan-mohammadi))
+  - Erfan Gholamian from Iran 🇮🇷 ([erfan-gh](https://github.com/erfan-gh))
+  - Ali MohammadPur 🇮🇷 ([alimpfard](https://github.com/alimpfard))
+  - Mostafa Ghadimi from Iran 🇮🇷 ([MostafaGhadimi](https://github.com/mostafaghadimi))
+  - Max Base ([BaseMax](https://github.com/BaseMax))
