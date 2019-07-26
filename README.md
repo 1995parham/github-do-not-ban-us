@@ -21,6 +21,10 @@ Please let us get a backup from our private repository before disabling them.
 ## What fellow devs can do?
 Please spread the word by anymeans you can, to let everyone know and keep the Free Software "as in Free speech".
 Specifically you can:
-  - Star and share this repo on social platforms;
-  - Change your github status to "Banned by Github for being Iranian 🇮🇷", if you are affected by the restriction;
-  - Change your avatar to the [Iranian Flag](https://en.wikipedia.org/wiki/File:Flag_of_Iran.svg), or add a ribbon to show your support.
+  - Star and share this repo on social platforms with #githubForEveryone
+  - Add a folder with your username in "together" folder
+  - Develop a code that prints "Github is for everyone" (each language do you want)
+  - Create a pull request
+  - Add your name and your country to the supporters section
+
+## Supporters
