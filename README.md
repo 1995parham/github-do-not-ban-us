@@ -83,3 +83,4 @@ Specifically you can:
   - Nikan Dalvand ([nikandlv](https://github.com/nikandlv))
   - Alireza Torabian from Iran 🇮🇷 ([1997alireza](https://github.com/1997alireza))
   - Ali Irani from Iran 🇮🇷 ([aliir74](https://github.com/ali74))
+  - Jérôme Gamez from Germany 🇩🇪 ([jeromegamez](https://github.com/jeromegamez))
