@@ -46,10 +46,7 @@ https://github.com/imaNNeoFighT/fl_chart
 You can find the full list [here](https://github.com/mohebifar/made-in-iran).
 
 
-## Note for GitHub
-Please let us get a backup from our private repository before disabling them.
-
-## How you can help us
+## How you can support us
 You can spread the message everywhere you can, and keep the Free Software "as in Free speech".
 You can:
   - Star and share this repo on social platforms with #githubForEveryone.
