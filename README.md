@@ -157,3 +157,4 @@ You can:
   - Mahmoud Eskandari from Iran 🇮🇷 ([mahmoud](https://github.com/mahmoud-eskandari))
   - Haider Ali Punjabi ([haideralipunjabi](https://github.com/haideralipunjabi))
   - Kave Mohammadi from Iran 🇮🇷 ([keomd](https://github.com/keomd))
+  - tristone13th from 🇨🇳 ([tristone13th](https://github.com/tristone13th))
