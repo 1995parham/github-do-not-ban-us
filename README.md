@@ -67,4 +67,7 @@ Specifically you can:
   - rajabiseraji from Iran 🇮🇷
   - Saman Fekri from Iran 🇮🇷([SamanFekri](https://github.com/SamanFekri))
   - Sina Sheikholeslami from Iran 🇮🇷  ([ssheikholeslami](https://ssheikholeslami.github.io))
+  - Reza Bayat from Iran 🇮🇷  ([RezaBayat](https://github.com/rezabayat76))
+  - Rashad Ansari from Iran 🇮🇷 ([RashadAnsari](https://github.com/RashadAnsari))
+  - Vahid Bazzaz from Iran 🇮🇷 ([vahidbazzaz](https://github.com/vahidbazzaz))
   - Iman Khoshabbi from Iran 🇮🇷  ([imaNNeoFighT](https://github.com/imaNNeoFighT))
