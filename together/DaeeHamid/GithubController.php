@@ -15,6 +15,6 @@ class GithubIsForController extends Everyone
 		// Github is for everyone
 		// Do not ban Iranian developers
 		// Hamid Eghbali From Iran Kashan·
-        return $this->msg;
+        return $this->msg; 
     }
 }
