@@ -87,3 +87,4 @@ Specifically you can:
   - Jérôme Gamez from Germany 🇩🇪 ([jeromegamez](https://github.com/jeromegamez))
   - Sepehr Sameni from Iran 🇮🇷 ([Separius](https://github.com/Separius))
   - Amir Baghaie from Iran 🇮🇷 ([amirbagh75](https://github.com/amirbagh75))
+  - Max Base ([BaseMax](https://github.com/BaseMax))
