@@ -77,4 +77,6 @@ Specifically you can:
   - Abolfazl Amiri from Iran 🇮🇷 ([aasmpro](https://github.com/aasmpro))
   - Taher Ahmadi from Iran 🇮🇷 ([taherahmadi](https://github.com/taherahmadi))
   - Ali Ghahremani from Iran 🇮🇷 ([ali77gh](https://github.com/ali77gh))
+  - Amir Baghaie from Iran 🇮🇷 ([amirbagh75](https://github.com/amirbagh75))
+
 
