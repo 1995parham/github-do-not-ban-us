@@ -103,4 +103,7 @@ You can:
   - MohammadHossein Shojaeinia from Iran 🇮🇷 ([MohammadHosseinShojaeinia](https://github.com/MohammadShojaeinia))
   - Erfan Alimohammadi from Iran 🇮🇷 ([Erfaniaa](https://github.com/Erfaniaa))
   - Dharani Akurathi from India ([Dharni0607](https://github.com/Dharni0607))
+  - Saleh Salehizadeh from Iran 🇮🇷 ([SirSaleh](https://github.com/SirSaleh))
+  - Ehsan Souri from Iran 🇮🇷 ([ehsansouri23](https://github.com/ehsansouri23))
+  - Navid Sarhady from Iran 🇮🇷 ([nawwid](https://github.com/nawwid))
   - Andrii Siriak from Ukraine ([siriak](https://github.com/siriak))
