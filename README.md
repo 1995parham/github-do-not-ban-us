@@ -39,8 +39,6 @@ https://github.com/sepandhaghighi/pycm
 
 https://github.com/sepandhaghighi/art
 
-https://github.com/imaNNeoFighT/fl_chart
-
 You can find the full list [here](https://github.com/mohebifar/made-in-iran):
 
 
@@ -61,15 +59,15 @@ Specifically you can:
   - pesehr from Iran 🇮🇷
   - Alireza Mahmoudian ([BelegCuthalion](https://github.com/BelegCuthalion))
   - Amirhossein Yaghoobi from Iran ([amir-yaghoobi](https://github.com/amir-yaghoobi))
-  - Hussein Habibi Juybari from Iran 🇮🇷([husseinhj](https://github.com/Husseinhj))
+  - Hussein Habibi Juybari from Iran 🇮🇷 ([husseinhj](https://github.com/Husseinhj))
   - Mahdi Ghiasi from Iran ([MahdiGhiasi](https://github.com/MahdiGhiasi))
   - Ali Tavalaie from Iran ([tavallaie](https://github.com/tavallaie))
   - rajabiseraji from Iran 🇮🇷
-  - Saman Fekri from Iran 🇮🇷([SamanFekri](https://github.com/SamanFekri))
-  - Sina Sheikholeslami from Iran 🇮🇷  ([ssheikholeslami](https://ssheikholeslami.github.io))
-  - Muhammad Hussein Fattahizadeh from Iran Iran 🇮🇷([mhf-ir](https://github.com/mhf-ir))
-  - Reza Bayat from Iran 🇮🇷  ([RezaBayat](https://github.com/rezabayat76))
+  - Saman Fekri from Iran 🇮🇷 ([SamanFekri](https://github.com/SamanFekri))
+  - Sina Sheikholeslami from Iran 🇮🇷 ([ssheikholeslami](https://ssheikholeslami.github.io))
+  - Muhammad Hussein Fattahizadeh from Iran 🇮🇷 ([mhf-ir](https://github.com/mhf-ir))
+  - Reza Bayat from Iran 🇮🇷 ([RezaBayat](https://github.com/rezabayat76))
   - Rashad Ansari from Iran 🇮🇷 ([RashadAnsari](https://github.com/RashadAnsari))
   - Farid Forootan Shad from Iran 🇮🇷 ([faridfor](https://github.com/faridfor))
   - Vahid Bazzaz from Iran 🇮🇷 ([vahidbazzaz](https://github.com/vahidbazzaz))
-  - Iman Khoshabbi from Iran 🇮🇷  ([imaNNeoFighT](https://github.com/imaNNeoFighT))
+
