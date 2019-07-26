@@ -47,3 +47,5 @@ Specifically you can:
   - Add your name and your country to the supporters section
 
 ## Supporters
+
+  - Alireza Mahmoudian ([BelegCuthalion](https://github.com/BelegCuthalion))
