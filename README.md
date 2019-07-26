@@ -2,7 +2,7 @@
 
 ## Introduction
 
-Github was a free platform for everyone since many years ago, but it has decided to ban **Iranian accounts**.
+Github was a free platform for everyone since many years ago, but it has decided to restrict **Iranian accounts**.
 I think living in a country is not a choice that you have, but being a developer and contributing to the open-source community is a choice. 
 Github bans us from our freedom to contribute and being part of the open-source ecosystem because we are living in Iran.
 
