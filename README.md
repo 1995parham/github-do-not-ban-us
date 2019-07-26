@@ -86,3 +86,4 @@ Specifically you can:
   - jocs from China :cn: ([jocs](https://github.com/Jocs))
   - Jérôme Gamez from Germany 🇩🇪 ([jeromegamez](https://github.com/jeromegamez))
   - Sepehr Sameni from Iran 🇮🇷 ([Separius](https://github.com/Separius))
+  - Amir Baghaie from Iran 🇮🇷 ([amirbagh75](https://github.com/amirbagh75))
