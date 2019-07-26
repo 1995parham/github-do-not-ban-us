@@ -10,7 +10,7 @@ Github bans us from our freedom to contribute and being part of the open-source 
 
 You should not judge people based on their living country. You can restrict a government, but you should not ban your active and loyal users without any caution.
 
-I think having a **simple Github page** is our fundamental right. 
+I think having a **simple Github page** is a basic right for users. 
 Don't make us leave the open-source community.
 
 Some of us have published packages that are used by other people that are not right to remove them.
