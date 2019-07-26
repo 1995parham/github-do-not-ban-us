@@ -4,14 +4,17 @@
 
 ## Introduction
 
-Github has been a free platform for everyone since many years ago. But recently, it decided to restrict **Iranian accounts**.
-We believe living in a country is not a choice, but being a developer and contributing to the open-source community is.
-Github has restricted our freedom to contribute and to be a part of the open-source ecosystem, because we live in Iran.
+
+Github was a free platform for everyone since many years ago, but it has decided to restrict **Iranian accounts**.
+We believe living in a country is not a choice that you have, but being a developer and contributing to the open-source community is a choice.
+Github has restricted us from our freedom to contribute and being part of the open-source ecosystem because we are living in Iran.
 
 **Github blocked our private repositories without warning us, and now we have no access to our codes.**
 
-We believe having a **simple Github page** is a basic right for all users. 
-Please don't make us leave the open-source community.
+People should not be judged based on their living country. Github might decide to restrict a government, but it should not ban its active and loyal users without any prior caution.
+
+I think having a **simple Github page** is a basic right for users.
+Don't make us leave the open-source community.
 
 ## Open-source projects made by Iranian developers
 
@@ -101,6 +104,7 @@ You can:
   - Mostafa Ghadimi from Iran 🇮🇷 ([MostafaGhadimi](https://github.com/mostafaghadimi))
   - Max Base ([BaseMax](https://github.com/BaseMax))
   - MohammadHossein Shojaeinia from Iran 🇮🇷 ([MohammadHosseinShojaeinia](https://github.com/MohammadShojaeinia))
+  - Mostafa Asadi from Iran 🇮🇷 ([MostafaAsadi](https://github.com/mostafaasadi))
   - Erfan Alimohammadi from Iran 🇮🇷 ([Erfaniaa](https://github.com/Erfaniaa))
   - Dharani Akurathi from India ([Dharni0607](https://github.com/Dharni0607))
   - Saleh Salehizadeh from Iran 🇮🇷 ([SirSaleh](https://github.com/SirSaleh))
@@ -109,3 +113,4 @@ You can:
   - Saman Khamesian from Iran 🇮🇷([SamanKhamesian](https://github.com/SamanKhamesian))
   - Andrii Siriak from Ukraine ([siriak](https://github.com/siriak))
   - Mehran Rasoli from Iran 🇮🇷 ([mehranrasoli](https://github.com/mehranrasoli))
+
