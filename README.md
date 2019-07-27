@@ -288,4 +288,5 @@ You can:
   - Hamid from Iran 🇮🇷 ([progHamid](https://github.com/progHamid/)
   - Axel Rindle from Germany 🇩🇪 ([axelrindle](https://github.com/axelrindle))
   - Jason Kraus from United States 🇺🇸 ([zbyte64](https://github.com/zbyte64))
+  - Nabil Tharwat from Egypt 🇪🇬 ([KL13NT](https://github.com/KL13NT))
   - Mrloder from Spain 🇪🇸
