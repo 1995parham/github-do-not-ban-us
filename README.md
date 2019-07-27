@@ -294,3 +294,5 @@ You can:
   - Mrloder from Spain 🇪🇸
   - Angus L. Fraser from 🇬🇧
   - MatteoPieroni from Italy 🇮🇹 ([MatteoPieroni](https://github.com/matteopieroni))
+  - Faiyaz Shaikh from India 🇮🇳 ([Faiyaz Shaikh](https://github.com/yTakkar))
+  
