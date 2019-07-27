@@ -1,6 +1,10 @@
+<span dir="rtl">
+
 # پیامی به گیت‌هاب
 
+
 فارسی |‌ [English](./README.md) | [简体中文](./README-CN.md) | [Spanish](./README-ES.md) | [Ελληνικά](./README-GR.md) | [Italiano](./README-IT.md) | [Русский](./README-RU.md)
+
 
 ![alt text](./message.png)
 
@@ -28,6 +32,8 @@
 
 برخی مثال‌های پروژه‌های متن بازی که توسط توسعه‌دهندگان ایرانی ساخته‌شده اند&#x202b;:
 
+<span dir="ltr">
+
 https://github.com/usablica/intro.js
 
 https://github.com/lebab/lebab
@@ -52,6 +58,8 @@ https://github.com/sepandhaghighi/art
 
 https://github.com/imaNNeoFighT/fl_chart
 
+</span>
+
 شما می‌توانید لیست کامل آن را در [این‌جا&#x202b; ](https://github.com/mohebifar/made-in-iran) بیابید.
 
 ## &#x202b; چگونه می‌توانید از ما حمایت کنید؟
@@ -59,7 +67,7 @@ https://github.com/imaNNeoFighT/fl_chart
 شما می‌توانید این پیام را در تمام نقاط ممکن پخش کنید و نرم‌افزار آزاد را به مثابه آزادی بیان حفظ کنید&#x202b;
 شما می‌توانید:
 
-- &#x202b; به این مخزن ستاره دهید و آن را در شبکه‌های اجتماعی با #GithubForEveryone انتشار دهید.
+- &#x202b; به این مخزن ستاره دهید و آن را در شبکه‌های اجتماعی با <span dir="ltr">#GithubForEveryone</span> انتشار دهید.
 - &#x202b; یک فولدر با نام کاربری خود در فولدر "together" این مخزن اضافه کنید.
 - &#x202b; یک قطعه کد که رشته‌ی "GitHub is for everyone" را چاپ می‌کند را به زبان برنامه‌نویسی دل‌خواه‌تان بنویسید.
 - &#x202b; یک Pull Request بسازید.
@@ -67,8 +75,13 @@ https://github.com/imaNNeoFighT/fl_chart
 
 ## &#x202b; برای مطالعه‌ی بیش‌تر
 
+<span dir="ltr">
+
 - [Microsoft enters: GitHub banned Iranian developers!](https://medium.com/@d.aliyamini/microsoft-enters-github-banned-iranian-developers-843f7c60a146)
 - [GitHub banned Iran-based users](https://financialtribune.com/articles/sci-tech/99111/github-bans-iran-based-users)
 - [GitHub has blocked an Iranian software developer account](https://hub.packtpub.com/github-has-blocked-an-iranian-software-developers-account)
 - [GitHub starts blocking developers in countries facing US trade sanctions](https://www.zdnet.com/article/github-starts-blocking-developers-in-countries-facing-us-trade-sanctions)
 
+</span>
+
+</span>
