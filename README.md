@@ -174,6 +174,7 @@ You can:
   - Siamak A.Motlagh from Iran 🇮🇷 ([blacksrc](https://github.com/blacksrc))
   - Hadi Khaghani from Iran 🇮🇷 ([khaqani](https://github.com/khaqani))
   - Mohammad Eftekhari from Iran 🇮🇷 ([bluemmb](https://github.com/bluemmb))
+  - Parsa Khosh from Iran 🇮🇷 ([parsakhosh](https://github.com/parsakhosh))
   - Reza Kakhki from Iran 🇮🇷  ([elk-cloner](https://github.com/elk-cloner/))
   - Mohammad Eftekhari from Iran 🇮🇷 ([bluemmb](https://github.com/bluemmb))
   - Yasin Amini from Iran 🇮🇷 ([yasinEnigma](https://github.com/yasinEnigma/))
