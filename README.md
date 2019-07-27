@@ -218,7 +218,6 @@ You can:
   - Yhlben from China 🇨🇳 ([yhlben](https://github.com/yhlben))
   - Abdus from India 🇮🇳 ([thisisabdus](https://github.com/thisosabdus)
   - Mohammad Alijani from Persia 🇮🇷  ([virtualdemon](https://github.com/virtualdemon))
-  - Abdus from India 🇮🇳 ([thisisabdus](https://github.com/thisosabdus))
   - Rahmanism from Iran 🇮🇷 ([Rahmansim](https://github.com/Rahmanism))  
   - Erfan Mahdavi form Iran ([erfanwd](https://github.com/erfanwd)) 
   - Mohsen Darestani Farahani from Iran 🇮🇷 ([8lueMeth](https://github.com/8luemeth))
