@@ -78,6 +78,7 @@ You can:
   - divinity1437 from 🇷🇺
   - Enzo from 🇫🇷
   - Appadeia from 🇺🇸
+  - Zhiwa from China 🇨🇳 ([zhiwa](https://github.com/aboutmydreams))
   - Alexander Shelepenok from 🇧🇾
   - Ran Luo from 🇨🇳
   - Zhu Zihao from China 🇨🇳 ([cireu](https://github.com/cireu))
