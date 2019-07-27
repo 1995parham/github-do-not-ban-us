@@ -1,6 +1,6 @@
 ; Place to define initialized variables
 section .data
-	text:	db "GitHub is for everyone"
+	text:	db "GitHub is for everyone", 0xa
 	len:	equ $-text
 
 section .text
@@ -13,7 +13,7 @@ _start:
 	; File descriptor
 	mov		rdi, 1
 	
-	; Load message + length into appropiate regisiters
+	; Load message + length into appropriate registers
 	mov		rsi, text
 	mov		rdx, len
 	
