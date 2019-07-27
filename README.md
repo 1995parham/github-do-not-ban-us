@@ -100,6 +100,7 @@ You can:
 - Sadra Hallaj from Iran 🇮🇷 ([sadrahallaj](https://github.com/sadrahallaj))
 - 1995parham from Iran 🇮🇷 ([1995parham](https://github.com/1995parham))
 - pesehr from Iran 🇮🇷 ([pesehr](https://github.com/pesehr))
+- Ahmad Salimi from Iran 🇮🇷 ([ahmadsalimi](https://github.com/ahmadsalimi))
 - Alireza Mahmoudian ([BelegCuthalion](https://github.com/BelegCuthalion))
 - Amirhossein Yaghoobi from Iran 🇮🇷 ([amir-yaghoobi](https://github.com/amir-yaghoobi))
 - Marjan Jangholi from Iran 🇮🇷 ([jangholi](https://github.com/jangholi))
