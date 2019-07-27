@@ -219,6 +219,8 @@ You can:
   - Alireza Faghani from Iran 🇮🇷 ([Faghani](https://github.com/faghani))
   - Erkan Özkök from Turkey 🇹🇷 ([nozkok](https://github.com/nozkok))
   - Yhlben from China 🇨🇳 ([yhlben](https://github.com/yhlben))
+  - Abdus from India 🇮🇳 ([thisisabdus](https://github.com/thisosabdus))
+  - Ali Bakhtiar from Iran 🇮🇷 ([alibakhtiar](https://github.com/alibakhtiar))
   - Abdus from India 🇮🇳 ([thisisabdus](https://github.com/thisosabdus)
   - Mohammad Alijani from Persia 🇮🇷  ([virtualdemon](https://github.com/virtualdemon))
   - Rahmanism from Iran 🇮🇷 ([Rahmansim](https://github.com/Rahmanism))  
