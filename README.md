@@ -4,7 +4,7 @@ English | [简体中文](./README-CN.md) | [Spanish](./README-ES.md)
 
 ![alt text](./message.png)
 
-Tip: You can use [this extension](https://github.com/MohamadKh75/ShutHub) to hide this yellow box!
+Tip: You can use [this extension](https://github.com/JafarAkhondali/remove-github-restrictions-message) or [this extension](https://github.com/MohamadKh75/ShutHub) to hide this yellow box!
 
 ## Introduction
 
