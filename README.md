@@ -165,6 +165,7 @@ You can:
   - Mohammad Ali Toufighi from Iran 🇮🇷 ([alitoufighi](https://github.com/alitoufighi))
   - Mostafa Rowghanian from Iran 🇮🇷 ([keomd](https://github.com/mostafatech))
   - Duncan Sparks from the U.S. 🇺🇸 ([DuncanSparks](https://github.com/DuncanSparks))
+  - Natnij from China 🇨🇳 ([natnij](https://github.com/natnij))
   - Ibtehaz Shawon from Bangladesh 🇧🇩 ([ibtehaz-shawon](https://github.com/ibtehaz-shawon))
   - Kamyar Gerami from Iran 🇮🇷 ([kam2yar](https://github.com/kam2yar))
   - Mehran Mahmoudkhani from Iran 🇮🇷 ([mome13](https://github.com/mome13))
@@ -172,4 +173,5 @@ You can:
   - Reza Kakhki from Iran 🇮🇷  ([elk-cloner](https://github.com/elk-cloner/))
   - Mohammad Eftekhari from Iran 🇮🇷 ([bluemmb](https://github.com/bluemmb))
   - Erfan Gholizade from the IRAN 🇮🇷 ([erfantkerfan](https://github.com/erfantkerfan))
+  - Vincent Weevers from the Netherlands 🇳🇱 ([vweevers](https://github.com/vweevers))
   - Mohammad Javad Naderi from Iran 🇮🇷 ([mjnaderi](https://github.com/mjnaderi))
