@@ -339,5 +339,6 @@ You can:
 - Lpmvb from 🇨🇳
 - NabilTheNoise from Iran 🇮🇷 ([Dragon96nfs](https://github.com/dragon96nfs))
 - Heman from the US ([hemangandhi](https://github.com/hemangandhi/)
+- KT from 🇨🇳 & 🇺🇸 ([KTachibanaM](https://github.com/KTachibanaM/))
 - Vincent Hyvert from France ([vinceh121](https://github.com/vinceh121/))
 - Samundra Khatri from Nepal 🇳🇵 ([samundrak](https://github.com/samundrak))
