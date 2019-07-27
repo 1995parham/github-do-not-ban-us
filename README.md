@@ -291,6 +291,7 @@ You can:
 - Andrii Kovalchuk from Ukraine 🇺🇦 ([tieorange](https://github.com/tieorange/))
 - Scvoet from China 🇨🇳 ([scvoet](https://github.com/scvoet/))
 - Mehrad Sadeghi from Iran 🇮🇷 ([mehradsadeghi](https://github.com/mehradsadeghi/))
+- Amir Ramezani from Iran 🇮🇷 ([brightening-eyes](http://github.com/brightening-eyes))
 - Dylan Cutler from United States 🇺🇸 ([DCtheTall](https://github.com/DCtheTall))
 - Fateme Bahrami from Iran 🇮🇷 ([fatibahrami771998](https://github.com/fatibahrami771998))
 - Saleh from Saudi 🇸🇦 ([qirh](https://github.com/qirh/))
