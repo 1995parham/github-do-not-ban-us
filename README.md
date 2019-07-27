@@ -341,3 +341,4 @@ You can:
 - NabilTheNoise from Iran 🇮🇷 ([Dragon96nfs](https://github.com/dragon96nfs))
 - Heman from the US ([hemangandhi](https://github.com/hemangandhi/)
 - Vincent Hyvert from France ([vinceh121](https://github.com/vinceh121/))
+- Tobias aka. TheDevMinerTV from Germany 🇩🇪 ([TheDevMinerTV](https://github.com/TheDevMinerTV/))
