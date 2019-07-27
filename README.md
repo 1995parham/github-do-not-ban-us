@@ -1,8 +1,11 @@
 # A Message to GitHub
 
-English | [简体中文](./README-CN.md) | [Spanish](./README-ES.md)
+English | [简体中文](./README-CN.md) | [Spanish](./README-ES.md) | [Ελληνικά](./README-GR.md) | [Italiano](./README-IT.md)
 
 ![alt text](./message.png)
+
+![github-octocat](https://user-images.githubusercontent.com/16706911/61997137-7aa7df00-b0b2-11e9-97f1-f452855fe21c.png)
+
 
 Tip: You can use [this extension](https://github.com/MohamadKh75/ShutHub) to hide this yellow box!
 
@@ -291,3 +294,11 @@ You can:
 - Jason Kraus from United States 🇺🇸 ([zbyte64](https://github.com/zbyte64))
 - Mrloder from Spain 🇪🇸
 - Ali Piry from Iran 🇮🇷 ([alipiry](https://github.com/alipiry)
+- Morteza From Iran 🇮🇷 ([asadise](https://github.com/asadise))
+- Erfan Abedi from Iran 🇮🇷 ([TheErfan](https://github.com/TheErfan))
+- Mohammad Najafian from Iran 🇮🇷 ([loverdeveloper](https://github.com/loverdeveloper/))
+- Omar2535 from Canada ([omar2535](https://github.com/omar2535))
+- Orestis Ousoultzoglou from Greece 🇬🇷 ([xlxs4](https://github.com/xlxs4))
+- Armin Monirzadeh from Iran 🇮🇷 ([arminmon](https://github.com/arminmon/)
+- Angus L. Fraser from 🇬🇧
+- MatteoPieroni from Italy 🇮🇹 ([MatteoPieroni](https://github.com/matteopieroni))
