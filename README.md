@@ -172,3 +172,4 @@ You can:
   - Reza Kakhki from Iran 🇮🇷  ([elk-cloner](https://github.com/elk-cloner/))
   - Mohammad Eftekhari from Iran 🇮🇷 ([bluemmb](https://github.com/bluemmb))
   - Erfan Gholizade from the IRAN 🇮🇷 ([erfantkerfan](https://github.com/erfantkerfan))
+  - Vincent Weevers from the Netherlands 🇳🇱 ([vweevers](https://github.com/vweevers))
