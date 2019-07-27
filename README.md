@@ -133,6 +133,7 @@ You can:
   - Ali Molaei from Iran 🇮🇷 ([molaeiali](https://github.com/molaeiali))
   - mehran motiee from Iran 🇮🇷 ([straxico](http://github.com/straxico))
   - Alireza Tarazani from Iran 🇮🇷([ImanX](https://github.com/ImanX))
+  - Ali Sharifi from Iran 🇮🇷([alisharifi2000](https://github.com/alisharifi2000))
   - Sepand Haghighi from Iran 🇮🇷([sepandhaghighi](https://github.com/sepandhaghighi))
   - Bahman Shams from Iran 🇮🇷([bahmanshams](https://github.com/bahmanshams))
   - Ali Gholami from Iran 🇮🇷([aligholami](https://github.com/aligholami))
