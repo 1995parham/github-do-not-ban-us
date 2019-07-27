@@ -82,6 +82,7 @@ You can:
 - [Behdad Esfahbod: So, recently @github has started disabling accounts of Iranian developers](https://twitter.com/behdadesfahbod/status/1154755351092158465?s=19) on Twitter
 
 ## Supporters
+- Marco Aceti from Italy 🇮🇹 ([MarcoBuster](https://github.com/MarcoBuster))
 - Daniil Gentili ([danog](https://github.com/danog)) from Italy and Russia 🇮🇹 🇷🇺
 - Seamus Donnellan (donnellan0007) from Australia 🇦🇺
 - Conner Orth from Netherlands 🇳🇱
