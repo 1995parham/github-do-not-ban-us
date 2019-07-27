@@ -324,3 +324,4 @@ You can:
 - Md Narimani ([mnarimani](https://github.com/mnarimani))
 - Mahdi Dibaiee from Iran 🇮🇷 ([mdibaiee](https://github.com/mdibaiee))
 - Persian Prince from Iran 🇮🇷 ([persianpros](https://github.com/persianpros))
+- Farshid Roohi from Iran 🇮🇷 ([farshidroohi](https://github.com/farshidroohi))
