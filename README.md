@@ -105,6 +105,7 @@ You can:
 - Muhammad Hussein Fattahizadeh from Iran 🇮🇷 ([mhf-ir](https://github.com/mhf-ir))
 - Reza Bayat from Iran 🇮🇷 ([RezaBayat](https://github.com/rezabayat76))
 - Rashad Ansari from Iran 🇮🇷 ([RashadAnsari](https://github.com/RashadAnsari))
+- Sam Johnson from United States 🇺🇸 ([sam0x17](https://github.com/sam0x17))
 - Farid Forootan Shad from Iran 🇮🇷 ([faridfor](https://github.com/faridfor))
 - Vahid Bazzaz from Iran 🇮🇷 ([vahidbazzaz](https://github.com/vahidbazzaz))
 - Iman Khoshabbi from Iran 🇮🇷 ([imaNNeoFighT](https://github.com/imaNNeoFighT))
