@@ -283,4 +283,5 @@ You can:
   - Jonas Gierer from Germany 🇩🇪 ([jgierer12](https://github.com/jgierer12))
   - Daniel Caldas from Portugal 🇵🇹 ([danielcaldas](https://github.com/danielcaldas))
   - Alireza Zerafati from Iran 🇮🇷 ([azerafati](https://github.com/azerafati))
-  - Hamid from Iran 🇮🇷 ([progHamid](https://github.com/progHamid/)
+  - Hamid from Iran 🇮🇷 ([progHamid](https://github.com/progHamid/))
+  - SnailMann from China 🇨🇳 ([SnailMann](https://github.com/SnailMann))
