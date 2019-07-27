@@ -125,6 +125,7 @@ You can:
   - Hamed Mirzaei from Iran 🇮🇷 ([hamedmiir](https://github.com/hamedmiir))
   - Amir Haqiqati ([anewage](https://github.com/anewage))
   - Morteza T. from Iran 🇮🇷 ([yekanchi](https://github.com/yekanchi))
+  - Mohamad Fadavi ([fadavi](https://github.com/fadavi))
   - Mojtaba Valipour from Iran 🇮🇷 ([mvpcom](https://github.com/mvpcom))
   - Arman Hosseini from Iran 🇮🇷 ([arman-hosseini](https://github.com/arman-hosseini))
   - Karim Oulad Chalha from Morocco 🇲🇦 ([karim88](https://github.com/karim88/))
@@ -138,4 +139,3 @@ You can:
   - Mehran Rafiee from Iran 🇮🇷 ([mehran75](https://github.com/mehran75))
   - Matheus Graciano from Brazil 🇧🇷 ([graciano](https://github.com/graciano))
   - Mehmet Alp Turkey ([mehmetakifalp](https://github.com/mehmetakifalp))
-
