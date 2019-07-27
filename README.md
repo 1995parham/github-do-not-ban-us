@@ -170,3 +170,4 @@ You can:
   - Mehran Mahmoudkhani from Iran 🇮🇷 ([mome13](https://github.com/mome13))
   - Hadi Khaghani from Iran 🇮🇷 ([khaqani](https://github.com/khaqani))
   - Mohammad Eftekhari from Iran 🇮🇷 ([bluemmb](https://github.com/bluemmb))
+  - Parsa Khosh from Iran 🇮🇷 ([parsakhosh](https://github.com/parsakhosh))
