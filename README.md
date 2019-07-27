@@ -167,7 +167,6 @@ You can:
   - Duncan Sparks from the U.S. 🇺🇸 ([DuncanSparks](https://github.com/DuncanSparks))
   - Natnij from China 🇨🇳 ([natnij](https://github.com/natnij))
   - Ibtehaz Shawon from Bangladesh 🇧🇩 ([ibtehaz-shawon](https://github.com/ibtehaz-shawon))
-  - fzsdi from Iran 🇮🇷 ([fzsdi](https://github.com/fzsdi))
   - Kamyar Gerami from Iran 🇮🇷 ([kam2yar](https://github.com/kam2yar))
   - Mehran Mahmoudkhani from Iran 🇮🇷 ([mome13](https://github.com/mome13))
   - Hadi Khaghani from Iran 🇮🇷 ([khaqani](https://github.com/khaqani))
@@ -175,3 +174,4 @@ You can:
   - Mohammad Eftekhari from Iran 🇮🇷 ([bluemmb](https://github.com/bluemmb))
   - Erfan Gholizade from the IRAN 🇮🇷 ([erfantkerfan](https://github.com/erfantkerfan))
   - Vincent Weevers from the Netherlands 🇳🇱 ([vweevers](https://github.com/vweevers))
+  - Jariullah Safi from the U.S. 🇺🇲 ([safijari](https://github.com/safijari))
