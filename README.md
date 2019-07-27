@@ -303,3 +303,4 @@ You can:
 - Angus L. Fraser from 🇬🇧
 - MatteoPieroni from Italy 🇮🇹 ([MatteoPieroni](https://github.com/matteopieroni))
 - Adaobi Frank from Nigeria 🇳🇬🇳🇬 ([droidada](https://github.com/droidada))
+- Abdelhak Bougouffa from Algeria 🇩🇿 ([abougouffa](https://abougouffa.github.io))
