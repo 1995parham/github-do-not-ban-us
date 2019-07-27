@@ -1,0 +1,17 @@
+{
+  "name": "github-do-not-ban-us",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "github"
+  ],
+  "author": "TheDevMinerTV",
+  "license": "MIT",
+  "dependencies": {
+    "node-fetch": "^2.6.0"
+  }
+}

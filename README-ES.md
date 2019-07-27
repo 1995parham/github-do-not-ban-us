@@ -1,6 +1,6 @@
 # Un mensaje a GitHub
 
-[English](./README.md) | [简体中文](./README-CN.md) | Español
+[English](./README.md) | [简体中文](./README-CN.md) | Español | [Italiano](./README-IT.md) | [Русский](./README-RU.md)
 
 ![alt text](./message.png)
 
@@ -73,4 +73,4 @@ Puedes:
   
  ## Defensores
  
- [README.md](README.md)
+ [README.md](README.md#supporters)
