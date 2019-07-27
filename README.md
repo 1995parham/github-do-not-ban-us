@@ -289,4 +289,4 @@ You can:
   - Axel Rindle from Germany 🇩🇪 ([axelrindle](https://github.com/axelrindle))
   - Jason Kraus from United States 🇺🇸 ([zbyte64](https://github.com/zbyte64))
   - Mrloder from Spain 🇪🇸
-  - Kittinan :thailand: ([kittinan](https://github.com/kittinan))
+  - Kittinan from :thailand: ([kittinan](https://github.com/kittinan))
