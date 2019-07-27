@@ -246,4 +246,5 @@ You can:
   - Shahrokh Mirzayee from Iran 🇮🇷 ([shahrokh-mi](https://github.com/shahrokh-mi))
   - Amin Mirzaee from Iran 🇮🇷 ([hifeamin](https://github.com/hifeamin/))
   - Sarah Aziziyan from Iran 🇮🇷 ([SarahAziziyan](https://github.com/sarahaziziyan/))
+  - Mohammad Reza Kamalifard from Iran 🇮🇷 ([Reza Kamalifard](https://github.com/rezakamalifard/))
   - Andrii Kovalchuk from Ukraine 🇺🇦 ([tieorange](https://github.com/tieorange/))
