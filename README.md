@@ -295,6 +295,7 @@ You can:
 - Jason Kraus from United States 🇺🇸 ([zbyte64](https://github.com/zbyte64))
 - Nabil Tharwat from Egypt 🇪🇬 ([KL13NT](https://github.com/KL13NT))
 - Mrloder from Spain 🇪🇸
+- Cuong Nguyen from Vietnam 🇻🇳 ([cuongw](https://github.com/cuongw))
 - Arseniy Graur from Russia 🇷🇺 ([argraur](https://github.com/argraur))
 - Mehmet Kaykısız from Turkey 🇹🇷 ([mkaykisiz](https://github.com/mkaykisiz))
 - MSadeghzadehG from Iran 🇮🇷 ([MSadeghzadehG](https://github.com/MSadeghzadehG))
