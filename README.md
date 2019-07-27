@@ -4,7 +4,6 @@
 
 ## Introduction
 
-
 Github was a free platform for everyone since many years ago, but it has decided to restrict **Iranian accounts**.
 We believe living in a country is not a choice that you have, but being a developer and contributing to the open-source community is a choice.
 Github has restricted us from our freedom to contribute and being part of the open-source ecosystem because we are living in Iran.
@@ -44,25 +43,26 @@ https://github.com/imaNNeoFighT/fl_chart
 
 You can find the full list [here](https://github.com/mohebifar/made-in-iran).
 
-
 ## Note for GitHub
+
 Please let us get a backup from our private repository before disabling them.
 
 ## How you can help us
+
 You can spread the message everywhere you can, and keep the Free Software "as in Free speech".
 You can:
-  - Star and share this repo on social platforms with #githubForEveryone.
-  - Add a folder with your username in "together" folder.
-  - Write a piece of code that prints "Github is for everyone" (in any language you wish).
-  - Create a pull request.
-  - Add your name and your country to the supporters section.
+
+- Star and share this repo on social platforms with #githubForEveryone.
+- Add a folder with your username in "together" folder.
+- Write a piece of code that prints "Github is for everyone" (in any language you wish).
+- Create a pull request.
+- Add your name and your country to the supporters section.
 
 ## Further Readings
   - [Microsoft enters: GitHub banned Iranian developers!](https://medium.com/@d.aliyamini/microsoft-enters-github-banned-iranian-developers-843f7c60a146)
   - [GitHub banned Iran-based users](https://financialtribune.com/articles/sci-tech/99111/github-bans-iran-based-users)
   - [GitHub has blocked an Iranian software developer account](https://hub.packtpub.com/github-has-blocked-an-iranian-software-developers-account)
   - [GitHub starts blocking developers in countries facing US trade sanctions](https://www.zdnet.com/article/github-starts-blocking-developers-in-countries-facing-us-trade-sanctions)
-
 
 ## Supporters
   - Sadra Hallaj from Iran 🇮🇷([sadrahallaj](https://github.com/sadrahallaj))
@@ -137,3 +137,5 @@ You can:
   - Michael Power from Canada ([mwpower](https://github.com/mwpower))
   - Mehran Rafiee from Iran 🇮🇷 ([mehran75](https://github.com/mehran75))
   - Matheus Graciano from Brazil 🇧🇷 ([graciano](https://github.com/graciano))
+  - Mehmet Alp Turkey ([mehmetakifalp](https://github.com/mehmetakifalp))
+
