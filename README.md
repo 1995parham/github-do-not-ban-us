@@ -169,3 +169,5 @@ You can:
   - Kamyar Gerami from Iran 🇮🇷 ([kam2yar](https://github.com/kam2yar))
   - Mehran Mahmoudkhani from Iran 🇮🇷 ([mome13](https://github.com/mome13))
   - Siamak A.Motlagh from Iran 🇮🇷 ([blacksrc](https://github.com/blacksrc))
+  - Hadi Khaghani from Iran 🇮🇷 ([khaqani](https://github.com/khaqani))
+  - Mohammad Eftekhari from Iran 🇮🇷 ([bluemmb](https://github.com/bluemmb))
