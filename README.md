@@ -4,7 +4,7 @@
 
 ![alt text](./message.png)
 
-Tip: You can use [this extension](https://github.com/MohamadKh75/ShutHub) to hide it!
+Tip: You can use [this extension](https://github.com/MohamadKh75/ShutHub) to hide this yellow box!
 
 ## Introduction
 
@@ -244,6 +244,7 @@ You can:
   - Fırat Eşki from Turkey 🇹🇷 ([firateski](https://github.com/firateski))
   - Hamid Rahmani from Iran 🇮🇷 ([hamiiiiiiid](https://github.com/Hamiiiiiiid))
   - Morteza Nokhodian from 🇩🇪 ([nokhodian](https://github.com/nokhodian))
+  - Caspian Baska from Australia 🇦🇺 ([caspiano](https://github.com/caspiano))
   - Mohammad Amin Chitgarha from Iran 🇮🇷 ([MAChitgarha](https://github.com/MAChitgarha/))
   - Farshad Jahanmanesh from Iran 🇮🇷 ([farshadjahanmanesh](https://github.com/farshadjahanmanesh/))
   - Saeed Salhi from Iran 🇮🇷 ([1SaeedSalehi](https://github.com/1saeedsalehi/))
@@ -284,5 +285,6 @@ You can:
   - Daniel Caldas from Portugal 🇵🇹 ([danielcaldas](https://github.com/danielcaldas))
   - Alireza Zerafati from Iran 🇮🇷 ([azerafati](https://github.com/azerafati))
   - Hamid from Iran 🇮🇷 ([progHamid](https://github.com/progHamid/)
-  - Axel Rindle from Germany :de: ([axelrindle](https://github.com/axelrindle))
-
+  - Axel Rindle from Germany 🇩🇪 ([axelrindle](https://github.com/axelrindle))
+  - Jason Kraus from United States 🇺🇸 ([zbyte64](https://github.com/zbyte64))
+  - Mrloder from Spain 🇪🇸
