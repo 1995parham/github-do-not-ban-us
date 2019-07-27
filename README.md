@@ -203,7 +203,7 @@ You can:
   - Sukka from China 🇨🇳 ([SukkaW](https://github.com/SukkaW))
   - Erfan Mehraban 🇮🇷 ([erfan-mehraban](https://github.com/erfan-mehraban))
   - Seyed Hossein Hosseini from Iran 🇮🇷 ([DiniMad](https://github.com/DiniMad))
-  - Louay Al-osh from 🇸🇾 (https://github.com/lalosh)
+  - Louay Al-osh from Syria 🇸🇾 (https://github.com/lalosh)
   - Mohammad Hussein Tavakoli Bina 🇮🇷 ([mhtb32](https://github.com/mhtb32))
   - Ali Yazdi from Iran 🇮🇷 ([aliyazdi75](https://github.com/aliyazdi75))
   - Ali Salehi from Iran 🇮🇷 ([4lisalehi](https://github.com/4lisalehi))
