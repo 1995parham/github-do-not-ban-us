@@ -74,6 +74,7 @@ You can:
   - Appadeia from 🇺🇸 
   - Alexander Shelepenok from 🇧🇾 
   - Ran Luo from 🇨🇳 
+  - Zhu Zihao from China 🇨🇳 ([cireu](https://github.com/cireu))
   - 88250 from 🇨🇳 ([88250](https://github.com/88250))
   - mighty9245 from 🇷🇺 
   - speccius from 🇬🇧 
