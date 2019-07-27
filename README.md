@@ -3,6 +3,8 @@
 
 ![alt text](./message.png)
 
+Tip: You can use [this extension](https://github.com/MohamadKh75/ShutHub) to hide it!
+
 ## Introduction
 
 Github used to be an open and free platform for everyone, but it has decided to restrict Iranian accounts from contributing and being part of the open-source ecosystem. Although we understand Github might make this decision under the pressure of US government, we were expecting more respectful action from Github.
@@ -74,6 +76,7 @@ You can:
   - Appadeia from 🇺🇸 
   - Alexander Shelepenok from 🇧🇾 
   - Ran Luo from 🇨🇳 
+  - Zhu Zihao from China 🇨🇳 ([cireu](https://github.com/cireu))
   - 88250 from 🇨🇳 ([88250](https://github.com/88250))
   - mighty9245 from 🇷🇺 
   - speccius from 🇬🇧 
@@ -202,8 +205,13 @@ You can:
   - Mahdi Salmanzadeh from Iran 🇮🇷 ([Salmanzadeh](https://github.com/mahdisn76))
   - Seyed Ali Shahrokhi from Iran 🇮( [Alishahrokhiii] (https://github.com/Alishahrokhiii))
   - Sina Dalvand from Iran 🇮🇷 ([sinadalvand](https://github.com/sinadalvand))
-  - Seyed Morteza Kamali from Iran 🇮🇷 ([Kamali](https://github.com/smkplus))
+  - AmirhoseiN Aliakbarian Iran 🇮🇷 ([amirhoseinaliakbarian](https://github.com/amirhoseinaliakbarian))
+  - Hamidreza Moallem Taheri 🇮🇷 ([hrmt2000](https://github.com/hrmt2000))
+  - Seyed Morteza Kamali from Iran 🇮🇷 ([Kamali](https://github.com/smkplus))  
+  - Iman Heydarifrom Iran IR ([hamyarwoo](https://github.com/hamyarwoo))
   - Bohan Wang from China 🇨🇳 ([Cygra](https://github.com/Cygra))
-  - Abdus from India 🇮🇳 ([thisisabdus](https://github.com/thisosabdus))
   - Yanshigou from China 🇨🇳 ([yanshigou](https://github.com/yanshigou))
-
+  - Alireza Faghani from Iran 🇮🇷 ([Faghani](https://github.com/faghani))
+  - Erkan Özkök from Turkey 🇹🇷 ([nozkok](https://github.com/nozkok))
+  - Yhlben from China 🇨🇳 ([yhlben](https://github.com/yhlben))
+  - Abdus from India 🇮🇳 ([thisisabdus](https://github.com/thisosabdus)
