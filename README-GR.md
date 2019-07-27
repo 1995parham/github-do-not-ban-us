@@ -1,32 +1,28 @@
-# A Message to GitHub
+# Ένα μήνυμα προς το GitHub
 
-English | [简体中文](./README-CN.md) | [Spanish](./README-ES.md) | [Ελληνικά](./README-GR.md) | [Italiano](./README-IT.md)
+English | [简体中文](./README-CN.md) | [Spanish](./README-ES.md) | [Ελληνικά](./README-GR.md)
 
 ![alt text](./message.png)
 
-![github-octocat](https://user-images.githubusercontent.com/16706911/61997137-7aa7df00-b0b2-11e9-97f1-f452855fe21c.png)
+Συμβουλή: Μπορείς να χρησιμοποιήσεις [αυτό το πρόσθετο](https://github.com/MohamadKh75/ShutHub) για να κρύψεις αυτό το κίτρινο κουτί!
 
-
-Tip: You can use [this extension](https://github.com/MohamadKh75/ShutHub) to hide this yellow box!
-
+## Εισαγωγή
 ## Introduction
 
-GitHub used to be an open and free platform for everyone, but it has decided to restrict Iranian accounts from contributing and being part of the open-source ecosystem. Although we understand GitHub might make this decision under the pressure of US government, we were expecting more respectful action from GitHub.
+Το GitHub κάποτε ήταν μία ανοιχτή και ελεύθερη πλατφόρμα για όλους, αλλά πλέον έχει αποφασίσει να στερήσει λογαριασμούς από το Ιράν από την ικανότητα του συνεισφέρειν και του αποτελείν κομμάτι του οικοσυστήματος ανοιχτού-λογισμικού. Αν και καταλαβαίνουμε ότι το GitHub μπορεί να προέβη σε αυτήν την απόφαση αφού δέχτηκε πιέσεις από την αμερικανική κυβέρνηση, προσδοκούσαμε μια δράση που να εμπνέει περισσότερο σεβασμό από πλευράς τους.
 
+1) Το GitHub αίφνης περιόρισε την πρόσβαση μας σε ιδιωτικά απωθητήρια, ενώ τουλάχιστον θέλαμε να μας προειδοποιήσει πριν υλοποιήσει αυτήν την απόφαση.
 
-1) GitHub restricted our access to private repositories suddenly, but at very least we wanted GitHub to warn us before limiting our access.
+2) Η ομάδα του GitHub αποφάσισε να πάει ένα βήμα περαιτέρω και να μας αποκλείσει **με βάση την εθνικότητά μας**, ανεξάρτητα απ το πού ζούμε, ενώ θα μπορούσαν απλώς να αποκλείσουν τις διευθύνσεις IP μας όπως άλλες εταιρίες που εδράζουν στην Αμερική.
 
-2) GitHub's team decided to take one step further and restrict us **based on our Nationality** no matter where we are living, while they were able to just restrict our IP addresses like other US-based companies.
+Εν τέλει, ευελπιστούμε ότι η ομάδα του GitHub:
+- θα μας αφήσει να κατεβάσουμε τα ιδιωτικά μας απωθητήρια καθώς και να τα δημοσιοποιήσουμε (θέτωντας έλεγχο)
+- θα αλλάξει τις πολιτικές περί αποκλεισμού ώστε να μην περιορίζει χρήστες με βάση την Εθνικότητά τους.
+- θα ανακοινώσει την απόφασή της δημοσίως και απολογηθεί για το ότι δημιούργησε αυτήν την κατάσταση (όπως αυτό που έκανε πριν το slack στην ίδια κατάσταση: https://slackhq.com/an-apology-and-an-update).
 
-Eventually, we are hoping that GitHub's team:
-- let us download our private repositories and also make them public (setting control).
-- change their restriction policies to not limiting users based on their Nationality.
-- announce their decision publicly and apologize for making this situation (like what slack did before in the same situation: https://slackhq.com/an-apology-and-an-update).
+## Πρότζεκτς ανοιχτού-κώδικα κατασκευασμένα από Ιρανούς προγραμματιστές
 
-
-## Open-source projects made by Iranian developers
-
-Some examples of open-source projects created by Iranian developers:
+Κάποια παραδείγματα πρότζεκτ ανοιχτού-κώδικα κατασκευασμένα από Ιρανούς προγραμματιστές:
 
 https://github.com/usablica/intro.js
 
@@ -52,26 +48,26 @@ https://github.com/sepandhaghighi/art
 
 https://github.com/imaNNeoFighT/fl_chart
 
-You can find the full list [here](https://github.com/mohebifar/made-in-iran).
+Μπορείτε να βρείτε την πλήρη λίστα [εδώ](https://github.com/mohebifar/made-in-iran).
 
-## How you can support us
+## Πώς μπορείτε να μας υποστηρίξετε
 
-You can spread the message everywhere you can, and keep the Free Software "as in Free speech".
-You can:
+Μπορείτε να διαδώσετε αυτό το μήνυμα όπου δύναστε, και να κρατήσετε το Ελεύθερο Λογισμικό "όπως στην φράση Ελευθερία του λόγου"
+Μπορείτε:
 
-- Star and share this repo on social platforms with #githubForEveryone.
-- Add a folder with your username in "together" folder.
-- Write a piece of code that prints "GitHub is for everyone" (in any language you wish).
-- Create a pull request.
-- Add your name and your country to the supporters section.
+- Να κάνετε "star" και να κοινοποιήστε αυτό το απωθητήριο σε κοινωνικές πλατφόρμες με το hashtag "githubForEveryone.
+- Να προσθέσετε έναν φκελο με το όνομα χρήστη σας εντός του φακέλου "together".
+- Να συγγράψετε ένα κομμάτι κώδικα το οποίο θα τυπώνει "Github is for everyone" (το Github είναι για όλους) (σε ότι γλώσσα θέλετε).
+- Να δημιουργήσετε ένα "pull request".
+- Να προσθέσετε το όνομα και την χώρα σας στο τμήμα "supporters" (υποστηρικτές).
 
-## Further Readings
+## Περαιτέρω ανάγνωση
   - [Microsoft enters: GitHub banned Iranian developers!](https://medium.com/@d.aliyamini/microsoft-enters-github-banned-iranian-developers-843f7c60a146)
   - [GitHub banned Iran-based users](https://financialtribune.com/articles/sci-tech/99111/github-bans-iran-based-users)
   - [GitHub has blocked an Iranian software developer account](https://hub.packtpub.com/github-has-blocked-an-iranian-software-developers-account)
   - [GitHub starts blocking developers in countries facing US trade sanctions](https://www.zdnet.com/article/github-starts-blocking-developers-in-countries-facing-us-trade-sanctions)
 
-## Supporters
+## Υποστηρικτές
   - Seamus Donnellan (donnellan0007) from Straya
   - Conner Orth from 🇳🇱
   - Chris C from 🇱🇺
@@ -293,6 +289,3 @@ You can:
   - Jason Kraus from United States 🇺🇸 ([zbyte64](https://github.com/zbyte64))
   - Mrloder from Spain 🇪🇸
   - Orestis Ousoultzoglou from Greece 🇬🇷 ([xlxs4](https://github.com/xlxs4))
-  - Armin Monirzadeh from Iran 🇮🇷 ([arminmon](https://github.com/arminmon/)
-  - Angus L. Fraser from 🇬🇧
-  - MatteoPieroni from Italy 🇮🇹 ([MatteoPieroni](https://github.com/matteopieroni))
