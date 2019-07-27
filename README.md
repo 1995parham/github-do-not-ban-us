@@ -3,6 +3,8 @@
 
 ![alt text](./message.png)
 
+Tip: You can use [this extension](https://github.com/MohamadKh75/ShutHub) to hide it!
+
 ## Introduction
 
 Github used to be an open and free platform for everyone, but it has decided to restrict Iranian accounts from contributing and being part of the open-source ecosystem. Although we understand Github might make this decision under the pressure of US government, we were expecting more respectful action from Github.
@@ -206,6 +208,7 @@ You can:
   - Seyed Morteza Kamali from Iran 🇮🇷 ([Kamali](https://github.com/smkplus))
   - Bohan Wang from China 🇨🇳 ([Cygra](https://github.com/Cygra))
   - Mohsen Darestani Farahani from Iran 🇮🇷 ([8lueMeth](https://github.com/8luemeth))
+  - AmirhoseiN Aliakbarian Iran 🇮🇷 ([amirhoseinaliakbarian](https://github.com/amirhoseinaliakbarian))
   - Hamidreza Moallem Taheri 🇮🇷 ([hrmt2000](https://github.com/hrmt2000))
   - Seyed Morteza Kamali from Iran 🇮🇷 ([Kamali](https://github.com/smkplus))  
   - Iman Heydarifrom Iran IR ([hamyarwoo](https://github.com/hamyarwoo))
