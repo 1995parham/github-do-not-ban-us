@@ -127,7 +127,7 @@ You can:
 - Adib Faramarzi from Iran 🇮🇷 ([adibfara](https://github.com/adibfara))
 - Abolfazl Amiri from Iran 🇮🇷 ([aasmpro](https://github.com/aasmpro))
 - Taher Ahmadi from Iran 🇮🇷 ([taherahmadi](https://github.com/taherahmadi))
-- Dermohamad from Iran ([dermohamad](https://twitter.com/dermohamad))
+- Dermohamad from Iran 🇮🇷 ([dermohamad](https://twitter.com/dermohamad))
 - Ali Ghahremani from Iran 🇮🇷 ([ali77gh](https://github.com/ali77gh))
 - Ali Izadi from Iran 🇮🇷 ([aliizadi](https://github.com/aliizadi))
 - Milad Nekofar ([nekofar](https://github.com/nekofar))
