@@ -129,4 +129,5 @@ You can:
   - Ali Farazdaghi from Iran 🇮🇷 ([alifarazz](https://github.com/alifarazz))
   - Michael Power from Canada ([mwpower](https://github.com/mwpower))
   - Mehran Rafiee from Iran 🇮🇷 ([mehran75](https://github.com/mehran75))
+  - Javad Ghane from Iran 🇮🇷 ([JavaDroid](https://github.com/javadghane))
 
