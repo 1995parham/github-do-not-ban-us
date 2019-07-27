@@ -1,12 +1,12 @@
 # A Message to GitHub
 
-English | [简体中文](./README-CN.md) | [Spanish](./README-ES.md) | [Ελληνικά](./README-GR.md) | [Italiano](./README-IT.md)
+English | [简体中文](./README-CN.md) | [Spanish](./README-ES.md) | [Ελληνικά](./README-GR.md) | [Italiano](./README-IT.md) | [Русский](./README-RU.md)
 
 ![alt text](./message.png)
 
-![github-octocat](https://user-images.githubusercontent.com/16706911/61997137-7aa7df00-b0b2-11e9-97f1-f452855fe21c.png)
+Tip: You can use [this extension](https://github.com/JafarAkhondali/remove-github-restrictions-message) or [this extension](https://github.com/MohamadKh75/ShutHub) to hide this yellow box!
 
-Tip: You can use [this extension](https://github.com/MohamadKh75/ShutHub) to hide this yellow box!
+![github-octocat](https://user-images.githubusercontent.com/16706911/61997137-7aa7df00-b0b2-11e9-97f1-f452855fe21c.png)
 
 ## Introduction
 
@@ -81,6 +81,7 @@ You can:
 - divinity1437 from 🇷🇺
 - Enzo from 🇫🇷
 - Appadeia from 🇺🇸
+- Zhiwa from China 🇨🇳 ([zhiwa](https://github.com/aboutmydreams))
 - Alexander Shelepenok from 🇧🇾
 - Ran Luo from 🇨🇳
 - Zhu Zihao from China 🇨🇳 ([cireu](https://github.com/cireu))
@@ -104,6 +105,7 @@ You can:
 - Muhammad Hussein Fattahizadeh from Iran 🇮🇷 ([mhf-ir](https://github.com/mhf-ir))
 - Reza Bayat from Iran 🇮🇷 ([RezaBayat](https://github.com/rezabayat76))
 - Rashad Ansari from Iran 🇮🇷 ([RashadAnsari](https://github.com/RashadAnsari))
+- Sam Johnson from United States 🇺🇸 ([sam0x17](https://github.com/sam0x17))
 - Farid Forootan Shad from Iran 🇮🇷 ([faridfor](https://github.com/faridfor))
 - Vahid Bazzaz from Iran 🇮🇷 ([vahidbazzaz](https://github.com/vahidbazzaz))
 - Iman Khoshabbi from Iran 🇮🇷 ([imaNNeoFighT](https://github.com/imaNNeoFighT))
@@ -256,6 +258,7 @@ You can:
 - Naser Nourani from Iran 🇮🇷 ([MAChitgarha](https://github.com/nnourani/))
 - Mohammad Moallemi from Iran 🇮🇷 ([mmoallemi99](https://github.com/mmoallemi99/))
 - Amin Nazari from Iran 🇮🇷 ([aminNazarii](https://github.com/aminNazarii/))
+- Hirbod Behnam from Iran 🇮🇷 ([HirbodBehnam](https://github.com/HirbodBehnam/))
 - Mohammad Ali Sadraei from Iran 🇮🇷 ([mohalisad](https://github.com/mohalisad/))
 - Reza Hosseinzadeh from Iran 🇮🇷 ([Rezamax](https://github.com/rezamax))
 - Amin Rashidbeigi from Iran 🇮🇷 ([aminrashidbeigi](https://github.com/aminrashidbeigi/))
@@ -289,16 +292,22 @@ You can:
 - Jonas Gierer from Germany 🇩🇪 ([jgierer12](https://github.com/jgierer12))
 - Daniel Caldas from Portugal 🇵🇹 ([danielcaldas](https://github.com/danielcaldas))
 - Alireza Zerafati from Iran 🇮🇷 ([azerafati](https://github.com/azerafati))
+- SnailMann from China 🇨🇳 ([SnailMann](https://github.com/SnailMann))
 - Hamid from Iran 🇮🇷 ([progHamid](https://github.com/progHamid/)
 - [Ron](https://github.com/ron-wolf) with ❤️ from the U. S. 🇺🇸 and Israel 🇮🇱
 - Axel Rindle from Germany 🇩🇪 ([axelrindle](https://github.com/axelrindle))
 - Jason Kraus from United States 🇺🇸 ([zbyte64](https://github.com/zbyte64))
 - Nabil Tharwat from Egypt 🇪🇬 ([KL13NT](https://github.com/KL13NT))
 - Mrloder from Spain 🇪🇸
+- Houari ZEGAI from Algeria 🇩🇿 [HouariZegai](https://github.com/HouariZegai)
+- Hamid R. K. PishGhadam from Iran 🇮🇷 ([hamidrezakp](https://github.com/hamidrezakp))
+- Morteza Omidian Iran 🇮🇷
+- A C Sreedhar Reddy from India 🇮🇳 ([a-c-sreedhar-reddy](https://github.com/a-c-sreedhar-reddy))
+- Kittinan from :thailand: ([kittinan](https://github.com/kittinan))
 - Matthew Parnell from England 🇬🇧 ([parnmatt GitLab](https://gitlab.com/parnmatt), [parnmatt GitHub](https://github.com/parnmatt))
 - Imed Adel from Tunisia 🇹🇳 ([ImedAdel](https://github.com/ImedAdel))
 - Praveen Kumar Saini from India 🇮🇳 ([praveen-me](https://github.com/praveen-me))
-- Mahuton from Bénin 🇧🇯  ([Mahuton](https://github.com/Mahuton))
+- Mahuton from Bénin 🇧🇯 ([Mahuton](https://github.com/Mahuton))
 - Hamed Zargaripour from Iran 🇮🇷 ([zargaripour](https://github.com/zargaripour))
 - George Ho from Hong Kong 🇭🇰([eigenfoo](https://github.com/eigenfoo))
 - Muhammad Babayi from Iran 🇮🇷 ([chiefmb](https://github.com/chiefmb))
@@ -326,4 +335,13 @@ You can:
 - Mahdi Dibaiee from Iran 🇮🇷 ([mdibaiee](https://github.com/mdibaiee))
 - Alejandro González-Pérez from 🇪🇸 ([algope](https://github.com/algope))
 - Persian Prince from Iran 🇮🇷 ([persianpros](https://github.com/persianpros))
+- Hadi Mahdavi from Iran 🇮🇷 ([IoT](https://github.com/expandboard))
 - Farshid Roohi from Iran 🇮🇷 ([farshidroohi](https://github.com/farshidroohi))
+- Soroush Chehresa from Iran 🇮🇷 ([soroushchehresa](https://github.com/soroushchehresa))
+- Lpmvb from 🇨🇳
+- NabilTheNoise from Iran 🇮🇷 ([Dragon96nfs](https://github.com/dragon96nfs))
+- Heman from the US ([hemangandhi](https://github.com/hemangandhi/)
+- KT from 🇨🇳 & 🇺🇸 ([KTachibanaM](https://github.com/KTachibanaM/))
+- Vincent Hyvert from France ([vinceh121](https://github.com/vinceh121/))
+- Samundra Khatri from Nepal 🇳🇵 ([samundrak](https://github.com/samundrak))
+- Tobias aka. TheDevMinerTV from Germany 🇩🇪 ([TheDevMinerTV](https://github.com/TheDevMinerTV/))
