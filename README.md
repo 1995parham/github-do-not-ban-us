@@ -238,9 +238,5 @@ You can:
   - Pouya Kary from Iran 🇮🇷 ([pmkary](https://github.com/pmkary/))
   - Milad Barazandeh from Iran 🇮🇷 ([miladbarazandeh](https://github.com/miladbarazandeh/))
   - Mohammad Amin Chitgarha from Iran 🇮🇷 ([MAChitgarha](https://github.com/MAChitgarha/))
-<<<<<<< HEAD
-  - twofist from Germany 🇩🇪 ([twofist](https://github.com/twofist))
-=======
-  - twofist from Germany 🇮🇷 ([twofist](https://github.com/twofist))
   - Himself65 from China 🇨🇳 ([Himself65](https://github.com/himself65/))
->>>>>>> a41c9c9e1b2ce22b9d3829b0c794c89e77c2d624
+  - twofist from Germany 🇩🇪 ([twofist](https://github.com/twofist))
