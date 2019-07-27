@@ -13,7 +13,7 @@ Github used to be an open and free platform for everyone, but it has decided to 
 2) Github's team decided to take one step further and restrict us **based on our Nationality** no matter where we are living, while they were able to just restrict our IP addresses like other US-based companies.
 
 Eventually, we are hoping that Github's team: 
-- let us download our private repositories.
+- let us download our private repositories and also make them public(setting control).
 - change their restriction policies to not limiting users based on their Nationality.
 - announce their decision publicly and apologize for making this situation (like what slack did before in the same situation: https://slackhq.com/an-apology-and-an-update).
 
@@ -188,4 +188,3 @@ You can:
   - Omid Rafiee from Iran 🇮🇷 ([OmidRafiee](https://github.com/OmidRafiee))
   - Ali Tavafi from Iran 🇮🇷 ([Tavafi](https://github.com/Tavafi))
   - Saeed Mohagheghi from Iran 🇮🇷 ([saeedmhq](https://github.com/saeedmhq))
-  - Seyed Morteza Kamali from Iran 🇮🇷 ([Kamali](https://github.com/smkplus))
