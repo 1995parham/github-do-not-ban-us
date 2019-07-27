@@ -91,7 +91,7 @@ You can:
 - Fahim from Bangladesh 🇧🇩
 - divinity1437 from Russia 🇷🇺
 - Enzo from France 🇫🇷
-- Appadeia from USA 🇺🇸
+- Appadeia from United States 🇺🇸
 - Zhiwa from China 🇨🇳 ([zhiwa](https://github.com/aboutmydreams))
 - Alexander Shelepenok from Belarus 🇧🇾
 - Ran Luo from China 🇨🇳
@@ -192,7 +192,7 @@ You can:
 - tristone13th from 🇨🇳 ([tristone13th](https://github.com/tristone13th))
 - Mohammad Ali Toufighi from Iran 🇮🇷 ([alitoufighi](https://github.com/alitoufighi))
 - Mostafa Rowghanian from Iran 🇮🇷 ([keomd](https://github.com/mostafatech))
-- Duncan Sparks from the U.S. 🇺🇸 ([DuncanSparks](https://github.com/DuncanSparks))
+- Duncan Sparks from United States 🇺🇸 ([DuncanSparks](https://github.com/DuncanSparks))
 - Shahrokh Moghimi from Iran 🇮🇷 ([shaahrokh](https://github.com/shaahrokh))
 - Natnij from China 🇨🇳 ([natnij](https://github.com/natnij))
 - Ibtehaz Shawon from Bangladesh 🇧🇩 ([ibtehaz-shawon](https://github.com/ibtehaz-shawon))
@@ -208,7 +208,7 @@ You can:
 - Yasin Amini from Iran 🇮🇷 ([yasinEnigma](https://github.com/yasinEnigma/))
 - Ahmad Sharif from Iran 🇮🇷 ([bluemmb](https://github.com/ahmadrezash))
 - Davyd McColl from South Africa 🇿🇦 ([fluffynuts](https://github.com/fluffynuts))
-- Erfan Gholizade from the IRAN 🇮🇷 ([erfantkerfan](https://github.com/erfantkerfan))
+- Erfan Gholizade from the Iran 🇮🇷 ([erfantkerfan](https://github.com/erfantkerfan))
 - Vincent Weevers from the Netherlands 🇳🇱 ([vweevers](https://github.com/vweevers))
 - Ali Salehi from Iran 🇮🇷 ([AliSalehi](https://github.com/salehiali1374))
 - Mohammad Javad Naderi from Iran 🇮🇷 ([mjnaderi](https://github.com/mjnaderi))
@@ -317,7 +317,7 @@ You can:
 - Alireza Zerafati from Iran 🇮🇷 ([azerafati](https://github.com/azerafati))
 - SnailMann from China 🇨🇳 ([SnailMann](https://github.com/SnailMann))
 - Hamid from Iran 🇮🇷 ([progHamid](https://github.com/progHamid/))
-- [Ron](https://github.com/ron-wolf) with ❤️ from the U. S. 🇺🇸 and Israel 🇮🇱
+- [Ron](https://github.com/ron-wolf) with ❤️ from United States 🇺🇸 and Israel 🇮🇱
 - Axel Rindle from Germany 🇩🇪 ([axelrindle](https://github.com/axelrindle))
 - Jason Kraus from United States 🇺🇸 ([zbyte64](https://github.com/zbyte64))
 - Nabil Tharwat from Egypt 🇪🇬 ([KL13NT](https://github.com/KL13NT))
@@ -364,7 +364,7 @@ You can:
 - Soroush Chehresa from Iran 🇮🇷 ([soroushchehresa](https://github.com/soroushchehresa))
 - Lpmvb from China 🇨🇳
 - NabilTheNoise from Iran 🇮🇷 ([Dragon96nfs](https://github.com/dragon96nfs))
-- Heman from the US 🇺🇸 ([hemangandhi](https://github.com/hemangandhi/)
+- Heman from United States 🇺🇸 ([hemangandhi](https://github.com/hemangandhi/)
 - KT from 🇨🇳 & 🇺🇸 ([KTachibanaM](https://github.com/KTachibanaM/))
 - Vincent Hyvert from France 🇫🇷 ([vinceh121](https://github.com/vinceh121/))
 - Samundra Khatri from Nepal 🇳🇵 ([samundrak](https://github.com/samundrak))
@@ -376,13 +376,13 @@ You can:
 - Inline Harper from China 🇨🇳 ([Afanyiyu](https://github.com/Afanyiyu))
 - Karol Kulik from Poland 🇵🇱 ([MrK191](https://github.com/MrK191))
 - Mahdi Hosseini from Iran 🇮🇷 ([ghost1372](https://github.com/ghost1372))
-- Daniel Kvasnicka - Czech national living in the US 🇨🇿 + 🇺🇸 ([dkvasnicka](https://github.com/dkvasnicka))
+- Daniel Kvasnicka - Czech national living in United States 🇨🇿 + 🇺🇸 ([dkvasnicka](https://github.com/dkvasnicka))
 - Ahmad Habannakeh from Syria 🇸🇾 (https://github.com/abnud1)
 - Mohammad Mahdi Rostamzadeh from Iran 🇮🇷 ([favecode](https://github.com/favecode))
-- Jordan Hart from USA 🇺🇸 ([jordanhart](https://github.com/jordanhart))
+- Jordan Hart from United States 🇺🇸 ([jordanhart](https://github.com/jordanhart))
 - Lewis Conroy from Scotland ([Lewis Conroy](https://github.com/captainkinney))
 - Nima Amiri from Iran 🇮🇷 ([Nimak](https://github.com/arc92))
-- Tyler from USA 🇺🇸 ([arctair](https://github.com/arctair))
-- Andreas Basurto from USA 🇺🇸 ([nitrohorse](https://github.com/nitrohorse))
+- Tyler from United States 🇺🇸 ([arctair](https://github.com/arctair))
+- Andreas Basurto from United States 🇺🇸 ([nitrohorse](https://github.com/nitrohorse))
 - MohammadHossein Bagheri from Iran 🇮🇷 ([PyBagheri](https://github.com/PyBagheri))
-- Isabelle L. from USA 🇺🇸 ([ilsko](https://github.com/ilsko))
+- Isabelle L. from United States 🇺🇸 ([ilsko](https://github.com/ilsko))
