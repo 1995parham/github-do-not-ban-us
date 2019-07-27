@@ -225,7 +225,7 @@ You can:
   - Ali Bakhtiar from Iran 🇮🇷 ([Faghani](https://github.com/alibakhtiar))
   - Amir Hossein Sojoodi from Iran 🇮🇷 ([amirsojoodi](https://github.com/amirsojoodi))
   - Mindaugas Vaitiekūnas from Lithuania 🇱🇹 ([mindaugasw](https://github.com/mindaugasw))
-  - Ebrahim Hamzeh from Iran 🇮🇷 ([MAChitgarha](https://github.com/EbrahimHamzeh))
+  - Ebrahim Hamzeh from Iran 🇮🇷 ([EbrahimHamzeh](https://github.com/EbrahimHamzeh))
   - binbin huang from China 🇨🇳 ([hbb](https://github.com/nocanstillbb))
   - Sina Kachoei 🇮🇷 ([sinakachoei](https://github.com/sinakachoei/))
   - Farzad Sharbafian from Iran 🇮🇷 ([farzadshbfn](https://github.com/farzadshbfn/))
@@ -237,4 +237,3 @@ You can:
   - Amin Rashidbeigi from Iran 🇮🇷 ([aminrashidbeigi](https://github.com/aminrashidbeigi/))
   - Pouya Kary from Iran 🇮🇷 ([pmkary](https://github.com/pmkary/))
   - Milad Barazandeh from Iran 🇮🇷 ([miladbarazandeh](https://github.com/miladbarazandeh/))
-  - Mohammad Amin Chitgarha from Iran 🇮🇷 ([MAChitgarha](https://github.com/MAChitgarha/))
