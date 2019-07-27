@@ -205,6 +205,7 @@ You can:
   - Sina Dalvand from Iran 🇮🇷 ([sinadalvand](https://github.com/sinadalvand))
   - Seyed Morteza Kamali from Iran 🇮🇷 ([Kamali](https://github.com/smkplus))
   - Bohan Wang from China 🇨🇳 ([Cygra](https://github.com/Cygra))
+  - Alireza Faghani from Iran 🇮🇷 ([Faghani](https://github.com/faghani))
   - Erkan Özkök from Turkey 🇹🇷 ([nozkok](https://github.com/nozkok))
   - Yhlben from China 🇨🇳 ([yhlben](https://github.com/yhlben))
   - Abdus from India 🇮🇳 ([thisisabdus](https://github.com/thisosabdus))
