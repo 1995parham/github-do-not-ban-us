@@ -1,4 +1,4 @@
-# Une Message Pour Github
+# Un message pour Github
 
 English | [简体中文](./README-CN.md) | [Spanish](./README-ES.md) | [Ελληνικά](./README-GR.md) | [Italiano](./README-IT.md) | [Русский](./README-RU.md)
 
@@ -11,21 +11,21 @@ Astuce: Vous pouvez utiliser [cette extension](https://github.com/JafarAkhondali
 
 ## Introduction
 
-Github était une platforme ouverte, libre et gratuite pour tous le monde, mais elle a décidée d'interdire les comptes Iraniens de contribuer et d'être part de l'écosystème open-source. Nous comprenons que Github a pris cette décision suite à la pression du gouvernement des États-Unies, nous nous attendions à une actions plus respectueuse de la part de Github.
+Github était une platforme ouverte, libre et gratuite pour tout le monde, mais elle a décidée d'interdire les comptes Iraniens à contribuer et faire part de l'écosystème open-source. Nous comprenons que Github a pris cette décision suite à la pression du gouvernement des États-Unis, nous nous attendions à une action plus respectueuse de la part de Github.
 
-1. Github a soudainement restraint notre accéss au répositories privées, mais au moins on voulais que Github nous avertisse avant de limiter notre, access.
+1. Github a soudainement restraint notre accès aux dépots privés, mais au moins on voulait que Github nous avertisse avant de le limiter.
 
-2. L'équipe de Github a décider d'aller plus loin et de nous restraindre **selon notre Nationalité** peu importe où nous habitons, alors qu'ils pouvais restraindres nous adresses IP comme les autres entreprises basées aux États-Unies.
+2. L'équipe de Github a décidé d'aller plus loin et de nous restreindre **selon notre nationalité** peu importe où nous habitons, alors qu'ils pouvaient restreindre nos adresses IP comme les autres entreprises basées aux États-Unis.
 
 Éventuellement, nous espérons que l'équipe de Github:
 
-- nous laisse télécharger nos repositories privés et aussi des les rendrent publique (via les paramètres).
-- change leur politique de restriction pour ne pas limiter les utilisateurs envers leur Nationalité.
-- annonce leur décision publiquement et de s'excuser pour avoir créer cette situation (comme ce que slack a fait avant dans la même situation: https://slackhq.com/an-apology-and-an-update).
+- Nous laisse télécharger nos dépots privés et aussi des les rendrent publics (via les paramètres).
+- Change leur politique de restriction pour ne pas limiter les utilisateurs envers leur nationalité.
+- Annonce leur décision publiquement et de s'excuser pour avoir créer cette situation (comme ce que slack avait fait dans la même situation: https://slackhq.com/an-apology-and-an-update).
 
 ## Projets open-source faits par des développeurs Iraniens
 
-Des examples de projets open-source conçus par des développeurs Iraniens:
+Des exemples de projets open-source conçus par des développeurs Iraniens:
 
 https://github.com/usablica/intro.js
 
@@ -55,14 +55,14 @@ Vous pouvez voir la litre complète [ici](https://github.com/mohebifar/made-in-i
 
 ## Comment vous pouvez nous supporter
 
-Vous pouvez répendre le message là om vous le pouvez, et faire en sorte de garder le Logiciel Libre "comme la Liberté D'Expression".
+Vous pouvez répendre le message là où vous le pouvez, et faire en sorte de garder le Logiciel Libre "comme la Liberté D'Expression".
 Vous pouvez:
 
-- Mettre une étoile à ce repo et le partager sur les réseaux sociaux avec #githubForEveryone.
-- Ajouter une dossier avec votre nom d'utilisateur dans le dossier "together".
-- Écrivez un morceau de code qui écrit "GitHub is for everyone" (dans le language que vous voulez).
-- Créez une pull request.
-- Ajouter votre nom et votre pays dans la sections des Supporters.
+- Mettre une étoile à ce dépot et le partager sur les réseaux sociaux avec #githubForEveryone.
+- Ajouter un dossier avec votre nom d'utilisateur dans le dossier "together".
+- Écrivez un morceau de code qui écrit "GitHub is for everyone" (dans le langage que vous voulez).
+- Créer une pull request.
+- Ajouter votre nom et votre pays dans la sections des supporters.
 
 ## Voir aussi
 
