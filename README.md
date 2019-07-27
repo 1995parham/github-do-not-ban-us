@@ -1,5 +1,6 @@
 # A Message to GitHub
 
+[简体中文](./README-CN.md) | English
 
 ![alt text](./message.png)
 
@@ -217,13 +218,13 @@ You can:
   - Yhlben from China 🇨🇳 ([yhlben](https://github.com/yhlben))
   - Abdus from India 🇮🇳 ([thisisabdus](https://github.com/thisosabdus)
   - Mohammad Alijani from Persia 🇮🇷  ([virtualdemon](https://github.com/virtualdemon))
-  - Abdus from India 🇮🇳 ([thisisabdus](https://github.com/thisosabdus))
   - Rahmanism from Iran 🇮🇷 ([Rahmansim](https://github.com/Rahmanism))  
   - Erfan Mahdavi form Iran ([erfanwd](https://github.com/erfanwd))
   - Mohsen Darestani Farahani from Iran 🇮🇷 ([8lueMeth](https://github.com/8luemeth))
   - Amirerfanr Rafati from Iran 🇮🇷 ([erfanr](https://github.com/erfanr))
   - Ali Bakhtiar from Iran 🇮🇷 ([Faghani](https://github.com/alibakhtiar))
   - Amir Hossein Sojoodi from Iran 🇮🇷 ([amirsojoodi](https://github.com/amirsojoodi))
+  - Rahmanism from Iran 🇮🇷 ([Rahmansim](https://github.com/Rahmanism))
   - Mindaugas Vaitiekūnas from Lithuania 🇱🇹 ([mindaugasw](https://github.com/mindaugasw))
   - Ebrahim Hamzeh from Iran 🇮🇷 ([EbrahimHamzeh](https://github.com/EbrahimHamzeh))
   - binbin huang from China 🇨🇳 ([hbb](https://github.com/nocanstillbb))
@@ -244,3 +245,15 @@ You can:
   - Ali Jalali from Iran 🇮🇷 ([aliprogrammer69](https://github.com/aliprogrammer69/))
   - Aref M Mehr from Iran 🇮🇷 ([arefmq](https://github.com/arefmq/))
   - Shahrokh Mirzayee from Iran 🇮🇷 ([shahrokh-mi](https://github.com/shahrokh-mi))
+  - Sepehr Taghdisian from Iran 🇮🇷 ([septag](https://github.com/septag))
+  - Amin Mirzaee from Iran 🇮🇷 ([hifeamin](https://github.com/hifeamin/))
+  - Sarah Aziziyan from Iran 🇮🇷 ([SarahAziziyan](https://github.com/sarahaziziyan/))
+  - Mohammad Bagherani from Iran 🇮🇷 ([Bagherani](https://github.com/bagherani/))
+  - Aref Hosseini from Iran 🇮🇷 ([arefhosseini](https://github.com/arefhosseini/))
+  - xtlsoft from China 🇨🇳 ([xtlsoft](https://github.com/xtlsoft/))
+  - Mohammad Salek from Iran 🇮🇷 ([MohammadSalek](https://github.com/MohammadSalek))
+  - b1sergiu from Romania 🇷🇴 ([b1sergiu](https://github.com/b1sergiu/))
+  - Mohammad Reza Kamalifard from Iran 🇮🇷 ([Reza Kamalifard](https://github.com/rezakamalifard/))
+  - Andrii Kovalchuk from Ukraine 🇺🇦 ([tieorange](https://github.com/tieorange/))
+  - Scvoet from China 🇨🇳 ([scvoet](https://github.com/scvoet/)
+  - Mehrad Sadeghi from Iran 🇮🇷 ([mehradsadeghi](https://github.com/mehradsadeghi/))
