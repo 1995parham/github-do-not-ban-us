@@ -1,4 +1,4 @@
-# A message to Github
+# A message to GitHub
 
 
 ![alt text](./message.png)
@@ -7,14 +7,14 @@ Tip: You can use [this extension](https://github.com/MohamadKh75/ShutHub) to hid
 
 ## Introduction
 
-Github used to be an open and free platform for everyone, but it has decided to restrict Iranian accounts from contributing and being part of the open-source ecosystem. Although we understand Github might make this decision under the pressure of US government, we were expecting more respectful action from Github.
+GitHub used to be an open and free platform for everyone, but it has decided to restrict Iranian accounts from contributing and being part of the open-source ecosystem. Although we understand GitHub might make this decision under the pressure of US government, we were expecting more respectful action from GitHub.
 
 
-1) Github restricted our access to private repositories suddenly, but at very least we wanted Github to warn us before limiting our access.
+1) GitHub restricted our access to private repositories suddenly, but at very least we wanted GitHub to warn us before limiting our access.
 
-2) Github's team decided to take one step further and restrict us **based on our Nationality** no matter where we are living, while they were able to just restrict our IP addresses like other US-based companies.
+2) GitHub's team decided to take one step further and restrict us **based on our Nationality** no matter where we are living, while they were able to just restrict our IP addresses like other US-based companies.
 
-Eventually, we are hoping that Github's team: 
+Eventually, we are hoping that GitHub's team: 
 - let us download our private repositories and also make them public (setting control).
 - change their restriction policies to not limiting users based on their Nationality.
 - announce their decision publicly and apologize for making this situation (like what slack did before in the same situation: https://slackhq.com/an-apology-and-an-update).
@@ -55,7 +55,7 @@ You can:
 
 - Star and share this repo on social platforms with #githubForEveryone.
 - Add a folder with your username in "together" folder.
-- Write a piece of code that prints "Github is for everyone" (in any language you wish).
+- Write a piece of code that prints "GitHub is for everyone" (in any language you wish).
 - Create a pull request.
 - Add your name and your country to the supporters section.
 
