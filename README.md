@@ -125,6 +125,7 @@ You can:
   - Hamed Mirzaei from Iran 🇮🇷 ([hamedmiir](https://github.com/hamedmiir))
   - Amir Haqiqati ([anewage](https://github.com/anewage))
   - Morteza T. from Iran 🇮🇷 ([yekanchi](https://github.com/yekanchi))
+  - Sarah Akhavan Kazemzadeh ([sarahakhavan](https://github.com/sarahakhavan))
   - WenlongLiu from China 🇨🇳([gitors](https://github.com/gitors))
   - Muhammad Azhdari from 🇮🇷 ([Muhammad Azhdari](https://github.com/mmdaz))
   - Ehsan Ahmadi from Iran 🇮🇷 ([ehsana94](https://github.com/ehsana94))
