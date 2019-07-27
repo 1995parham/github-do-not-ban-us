@@ -1,7 +1,7 @@
 # A Message to GitHub
 
 
-English | [简体中文](./README-CN.md) | [Español ](./README-ES.md) | [Ελληνικά](./README-GR.md) | [Italiano](./README-IT.md) | [Русский](./README-RU.md) | [فارسی](./README-PER.md)| [Française ](./README-FR.MD)
+English | [简体中文](./README-CN.md) | [Español ](./README-ES.md) | [Ελληνικά](./README-GR.md) | [Italiano](./README-IT.md) | [Русский](./README-RU.md) | [فارسی](./README-PER.md) | [Française ](./README-FR.MD)
 
 ![alt text](./message.png)
 
@@ -372,3 +372,7 @@ You can:
 - Mahdi Hosseini from Iran 🇮🇷 ([ghost1372](https://github.com/ghost1372))
 - Daniel Kvasnicka - Czech national living in the US 🇨🇿 & 🇺🇸 ([dkvasnicka](https://github.com/dkvasnicka))
 - Ahmad Habannakeh from 🇸🇾 (https://github.com/abnud1)
+- Mohammad Mahdi Rostamzadeh from Iran 🇮🇷 ([favecode](https://github.com/favecode))
+- Jordan Hart from USA 🇺🇸([jordanhart](https://github.com/jordanhart))
+- Lewis Conroy from Scotlabd ([Lewis Conroy](https://github.com/captainkinney))
+- Nima Amiri from Iran 🇮🇷 ([Nimak](https://github.com/arc92))
