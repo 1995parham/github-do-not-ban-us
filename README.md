@@ -66,7 +66,6 @@ You can:
   - [GitHub starts blocking developers in countries facing US trade sanctions](https://www.zdnet.com/article/github-starts-blocking-developers-in-countries-facing-us-trade-sanctions)
 
 ## Supporters
-  - Seamus Donnellan (donnellan0007) from Straya
   - Conner Orth from 🇳🇱
   - Chris C from 🇱🇺
   - micheleriva from 🇮🇹
@@ -224,8 +223,7 @@ You can:
   - Amirerfanr Rafati from Iran 🇮🇷 ([erfanr](https://github.com/erfanr))
   - Ali Bakhtiar from Iran 🇮🇷 ([Faghani](https://github.com/alibakhtiar))
   - Amir Hossein Sojoodi from Iran 🇮🇷 ([amirsojoodi](https://github.com/amirsojoodi))
-  - Farzad Sharbafian from Iran 🇮🇷 ([farzadshbfn](https://github.com/farzadshbfn/))
-  - Fırat Eşki from Turkey 🇹🇷 ([firateski](https://github.com/firateski))
   - Hamid Rahmani from Iran 🇮🇷 ([hamiiiiiiid](https://github.com/Hamiiiiiiid))  
   - Morteza Nokhodian from 🇩🇪 ([nokhodian](https://github.com/nokhodian))
   - Mohammad Amin Chitgarha from Iran 🇮🇷 ([MAChitgarha](https://github.com/MAChitgarha/))
+  - Mohammad Bagherani from Iran 🇮🇷 ([Bagherani](https://github.com/Bagherani/))
