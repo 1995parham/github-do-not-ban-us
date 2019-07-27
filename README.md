@@ -56,6 +56,7 @@ You can:
 - Write a piece of code that prints "Github is for everyone" (in any language you wish).
 - Create a pull request.
 - Add your name and your country to the supporters section.
+- Upvote this thread in ycombinator: [GitHub Must Be a Free Platform](https://news.ycombinator.com/item?id=20536025)
 
 ## Further Readings
   - [Microsoft enters: GitHub banned Iranian developers!](https://medium.com/@d.aliyamini/microsoft-enters-github-banned-iranian-developers-843f7c60a146)
@@ -179,3 +180,4 @@ You can:
   - Erfan Gholizade from the IRAN 🇮🇷 ([erfantkerfan](https://github.com/erfantkerfan))
   - Vincent Weevers from the Netherlands 🇳🇱 ([vweevers](https://github.com/vweevers))
   - Mohammad Javad Naderi from Iran 🇮🇷 ([mjnaderi](https://github.com/mjnaderi))
+  - Hassan Nikaein from Iran 🇮🇷 ([hnikaein](https://github.com/hnikaein))
