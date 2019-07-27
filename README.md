@@ -251,6 +251,7 @@ You can:
 - Morteza Nokhodian from 🇩🇪 ([nokhodian](https://github.com/nokhodian))
 - Caspian Baska from Australia 🇦🇺 ([caspiano](https://github.com/caspiano))
 - Mohammad Amin Chitgarha from Iran 🇮🇷 ([MAChitgarha](https://github.com/MAChitgarha/))
+- Nima Amiri from Iran 🇮🇷 ([MAChitgarha](https://github.com/arc92))
 - Farshad Jahanmanesh from Iran 🇮🇷 ([farshadjahanmanesh](https://github.com/farshadjahanmanesh/))
 - Saeed Salhi from Iran 🇮🇷 ([1SaeedSalehi](https://github.com/1saeedsalehi/))
 - Naser Nourani from Iran 🇮🇷 ([MAChitgarha](https://github.com/nnourani/))
