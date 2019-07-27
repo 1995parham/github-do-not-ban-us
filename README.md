@@ -34,7 +34,7 @@ https://github.com/morteza/bootstrap-rtl
 
 https://github.com/ilius/pyglossary
 
-https://github.com/TheSNAKY/WatchTower
+https://github.com/TheSNAKY/Lives
 
 https://github.com/sasanrose/phpredmin
 
