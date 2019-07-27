@@ -293,3 +293,4 @@ You can:
   - Jason Kraus from United States 🇺🇸 ([zbyte64](https://github.com/zbyte64))
   - Mrloder from Spain 🇪🇸
   - MatteoPieroni from Italy 🇮🇹 ([MatteoPieroni](https://github.com/matteopieroni))
+  - Abdelhak Bougouffa from Algeria 🇩🇿 ([abougouffa](https://abougouffa.github.io))
