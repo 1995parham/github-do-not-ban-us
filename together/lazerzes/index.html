@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+
+    <head>
+        <link href="https://fonts.googleapis.com/css?family=Sawarabi+Mincho&display=swap" rel="stylesheet">
+
+        <title>GITHUB IS FOR EVERYONE</title>
+        <script type="text/javascript">
+            function write(){
+                for (let index = 0; index < 2500; index++) {
+                    if (index == 0){
+                        document.getElementById("content").innerHTML="GitHub is for everyone. GitHubは皆のためのものです。GitHub est pour tout le monde. "
+                    }else{
+                        document.getElementById("content").innerHTML=document.getElementById("content").innerHTML+"GitHub is for everyone. GitHubは皆のためのものです。GitHub est pour tout le monde. "
+                    }
+                }
+            }
+
+        </script>
+    </head>
+    <body onload="write()">
+        <p id="content" style="font-family: 'Sawarabi Mincho', sans-serif;">Loading...</p>
+    </body>
+
+</html>
