@@ -371,3 +371,4 @@ You can:
 - Karol Kulik from Poland pl  ([MrK191](https://github.com/MrK191))
 - Mahdi Hosseini from Iran 🇮🇷 ([ghost1372](https://github.com/ghost1372))
 - Daniel Kvasnicka - Czech national living in the US 🇨🇿 & 🇺🇸 ([dkvasnicka](https://github.com/dkvasnicka))
+- Ahmad Habannakeh from 🇸🇾 (https://github.com/abnud1)
