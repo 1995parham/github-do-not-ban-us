@@ -1,6 +1,6 @@
 # Un messaggio a GitHub
 
-[English](./README.md) | [简体中文](./README-CN.md) | [Spanish](./README-ES.md) | Italiano | [Русский](./README-RU.md)
+[English](./README.md) | [简体中文](./README-CN.md) | [Spanish](./README-ES.md) | Italiano | [Русский](./README-RU.md) | [Deutsch](./README-DE.md)
 
 ![alt text](./message.png)
 
@@ -69,5 +69,5 @@ Tu puoi:
   - [GitHub starts blocking developers in countries facing US trade sanctions](https://www.zdnet.com/article/github-starts-blocking-developers-in-countries-facing-us-trade-sanctions)
 
 ## Supporter
- 
+
 [README.md](README.md#supporters)
