@@ -391,3 +391,4 @@ You can:
 - Isabelle L. from USA 🇺🇸 ([ilsko](https://github.com/ilsko))
 - Mavromatakis Dimitris from Greece 🇬🇷 ([damavrom](https://gitlab.com/damavrom))
 - Piotr Kazimierski from Poland 🇵🇱 ([inquis1t0r](https://github.com/Inquis1t0r/))
+- Ravi from India 🇮🇳 ([xolve](https://github.com/xolve))
