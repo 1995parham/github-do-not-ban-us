@@ -8,7 +8,6 @@ Tip: You can use [this extension](https://github.com/JafarAkhondali/remove-githu
 
 ![github-octocat](https://user-images.githubusercontent.com/16706911/61997137-7aa7df00-b0b2-11e9-97f1-f452855fe21c.png)
 
-
 ## Introduction
 
 GitHub used to be an open and free platform for everyone, but it has decided to restrict Iranian accounts from contributing and being part of the open-source ecosystem. Although we understand GitHub might make this decision under the pressure of US government, we were expecting more respectful action from GitHub.
@@ -299,6 +298,7 @@ You can:
 - Jason Kraus from United States 🇺🇸 ([zbyte64](https://github.com/zbyte64))
 - Nabil Tharwat from Egypt 🇪🇬 ([KL13NT](https://github.com/KL13NT))
 - Mrloder from Spain 🇪🇸
+- Houari ZEGAI from Algeria 🇩🇿 [HouariZegai](https://github.com/HouariZegai)
 - Hamid R. K. PishGhadam from Iran 🇮🇷 ([hamidrezakp](https://github.com/hamidrezakp))
 - Morteza Omidian Iran 🇮🇷
 - A C Sreedhar Reddy from India 🇮🇳 ([a-c-sreedhar-reddy](https://github.com/a-c-sreedhar-reddy))
@@ -306,7 +306,7 @@ You can:
 - Matthew Parnell from England 🇬🇧 ([parnmatt GitLab](https://gitlab.com/parnmatt), [parnmatt GitHub](https://github.com/parnmatt))
 - Imed Adel from Tunisia 🇹🇳 ([ImedAdel](https://github.com/ImedAdel))
 - Praveen Kumar Saini from India 🇮🇳 ([praveen-me](https://github.com/praveen-me))
-- Mahuton from Bénin 🇧🇯  ([Mahuton](https://github.com/Mahuton))
+- Mahuton from Bénin 🇧🇯 ([Mahuton](https://github.com/Mahuton))
 - Hamed Zargaripour from Iran 🇮🇷 ([zargaripour](https://github.com/zargaripour))
 - George Ho from Hong Kong 🇭🇰([eigenfoo](https://github.com/eigenfoo))
 - Muhammad Babayi from Iran 🇮🇷 ([chiefmb](https://github.com/chiefmb))
@@ -340,5 +340,8 @@ You can:
 - Lpmvb from 🇨🇳
 - NabilTheNoise from Iran 🇮🇷 ([Dragon96nfs](https://github.com/dragon96nfs))
 - Heman from the US ([hemangandhi](https://github.com/hemangandhi/)
+- KT from 🇨🇳 & 🇺🇸 ([KTachibanaM](https://github.com/KTachibanaM/))
 - Vincent Hyvert from France ([vinceh121](https://github.com/vinceh121/))
+- Vincent Hyvert from France ([vinceh121](https://github.com/vinceh121/))
+- Samundra Khatri from Nepal 🇳🇵 ([samundrak](https://github.com/samundrak))
 - Tobias aka. TheDevMinerTV from Germany 🇩🇪 ([TheDevMinerTV](https://github.com/TheDevMinerTV/))
