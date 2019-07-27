@@ -225,7 +225,7 @@ You can:
 - Hamidreza Moallem Taheri 🇮🇷 ([hrmt2000](https://github.com/hrmt2000))
 - Seyed Morteza Kamali from Iran 🇮🇷 ([Kamali](https://github.com/smkplus))
 - Iman Heydarifrom Iran IR ([hamyarwoo](https://github.com/hamyarwoo))
-- Bohan Wang from China 🇨🇳 ([Cygra](https://github.com/Cygra))
+- Reza Aghajani from Iran 🇮🇷 ([jrezaw](https://github.com/jrezaw))
 - Yanshigou from China 🇨🇳 ([yanshigou](https://github.com/yanshigou))
 - Alireza Faghani from Iran 🇮🇷 ([Faghani](https://github.com/faghani))
 - Erkan Özkök from Turkey 🇹🇷 ([nozkok](https://github.com/nozkok))
