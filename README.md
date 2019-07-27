@@ -1,10 +1,10 @@
 # A Message to GitHub
 
-[简体中文](./README-CN.md) | English
+[简体中文](./README-CN.md) | [Spanish](./README-ES.md) | English 
 
 ![alt text](./message.png)
 
-Tip: You can use [this extension](https://github.com/MohamadKh75/ShutHub) to hide it!
+Tip: You can use [this extension](https://github.com/MohamadKh75/ShutHub) to hide this yellow box!
 
 ## Introduction
 
@@ -210,6 +210,7 @@ You can:
   - Mahdi Salmanzadeh from Iran 🇮🇷 ([Salmanzadeh](https://github.com/mahdisn76))
   - Seyed Ali Shahrokhi from Iran 🇮🇷 ([Alishahrokhiii](https://github.com/Alishahrokhiii))
   - Sina Dalvand from Iran 🇮🇷 ([sinadalvand](https://github.com/sinadalvand))
+  - Mohammad Mahabadi from Iran 🇮🇷 ([thisismahabadi](https://github.com/thisismahabadi))
   - Bohan Wang from China 🇨🇳 ([Cygra](https://github.com/Cygra))
   - AmirhoseiN Aliakbarian Iran 🇮🇷 ([amirhoseinaliakbarian](https://github.com/amirhoseinaliakbarian))
   - Hamidreza Moallem Taheri 🇮🇷 ([hrmt2000](https://github.com/hrmt2000))
@@ -244,6 +245,7 @@ You can:
   - Fırat Eşki from Turkey 🇹🇷 ([firateski](https://github.com/firateski))
   - Hamid Rahmani from Iran 🇮🇷 ([hamiiiiiiid](https://github.com/Hamiiiiiiid))
   - Morteza Nokhodian from 🇩🇪 ([nokhodian](https://github.com/nokhodian))
+  - Caspian Baska from Australia 🇦🇺 ([caspiano](https://github.com/caspiano))
   - Mohammad Amin Chitgarha from Iran 🇮🇷 ([MAChitgarha](https://github.com/MAChitgarha/))
   - Farshad Jahanmanesh from Iran 🇮🇷 ([farshadjahanmanesh](https://github.com/farshadjahanmanesh/))
   - Saeed Salhi from Iran 🇮🇷 ([1SaeedSalehi](https://github.com/1saeedsalehi/))
@@ -272,7 +274,7 @@ You can:
   - b1sergiu from Romania 🇷🇴 ([b1sergiu](https://github.com/b1sergiu/))
   - Mohammad Reza Kamalifard from Iran 🇮🇷 ([Reza Kamalifard](https://github.com/rezakamalifard/))
   - Andrii Kovalchuk from Ukraine 🇺🇦 ([tieorange](https://github.com/tieorange/))
-  - Scvoet from China 🇨🇳 ([scvoet](https://github.com/scvoet/)
+  - Scvoet from China 🇨🇳 ([scvoet](https://github.com/scvoet/))
   - Mehrad Sadeghi from Iran 🇮🇷 ([mehradsadeghi](https://github.com/mehradsadeghi/))
   - Dylan Cutler from United States 🇺🇸 ([DCtheTall](https://github.com/DCtheTall))
   - Fateme Bahrami from  Iran 🇮🇷 ([fatibahrami771998](https://github.com/fatibahrami771998))
@@ -285,3 +287,6 @@ You can:
   - Alireza Zerafati from Iran 🇮🇷 ([azerafati](https://github.com/azerafati))
   - Hamid from Iran 🇮🇷 ([progHamid](https://github.com/progHamid/)
   - Heman from the US ([hemangandhi](https://github.com/hemangandhi/)
+  - Axel Rindle from Germany 🇩🇪 ([axelrindle](https://github.com/axelrindle))
+  - Jason Kraus from United States 🇺🇸 ([zbyte64](https://github.com/zbyte64))
+  - Mrloder from Spain 🇪🇸
