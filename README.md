@@ -71,7 +71,6 @@ You can:
 - [GitHub starts blocking developers in countries facing US trade sanctions](https://www.zdnet.com/article/github-starts-blocking-developers-in-countries-facing-us-trade-sanctions)
 
 ## Supporters
-
 - Daniil Gentili ([danog](https://github.com/danog)) from 🇮🇹 + 🇷🇺
 - Seamus Donnellan (donnellan0007) from Straya
 - Conner Orth from 🇳🇱
@@ -291,6 +290,7 @@ You can:
 - Daniel Caldas from Portugal 🇵🇹 ([danielcaldas](https://github.com/danielcaldas))
 - Alireza Zerafati from Iran 🇮🇷 ([azerafati](https://github.com/azerafati))
 - Hamid from Iran 🇮🇷 ([progHamid](https://github.com/progHamid/)
+- [Ron](https://github.com/ron-wolf) with ❤️ from the U. S. 🇺🇸 and Israel 🇮🇱
 - Axel Rindle from Germany 🇩🇪 ([axelrindle](https://github.com/axelrindle))
 - Jason Kraus from United States 🇺🇸 ([zbyte64](https://github.com/zbyte64))
 - Nabil Tharwat from Egypt 🇪🇬 ([KL13NT](https://github.com/KL13NT))
