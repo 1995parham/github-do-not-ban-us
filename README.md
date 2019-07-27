@@ -328,5 +328,6 @@ You can:
 - Mahdi Dibaiee from Iran 🇮🇷 ([mdibaiee](https://github.com/mdibaiee))
 - Alejandro González-Pérez from 🇪🇸 ([algope](https://github.com/algope))
 - Persian Prince from Iran 🇮🇷 ([persianpros](https://github.com/persianpros))
+- Hadi Mahdavi from Iran 🇮🇷 ([IoT](https://github.com/expandboard))
 - Farshid Roohi from Iran 🇮🇷 ([farshidroohi](https://github.com/farshidroohi))
 - Soroush Chehresa from Iran 🇮🇷 ([soroushchehresa](https://github.com/soroushchehresa))
