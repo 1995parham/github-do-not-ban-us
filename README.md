@@ -210,6 +210,7 @@ You can:
   - Seyed Morteza Kamali from Iran 🇮🇷 ([Kamali](https://github.com/smkplus))  
   - Iman Heydarifrom Iran IR ([hamyarwoo](https://github.com/hamyarwoo))
   - Bohan Wang from China 🇨🇳 ([Cygra](https://github.com/Cygra))
+  - Yanshigou from China 🇨🇳 ([yanshigou](https://github.com/yanshigou))
   - Alireza Faghani from Iran 🇮🇷 ([Faghani](https://github.com/faghani))
   - Erkan Özkök from Turkey 🇹🇷 ([nozkok](https://github.com/nozkok))
   - Yhlben from China 🇨🇳 ([yhlben](https://github.com/yhlben))
