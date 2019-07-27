@@ -247,3 +247,5 @@ You can:
   - Amin Mirzaee from Iran 🇮🇷 ([hifeamin](https://github.com/hifeamin/))
   - Sarah Aziziyan from Iran 🇮🇷 ([SarahAziziyan](https://github.com/sarahaziziyan/))
   - b1sergiu from Romania 🇷🇴 ([b1sergiu](https://github.com/b1sergiu/))
+  - Mohammad Reza Kamalifard from Iran 🇮🇷 ([Reza Kamalifard](https://github.com/rezakamalifard/))
+  - Andrii Kovalchuk from Ukraine 🇺🇦 ([tieorange](https://github.com/tieorange/))
