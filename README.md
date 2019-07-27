@@ -1,4 +1,4 @@
-# A message to GitHub
+# A Message to GitHub
 
 
 ![alt text](./message.png)
