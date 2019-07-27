@@ -238,3 +238,4 @@ You can:
   - Pouya Kary from Iran 🇮🇷 ([pmkary](https://github.com/pmkary/))
   - Milad Barazandeh from Iran 🇮🇷 ([miladbarazandeh](https://github.com/miladbarazandeh/))
   - Mohammad Amin Chitgarha from Iran 🇮🇷 ([MAChitgarha](https://github.com/MAChitgarha/))
+  - Himself65 from China 🇨🇳 ([Himself65](https://github.com/himself65/))
