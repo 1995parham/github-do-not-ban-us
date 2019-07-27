@@ -79,6 +79,7 @@ You can:
 
 - [GitHub banned all Iranian users.](https://www.reddit.com/r/programming/comments/ciey8g/github_banned_all_iranian_users_our_accounts_are/) on Reddit
 - [Hamed Saeedi :Today @github blocked my access](https://twitter.com/Hamed/status/1154268514074660864?s=19) on Twitter
+- [Behdad Esfahbod: So, recently @github has started disabling accounts of Iranian developers](https://twitter.com/behdadesfahbod/status/1154755351092158465?s=19) on Twitter
 
 ## Supporters
 - Daniil Gentili ([danog](https://github.com/danog)) from 🇮🇹 + 🇷🇺
