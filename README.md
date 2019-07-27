@@ -14,7 +14,7 @@ GitHub used to be an open and free platform for everyone, but it has decided to 
 
 2) GitHub's team decided to take one step further and restrict us **based on our Nationality** no matter where we are living, while they were able to just restrict our IP addresses like other US-based companies.
 
-Eventually, we are hoping that GitHub's team: 
+Eventually, we are hoping that GitHub's team:
 - let us download our private repositories and also make them public (setting control).
 - change their restriction policies to not limiting users based on their Nationality.
 - announce their decision publicly and apologize for making this situation (like what slack did before in the same situation: https://slackhq.com/an-apology-and-an-update).
@@ -219,7 +219,7 @@ You can:
   - Mohammad Alijani from Persia 🇮🇷  ([virtualdemon](https://github.com/virtualdemon))
   - Abdus from India 🇮🇳 ([thisisabdus](https://github.com/thisosabdus))
   - Rahmanism from Iran 🇮🇷 ([Rahmansim](https://github.com/Rahmanism))  
-  - Erfan Mahdavi form Iran ([erfanwd](https://github.com/erfanwd)) 
+  - Erfan Mahdavi form Iran ([erfanwd](https://github.com/erfanwd))
   - Mohsen Darestani Farahani from Iran 🇮🇷 ([8lueMeth](https://github.com/8luemeth))
   - Amirerfanr Rafati from Iran 🇮🇷 ([erfanr](https://github.com/erfanr))
   - Ali Bakhtiar from Iran 🇮🇷 ([Faghani](https://github.com/alibakhtiar))
@@ -233,3 +233,4 @@ You can:
   - Hamid Rahmani from Iran 🇮🇷 ([hamiiiiiiid](https://github.com/Hamiiiiiiid))  
   - Morteza Nokhodian from 🇩🇪 ([nokhodian](https://github.com/nokhodian))
   - Mohammad Amin Chitgarha from Iran 🇮🇷 ([MAChitgarha](https://github.com/MAChitgarha/))
+  - Mohammad Ali Sadraei from Iran 🇮🇷 ([mohalisad](https://github.com/mohalisad/))
