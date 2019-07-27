@@ -1,0 +1,11 @@
+# encoding=utf-8
+# python3
+
+my_opinion = """Github是全球最大的开源平台，招揽了一大批世界各地热爱并遵守开源协议的人和组织。
+我不希望Github变成极客们不喜欢的样子。
+谨以此表达我对Github此次行为（对地域、民族等不公平对待）的强烈不满。
+GitHub is for everyone!
+"""
+
+if __name__ == "__main__":
+    print(my_opinion)
