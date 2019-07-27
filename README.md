@@ -181,4 +181,5 @@ You can:
   - Vincent Weevers from the Netherlands 🇳🇱 ([vweevers](https://github.com/vweevers))
   - Mohammad Javad Naderi from Iran 🇮🇷 ([mjnaderi](https://github.com/mjnaderi))
   - Hassan Nikaein from Iran 🇮🇷 ([hnikaein](https://github.com/hnikaein))
+  - Ali Tavafi from Iran 🇮🇷 ([Tavafi](https://github.com/Tavafi))
   - Saeed Mohagheghi from Iran 🇮🇷 ([saeedmhq](https://github.com/saeedmhq))
