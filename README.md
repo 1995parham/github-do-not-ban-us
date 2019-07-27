@@ -160,7 +160,7 @@ You can:
   - Muhammad Azhdari from 🇮🇷 ([Muhammad Azhdari](https://github.com/mmdaz))
   - Ehsan Ahmadi from Iran 🇮🇷 ([ehsana94](https://github.com/ehsana94))
   - Ali Farazdaghi from Iran 🇮🇷 ([alifarazz](https://github.com/alifarazz))
-  - Michael Power from Canada ([mwpower](https://github.com/mwpower))
+  - Michael Power from Canada 🇨🇦 ([mwpower](https://github.com/mwpower))
   - Mehran Rafiee from Iran 🇮🇷 ([mehran75](https://github.com/mehran75))
   - Mateus Gabi Moreira from Brazil 🇧🇷 ([mateusgabi](https://github.com/mateusgabi))
   - Matheus Graciano from Brazil 🇧🇷 ([graciano](https://github.com/graciano))
