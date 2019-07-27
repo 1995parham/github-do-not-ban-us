@@ -15,7 +15,7 @@ Github used to be an open and free platform for everyone, but it has decided to 
 2) Github's team decided to take one step further and restrict us **based on our Nationality** no matter where we are living, while they were able to just restrict our IP addresses like other US-based companies.
 
 Eventually, we are hoping that Github's team: 
-- let us download our private repositories and also make them public(setting control).
+- let us download our private repositories and also make them public (setting control).
 - change their restriction policies to not limiting users based on their Nationality.
 - announce their decision publicly and apologize for making this situation (like what slack did before in the same situation: https://slackhq.com/an-apology-and-an-update).
 
@@ -66,22 +66,22 @@ You can:
   - [GitHub starts blocking developers in countries facing US trade sanctions](https://www.zdnet.com/article/github-starts-blocking-developers-in-countries-facing-us-trade-sanctions)
 
 ## Supporters
-  - Conner Orth from 🇳🇱 
-  - Chris C from 🇱🇺 
-  - micheleriva from 🇮🇹 
-  - Angel Uniminin from 🇮🇸 
-  - Fahim from 🇧🇩 
-  - divinity1437 from 🇷🇺 
-  - Enzo from 🇫🇷 
-  - Appadeia from 🇺🇸 
-  - Alexander Shelepenok from 🇧🇾 
-  - Ran Luo from 🇨🇳 
+  - Conner Orth from 🇳🇱
+  - Chris C from 🇱🇺
+  - micheleriva from 🇮🇹
+  - Angel Uniminin from 🇮🇸
+  - Fahim from 🇧🇩
+  - divinity1437 from 🇷🇺
+  - Enzo from 🇫🇷
+  - Appadeia from 🇺🇸
+  - Alexander Shelepenok from 🇧🇾
+  - Ran Luo from 🇨🇳
   - Zhu Zihao from China 🇨🇳 ([cireu](https://github.com/cireu))
   - 88250 from 🇨🇳 ([88250](https://github.com/88250))
-  - mighty9245 from 🇷🇺 
-  - speccius from 🇬🇧 
-  - Benjamin Hogué from 🇬🇵 
-  - fredddie from 🇲🇽 
+  - mighty9245 from 🇷🇺
+  - speccius from 🇬🇧
+  - Benjamin Hogué from 🇬🇵
+  - fredddie from 🇲🇽
   - Sadra Hallaj from Iran 🇮🇷([sadrahallaj](https://github.com/sadrahallaj))
   - 1995parham from Iran 🇮🇷 ([1995parham](https://github.com/1995parham))
   - pesehr from Iran 🇮🇷 ([pesehr](https://github.com/pesehr))
@@ -205,6 +205,8 @@ You can:
   - Mahdi Salmanzadeh from Iran 🇮🇷 ([Salmanzadeh](https://github.com/mahdisn76))
   - Seyed Ali Shahrokhi from Iran 🇮( [Alishahrokhiii] (https://github.com/Alishahrokhiii))
   - Sina Dalvand from Iran 🇮🇷 ([sinadalvand](https://github.com/sinadalvand))
+  - Seyed Morteza Kamali from Iran 🇮🇷 ([Kamali](https://github.com/smkplus))
+  - Bohan Wang from China 🇨🇳 ([Cygra](https://github.com/Cygra))
   - AmirhoseiN Aliakbarian Iran 🇮🇷 ([amirhoseinaliakbarian](https://github.com/amirhoseinaliakbarian))
   - Hamidreza Moallem Taheri 🇮🇷 ([hrmt2000](https://github.com/hrmt2000))
   - Seyed Morteza Kamali from Iran 🇮🇷 ([Kamali](https://github.com/smkplus))  
@@ -217,7 +219,10 @@ You can:
   - Abdus from India 🇮🇳 ([thisisabdus](https://github.com/thisosabdus)
   - Mohammad Alijani from Persia 🇮🇷  ([virtualdemon](https://github.com/virtualdemon))
   - Abdus from India 🇮🇳 ([thisisabdus](https://github.com/thisosabdus))
+  - Mohsen Darestani Farahani from Iran 🇮🇷 ([8lueMeth](https://github.com/8luemeth))
+  - Amirerfanr Rafati from Iran 🇮🇷 ([erfanr](https://github.com/erfanr))
   - Ali Bakhtiar from Iran 🇮🇷 ([Faghani](https://github.com/alibakhtiar))
   - Amir Hossein Sojoodi from Iran 🇮🇷 ([amirsojoodi](https://github.com/amirsojoodi))
   - Rahmanism from Iran 🇮🇷 ([Rahmansim](https://github.com/Rahmanism))
   - Fırat Eşki from Turkey 🇹🇷 ([firateski](https://github.com/firateski))
+  - Mohammad Amin Chitgarha from Iran 🇮🇷 ([MAChitgarha](https://github.com/MAChitgarha/))
