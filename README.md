@@ -380,7 +380,7 @@ You can:
 - Ahmad Habannakeh from Syria 🇸🇾 (https://github.com/abnud1)
 - Mohammad Mahdi Rostamzadeh from Iran 🇮🇷 ([favecode](https://github.com/favecode))
 - Jordan Hart from USA 🇺🇸 ([jordanhart](https://github.com/jordanhart))
-- Lewis Conroy from Scotland :sc: ([Lewis Conroy](https://github.com/captainkinney))
+- Lewis Conroy from Scotland ([Lewis Conroy](https://github.com/captainkinney))
 - Nima Amiri from Iran 🇮🇷 ([Nimak](https://github.com/arc92))
 - Tyler from USA 🇺🇸 ([arctair](https://github.com/arctair))
 - Andreas Basurto from USA 🇺🇸 ([nitrohorse](https://github.com/nitrohorse))
