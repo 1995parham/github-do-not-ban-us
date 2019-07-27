@@ -188,4 +188,5 @@ You can:
   - Omid Rafiee from Iran 🇮🇷 ([OmidRafiee](https://github.com/OmidRafiee))
   - Ali Tavafi from Iran 🇮🇷 ([Tavafi](https://github.com/Tavafi))
   - Saeed Mohagheghi from Iran 🇮🇷 ([saeedmhq](https://github.com/saeedmhq))
+  - Ali Yazdi from Iran 🇮🇷 ([aliyazdi75](https://github.com/aliyazdi75))
   - Seyed Morteza Kamali from Iran 🇮🇷 ([Kamali](https://github.com/smkplus))
