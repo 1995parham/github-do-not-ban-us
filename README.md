@@ -284,4 +284,5 @@ You can:
   - Daniel Caldas from Portugal 🇵🇹 ([danielcaldas](https://github.com/danielcaldas))
   - Alireza Zerafati from Iran 🇮🇷 ([azerafati](https://github.com/azerafati))
   - Hamid from Iran 🇮🇷 ([progHamid](https://github.com/progHamid/)
+  - Jason Kraus from United States 🇺🇸 ([zbyte64](https://github.com/zbyte64))
   - Mrloder from Spain 🇪🇸
