@@ -292,6 +292,7 @@ You can:
   - Axel Rindle from Germany 🇩🇪 ([axelrindle](https://github.com/axelrindle))
   - Jason Kraus from United States 🇺🇸 ([zbyte64](https://github.com/zbyte64))
   - Mrloder from Spain 🇪🇸
+  - Orestis Ousoultzoglou from Greece 🇬🇷 ([xlxs4](https://github.com/xlxs4))
   - Armin Monirzadeh from Iran 🇮🇷 ([arminmon](https://github.com/arminmon/)
   - Angus L. Fraser from 🇬🇧
   - MatteoPieroni from Italy 🇮🇹 ([MatteoPieroni](https://github.com/matteopieroni))
