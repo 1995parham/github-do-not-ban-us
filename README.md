@@ -164,3 +164,4 @@ You can:
   - Mohammad Ali Toufighi from Iran 🇮🇷 ([alitoufighi](https://github.com/alitoufighi))
   - Mostafa Rowghanian from Iran 🇮🇷 ([keomd](https://github.com/mostafatech))
   - Duncan Sparks from the U.S. 🇺🇸 ([DuncanSparks](https://github.com/DuncanSparks))
+  - Vincent Weevers from the Netherlands 🇳🇱 ([vweevers](https://github.com/vweevers))
