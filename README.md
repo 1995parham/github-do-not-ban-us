@@ -277,7 +277,7 @@ You can:
   - Scvoet from China 🇨🇳 ([scvoet](https://github.com/scvoet/))
   - Mehrad Sadeghi from Iran 🇮🇷 ([mehradsadeghi](https://github.com/mehradsadeghi/))
   - Dylan Cutler from United States 🇺🇸 ([DCtheTall](https://github.com/DCtheTall))
-  - Fateme Bahrami from  Iran 🇮🇷 ([fatibahrami771998](https://github.com/fatibahrami771998))
+  - Fateme Bahrami from Iran 🇮🇷 ([fatibahrami771998](https://github.com/fatibahrami771998))
   - Saleh from Saudi 🇸🇦 ([qirh](https://github.com/qirh/))
   - Hesam Kaveh from Iran 🇮🇷 ([hesamkaveh](https://github.com/hesamkaveh/))
   - Mohammad Ghonchesefidi from Iran 🇮🇷 ([ghonchesefidi](https://github.com/gonchesefidi))
