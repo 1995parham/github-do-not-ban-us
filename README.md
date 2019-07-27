@@ -238,7 +238,7 @@ You can:
 - Ali Bakhtiar from Iran 🇮🇷 ([alibakhtiar](https://github.com/alibakhtiar))
 - Abdus from India 🇮🇳 ([thisisabdus](https://github.com/thisosabdus)
 - Mohammad Alijani from Persia 🇮🇷 ([virtualdemon](https://github.com/virtualdemon))
-- Rahmanism from Iran 🇮🇷 ([Rahmansim](https://github.com/Rahmanism))
+- Laster K. ([lazerl0rd](https://github.com/lazerl0rd)
 - Erfan Mahdavi form Iran ([erfanwd](https://github.com/erfanwd))
 - Mohsen Darestani Farahani from Iran 🇮🇷 ([8lueMeth](https://github.com/8luemeth))
 - Amirerfanr Rafati from Iran 🇮🇷 ([erfanr](https://github.com/erfanr))
