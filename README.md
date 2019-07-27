@@ -22,6 +22,7 @@ Eventually, we are hoping that GitHub's team:
 - let us download our private repositories and also make them public (setting control).
 - change their restriction policies to not limiting users based on their Nationality.
 - announce their decision publicly and apologize for making this situation (like what slack did before in the same situation: https://slackhq.com/an-apology-and-an-update).
+- Unfortunately, this is not the first time that Iranians have been discriminated against because of their nationality. For two       years, Iranians are not able to access Coursera online courses. Iranians can not access any of the courses related to the computer of this site. (https://www.coursera.org/)
 
 ## Open-source projects made by Iranian developers
 
@@ -238,7 +239,7 @@ You can:
 - Ali Bakhtiar from Iran 🇮🇷 ([alibakhtiar](https://github.com/alibakhtiar))
 - Abdus from India 🇮🇳 ([thisisabdus](https://github.com/thisosabdus)
 - Mohammad Alijani from Persia 🇮🇷 ([virtualdemon](https://github.com/virtualdemon))
-- Laster K. ([lazerl0rd](https://github.com/lazerl0rd)
+- Rahmanism from Iran 🇮🇷 ([Rahmansim](https://github.com/Rahmanism))
 - Erfan Mahdavi form Iran ([erfanwd](https://github.com/erfanwd))
 - Mohsen Darestani Farahani from Iran 🇮🇷 ([8lueMeth](https://github.com/8luemeth))
 - Amirerfanr Rafati from Iran 🇮🇷 ([erfanr](https://github.com/erfanr))
@@ -257,7 +258,6 @@ You can:
 - Farzad Sharbafian from Iran 🇮🇷 ([farzadshbfn](https://github.com/farzadshbfn/))
 - Fırat Eşki from Turkey 🇹🇷 ([firateski](https://github.com/firateski))
 - Hamid Rahmani from Iran 🇮🇷 ([hamiiiiiiid](https://github.com/Hamiiiiiiid))
-- mrtarkhan From Iran 🇮🇷 ([mrtarkhan](https://github.com/mrtarkhan))  
 - Morteza Nokhodian from 🇩🇪 ([nokhodian](https://github.com/nokhodian))
 - Barzin Assa from Iran 🇮🇷 ([Barzin144](https://github.com/barzin144))
 - Caspian Baska from Australia 🇦🇺 ([caspiano](https://github.com/caspiano))
