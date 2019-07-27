@@ -1,7 +1,6 @@
 # A Message to GitHub
 
-
-English | [简体中文](./README-CN.md) | [Spanish](./README-ES.md) | [Ελληνικά](./README-GR.md) | [Italiano](./README-IT.md) | [Русский](./README-RU.md) | [فارسی](./README-PER.md)
+English | [简体中文](./README-CN.md) | [Español ](./README-ES.md) | [Ελληνικά](./README-GR.md) | [Italiano](./README-IT.md) | [Русский](./README-RU.md) | [فارسی](./README-PER.md)| [Française ](./README-FR.MD)
 
 ![alt text](./message.png)
 
@@ -225,7 +224,7 @@ You can:
 - Hamidreza Moallem Taheri 🇮🇷 ([hrmt2000](https://github.com/hrmt2000))
 - Seyed Morteza Kamali from Iran 🇮🇷 ([Kamali](https://github.com/smkplus))
 - Iman Heydarifrom Iran IR ([hamyarwoo](https://github.com/hamyarwoo))
-- Bohan Wang from China 🇨🇳 ([Cygra](https://github.com/Cygra))
+- Reza Aghajani from Iran 🇮🇷 ([jrezaw](https://github.com/jrezaw))
 - Yanshigou from China 🇨🇳 ([yanshigou](https://github.com/yanshigou))
 - Alireza Faghani from Iran 🇮🇷 ([Faghani](https://github.com/faghani))
 - Erkan Özkök from Turkey 🇹🇷 ([nozkok](https://github.com/nozkok))
@@ -257,6 +256,7 @@ You can:
 - Caspian Baska from Australia 🇦🇺 ([caspiano](https://github.com/caspiano))
 - Saeid Doroudi from Iran 🇮🇷 ([doroudi](https://github.com/doroudi))
 - Mohammad Amin Chitgarha from Iran 🇮🇷 ([MAChitgarha](https://github.com/MAChitgarha/))
+- Anand Chowdhary from 🇮🇳🇳🇱 ([AnandChowdhary](https://github.com/AnandChowdhary))
 - Nima Amiri from Iran 🇮🇷 ([MAChitgarha](https://github.com/arc92))
 - Farshad Jahanmanesh from Iran 🇮🇷 ([farshadjahanmanesh](https://github.com/farshadjahanmanesh/))
 - Saeed Salhi from Iran 🇮🇷 ([1SaeedSalehi](https://github.com/1saeedsalehi/))
@@ -350,4 +350,5 @@ You can:
 - KT from 🇨🇳 & 🇺🇸 ([KTachibanaM](https://github.com/KTachibanaM/))
 - Vincent Hyvert from France ([vinceh121](https://github.com/vinceh121/))
 - Samundra Khatri from Nepal 🇳🇵 ([samundrak](https://github.com/samundrak))
+- Ajithkumar from India 🇮🇳 ([ajithkumarsekar](https://github.com/Ajithkumarsekar)
 - Tobias aka. TheDevMinerTV from Germany 🇩🇪 ([TheDevMinerTV](https://github.com/TheDevMinerTV/))
