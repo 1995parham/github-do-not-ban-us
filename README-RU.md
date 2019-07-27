@@ -1,6 +1,6 @@
 # Сообщение для GitHub
 
-[English](./README.md) | [简体中文](./README-CN.md) | [Spanish](./README-ES.md) | [Ελληνικά](./README-GR.md) | [Italiano](./README-IT.md) | Русский
+[English](./README.md) | [简体中文](./README-CN.md) | [Spanish](./README-ES.md) | [Ελληνικά](./README-GR.md) | [Italiano](./README-IT.md) | Русский | [Deutsch](./README-DE.md)
 
 ![alt text](./message.png)
 
