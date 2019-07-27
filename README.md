@@ -24,6 +24,8 @@ Eventually, we are hoping that GitHub's team:
 
 Some examples of open-source projects created by Iranian developers:
 
+https://github.com/harfbuzz
+
 https://github.com/usablica/intro.js
 
 https://github.com/lebab/lebab
