@@ -11,7 +11,7 @@ Astuce: Vous pouvez utiliser [cette extension](https://github.com/JafarAkhondali
 
 ## Introduction
 
-Github était une platforme ouverte, libre et gratuite pour tout le monde, mais elle a décidée d'interdire les comptes Iraniens à contribuer et faire part de l'écosystème open-source. Nous comprenons que Github a pris cette décision suite à la pression du gouvernement des États-Unis, nous nous attendions à une action plus respectueuse de la part de Github.
+Github était une platforme ouverte, libre et gratuite pour tout le monde, mais elle a décidée d'interdire les comptes Iraniens de contribuer et faire partie de l'écosystème open-source. Nous comprenons que Github a pris cette décision suite à la pression du gouvernement des États-Unis, nous nous attendions à une action plus respectueuse de la part de Github.
 
 1. Github a soudainement restraint notre accès aux dépots privés, mais au moins on voulait que Github nous avertisse avant de le limiter.
 
