@@ -1,4 +1,4 @@
-# Github Must Be a Free Platform
+﻿# Github Must Be a Free Platform
 
 ![alt text](./message.png)
 
@@ -58,6 +58,7 @@ You can:
   - Add your name and your country to the supporters section.
 
 ## Further Readings
+  - [Microsoft enters: GitHub banned Iranian developers!](https://medium.com/@d.aliyamini/microsoft-enters-github-banned-iranian-developers-843f7c60a146)
   - [GitHub banned Iran-based users](https://financialtribune.com/articles/sci-tech/99111/github-bans-iran-based-users)
   - [GitHub has blocked an Iranian software developer account](https://hub.packtpub.com/github-has-blocked-an-iranian-software-developers-account)
   - [GitHub starts blocking developers in countries facing US trade sanctions](https://www.zdnet.com/article/github-starts-blocking-developers-in-countries-facing-us-trade-sanctions)
@@ -125,5 +126,9 @@ You can:
   - Amir Haqiqati ([anewage](https://github.com/anewage))
   - Morteza T. from Iran 🇮🇷 ([yekanchi](https://github.com/yekanchi))
   - Muhammad Azhdari from 🇮🇷 ([Muhammad Azhdari](https://github.com/mmdaz))
-  
+  - Ehsan Ahmadi from Iran 🇮🇷 ([ehsana94](https://github.com/ehsana94))
+  - Ali Farazdaghi from Iran 🇮🇷 ([alifarazz](https://github.com/alifarazz))
+  - Michael Power from Canada ([mwpower](https://github.com/mwpower))
+  - Mehran Rafiee from Iran 🇮🇷 ([mehran75](https://github.com/mehran75))
+
 
