@@ -6,6 +6,8 @@
 
 Συμβουλή: Μπορείς να χρησιμοποιήσεις [αυτό το πρόσθετο](https://github.com/MohamadKh75/ShutHub) για να κρύψεις αυτό το κίτρινο κουτί!
 
+![github-octocat](https://user-images.githubusercontent.com/16706911/61997137-7aa7df00-b0b2-11e9-97f1-f452855fe21c.png)
+
 ## Εισαγωγή
 ## Introduction
 
