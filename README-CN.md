@@ -1,6 +1,6 @@
 # 给 GitHub 的一封信
 
-简体中文 | [English](./README.md)
+[English](./README.md) | 简体中文 | [Spanish](./README-ES.md) | [Italiano](./README-IT.md) | [Русский](./README-RU.md)
 
 ![alt text](./message.png)
 
@@ -76,4 +76,4 @@ https://github.com/imaNNeoFighT/fl_chart
 
 ## 支持者列表
 
-查看 [README.md](README.md)
+查看 [README.md](README.md#supporters)
