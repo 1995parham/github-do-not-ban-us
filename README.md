@@ -84,6 +84,7 @@ You can:
 - [Nuxt.js: Our core team member @_pi0_ cannot access our private repositories anymore on @github because of US Sanctions...
 ](https://t.co/4FiLexH9Mf) on Twitter
 ## Supporters
+- Wilson Flores [wilsson](https://github.com/wilsson) from 🇵🇪
 - Marco Aceti ([MarcoBuster](https://github.com/MarcoBuster)] from 🇮🇹
 - Daniil Gentili ([danog](https://github.com/danog)) from 🇮🇹 + 🇷🇺
 - Seamus Donnellan (donnellan0007) from Straya
