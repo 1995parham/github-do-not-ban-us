@@ -1,4 +1,4 @@
-# A Message to GitHub
+﻿# A Message to GitHub
 
 [简体中文](./README-CN.md) | English
 
@@ -261,3 +261,4 @@ You can:
   - Andrii Kovalchuk from Ukraine 🇺🇦 ([tieorange](https://github.com/tieorange/))
   - Scvoet from China 🇨🇳 ([scvoet](https://github.com/scvoet/)
   - Mehrad Sadeghi from Iran 🇮🇷 ([mehradsadeghi](https://github.com/mehradsadeghi/))
+  - Amir Ramezani from Iran 🇮🇷 ([brightening-eyes](http://github.com/brightening-eyes))
