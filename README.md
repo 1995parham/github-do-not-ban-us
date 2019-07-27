@@ -80,6 +80,8 @@ You can:
 - Daniil Gentili ([danog](https://github.com/danog)) from 🇮🇹 + 🇷🇺
 - Seamus Donnellan (donnellan0007) from Straya
 - Conner Orth from 🇳🇱
+- Moni from 🇮🇳 ([monis10](https://github.com/MoniS10))
+- MoniJS from 🇺🇸 ([MoniJS](https://github.com/MoniJS))
 - Chris C from 🇱🇺
 - micheleriva from 🇮🇹
 - Angel Uniminin from 🇮🇸
@@ -365,7 +367,6 @@ You can:
 - Ahad Chowdhury from Bangladesh 🇧🇩 ([maacpiash](https://github.com/maacpiash))
 - Ajithkumar from India 🇮🇳 ([ajithkumarsekar](https://github.com/Ajithkumarsekar)
 - Tobias aka. TheDevMinerTV from Germany 🇩🇪 ([TheDevMinerTV](https://github.com/TheDevMinerTV/))
-- Muhammad Yaseen from Pakistan 🇵🇰 ([Yaseen](https://github.com/muhammadyaseen))
 - Francisco Sánchez from Chile :cl: ([fransafu](https://github.com/fransafu/))
 - Inline Harper from China 🇨🇳 ([Afanyiyu](https://github.com/Afanyiyu))
 - Karol Kulik from Poland pl  ([MrK191](https://github.com/MrK191))
