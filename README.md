@@ -6,6 +6,7 @@ English | [简体中文](./README-CN.md) | [Spanish](./README-ES.md) | [Ελλη
 
 ![github-octocat](https://user-images.githubusercontent.com/16706911/61997137-7aa7df00-b0b2-11e9-97f1-f452855fe21c.png)
 
+
 Tip: You can use [this extension](https://github.com/MohamadKh75/ShutHub) to hide this yellow box!
 
 ## Introduction
@@ -72,7 +73,6 @@ You can:
 
 ## Supporters
 
-- Daniil Gentili ([danog](https://github.com/danog)) from 🇮🇹 + 🇷🇺
 - Seamus Donnellan (donnellan0007) from Straya
 - Conner Orth from 🇳🇱
 - Chris C from 🇱🇺
@@ -295,7 +295,6 @@ You can:
 - Jason Kraus from United States 🇺🇸 ([zbyte64](https://github.com/zbyte64))
 - Nabil Tharwat from Egypt 🇪🇬 ([KL13NT](https://github.com/KL13NT))
 - Mrloder from Spain 🇪🇸
-- Mariam Arab from Canada 🇨🇦 ([mariamarab](https://github.com/mariamarab))
 - Cuong Nguyen from Vietnam 🇻🇳 ([cuongw](https://github.com/cuongw))
 - Arseniy Graur from Russia 🇷🇺 ([argraur](https://github.com/argraur))
 - Mehmet Kaykısız from Turkey 🇹🇷 ([mkaykisiz](https://github.com/mkaykisiz))
@@ -312,7 +311,7 @@ You can:
 - Faiyaz Shaikh from India 🇮🇳 ([Faiyaz Shaikh](https://github.com/yTakkar))
 - Adaobi Frank from Nigeria 🇳🇬🇳🇬 ([droidada](https://github.com/droidada))
 - Abdelhak Bougouffa from Algeria 🇩🇿 ([abougouffa](https://abougouffa.github.io))
-- tipok from Germany 🇩🇪 ([tipok](https://github.com/tipok))
 - Shreyas Minocha from India 🇮🇳 ([shreyasminocha](ahttps://github.com/shreyasminoch))
 - Md Narimani ([mnarimani](https://github.com/mnarimani))
 - Mahdi Dibaiee from Iran 🇮🇷 ([mdibaiee](https://github.com/mdibaiee))
+- Persian Prince from Iran 🇮🇷 ([persianpros](https://github.com/persianpros))
