@@ -338,3 +338,4 @@ You can:
 - Lpmvb from 🇨🇳
 - NabilTheNoise from Iran 🇮🇷 ([Dragon96nfs](https://github.com/dragon96nfs))
 - Heman from the US ([hemangandhi](https://github.com/hemangandhi/)
+- Vincent Hyvert from France ([vinceh121](https://github.com/vinceh121/))
