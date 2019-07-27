@@ -275,3 +275,4 @@ You can:
   - Mehrad Sadeghi from Iran 🇮🇷 ([mehradsadeghi](https://github.com/mehradsadeghi/))
   - Fateme Bahrami from  Iran 🇮🇷 ([fatibahrami771998](https://github.com/fatibahrami771998))
   - Saleh from Saudi 🇸🇦 ([qirh](https://github.com/qirh/))
+  - Ru Chern Chong from Singapore 🇸🇬 ([ruchern](https://github.com/ruchern))
