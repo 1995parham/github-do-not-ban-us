@@ -226,3 +226,4 @@ You can:
   - Morteza Nokhodian from 🇩🇪 ([nokhodian](https://github.com/nokhodian))
   - Rahmanism from Iran 🇮🇷 ([Rahmansim](https://github.com/Rahmanism))
   - Mohammad Amin Chitgarha from Iran 🇮🇷 ([MAChitgarha](https://github.com/MAChitgarha/))
+  - Farshad Jahanmanesh from Iran 🇮🇷 ([farshadjahanmanesh](https://github.com/farshadjahanmanesh/))
