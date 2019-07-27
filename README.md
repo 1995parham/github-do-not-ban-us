@@ -71,7 +71,6 @@ You can:
 - [GitHub starts blocking developers in countries facing US trade sanctions](https://www.zdnet.com/article/github-starts-blocking-developers-in-countries-facing-us-trade-sanctions)
 
 ## Supporters
-
 - Daniil Gentili ([danog](https://github.com/danog)) from 🇮🇹 + 🇷🇺
 - Seamus Donnellan (donnellan0007) from Straya
 - Conner Orth from 🇳🇱
@@ -105,6 +104,7 @@ You can:
 - Muhammad Hussein Fattahizadeh from Iran 🇮🇷 ([mhf-ir](https://github.com/mhf-ir))
 - Reza Bayat from Iran 🇮🇷 ([RezaBayat](https://github.com/rezabayat76))
 - Rashad Ansari from Iran 🇮🇷 ([RashadAnsari](https://github.com/RashadAnsari))
+- Sam Johnson from United States 🇺🇸 ([sam0x17](https://github.com/sam0x17))
 - Farid Forootan Shad from Iran 🇮🇷 ([faridfor](https://github.com/faridfor))
 - Vahid Bazzaz from Iran 🇮🇷 ([vahidbazzaz](https://github.com/vahidbazzaz))
 - Iman Khoshabbi from Iran 🇮🇷 ([imaNNeoFighT](https://github.com/imaNNeoFighT))
@@ -295,6 +295,11 @@ You can:
 - Jason Kraus from United States 🇺🇸 ([zbyte64](https://github.com/zbyte64))
 - Nabil Tharwat from Egypt 🇪🇬 ([KL13NT](https://github.com/KL13NT))
 - Mrloder from Spain 🇪🇸
+- A C Sreedhar Reddy from India 🇮🇳 ([a-c-sreedhar-reddy](https://github.com/a-c-sreedhar-reddy))
+- Kittinan from :thailand: ([kittinan](https://github.com/kittinan))
+- Matthew Parnell from England 🇬🇧 ([parnmatt GitLab](https://gitlab.com/parnmatt), [parnmatt GitHub](https://github.com/parnmatt))
+- Imed Adel from Tunisia 🇹🇳 ([ImedAdel](https://github.com/ImedAdel))
+- Praveen Kumar Saini from India 🇮🇳 ([praveen-me](https://github.com/praveen-me))
 - Mahuton from Bénin 🇧🇯  ([Mahuton](https://github.com/Mahuton))
 - Hamed Zargaripour from Iran 🇮🇷 ([zargaripour](https://github.com/zargaripour))
 - George Ho from Hong Kong 🇭🇰([eigenfoo](https://github.com/eigenfoo))
@@ -321,6 +326,8 @@ You can:
 - Shreyas Minocha from India 🇮🇳 ([shreyasminocha](ahttps://github.com/shreyasminoch))
 - Md Narimani ([mnarimani](https://github.com/mnarimani))
 - Mahdi Dibaiee from Iran 🇮🇷 ([mdibaiee](https://github.com/mdibaiee))
+- Alejandro González-Pérez from 🇪🇸 ([algope](https://github.com/algope))
 - Persian Prince from Iran 🇮🇷 ([persianpros](https://github.com/persianpros))
 - Hadi Mahdavi from Iran 🇮🇷 ([IoT](https://github.com/expandboard))
-
+- Farshid Roohi from Iran 🇮🇷 ([farshidroohi](https://github.com/farshidroohi))
+- Soroush Chehresa from Iran 🇮🇷 ([soroushchehresa](https://github.com/soroushchehresa))
