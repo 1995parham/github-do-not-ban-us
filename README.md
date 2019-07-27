@@ -66,6 +66,7 @@ You can:
   - [GitHub starts blocking developers in countries facing US trade sanctions](https://www.zdnet.com/article/github-starts-blocking-developers-in-countries-facing-us-trade-sanctions)
 
 ## Supporters
+  - Seamus Donnellan (donnellan0007) from Straya
   - Conner Orth from 🇳🇱
   - Chris C from 🇱🇺
   - micheleriva from 🇮🇹
