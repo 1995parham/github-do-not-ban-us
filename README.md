@@ -333,6 +333,7 @@ You can:
 - Shreyas Minocha from India 🇮🇳 ([shreyasminocha](ahttps://github.com/shreyasminoch))
 - Md Narimani ([mnarimani](https://github.com/mnarimani))
 - Mahdi Dibaiee from Iran 🇮🇷 ([mdibaiee](https://github.com/mdibaiee))
+- Charles Jacquin from France 🇫🇷 ([charjac](https://github.com/charjac))
 - Alejandro González-Pérez from 🇪🇸 ([algope](https://github.com/algope))
 - Persian Prince from Iran 🇮🇷 ([persianpros](https://github.com/persianpros))
 - Hadi Mahdavi from Iran 🇮🇷 ([IoT](https://github.com/expandboard))
