@@ -4,7 +4,7 @@
 
 ![alt text](./message.png)
 
-Tip: You can use [this extension](https://github.com/MohamadKh75/ShutHub) to hide it!
+Tip: You can use [this extension](https://github.com/MohamadKh75/ShutHub) to hide this yellow box!
 
 ## Introduction
 
