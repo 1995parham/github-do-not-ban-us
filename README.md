@@ -342,6 +342,5 @@ You can:
 - Heman from the US ([hemangandhi](https://github.com/hemangandhi/)
 - KT from 🇨🇳 & 🇺🇸 ([KTachibanaM](https://github.com/KTachibanaM/))
 - Vincent Hyvert from France ([vinceh121](https://github.com/vinceh121/))
-- Vincent Hyvert from France ([vinceh121](https://github.com/vinceh121/))
 - Samundra Khatri from Nepal 🇳🇵 ([samundrak](https://github.com/samundrak))
 - Tobias aka. TheDevMinerTV from Germany 🇩🇪 ([TheDevMinerTV](https://github.com/TheDevMinerTV/))
