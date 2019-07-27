@@ -280,7 +280,7 @@ You can:
   - Hesam Kaveh from Iran 🇮🇷 ([hesamkaveh](https://github.com/hesamkaveh/))
   - Mohammad Ghonchesefidi from Iran 🇮🇷 ([ghonchesefidi](https://github.com/gonchesefidi))
   - Ru Chern Chong from Singapore 🇸🇬 ([ruchern](https://github.com/ruchern))
-  - Jonas Gierer from Germany 🇩🇪 ([jgierer12](https://github.com/jgierer12))
   - Daniel Caldas from Portugal 🇵🇹 ([danielcaldas](https://github.com/danielcaldas))
   - Alireza Zerafati from Iran 🇮🇷 ([azerafati](https://github.com/azerafati))
   - Hamid from Iran 🇮🇷 ([progHamid](https://github.com/progHamid/)
+  - [Ron](https://github.com/ron-wolf) with ❤️ from the U. S. 🇺🇸 and Israel 🇮🇱
