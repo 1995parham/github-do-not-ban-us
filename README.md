@@ -159,6 +159,7 @@ You can:
   - Tariqul Islam from Bangladesh 🇧🇩 ([ta-riq](https://github.com/ta-riq))
   - Giovanni Nuño from Mexico 🇲🇽 ([gionuno](https://github.com/gionuno))
   - Kave Mohammadi from Iran 🇮🇷 ([keomd](https://github.com/keomd))
+  - Sogrey from China :cn: ([Sogrey](https://github.com/Sogrey))
   - tristone13th from 🇨🇳 ([tristone13th](https://github.com/tristone13th))
   - Mohammad Ali Toufighi from Iran 🇮🇷 ([alitoufighi](https://github.com/alitoufighi))
   - Mostafa Rowghanian from Iran 🇮🇷 ([keomd](https://github.com/mostafatech))
