@@ -57,10 +57,10 @@ Du kannst die ganze Liste [hier](https://github.com/mohebifar/made-in-iran) find
 
 ## So kannst Du uns unterstützen
 
-Du kannst die Mitteilung überall weitererzählen, wo du kannst, um Freie Software "Frei wie in Freie Rede" erhalten.
+Du kannst die Mitteilung überall weitererzählen, wo du kannst, um Freie Software als "Frei wie in Freie Rede" zu erhalten.
 Du kannst:
 
-- Dieses Repo mit einem Stern versehen und es auf Sozialen Medien mit #githubForEveryone teilen.
+- Dieses Repo mit einem Stern versehen und es auf sozialen Medien mit #githubForEveryone teilen.
 - Einen Ordner mit Deinem Benutzernamen im "together"-Ordner hinzufügen.
 - Ein Stück Code schreiben, das "GitHub is for everyone" ausgibt (in einer Sprache Deiner Wahl).
 - Eine Pull Request erstellen.
