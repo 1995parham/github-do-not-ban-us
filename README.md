@@ -295,6 +295,7 @@ You can:
 - Jason Kraus from United States 🇺🇸 ([zbyte64](https://github.com/zbyte64))
 - Nabil Tharwat from Egypt 🇪🇬 ([KL13NT](https://github.com/KL13NT))
 - Mrloder from Spain 🇪🇸
+- Praveen Kumar Saini from India 🇮🇳 ([praveen-me](https://github.com/praveen-me))
 - Mahuton from Bénin 🇧🇯  ([Mahuton](https://github.com/Mahuton))
 - Hamed Zargaripour from Iran 🇮🇷 ([zargaripour](https://github.com/zargaripour))
 - George Ho from Hong Kong 🇭🇰([eigenfoo](https://github.com/eigenfoo))
@@ -321,4 +322,5 @@ You can:
 - Shreyas Minocha from India 🇮🇳 ([shreyasminocha](ahttps://github.com/shreyasminoch))
 - Md Narimani ([mnarimani](https://github.com/mnarimani))
 - Mahdi Dibaiee from Iran 🇮🇷 ([mdibaiee](https://github.com/mdibaiee))
+- Persian Prince from Iran 🇮🇷 ([persianpros](https://github.com/persianpros))
 - Farshid Roohi from Iran 🇮🇷 ([farshidroohi](https://github.com/farshidroohi))
