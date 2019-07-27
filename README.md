@@ -389,3 +389,4 @@ You can:
 - Andreas Basurto from USA 🇺🇸 ([nitrohorse](https://github.com/nitrohorse))
 - MohammadHossein Bagheri from Iran 🇮🇷 ([PyBagheri](https://github.com/PyBagheri))
 - Isabelle L. from USA 🇺🇸 ([ilsko](https://github.com/ilsko))
+- Mavromatakis Dimitris from Greece 🇬🇷 ([damavrom](https://gitlab.com/damavrom))
