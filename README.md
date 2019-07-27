@@ -254,6 +254,7 @@ You can:
 - Fırat Eşki from Turkey 🇹🇷 ([firateski](https://github.com/firateski))
 - Hamid Rahmani from Iran 🇮🇷 ([hamiiiiiiid](https://github.com/Hamiiiiiiid))
 - Morteza Nokhodian from 🇩🇪 ([nokhodian](https://github.com/nokhodian))
+- Barzin Assa from Iran 🇮🇷 ([Barzin144](https://github.com/barzin144))
 - Caspian Baska from Australia 🇦🇺 ([caspiano](https://github.com/caspiano))
 - Saeid Doroudi from Iran 🇮🇷 ([doroudi](https://github.com/doroudi))
 - Mohammad Amin Chitgarha from Iran 🇮🇷 ([MAChitgarha](https://github.com/MAChitgarha/))
