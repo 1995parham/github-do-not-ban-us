@@ -82,16 +82,16 @@ You can:
 - [Behdad Esfahbod: So, recently @github has started disabling accounts of Iranian developers](https://twitter.com/behdadesfahbod/status/1154755351092158465?s=19) on Twitter
 
 ## Supporters
-- Daniil Gentili ([danog](https://github.com/danog)) from 🇮🇹 + 🇷🇺
-- Seamus Donnellan (donnellan0007) from Straya
-- Conner Orth from 🇳🇱
-- Chris C from 🇱🇺
-- micheleriva from 🇮🇹
-- Angel Uniminin from 🇮🇸
-- Fahim from 🇧🇩
-- divinity1437 from 🇷🇺
-- Enzo from 🇫🇷
-- Appadeia from 🇺🇸
+- Daniil Gentili ([danog](https://github.com/danog)) from Italy and Russia 🇮🇹 🇷🇺
+- Seamus Donnellan (donnellan0007) from Australia 🇦🇺
+- Conner Orth from Netherlands 🇳🇱
+- Chris C from Luxembourg 🇱🇺
+- micheleriva from Italy 🇮🇹
+- Angel Uniminin from Iceland 🇮🇸
+- Fahim from Bangladesh 🇧🇩
+- divinity1437 from Russia 🇷🇺
+- Enzo from France 🇫🇷
+- Appadeia from USA 🇺🇸
 - Zhiwa from China 🇨🇳 ([zhiwa](https://github.com/aboutmydreams))
 - Alexander Shelepenok from 🇧🇾
 - Ran Luo from 🇨🇳
