@@ -4,6 +4,9 @@ English | [简体中文](./README-CN.md) | [Spanish](./README-ES.md)
 
 ![alt text](./message.png)
 
+![github-octocat](https://user-images.githubusercontent.com/16706911/61997137-7aa7df00-b0b2-11e9-97f1-f452855fe21c.png)
+
+
 Tip: You can use [this extension](https://github.com/MohamadKh75/ShutHub) to hide this yellow box!
 
 ## Introduction
