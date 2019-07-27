@@ -240,7 +240,7 @@ You can:
   - Mindaugas Vaitiekūnas from Lithuania 🇱🇹 ([mindaugasw](https://github.com/mindaugasw))
   - Ebrahim Hamzeh from Iran 🇮🇷 ([EbrahimHamzeh](https://github.com/EbrahimHamzeh))
   - binbin huang from China 🇨🇳 ([hbb](https://github.com/nocanstillbb))
-  - Sina Kachoei 🇮🇷 ([sinakachoei](https://github.com/sinakachoei/))
+  - Sina Kachoei from Iran 🇮🇷 ([sinakachoei](https://github.com/sinakachoei/))
   - Farzad Sharbafian from Iran 🇮🇷 ([farzadshbfn](https://github.com/farzadshbfn/))
   - Fırat Eşki from Turkey 🇹🇷 ([firateski](https://github.com/firateski))
   - Hamid Rahmani from Iran 🇮🇷 ([hamiiiiiiid](https://github.com/Hamiiiiiiid))
