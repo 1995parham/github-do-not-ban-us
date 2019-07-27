@@ -1,12 +1,12 @@
 # A Message to GitHub
 
-English | [简体中文](./README-CN.md) | [Spanish](./README-ES.md) | [Ελληνικά](./README-GR.md) | [Italiano](./README-IT.md)
+English | [简体中文](./README-CN.md) | [Spanish](./README-ES.md) | [Ελληνικά](./README-GR.md) | [Italiano](./README-IT.md) | [Русский](./README-RU.md)
 
 ![alt text](./message.png)
 
-![github-octocat](https://user-images.githubusercontent.com/16706911/61997137-7aa7df00-b0b2-11e9-97f1-f452855fe21c.png)
+Tip: You can use [this extension](https://github.com/JafarAkhondali/remove-github-restrictions-message) or [this extension](https://github.com/MohamadKh75/ShutHub) to hide this yellow box!
 
-Tip: You can use [this extension](https://github.com/MohamadKh75/ShutHub) to hide this yellow box!
+![github-octocat](https://user-images.githubusercontent.com/16706911/61997137-7aa7df00-b0b2-11e9-97f1-f452855fe21c.png)
 
 ## Introduction
 
@@ -71,6 +71,7 @@ You can:
 - [GitHub starts blocking developers in countries facing US trade sanctions](https://www.zdnet.com/article/github-starts-blocking-developers-in-countries-facing-us-trade-sanctions)
 
 ## Supporters
+
 - Daniil Gentili ([danog](https://github.com/danog)) from 🇮🇹 + 🇷🇺
 - Seamus Donnellan (donnellan0007) from Straya
 - Conner Orth from 🇳🇱
@@ -81,6 +82,7 @@ You can:
 - divinity1437 from 🇷🇺
 - Enzo from 🇫🇷
 - Appadeia from 🇺🇸
+- Zhiwa from China 🇨🇳 ([zhiwa](https://github.com/aboutmydreams))
 - Alexander Shelepenok from 🇧🇾
 - Ran Luo from 🇨🇳
 - Zhu Zihao from China 🇨🇳 ([cireu](https://github.com/cireu))
@@ -295,12 +297,14 @@ You can:
 - Jason Kraus from United States 🇺🇸 ([zbyte64](https://github.com/zbyte64))
 - Nabil Tharwat from Egypt 🇪🇬 ([KL13NT](https://github.com/KL13NT))
 - Mrloder from Spain 🇪🇸
+- Hamid R. K. PishGhadam from Iran 🇮🇷 ([hamidrezakp](https://github.com/hamidrezakp))
+- Morteza Omidian Iran 🇮🇷
 - A C Sreedhar Reddy from India 🇮🇳 ([a-c-sreedhar-reddy](https://github.com/a-c-sreedhar-reddy))
 - Kittinan from :thailand: ([kittinan](https://github.com/kittinan))
 - Matthew Parnell from England 🇬🇧 ([parnmatt GitLab](https://gitlab.com/parnmatt), [parnmatt GitHub](https://github.com/parnmatt))
 - Imed Adel from Tunisia 🇹🇳 ([ImedAdel](https://github.com/ImedAdel))
 - Praveen Kumar Saini from India 🇮🇳 ([praveen-me](https://github.com/praveen-me))
-- Mahuton from Bénin 🇧🇯  ([Mahuton](https://github.com/Mahuton))
+- Mahuton from Bénin 🇧🇯 ([Mahuton](https://github.com/Mahuton))
 - Hamed Zargaripour from Iran 🇮🇷 ([zargaripour](https://github.com/zargaripour))
 - George Ho from Hong Kong 🇭🇰([eigenfoo](https://github.com/eigenfoo))
 - Muhammad Babayi from Iran 🇮🇷 ([chiefmb](https://github.com/chiefmb))
@@ -328,6 +332,11 @@ You can:
 - Mahdi Dibaiee from Iran 🇮🇷 ([mdibaiee](https://github.com/mdibaiee))
 - Alejandro González-Pérez from 🇪🇸 ([algope](https://github.com/algope))
 - Persian Prince from Iran 🇮🇷 ([persianpros](https://github.com/persianpros))
+- Hadi Mahdavi from Iran 🇮🇷 ([IoT](https://github.com/expandboard))
 - Farshid Roohi from Iran 🇮🇷 ([farshidroohi](https://github.com/farshidroohi))
 - Soroush Chehresa from Iran 🇮🇷 ([soroushchehresa](https://github.com/soroushchehresa))
+- Lpmvb from 🇨🇳
+- NabilTheNoise from Iran 🇮🇷 ([Dragon96nfs](https://github.com/dragon96nfs))
+- Heman from the US ([hemangandhi](https://github.com/hemangandhi/)
+- Vincent Hyvert from France ([vinceh121](https://github.com/vinceh121/))
 - Samundra Khatri from Nepal 🇳🇵 ([samundrak](https://github.com/samundrak))
