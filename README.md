@@ -288,3 +288,4 @@ You can:
   - Axel Rindle from Germany 🇩🇪 ([axelrindle](https://github.com/axelrindle))
   - Jason Kraus from United States 🇺🇸 ([zbyte64](https://github.com/zbyte64))
   - Mrloder from Spain 🇪🇸
+  - Soroush Chehresa from Iran 🇮🇷 ([soroushchehresa](https://github.com/soroushchehresa))
