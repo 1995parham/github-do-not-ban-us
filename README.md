@@ -374,3 +374,4 @@ You can:
 - Mohammad Mahdi Rostamzadeh from Iran 🇮🇷 ([favecode](https://github.com/favecode))
 - Jordan Hart from USA 🇺🇸([jordanhart](https://github.com/jordanhart))
 - Lewis Conroy from Scotlabd ([Lewis Conroy](https://github.com/captainkinney))
+- Nima Amiri from Iran 🇮🇷 ([Nimak](https://github.com/arc92))
