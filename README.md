@@ -246,3 +246,4 @@ You can:
   - Shahrokh Mirzayee from Iran 🇮🇷 ([shahrokh-mi](https://github.com/shahrokh-mi))
   - Amin Mirzaee from Iran 🇮🇷 ([hifeamin](https://github.com/hifeamin/))
   - Sarah Aziziyan from Iran 🇮🇷 ([SarahAziziyan](https://github.com/sarahaziziyan/))
+  - b1sergiu from Romania 🇷🇴 ([b1sergiu](https://github.com/b1sergiu/))
