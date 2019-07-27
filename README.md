@@ -258,6 +258,7 @@ You can:
 - Caspian Baska from Australia 🇦🇺 ([caspiano](https://github.com/caspiano))
 - Saeid Doroudi from Iran 🇮🇷 ([doroudi](https://github.com/doroudi))
 - Mohammad Amin Chitgarha from Iran 🇮🇷 ([MAChitgarha](https://github.com/MAChitgarha/))
+- Anand Chowdhary from 🇮🇳🇳🇱 ([AnandChowdhary](https://github.com/AnandChowdhary))
 - Nima Amiri from Iran 🇮🇷 ([MAChitgarha](https://github.com/arc92))
 - Farshad Jahanmanesh from Iran 🇮🇷 ([farshadjahanmanesh](https://github.com/farshadjahanmanesh/))
 - Saeed Salhi from Iran 🇮🇷 ([1SaeedSalehi](https://github.com/1saeedsalehi/))
