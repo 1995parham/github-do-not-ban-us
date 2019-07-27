@@ -165,3 +165,4 @@ You can:
   - Mostafa Rowghanian from Iran 🇮🇷 ([keomd](https://github.com/mostafatech))
   - Duncan Sparks from the U.S. 🇺🇸 ([DuncanSparks](https://github.com/DuncanSparks))
   - Ibtehaz Shawon from Bangladesh 🇧🇩 ([ibtehaz-shawon](https://github.com/ibtehaz-shawon))
+  - fzsdi from Iran 🇮🇷 ([fzsdi](https://github.com/fzsdi))
