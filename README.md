@@ -193,3 +193,4 @@ You can:
   - Mohammad Hussein Tavakoli Bina 🇮🇷 ([mhtb32](https://github.com/mhtb32))
   - Ali Yazdi from Iran 🇮🇷 ([aliyazdi75](https://github.com/aliyazdi75))
   - Seyed Morteza Kamali from Iran 🇮🇷 ([Kamali](https://github.com/smkplus)
+  - Ali Salehi from Iran 🇮🇷 ([4lisalehi](https://github.com/4lisalehi))
