@@ -1,11 +1,12 @@
 # A message to Github
 
+
 ![alt text](./message.png)
 
 ## Introduction
 
-
 Github used to be an open and free platform for everyone, but it has decided to restrict Iranian accounts from contributing and being part of the open-source ecosystem. Although we understand Github might make this decision under the pressure of US government, we were expecting more respectful action from Github.
+
 
 1) Github restricted our access to private repositories suddenly, but at very least we wanted Github to warn us before limiting our access.
 
@@ -45,21 +46,22 @@ https://github.com/imaNNeoFighT/fl_chart
 
 You can find the full list [here](https://github.com/mohebifar/made-in-iran).
 
-
 ## How you can support us
+
 You can spread the message everywhere you can, and keep the Free Software "as in Free speech".
 You can:
-  - Star and share this repo on social platforms with #githubForEveryone.
-  - Add a folder with your username in "together" folder.
-  - Write a piece of code that prints "Github is for everyone" (in any language you wish).
-  - Create a pull request.
-  - Add your name and your country to the supporters section.
+
+- Star and share this repo on social platforms with #githubForEveryone.
+- Add a folder with your username in "together" folder.
+- Write a piece of code that prints "Github is for everyone" (in any language you wish).
+- Create a pull request.
+- Add your name and your country to the supporters section.
 
 ## Further Readings
+  - [Microsoft enters: GitHub banned Iranian developers!](https://medium.com/@d.aliyamini/microsoft-enters-github-banned-iranian-developers-843f7c60a146)
   - [GitHub banned Iran-based users](https://financialtribune.com/articles/sci-tech/99111/github-bans-iran-based-users)
   - [GitHub has blocked an Iranian software developer account](https://hub.packtpub.com/github-has-blocked-an-iranian-software-developers-account)
   - [GitHub starts blocking developers in countries facing US trade sanctions](https://www.zdnet.com/article/github-starts-blocking-developers-in-countries-facing-us-trade-sanctions)
-
 
 ## Supporters
   - Conner Orth from 🇳🇱 
@@ -137,4 +139,19 @@ You can:
   - Hamed Mirzaei from Iran 🇮🇷 ([hamedmiir](https://github.com/hamedmiir))
   - Amir Haqiqati ([anewage](https://github.com/anewage))
   - Morteza T. from Iran 🇮🇷 ([yekanchi](https://github.com/yekanchi))
+  - Peter Nelson from United States us ([pdtnelson](https://github.com/pdtnelson))
+  - Mohamad Fadavi ([fadavi](https://github.com/fadavi))
+  - Mojtaba Valipour from Iran 🇮🇷 ([mvpcom](https://github.com/mvpcom))
+  - Arman Hosseini from Iran 🇮🇷 ([arman-hosseini](https://github.com/arman-hosseini))
+  - Karim Oulad Chalha from Morocco 🇲🇦 ([karim88](https://github.com/karim88/))
+  - Ali Amirnezhad from Iran 🇮🇷 ([webilix](https://github.com/webilix))
+  - Sarah Akhavan Kazemzadeh ([sarahakhavan](https://github.com/sarahakhavan))
+  - WenlongLiu from China 🇨🇳([gitors](https://github.com/gitors))
+  - Muhammad Azhdari from 🇮🇷 ([Muhammad Azhdari](https://github.com/mmdaz))
+  - Ehsan Ahmadi from Iran 🇮🇷 ([ehsana94](https://github.com/ehsana94))
+  - Ali Farazdaghi from Iran 🇮🇷 ([alifarazz](https://github.com/alifarazz))
+  - Michael Power from Canada ([mwpower](https://github.com/mwpower))
+  - Mehran Rafiee from Iran 🇮🇷 ([mehran75](https://github.com/mehran75))
+  - Matheus Graciano from Brazil 🇧🇷 ([graciano](https://github.com/graciano))
+  - Mehmet Alp Turkey ([mehmetakifalp](https://github.com/mehmetakifalp))
 
