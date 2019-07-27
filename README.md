@@ -230,6 +230,7 @@ You can:
   - Ali Bakhtiar from Iran 🇮🇷 ([Faghani](https://github.com/alibakhtiar))
   - Amir Hossein Sojoodi from Iran 🇮🇷 ([amirsojoodi](https://github.com/amirsojoodi))
   - Rahmanism from Iran 🇮🇷 ([Rahmansim](https://github.com/Rahmanism))
+  - Hamid Taheri from Iran 🇮🇷 ([H4mit](https://github.com/h4mit/))
   - Jan Krüger from Germany 🇩🇪 ([waterfl0w](https://github.com/waterfl0w))
   - Cosmin-Petru Nechifor from Romania 🇷🇴 ([cosminnechifor](https://github.com/CosminNechifor/))
   - Mindaugas Vaitiekūnas from Lithuania 🇱🇹 ([mindaugasw](https://github.com/mindaugasw))
