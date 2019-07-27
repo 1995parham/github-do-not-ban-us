@@ -1,6 +1,6 @@
 # Un mensaje a GitHub
 
-[English](./README.md) | [简体中文](./README-CN.md) | Español | [Italiano](./README-IT.md)
+[English](./README.md) | [简体中文](./README-CN.md) | Español | [Italiano](./README-IT.md) | [Русский](./README-RU.md)
 
 ![alt text](./message.png)
 

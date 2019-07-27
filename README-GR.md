@@ -1,6 +1,6 @@
 # Ένα μήνυμα προς το GitHub
 
-English | [简体中文](./README-CN.md) | [Spanish](./README-ES.md) | [Ελληνικά](./README-GR.md)
+English | [简体中文](./README-CN.md) | [Spanish](./README-ES.md) | [Ελληνικά](./README-GR.md) | [Русский](./README-RU.md)
 
 ![alt text](./message.png)
 

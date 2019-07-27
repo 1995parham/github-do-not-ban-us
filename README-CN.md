@@ -1,6 +1,6 @@
 # 给 GitHub 的一封信
 
-[English](./README.md) | 简体中文 | [Spanish](./README-ES.md) | [Italiano](./README-IT.md)
+[English](./README.md) | 简体中文 | [Spanish](./README-ES.md) | [Italiano](./README-IT.md) | [Русский](./README-RU.md)
 
 ![alt text](./message.png)
 
