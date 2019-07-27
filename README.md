@@ -237,3 +237,5 @@ You can:
   - Amin Rashidbeigi from Iran 🇮🇷 ([aminrashidbeigi](https://github.com/aminrashidbeigi/))
   - Pouya Kary from Iran 🇮🇷 ([pmkary](https://github.com/pmkary/))
   - Milad Barazandeh from Iran 🇮🇷 ([miladbarazandeh](https://github.com/miladbarazandeh/))
+  - Himself65 from China 🇨🇳 ([Himself65](https://github.com/himself65/))
+  - Alireza Edalatpour from Iran 🇮🇷 ([alirezaed](https://github.com/alirezaed/))
