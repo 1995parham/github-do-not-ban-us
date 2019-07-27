@@ -330,3 +330,4 @@ You can:
 - Persian Prince from Iran 🇮🇷 ([persianpros](https://github.com/persianpros))
 - Farshid Roohi from Iran 🇮🇷 ([farshidroohi](https://github.com/farshidroohi))
 - Soroush Chehresa from Iran 🇮🇷 ([soroushchehresa](https://github.com/soroushchehresa))
+- Samundra Khatri from Nepal 🇳🇵 ([samundrak](https://github.com/samundrak))
