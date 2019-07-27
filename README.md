@@ -378,4 +378,5 @@ You can:
 - Lewis Conroy from Scotlabd ([Lewis Conroy](https://github.com/captainkinney))
 - Nima Amiri from Iran 🇮🇷 ([Nimak](https://github.com/arc92))
 - Tyler from USA 🇺🇸 ([arctair](https://github.com/arctair))
+- Isabelle L. from USA 🇺🇸 ([ilsko](https://github.com/ilsko))
 - Andreas Basurto from USA 🇺🇸 ([nitrohorse](https://github.com/nitrohorse))
