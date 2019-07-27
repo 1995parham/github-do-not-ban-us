@@ -75,6 +75,10 @@ You can:
 - [What is it like to be a dev in Iran](https://shahinsorkh.ir/2019/07/20/how-is-it-like-to-be-a-dev-in-iran)
 - [I am lucky, you are not](https://dev.to/jeromegamez/i-am-lucky-you-are-not-2eco)
 
+## On Social Networks
+
+- [GitHub banned all Iranian users.](https://www.reddit.com/r/programming/comments/ciey8g/github_banned_all_iranian_users_our_accounts_are/) on Reddit
+
 ## Supporters
 
 - Daniil Gentili ([danog](https://github.com/danog)) from 🇮🇹 + 🇷🇺
