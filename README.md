@@ -125,8 +125,10 @@ You can:
   - Hamed Mirzaei from Iran 🇮🇷 ([hamedmiir](https://github.com/hamedmiir))
   - Amir Haqiqati ([anewage](https://github.com/anewage))
   - Morteza T. from Iran 🇮🇷 ([yekanchi](https://github.com/yekanchi))
+  - Muhammad Azhdari from 🇮🇷 ([Muhammad Azhdari](https://github.com/mmdaz))
   - Ehsan Ahmadi from Iran 🇮🇷 ([ehsana94](https://github.com/ehsana94))
   - Ali Farazdaghi from Iran 🇮🇷 ([alifarazz](https://github.com/alifarazz))
   - Michael Power from Canada ([mwpower](https://github.com/mwpower))
   - Mehran Rafiee from Iran 🇮🇷 ([mehran75](https://github.com/mehran75))
+
 
