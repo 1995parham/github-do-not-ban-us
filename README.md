@@ -366,3 +366,4 @@ You can:
 - Ajithkumar from India 🇮🇳 ([ajithkumarsekar](https://github.com/Ajithkumarsekar)
 - Tobias aka. TheDevMinerTV from Germany 🇩🇪 ([TheDevMinerTV](https://github.com/TheDevMinerTV/))
 - Inline Harper from China 🇨🇳 ([Afanyiyu](https://github.com/Afanyiyu))
+- Karol Kulik from Poland pl  ([MrK191](https://github.com/MrK191))
