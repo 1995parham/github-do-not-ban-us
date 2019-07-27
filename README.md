@@ -278,3 +278,4 @@ You can:
   - Saleh from Saudi 🇸🇦 ([qirh](https://github.com/qirh/))
   - Mohammad Ghonchesefidi from Iran 🇮🇷 ([ghonchesefidi](https://github.com/gonchesefidi))
   - Ru Chern Chong from Singapore 🇸🇬 ([ruchern](https://github.com/ruchern))
+  - Daniel Caldas from Portugal 🇵🇹 ([danielcaldas](https://github.com/danielcaldas))
