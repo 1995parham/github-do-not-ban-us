@@ -305,6 +305,7 @@ You can:
 - Armin Monirzadeh from Iran 🇮🇷 ([arminmon](https://github.com/arminmon/)
 - Angus L. Fraser from 🇬🇧
 - MatteoPieroni from Italy 🇮🇹 ([MatteoPieroni](https://github.com/matteopieroni))
+- Faiyaz Shaikh from India 🇮🇳 ([Faiyaz Shaikh](https://github.com/yTakkar))
 - Adaobi Frank from Nigeria 🇳🇬🇳🇬 ([droidada](https://github.com/droidada))
 - Abdelhak Bougouffa from Algeria 🇩🇿 ([abougouffa](https://abougouffa.github.io))
 - Shreyas Minocha from India 🇮🇳 ([shreyasminocha](ahttps://github.com/shreyasminoch))
