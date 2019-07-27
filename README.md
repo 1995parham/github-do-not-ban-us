@@ -34,6 +34,8 @@ https://github.com/morteza/bootstrap-rtl
 
 https://github.com/ilius/pyglossary
 
+https://github.com/TheSNAKY/WatchTower
+
 https://github.com/sasanrose/phpredmin
 
 https://github.com/ahmdrz/goinsta
@@ -103,6 +105,7 @@ You can:
   - Iman Khoshabbi from Iran 🇮🇷  ([imaNNeoFighT](https://github.com/imaNNeoFighT))
   - Muhammad Javad Falahi from Iran 🇮🇷  ([MJFalahi](https://github.com/MJFalahi))
   - Sina Darvishi from Iran 🇮🇷  ([SinaDarvi](https://github.com/SinaDarvi))
+  - Adib Faramarzi from Iran 🇮🇷  ([adibfara](https://github.com/adibfara))
   - Abolfazl Amiri from Iran 🇮🇷 ([aasmpro](https://github.com/aasmpro))
   - Taher Ahmadi from Iran 🇮🇷 ([taherahmadi](https://github.com/taherahmadi))
   - Dermohamad from Iran ([dermohamad](https://twitter.com/dermohamad))
