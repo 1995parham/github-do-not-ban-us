@@ -1,6 +1,7 @@
 # A Message to GitHub
 
-English | [简体中文](./README-CN.md) | [Spanish](./README-ES.md) | [Ελληνικά](./README-GR.md) | [Italiano](./README-IT.md) | [Русский](./README-RU.md)
+
+English | [简体中文](./README-CN.md) | [Español ](./README-ES.md) | [Ελληνικά](./README-GR.md) | [Italiano](./README-IT.md) | [Русский](./README-RU.md) | [فارسی](./README-PER.md)| [Française ](./README-FR.MD)
 
 ![alt text](./message.png)
 
@@ -25,6 +26,8 @@ Eventually, we are hoping that GitHub's team:
 ## Open-source projects made by Iranian developers
 
 Some examples of open-source projects created by Iranian developers:
+
+https://github.com/harfbuzz
 
 https://github.com/usablica/intro.js
 
@@ -71,6 +74,7 @@ You can:
 - [GitHub starts blocking developers in countries facing US trade sanctions](https://www.zdnet.com/article/github-starts-blocking-developers-in-countries-facing-us-trade-sanctions)
 
 ## Supporters
+
 - Daniil Gentili ([danog](https://github.com/danog)) from 🇮🇹 + 🇷🇺
 - Seamus Donnellan (donnellan0007) from Straya
 - Conner Orth from 🇳🇱
@@ -221,7 +225,7 @@ You can:
 - Hamidreza Moallem Taheri 🇮🇷 ([hrmt2000](https://github.com/hrmt2000))
 - Seyed Morteza Kamali from Iran 🇮🇷 ([Kamali](https://github.com/smkplus))
 - Iman Heydarifrom Iran IR ([hamyarwoo](https://github.com/hamyarwoo))
-- Bohan Wang from China 🇨🇳 ([Cygra](https://github.com/Cygra))
+- Reza Aghajani from Iran 🇮🇷 ([jrezaw](https://github.com/jrezaw))
 - Yanshigou from China 🇨🇳 ([yanshigou](https://github.com/yanshigou))
 - Alireza Faghani from Iran 🇮🇷 ([Faghani](https://github.com/faghani))
 - Erkan Özkök from Turkey 🇹🇷 ([nozkok](https://github.com/nozkok))
@@ -250,8 +254,11 @@ You can:
 - Fırat Eşki from Turkey 🇹🇷 ([firateski](https://github.com/firateski))
 - Hamid Rahmani from Iran 🇮🇷 ([hamiiiiiiid](https://github.com/Hamiiiiiiid))
 - Morteza Nokhodian from 🇩🇪 ([nokhodian](https://github.com/nokhodian))
+- Barzin Assa from Iran 🇮🇷 ([Barzin144](https://github.com/barzin144))
 - Caspian Baska from Australia 🇦🇺 ([caspiano](https://github.com/caspiano))
+- Saeid Doroudi from Iran 🇮🇷 ([doroudi](https://github.com/doroudi))
 - Mohammad Amin Chitgarha from Iran 🇮🇷 ([MAChitgarha](https://github.com/MAChitgarha/))
+- Anand Chowdhary from 🇮🇳🇳🇱 ([AnandChowdhary](https://github.com/AnandChowdhary))
 - Nima Amiri from Iran 🇮🇷 ([MAChitgarha](https://github.com/arc92))
 - Farshad Jahanmanesh from Iran 🇮🇷 ([farshadjahanmanesh](https://github.com/farshadjahanmanesh/))
 - Saeed Salhi from Iran 🇮🇷 ([1SaeedSalehi](https://github.com/1saeedsalehi/))
@@ -290,6 +297,7 @@ You can:
 - Mohammad Ghonchesefidi from Iran 🇮🇷 ([ghonchesefidi](https://github.com/gonchesefidi))
 - Ru Chern Chong from Singapore 🇸🇬 ([ruchern](https://github.com/ruchern))
 - Jonas Gierer from Germany 🇩🇪 ([jgierer12](https://github.com/jgierer12))
+- Alireza Sheikholmolouki from Iran 🇮🇷 ([alireza29675](https://github.com/alireza29675))
 - Daniel Caldas from Portugal 🇵🇹 ([danielcaldas](https://github.com/danielcaldas))
 - Alireza Zerafati from Iran 🇮🇷 ([azerafati](https://github.com/azerafati))
 - SnailMann from China 🇨🇳 ([SnailMann](https://github.com/SnailMann))
@@ -333,6 +341,7 @@ You can:
 - Shreyas Minocha from India 🇮🇳 ([shreyasminocha](ahttps://github.com/shreyasminoch))
 - Md Narimani ([mnarimani](https://github.com/mnarimani))
 - Mahdi Dibaiee from Iran 🇮🇷 ([mdibaiee](https://github.com/mdibaiee))
+- Charles Jacquin from France 🇫🇷 ([charjac](https://github.com/charjac))
 - Alejandro González-Pérez from 🇪🇸 ([algope](https://github.com/algope))
 - Persian Prince from Iran 🇮🇷 ([persianpros](https://github.com/persianpros))
 - Hadi Mahdavi from Iran 🇮🇷 ([IoT](https://github.com/expandboard))
@@ -344,5 +353,6 @@ You can:
 - KT from 🇨🇳 & 🇺🇸 ([KTachibanaM](https://github.com/KTachibanaM/))
 - Vincent Hyvert from France ([vinceh121](https://github.com/vinceh121/))
 - Samundra Khatri from Nepal 🇳🇵 ([samundrak](https://github.com/samundrak))
-- Tobias aka. TheDevMinerTV from Germany 🇩🇪 ([TheDevMinerTV](https://github.com/TheDevMinerTV/))
 - Ahad Chowdhury from Bangladesh 🇧🇩 ([maacpiash](https://github.com/maacpiash))
+- Ajithkumar from India 🇮🇳 ([ajithkumarsekar](https://github.com/Ajithkumarsekar)
+- Tobias aka. TheDevMinerTV from Germany 🇩🇪 ([TheDevMinerTV](https://github.com/TheDevMinerTV/))
