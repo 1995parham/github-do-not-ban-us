@@ -217,3 +217,6 @@ You can:
   - Abdus from India 🇮🇳 ([thisisabdus](https://github.com/thisosabdus))
   - Rahmanism from Iran 🇮🇷 ([Rahmansim](https://github.com/Rahmanism))  
   - Mahdi Hosseini from Iran 🇮🇷 ([ghost1372](https://github.com/ghost1372))
+  - Ali Bakhtiar from Iran 🇮🇷 ([Faghani](https://github.com/alibakhtiar))
+  - Amir Hossein Sojoodi from Iran 🇮🇷 ([amirsojoodi](https://github.com/amirsojoodi))
+  - Rahmanism from Iran 🇮🇷 ([Rahmansim](https://github.com/Rahmanism))  
