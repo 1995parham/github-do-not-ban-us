@@ -156,6 +156,7 @@ You can:
   - Mehmet Alp Turkey ([mehmetakifalp](https://github.com/mehmetakifalp))
   - Mahmoud Eskandari from Iran 🇮🇷 ([mahmoud](https://github.com/mahmoud-eskandari))
   - Haider Ali Punjabi ([haideralipunjabi](https://github.com/haideralipunjabi))
+  - Tariqul Islam from Bangladesh 🇧🇩 ([ta-riq](https://github.com/ta-riq))
   - Giovanni Nuño from Mexico 🇲🇽 ([gionuno](https://github.com/gionuno))
   - Kave Mohammadi from Iran 🇮🇷 ([keomd](https://github.com/keomd))
   - Mostafa Rowghanian from Iran 🇮🇷 ([keomd](https://github.com/mostafatech))
