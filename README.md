@@ -188,3 +188,4 @@ You can:
   - Omid Rafiee from Iran 🇮🇷 ([OmidRafiee](https://github.com/OmidRafiee))
   - Ali Tavafi from Iran 🇮🇷 ([Tavafi](https://github.com/Tavafi))
   - Saeed Mohagheghi from Iran 🇮🇷 ([saeedmhq](https://github.com/saeedmhq))
+  - Louay Al-osh from 🇸🇾 (https://github.com/lalosh)
