@@ -66,7 +66,6 @@ You can:
   - [GitHub starts blocking developers in countries facing US trade sanctions](https://www.zdnet.com/article/github-starts-blocking-developers-in-countries-facing-us-trade-sanctions)
 
 ## Supporters
-  - Seamus Donnellan (donnellan0007) from Straya
   - Conner Orth from 🇳🇱
   - Chris C from 🇱🇺
   - micheleriva from 🇮🇹
@@ -228,3 +227,5 @@ You can:
   - Hamid Rahmani from Iran 🇮🇷 ([hamiiiiiiid](https://github.com/Hamiiiiiiid))  
   - Morteza Nokhodian from 🇩🇪 ([nokhodian](https://github.com/nokhodian))
   - Mohammad Amin Chitgarha from Iran 🇮🇷 ([MAChitgarha](https://github.com/MAChitgarha/))
+  - Mohammad Ganji from Iran 🇮🇷 ([MohGanji](https://github.com/MohGanji/))
+  
