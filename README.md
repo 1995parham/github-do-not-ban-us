@@ -279,3 +279,4 @@ You can:
   - Hesam Kaveh from Iran 🇮🇷 ([hesamkaveh](https://github.com/hesamkaveh/))
   - Mohammad Ghonchesefidi from Iran 🇮🇷 ([ghonchesefidi](https://github.com/gonchesefidi))
   - Ru Chern Chong from Singapore 🇸🇬 ([ruchern](https://github.com/ruchern))
+  - Jonas Gierer from Germany 🇩🇪 ([jgierer12](https://github.com/jgierer12))
