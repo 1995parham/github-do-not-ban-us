@@ -215,3 +215,4 @@ You can:
   - Erkan Özkök from Turkey 🇹🇷 ([nozkok](https://github.com/nozkok))
   - Yhlben from China 🇨🇳 ([yhlben](https://github.com/yhlben))
   - Abdus from India 🇮🇳 ([thisisabdus](https://github.com/thisosabdus)
+  - Laster K. ([lazerl0rd](https://github.com/lazerl0rd)
