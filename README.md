@@ -273,7 +273,7 @@ You can:
   - b1sergiu from Romania 🇷🇴 ([b1sergiu](https://github.com/b1sergiu/))
   - Mohammad Reza Kamalifard from Iran 🇮🇷 ([Reza Kamalifard](https://github.com/rezakamalifard/))
   - Andrii Kovalchuk from Ukraine 🇺🇦 ([tieorange](https://github.com/tieorange/))
-  - Scvoet from China 🇨🇳 ([scvoet](https://github.com/scvoet/)
+  - Scvoet from China 🇨🇳 ([scvoet](https://github.com/scvoet/))
   - Mehrad Sadeghi from Iran 🇮🇷 ([mehradsadeghi](https://github.com/mehradsadeghi/))
   - Dylan Cutler from United States 🇺🇸 ([DCtheTall](https://github.com/DCtheTall))
   - Fateme Bahrami from  Iran 🇮🇷 ([fatibahrami771998](https://github.com/fatibahrami771998))
