@@ -73,4 +73,4 @@ Puedes:
   
  ## Defensores
  
- [README.md](README.md)
+ [README.md](README.md#supporters)
