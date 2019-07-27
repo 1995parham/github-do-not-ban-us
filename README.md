@@ -1,4 +1,4 @@
-# Github Must Be a Free Platform
+﻿# Github Must Be a Free Platform
 
 ![alt text](./message.png)
 
@@ -125,4 +125,7 @@ You can:
   - Amir Haqiqati ([anewage](https://github.com/anewage))
   - Morteza T. from Iran 🇮🇷 ([yekanchi](https://github.com/yekanchi))
   - Ehsan Ahmadi from Iran 🇮🇷 ([ehsana94](https://github.com/ehsana94))
+  - Ali Farazdaghi from Iran 🇮🇷 ([alifarazz](https://github.com/alifarazz))
+  - Michael Power from Canada ([mwpower](https://github.com/mwpower))
+  - Mehran Rafiee from Iran 🇮🇷 ([mehran75](https://github.com/mehran75))
 
