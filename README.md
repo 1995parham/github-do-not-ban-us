@@ -1,7 +1,7 @@
 # A Message to GitHub
 
 
-English | [简体中文](./README-CN.md) | [Español ](./README-ES.md) | [Ελληνικά](./README-GR.md) | [Italiano](./README-IT.md) | [Русский](./README-RU.md) | [فارسی](./README-PER.md)| [Française ](./README-FR.MD)
+English | [简体中文](./README-CN.md) | [Español ](./README-ES.md) | [Ελληνικά](./README-GR.md) | [Italiano](./README-IT.md) | [Русский](./README-RU.md) | [فارسی](./README-PER.md) | [Française ](./README-FR.MD)
 
 ![alt text](./message.png)
 
@@ -100,6 +100,7 @@ You can:
 - Sadra Hallaj from Iran 🇮🇷 ([sadrahallaj](https://github.com/sadrahallaj))
 - 1995parham from Iran 🇮🇷 ([1995parham](https://github.com/1995parham))
 - pesehr from Iran 🇮🇷 ([pesehr](https://github.com/pesehr))
+- Ahmad Salimi from Iran 🇮🇷 ([ahmadsalimi](https://github.com/ahmadsalimi))
 - Alireza Mahmoudian ([BelegCuthalion](https://github.com/BelegCuthalion))
 - Amirhossein Yaghoobi from Iran 🇮🇷 ([amir-yaghoobi](https://github.com/amir-yaghoobi))
 - Marjan Jangholi from Iran 🇮🇷 ([jangholi](https://github.com/jangholi))
@@ -371,7 +372,12 @@ You can:
 - Karol Kulik from Poland pl  ([MrK191](https://github.com/MrK191))
 - Mahdi Hosseini from Iran 🇮🇷 ([ghost1372](https://github.com/ghost1372))
 - Daniel Kvasnicka - Czech national living in the US 🇨🇿 & 🇺🇸 ([dkvasnicka](https://github.com/dkvasnicka))
+- Ahmad Habannakeh from 🇸🇾 (https://github.com/abnud1)
 - Mohammad Mahdi Rostamzadeh from Iran 🇮🇷 ([favecode](https://github.com/favecode))
 - Jordan Hart from USA 🇺🇸([jordanhart](https://github.com/jordanhart))
 - Lewis Conroy from Scotlabd ([Lewis Conroy](https://github.com/captainkinney))
 - jkmpariab from iran 🇮🇷 ([jkmpariab](https://github.com/jkmpariab))
+- Nima Amiri from Iran 🇮🇷 ([Nimak](https://github.com/arc92))
+- Tyler from USA 🇺🇸 ([arctair](https://github.com/arctair))
+- Isabelle L. from USA 🇺🇸 ([ilsko](https://github.com/ilsko))
+- Andreas Basurto from USA 🇺🇸 ([nitrohorse](https://github.com/nitrohorse))
