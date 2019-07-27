@@ -198,5 +198,6 @@ You can:
   - Louay Al-osh from 🇸🇾 (https://github.com/lalosh)
   - Mohammad Hussein Tavakoli Bina 🇮🇷 ([mhtb32](https://github.com/mhtb32))
   - Ali Yazdi from Iran 🇮🇷 ([aliyazdi75](https://github.com/aliyazdi75))
+  - Sina Dalvand from Iran 🇮🇷 ([sinadalvand](https://github.com/sinadalvand))
   - Seyed Morteza Kamali from Iran 🇮🇷 ([Kamali](https://github.com/smkplus))
   - Bohan Wang from China 🇨🇳 ([Cygra](https://github.com/Cygra))
