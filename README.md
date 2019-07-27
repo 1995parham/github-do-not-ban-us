@@ -14,7 +14,7 @@ Github used to be an open and free platform for everyone, but it has decided to 
 
 2) Github's team decided to take one step further and restrict us **based on our Nationality** no matter where we are living, while they were able to just restrict our IP addresses like other US-based companies.
 
-Eventually, we are hoping that Github's team: 
+Eventually, we are hoping that Github's team:
 - let us download our private repositories.
 - change their restriction policies to not limiting users based on their Nationality.
 - announce their decision publicly and apologize for making this situation (like what slack did before in the same situation: https://slackhq.com/an-apology-and-an-update).
@@ -66,22 +66,22 @@ You can:
   - [GitHub starts blocking developers in countries facing US trade sanctions](https://www.zdnet.com/article/github-starts-blocking-developers-in-countries-facing-us-trade-sanctions)
 
 ## Supporters
-  - Conner Orth from 🇳🇱 
-  - Chris C from 🇱🇺 
-  - micheleriva from 🇮🇹 
-  - Angel Uniminin from 🇮🇸 
-  - Fahim from 🇧🇩 
-  - divinity1437 from 🇷🇺 
-  - Enzo from 🇫🇷 
-  - Appadeia from 🇺🇸 
-  - Alexander Shelepenok from 🇧🇾 
-  - Ran Luo from 🇨🇳 
+  - Conner Orth from 🇳🇱
+  - Chris C from 🇱🇺
+  - micheleriva from 🇮🇹
+  - Angel Uniminin from 🇮🇸
+  - Fahim from 🇧🇩
+  - divinity1437 from 🇷🇺
+  - Enzo from 🇫🇷
+  - Appadeia from 🇺🇸
+  - Alexander Shelepenok from 🇧🇾
+  - Ran Luo from 🇨🇳
   - Zhu Zihao from China 🇨🇳 ([cireu](https://github.com/cireu))
   - 88250 from 🇨🇳 ([88250](https://github.com/88250))
-  - mighty9245 from 🇷🇺 
-  - speccius from 🇬🇧 
-  - Benjamin Hogué from 🇬🇵 
-  - fredddie from 🇲🇽 
+  - mighty9245 from 🇷🇺
+  - speccius from 🇬🇧
+  - Benjamin Hogué from 🇬🇵
+  - fredddie from 🇲🇽
   - Sadra Hallaj from Iran 🇮🇷([sadrahallaj](https://github.com/sadrahallaj))
   - 1995parham from Iran 🇮🇷 ([1995parham](https://github.com/1995parham))
   - pesehr from Iran 🇮🇷 ([pesehr](https://github.com/pesehr))
@@ -216,3 +216,4 @@ You can:
   - Yhlben from China 🇨🇳 ([yhlben](https://github.com/yhlben))
   - Abdus from India 🇮🇳 ([thisisabdus](https://github.com/thisosabdus))
   - Rahmanism from Iran 🇮🇷 ([Rahmansim](https://github.com/Rahmanism))  
+  - Amirerfanr Rafati from Iran 🇮🇷 ([erfanr](https://github.com/erfanr))
