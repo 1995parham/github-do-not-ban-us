@@ -3,6 +3,8 @@
 
 ![alt text](./message.png)
 
+Tip: You can use [this extension](https://github.com/MohamadKh75/ShutHub) to hide it!
+
 ## Introduction
 
 Github used to be an open and free platform for everyone, but it has decided to restrict Iranian accounts from contributing and being part of the open-source ecosystem. Although we understand Github might make this decision under the pressure of US government, we were expecting more respectful action from Github.
