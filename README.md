@@ -295,6 +295,7 @@ You can:
 - Jason Kraus from United States 🇺🇸 ([zbyte64](https://github.com/zbyte64))
 - Nabil Tharwat from Egypt 🇪🇬 ([KL13NT](https://github.com/KL13NT))
 - Mrloder from Spain 🇪🇸
+- Mahuton from Bénin 🇧🇯  ([Mahuton](https://github.com/Mahuton))
 - Hamed Zargaripour from Iran 🇮🇷 ([zargaripour](https://github.com/zargaripour))
 - George Ho from Hong Kong 🇭🇰([eigenfoo](https://github.com/eigenfoo))
 - Muhammad Babayi from Iran 🇮🇷 ([chiefmb](https://github.com/chiefmb))
