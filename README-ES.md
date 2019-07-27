@@ -70,3 +70,7 @@ Puedes:
   - [GitHub banned Irán-based users](https://financialtribune.com/articles/sci-tech/99111/github-bans-Irán-based-users)
   - [GitHub has blocked an Iránian software developer account](https://hub.packtpub.com/github-has-blocked-an-Iránian-software-developers-account)
   - [GitHub starts blocking developers in countries facing US trade sanctions](https://www.zdnet.com/article/github-starts-blocking-developers-in-countries-facing-us-trade-sanctions)
+  
+ ## Defensores
+ 
+ [README.md](README.md)
