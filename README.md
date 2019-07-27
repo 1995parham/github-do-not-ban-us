@@ -323,3 +323,4 @@ You can:
 - Md Narimani ([mnarimani](https://github.com/mnarimani))
 - Mahdi Dibaiee from Iran 🇮🇷 ([mdibaiee](https://github.com/mdibaiee))
 - Persian Prince from Iran 🇮🇷 ([persianpros](https://github.com/persianpros))
+- Charles Jacquin from France 🇫🇷 ([charjac](https://github.com/charjac))
