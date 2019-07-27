@@ -215,5 +215,6 @@ You can:
   - Erkan Özkök from Turkey 🇹🇷 ([nozkok](https://github.com/nozkok))
   - Yhlben from China 🇨🇳 ([yhlben](https://github.com/yhlben))
   - Abdus from India 🇮🇳 ([thisisabdus](https://github.com/thisosabdus))
+  - Ali Bakhtiar from Iran 🇮🇷 ([Faghani](https://github.com/alibakhtiar))
   - Amir Hossein Sojoodi from Iran 🇮🇷 ([amirsojoodi](https://github.com/amirsojoodi))
   - Rahmanism from Iran 🇮🇷 ([Rahmansim](https://github.com/Rahmanism))  
