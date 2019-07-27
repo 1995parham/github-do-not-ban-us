@@ -76,4 +76,4 @@ https://github.com/imaNNeoFighT/fl_chart
 
 ## 支持者列表
 
-查看 [README.md](README.md)
+查看 [README.md](README.md#supporters)

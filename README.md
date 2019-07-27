@@ -4,10 +4,10 @@ English | [简体中文](./README-CN.md) | [Spanish](./README-ES.md) | [Ελλη
 
 ![alt text](./message.png)
 
+Tip: You can use [this extension](https://github.com/JafarAkhondali/remove-github-restrictions-message) or [this extension](https://github.com/MohamadKh75/ShutHub) to hide this yellow box!
+
 ![github-octocat](https://user-images.githubusercontent.com/16706911/61997137-7aa7df00-b0b2-11e9-97f1-f452855fe21c.png)
 
-
-Tip: You can use [this extension](https://github.com/MohamadKh75/ShutHub) to hide this yellow box!
 
 ## Introduction
 
@@ -73,6 +73,7 @@ You can:
 
 ## Supporters
 
+- Daniil Gentili ([danog](https://github.com/danog)) from 🇮🇹 + 🇷🇺
 - Seamus Donnellan (donnellan0007) from Straya
 - Conner Orth from 🇳🇱
 - Chris C from 🇱🇺
@@ -105,6 +106,7 @@ You can:
 - Muhammad Hussein Fattahizadeh from Iran 🇮🇷 ([mhf-ir](https://github.com/mhf-ir))
 - Reza Bayat from Iran 🇮🇷 ([RezaBayat](https://github.com/rezabayat76))
 - Rashad Ansari from Iran 🇮🇷 ([RashadAnsari](https://github.com/RashadAnsari))
+- Sam Johnson from United States 🇺🇸 ([sam0x17](https://github.com/sam0x17))
 - Farid Forootan Shad from Iran 🇮🇷 ([faridfor](https://github.com/faridfor))
 - Vahid Bazzaz from Iran 🇮🇷 ([vahidbazzaz](https://github.com/vahidbazzaz))
 - Iman Khoshabbi from Iran 🇮🇷 ([imaNNeoFighT](https://github.com/imaNNeoFighT))
@@ -251,6 +253,7 @@ You can:
 - Morteza Nokhodian from 🇩🇪 ([nokhodian](https://github.com/nokhodian))
 - Caspian Baska from Australia 🇦🇺 ([caspiano](https://github.com/caspiano))
 - Mohammad Amin Chitgarha from Iran 🇮🇷 ([MAChitgarha](https://github.com/MAChitgarha/))
+- Nima Amiri from Iran 🇮🇷 ([MAChitgarha](https://github.com/arc92))
 - Farshad Jahanmanesh from Iran 🇮🇷 ([farshadjahanmanesh](https://github.com/farshadjahanmanesh/))
 - Saeed Salhi from Iran 🇮🇷 ([1SaeedSalehi](https://github.com/1saeedsalehi/))
 - Naser Nourani from Iran 🇮🇷 ([MAChitgarha](https://github.com/nnourani/))
@@ -292,7 +295,24 @@ You can:
 - Hamid from Iran 🇮🇷 ([progHamid](https://github.com/progHamid/)
 - Axel Rindle from Germany 🇩🇪 ([axelrindle](https://github.com/axelrindle))
 - Jason Kraus from United States 🇺🇸 ([zbyte64](https://github.com/zbyte64))
+- Nabil Tharwat from Egypt 🇪🇬 ([KL13NT](https://github.com/KL13NT))
 - Mrloder from Spain 🇪🇸
+- Morteza Omidian Iran 🇮🇷
+- A C Sreedhar Reddy from India 🇮🇳 ([a-c-sreedhar-reddy](https://github.com/a-c-sreedhar-reddy))
+- Kittinan from :thailand: ([kittinan](https://github.com/kittinan))
+- Matthew Parnell from England 🇬🇧 ([parnmatt GitLab](https://gitlab.com/parnmatt), [parnmatt GitHub](https://github.com/parnmatt))
+- Imed Adel from Tunisia 🇹🇳 ([ImedAdel](https://github.com/ImedAdel))
+- Praveen Kumar Saini from India 🇮🇳 ([praveen-me](https://github.com/praveen-me))
+- Mahuton from Bénin 🇧🇯  ([Mahuton](https://github.com/Mahuton))
+- Hamed Zargaripour from Iran 🇮🇷 ([zargaripour](https://github.com/zargaripour))
+- George Ho from Hong Kong 🇭🇰([eigenfoo](https://github.com/eigenfoo))
+- Muhammad Babayi from Iran 🇮🇷 ([chiefmb](https://github.com/chiefmb))
+- Liam from UK 🇬🇧 ([Xerbo](https://github.com/Xerbo))
+- Mariam Arab from Canada 🇨🇦 ([mariamarab](https://github.com/mariamarab))
+- Cuong Nguyen from Vietnam 🇻🇳 ([cuongw](https://github.com/cuongw))
+- Arseniy Graur from Russia 🇷🇺 ([argraur](https://github.com/argraur))
+- Mehmet Kaykısız from Turkey 🇹🇷 ([mkaykisiz](https://github.com/mkaykisiz))
+- MSadeghzadehG from Iran 🇮🇷 ([MSadeghzadehG](https://github.com/MSadeghzadehG))
 - Ali Piry from Iran 🇮🇷 ([alipiry](https://github.com/alipiry)
 - Morteza From Iran 🇮🇷 ([asadise](https://github.com/asadise))
 - Erfan Abedi from Iran 🇮🇷 ([TheErfan](https://github.com/TheErfan))
@@ -302,6 +322,16 @@ You can:
 - Armin Monirzadeh from Iran 🇮🇷 ([arminmon](https://github.com/arminmon/)
 - Angus L. Fraser from 🇬🇧
 - MatteoPieroni from Italy 🇮🇹 ([MatteoPieroni](https://github.com/matteopieroni))
+- Faiyaz Shaikh from India 🇮🇳 ([Faiyaz Shaikh](https://github.com/yTakkar))
 - Adaobi Frank from Nigeria 🇳🇬🇳🇬 ([droidada](https://github.com/droidada))
 - Abdelhak Bougouffa from Algeria 🇩🇿 ([abougouffa](https://abougouffa.github.io))
-- Shreyas Minocha from India 🇮🇳 ([shreyasminocha](https://github.com/shreyasminocha))
+- tipok from Germany 🇩🇪 ([tipok](https://github.com/tipok))
+- Shreyas Minocha from India 🇮🇳 ([shreyasminocha](ahttps://github.com/shreyasminoch))
+- Md Narimani ([mnarimani](https://github.com/mnarimani))
+- Mahdi Dibaiee from Iran 🇮🇷 ([mdibaiee](https://github.com/mdibaiee))
+- Alejandro González-Pérez from 🇪🇸 ([algope](https://github.com/algope))
+- Persian Prince from Iran 🇮🇷 ([persianpros](https://github.com/persianpros))
+- Hadi Mahdavi from Iran 🇮🇷 ([IoT](https://github.com/expandboard))
+- Farshid Roohi from Iran 🇮🇷 ([farshidroohi](https://github.com/farshidroohi))
+- Soroush Chehresa from Iran 🇮🇷 ([soroushchehresa](https://github.com/soroushchehresa))
+- Lpmvb from 🇨🇳
