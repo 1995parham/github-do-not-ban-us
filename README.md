@@ -69,12 +69,13 @@ You can:
 - [What is it like to be a dev in Iran](https://shahinsorkh.ir/2019/07/20/how-is-it-like-to-be-a-dev-in-iran)
 - [I am lucky, you are not](https://dev.to/jeromegamez/i-am-lucky-you-are-not-2eco)
 - [If You Don't Know, Now You Know - GitHub Is Restricting Access For Users From Iran And A Few Other Embargoed Countries](https://dev.to/mjraadi/if-you-don-t-know-now-you-know-github-is-restricting-access-for-users-from-iran-and-a-few-other-embargoed-countries-5ga9)
+- [محدود شدن اکانت های ایرانی‌ها روی گیت هاب](https://jadi.net/2019/07/github-sanctions) by [@jadijadi](http://github.com/jadijadi)
 
 ## On Social Networks
 
 - [GitHub banned all Iranian users.](https://www.reddit.com/r/programming/comments/ciey8g/github_banned_all_iranian_users_our_accounts_are/) on Reddit
 - [Dan Abramov: Wow, looking forward to getting blocked from @GitHub when US decides to sanction Russia](https://twitter.com/dan_abramov/status/1154869188672086019?s=19) on Twitter
-- [Hamed Saeedi :Today @github blocked my access](https://twitter.com/Hamed/status/1154268514074660864?s=19) on Twitter
+- [Hamed Saeedi: Today @github blocked my access](https://twitter.com/Hamed/status/1154268514074660864?s=19) on Twitter
 - [Behdad Esfahbod: So, recently @github has started disabling accounts of Iranian developers](https://twitter.com/behdadesfahbod/status/1154755351092158465?s=19) on Twitter
 - [Nuxt.js: Our core team member @_pi0_ cannot access our private repositories anymore on @github because of US Sanctions...](https://t.co/4FiLexH9Mf) on Twitter
 - [Conner Orth](https://twitter.com/conner_orth/status/1154723522729709568) on Twitter
@@ -582,4 +583,6 @@ You can:
 - Peter Stensby from Norway 🇳🇴 ([pstensby](https://github.com/pstensby))
 - Maryam Mehrabian from Norway 🇳🇴([marme660](https://github.com/marme660))
 - Hossein Shabani from Iran 🇮🇷 ([HosseinShabani](https://github.com/HosseinShabani))
+- Mihir Chaturvedi from India 🇮🇳 ([plibither8](https://github.com/plibither8))
+- Pooya Khandel from Iran 🇮🇷 ([po_oya](https://github.com/PoOyaKhandel))
 - Luiz Eduardo Amaral from Brazil 🇧🇷 ([luxedo](https://github.com/luxedo))
