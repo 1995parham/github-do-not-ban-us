@@ -585,3 +585,4 @@ You can:
 - Hossein Shabani from Iran 🇮🇷 ([HosseinShabani](https://github.com/HosseinShabani))
 - Mihir Chaturvedi from India 🇮🇳 ([plibither8](https://github.com/plibither8))
 - Luiz Eduardo Amaral from Brazil 🇧🇷 ([luxedo](https://github.com/luxedo))
+- Lory from the United States 🇺🇸 and Iran 🇮🇷 ([Lorymi](https://github.com/Lorymi))
