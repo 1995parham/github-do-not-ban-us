@@ -526,3 +526,4 @@ You can:
 - Kevin Pennarun from France 🇫🇷 ([kepennar](https://github.com/kepennar))
 - Kizito Akhilome from Nigeria 🇳🇬 ([akhilome](https://github.com/akhilome))
 - Arman Safikhani from Iran 🇮🇷 ([Arman92](https://github.com/arman92))
+- Sutan Gading Fadhillah Nasution from Indonesia 🇮🇩 ([sutanlab](https://github.com/sutanlab))
