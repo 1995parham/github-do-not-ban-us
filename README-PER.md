@@ -4,7 +4,16 @@
 
 ![alt text](./message.png)
 
-<div dir="rtl"> راهنمایی: شما می‌توانید از <a href="https://github.com/JafarAkhondali/remove-github-restrictions-message">این افزونه</a> یا <a href="https://github.com/MohamadKh75/ShutHub">این افزونه</a> برای مخفی‌کردن خودکار پیام زردرنگ بالای صفحه استفاده کنید. </div>
+<div dir="rtl">
+ 
+ ~~راهنمایی: شما می‌توانید از <a href="https://github.com/JafarAkhondali/remove-github-restrictions-message">این افزونه</a> یا <a href="https://github.com/MohamadKh75/ShutHub">این افزونه</a> برای مخفی‌کردن خودکار پیام زردرنگ بالای صفحه استفاده کنید.~~
+
+</div>
+
+<div dir="rtl">
+
+**آپدیت:** اکنون می‌توانید پیام اخطار را پنهان کنید.
+</div>
 
 ![github-octocat](https://user-images.githubusercontent.com/16706911/61997137-7aa7df00-b0b2-11e9-97f1-f452855fe21c.png)
 
@@ -70,7 +79,7 @@ https://github.com/imaNNeoFighT/fl_chart
 
 <div dir="rtl">
  
-- به این مخزن ستاره دهید و آن را در شبکه‌های اجتماعی با #GithubForEveryone انتشار دهید.
+- به این مخزن ستاره دهید و آن را در شبکه‌های اجتماعی با #GitHubForEveryone انتشار دهید.
 - یک فولدر با نام کاربری خود در فولدر "together" این مخزن اضافه کنید.
 - یک قطعه کد که رشته‌ی "GitHub is for everyone" را چاپ می‌کند را به زبان برنامه‌نویسی دل‌خواه‌تان بنویسید.
 - یک Pull Request بسازید.

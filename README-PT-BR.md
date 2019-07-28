@@ -1,6 +1,6 @@
-# Uma Mensagem ao Github
+# Uma Mensagem ao GitHub
 
-English | [简体中文](./README-CN.md) | [Español ](./README-ES.md) | [Ελληνικά](./README-GR.md) | [Italiano](./README-IT.md) | [Русский](./README-RU.md) | [فارسی](./README-PER.md) | [Française ](./README-FR.md) | [Deutsch](./README-DE.md) | [Հայերէն](./README-HY.md) | [Српски](./README-SR.md) | [العربية](./README-AR.md) | [Português do Brasil](./README-PT-BR.md) | [Türkçe](./README-TR.md)
+[English](./README.md) | [简体中文](./README-CN.md) | [Español ](./README-ES.md) | [Ελληνικά](./README-GR.md) | [Italiano](./README-IT.md) | [Русский](./README-RU.md) | [فارسی](./README-PER.md) | [Française ](./README-FR.md) | [Deutsch](./README-DE.md) | [Հայերէն](./README-HY.md) | [Српски](./README-SR.md) | [العربية](./README-AR.md) | [Türkçe](./README-TR.md) | Português do Brasil
 
 ![alt text](./message.png)
 
@@ -12,13 +12,13 @@ English | [简体中文](./README-CN.md) | [Español ](./README-ES.md) | [Ελλ
 ## Introdução
 
 
-Github costumava ser uma plataforma aberta e para todos, porém eles decidiram restringir o acesso para contas Iranianas, impedindo elas de contribuirem a fazerem parte do ecosistema de código aberto. Apesar de entendermos que o Github tem que agir frente a pressão do governo americano, nós esperávamos uma ação mais respeitosa da parte deles.
+GitHub costumava ser uma plataforma aberta e para todos, porém eles decidiram restringir o acesso para contas Iranianas, impedindo elas de contribuirem a fazerem parte do ecosistema de código aberto. Apesar de entendermos que o GitHub tem que agir frente a pressão do governo americano, nós esperávamos uma ação mais respeitosa da parte deles.
 
-1. Github restringiu nosso acesso para repositórios privados de repente sendo que nós queríamos, no mínimo, sermos avisados antes que o acesso fosse restringido.
+1. GitHub restringiu nosso acesso para repositórios privados de repente sendo que nós queríamos, no mínimo, sermos avisados antes que o acesso fosse restringido.
 
-2. O time do Github decidiu ir um passo além e restringir os usuários **baseados na Nacionalidade** não importa onde nós vivemos, sendo que els poderiam apenas restringir o acesso através do endereço IP como outras empresas americanas.
+2. O time do GitHub decidiu ir um passo além e restringir os usuários **baseados na Nacionalidade** não importa onde nós vivemos, sendo que els poderiam apenas restringir o acesso através do endereço IP como outras empresas americanas.
 
-Eventualmente, nós temos esperança que o time do Github:
+Eventualmente, nós temos esperança que o time do GitHub:
 
 - Nos deixe baixar nossos repositórios privados e torná-los públicos (configurações).
     - **Atualização** Agora é possível tornar os repositórios privados em públicos
@@ -55,7 +55,7 @@ Você pode:
 
 - Estrelar esse repo e compartilhar nas redes sociais com a hashtag #githubForEveryone.
 - Adicionar uma pasta com seu nome na pasta "together".
-- Escrever um código que printe "Github is for everyone" (na língua que quiser).
+- Escrever um código que printe "GitHub is for everyone" (na língua que quiser).
 - Criar um pull request.
 - Adicionar seu nome e seu país ao quadro de apoiadores.
 
@@ -80,11 +80,11 @@ Você pode:
 - [Conner Orth](https://twitter.com/conner_orth/status/1154723522729709568) on Twitter
 - [Nat Friedman](https://twitter.com/natfriedman/status/1155311121038864384) on Twitter
 - [Pooya Eimandar](https://twitter.com/_poei/status/1154994262884454400) on Twitter
-- [Pooya Eimandar](https://www.reddit.com/r/github/comments/cirde7/ive_been_paid_github_for_more_than_three_years/?st=jympkq19&sh=df5e5410) on Reddit 
-- [Sana Khalesi](https://medium.com/@khalesic/github-the-largest-developer-communities-from-every-corner-of-the-globe-but-iran-804c05a991df) on Medium 
+- [Pooya Eimandar](https://www.reddit.com/r/github/comments/cirde7/ive_been_paid_github_for_more_than_three_years/?st=jympkq19&sh=df5e5410) on Reddit
+- [Sana Khalesi](https://medium.com/@khalesic/github-the-largest-developer-communities-from-every-corner-of-the-globe-but-iran-804c05a991df) on Medium
 
 ## Notícias
 
-- [Github permite tornar repositórios privados em repos públicos](https://github.com/1995parham/github-do-not-ban-us/issues/666)
+- [GitHub permite tornar repositórios privados em repos públicos](https://github.com/1995parham/github-do-not-ban-us/issues/666)
 
 ![nat-friedman](nat-friedman.png)
