@@ -1,0 +1,1 @@
+puts "GitHub untuk semua!"
