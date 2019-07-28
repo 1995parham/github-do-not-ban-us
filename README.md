@@ -460,6 +460,15 @@ You can:
 - Fırat Eşki from Turkey 🇹🇷 ([firateski](https://github.com/firateski))
 - Mehmet Kaykısız from Turkey 🇹🇷 ([mkaykisiz](https://github.com/mkaykisiz))
 
+### Syria 🇸🇾
+- Louay Al-osh from Syria  (https://github.com/lalosh)
+- Ahmad Habannakeh from Syria 🇸🇾 (https://github.com/abnud1)
+
+### Romania 🇷🇴
+- Cosmin-Petru Nechifor from Romania ([cosminnechifor](https://github.com/CosminNechifor/))
+- b1sergiu from Romania 🇷🇴 ([b1sergiu](https://github.com/b1sergiu/))
+
+
 - AbdElmomen Kadhim ([bluemix](https://github.com/bluemix))
 - Milad Nekofar ([nekofar](https://github.com/nekofar))
 - Nikan Dalvand ([nikandlv](https://github.com/nikandlv))
@@ -468,10 +477,7 @@ You can:
 - Sarah Akhavan Kazemzadeh ([sarahakhavan](https://github.com/sarahakhavan))
 - Mehmet Alp Turkey ([mehmetakifalp](https://github.com/mehmetakifalp))
 - Haider Ali Punjabi ([haideralipunjabi](https://github.com/haideralipunjabi))
-- Louay Al-osh from Syria 🇸🇾 (https://github.com/lalosh)
-- Cosmin-Petru Nechifor from Romania 🇷🇴 ([cosminnechifor](https://github.com/CosminNechifor/))
 - Mindaugas Vaitiekūnas from Lithuania 🇱🇹 ([mindaugasw](https://github.com/mindaugasw))
-- b1sergiu from Romania 🇷🇴 ([b1sergiu](https://github.com/b1sergiu/))
 - Saleh from Saudi Arabia 🇸🇦 ([qirh](https://github.com/qirh/))
 - Ru Chern Chong from Singapore 🇸🇬 ([ruchern](https://github.com/ruchern))
 - Daniel Caldas from Portugal 🇵🇹 ([danielcaldas](https://github.com/danielcaldas))
@@ -493,7 +499,6 @@ You can:
 - Francisco Sánchez from Chile 🇨🇱 ([fransafu](https://github.com/fransafu/))
 - Karol Kulik from Poland 🇵🇱 ([MrK191](https://github.com/MrK191))
 - Daniel Kvasnicka from Czechia and the United States 🇨🇿 🇺🇸 ([dkvasnicka](https://github.com/dkvasnicka))
-- Ahmad Habannakeh from Syria 🇸🇾 (https://github.com/abnud1)
 - Lewis Conroy from Scotlabd ([Lewis Conroy](https://github.com/captainkinney))
 - Mavromatakis Dimitris from Greece 🇬🇷 ([damavrom](https://gitlab.com/damavrom))
 - Piotr Kazimierski from Poland 🇵🇱 ([inquis1t0r](https://github.com/Inquis1t0r/))
