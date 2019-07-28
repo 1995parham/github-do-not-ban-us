@@ -480,3 +480,4 @@ You can:
 - Mohammad Ebrahimi Aval from Iran 🇮🇷 ([ebrahimiaval](https://github.com/ebrahimiaval))
 - Mohamed Anees from India 🇮🇳 ([mohamedanees6](https://github.com/mohamedanees6))
 - Soroush Kavousi from Iran 🇮🇷 ([bitianist](https://github.com/bitianist))
+- Navid Emami from Iran 🇮🇷 ([novid](https://github.com/novid))
