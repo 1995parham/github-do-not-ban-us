@@ -294,6 +294,7 @@ You can:
 - [Babak K. Shandiz](https://github.com/babakks)
 - [Pooya Parsa](https://github.com/pi0)
 - [Hamed Hajiloo](https://github.com/hamedhajiloo)
+- [Meysam Gheysaryan](https://github.com/meysam7289)
 
 ### Italy 🇮🇹
 - Marco Aceti ([MarcoBuster](https://github.com/MarcoBuster))
@@ -546,4 +547,3 @@ You can:
 - Serene Husni from Jordan and Canada 🇯🇴 🇨🇦
 - fugio from armenia 🇦🇲 ([fugio](https://github.com/fugio))
 - Daniel Lalasa ([daniellalasa2](https://github.com/daniellalasa2))
-- meysam gheysaryan from IR ([meysam7289](https://github.com/meysam7289))
