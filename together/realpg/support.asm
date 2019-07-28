@@ -1,5 +1,5 @@
 DATA   SEGMENT
-PRINT  DB "Hello World!", 0AH, 0DH, '$'
+PRINT  DB "Github is for everyone!", 0AH, 0DH, '$'
 DATA   ENDS
 
 STACK  SEGMENT   STACK
