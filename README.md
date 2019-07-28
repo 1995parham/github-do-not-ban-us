@@ -16,13 +16,13 @@ GitHub used to be an open and free platform for everyone, but it has decided to 
 
 1. Github restricted our access to private repositories suddenly, but at very least we wanted Github to warn us before limiting our access.
 
-2. GitHub's team decided to take one step further and restrict us **based on our Nationality** no matter where we are living, while they were able to just restrict our IP addresses like other US-based companies.
+2. GitHub's team decided to take one step further and restrict us **based on IP address history** no matter where we are living, while they were able to just restrict our IP addresses like other US-based companies.
 
 Eventually, we are hoping that GitHub's team:
 
 - Let us download our private repositories and also make them public (setting control).
    - **UPDATE:** It is possible now to make private repositories public.
-- Change their restriction policies to not limiting users based on their Nationality.
+- Change their restriction policies to not limiting users based on their place of residence and location.
 - Cnnounce their decision publicly and apologize for making this situation (like what slack did before in the same situation: https://slackhq.com/an-apology-and-an-update).
 
 ## Open-source projects made by Iranian developers
