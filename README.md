@@ -430,16 +430,22 @@ You can:
 - Matheus Graciano from Brazil 🇧🇷 ([graciano](https://github.com/graciano))
 - Lucas Bittencourt from Brazil 🇧🇷 ([lucasnaja](https://github.com/lucasnaja))
 
+### Morocco 🇲🇦
+- Karim Oulad Chalha ([karim88](https://github.com/karim88/))
+
+### South Africa 🇿🇦
+- Davyd McColl from South Africa 🇿🇦 ([fluffynuts](https://github.com/fluffynuts))
+- Sivuyile Magutywa from South Africa 🇿🇦
+
+
 - AbdElmomen Kadhim ([bluemix](https://github.com/bluemix))
 - Milad Nekofar ([nekofar](https://github.com/nekofar))
 - Nikan Dalvand ([nikandlv](https://github.com/nikandlv))
 - Max Base ([BaseMax](https://github.com/BaseMax))
 - Mohamad Fadavi ([fadavi](https://github.com/fadavi))
-- Karim Oulad Chalha from Morocco 🇲🇦 ([karim88](https://github.com/karim88/))
 - Sarah Akhavan Kazemzadeh ([sarahakhavan](https://github.com/sarahakhavan))
 - Mehmet Alp Turkey ([mehmetakifalp](https://github.com/mehmetakifalp))
 - Haider Ali Punjabi ([haideralipunjabi](https://github.com/haideralipunjabi))
-- Davyd McColl from South Africa 🇿🇦 ([fluffynuts](https://github.com/fluffynuts))
 - Ruslan Gunawardana from Ukraine 🇺🇦 ([exarus](https://github.com/exarus))
 - Louay Al-osh from Syria 🇸🇾 (https://github.com/lalosh)
 - Erkan Özkök from Turkey 🇹🇷 ([nozkok](https://github.com/nozkok))
@@ -498,7 +504,6 @@ You can:
 - Gerasimos Maropoulos from Greece 🇬🇷 ([kataras](https://github.com/kataras))
 - f-person from Armenia 🇦🇲 ([f-person](https://github.com/f-person))
 - Lokimonoton from Indonesia 🇮🇩 ([lokimonoton](https://github.com/lokimonoton))
-- Sivuyile Magutywa from South Africa 🇿🇦
 - Madiodio Gaye from Senegal 🇸🇳 ([madiodio](https://github.com/madiodio))
 - Adem Kouki from Tunisia 🇹🇳 ([Ademking](https://gitlab.com/Ademking))
 - Serene Husni from Jordan and Canada 🇯🇴 🇨🇦
