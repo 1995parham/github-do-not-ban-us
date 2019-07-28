@@ -394,7 +394,7 @@ You can:
 - Mavromatakis Dimitris from Greece 🇬🇷 ([damavrom](https://gitlab.com/damavrom))
 - Piotr Kazimierski from Poland 🇵🇱 ([inquis1t0r](https://github.com/Inquis1t0r/))
 - Ravi from India 🇮🇳 ([xolve](https://github.com/xolve))
-<<<<<<< HEAD
+- Igor from Poland 🇵🇱 ([igorpos](https://github.com/igorpos))
 - Bishoy Melek from Egypt 🇪🇬 ([bishoymelek](https://github.com/bishoymelek))
 - Duong Nguyen from Vietnam 🇻🇳 ([you-create](https://github.com/you-create))
 - Artur Kondas from Poland 🇵🇱 ([youshy](https://github.com/youshy)) 
