@@ -315,9 +315,18 @@ You can:
 - Danny Kamps ([Dkamps18](https://github.com/Dkamps18))
 - Robert de Bock ([robertdebock](https://github.com/robertdebock))
 
-- Chris C from Luxembourg 🇱🇺
-- Angel Uniminin from Iceland 🇮🇸
-- Fahim from Bangladesh 🇧🇩
+### Luxembourg 🇱🇺
+- Chris C
+
+### Iceland 🇮🇸
+- Angel Uniminin
+
+### Bangladesh 🇧🇩
+- Fahim 
+- Tariqul Islam ([ta-riq](https://github.com/ta-riq))
+- Ibtehaz Shawon ([ibtehaz-shawon](https://github.com/ibtehaz-shawon))
+- Ahad Chowdhury ([maacpiash](https://github.com/maacpiash))
+
 - divinity1437 from Russia 🇷🇺
 - Enzo from France 🇫🇷
 - Appadeia from the United States 🇺🇸
@@ -347,13 +356,11 @@ You can:
 - Matheus Graciano from Brazil 🇧🇷 ([graciano](https://github.com/graciano))
 - Mehmet Alp Turkey ([mehmetakifalp](https://github.com/mehmetakifalp))
 - Haider Ali Punjabi ([haideralipunjabi](https://github.com/haideralipunjabi))
-- Tariqul Islam from Bangladesh 🇧🇩 ([ta-riq](https://github.com/ta-riq))
 - Giovanni Nuño from Mexico 🇲🇽 ([gionuno](https://github.com/gionuno))
 - Sogrey from China 🇨🇳 ([Sogrey](https://github.com/Sogrey))
 - tristone13th from China 🇨🇳 ([tristone13th](https://github.com/tristone13th))
 - Duncan Sparks from the United States 🇺🇸 ([DuncanSparks](https://github.com/DuncanSparks))
 - Natnij from China 🇨🇳 ([natnij](https://github.com/natnij))
-- Ibtehaz Shawon from Bangladesh 🇧🇩 ([ibtehaz-shawon](https://github.com/ibtehaz-shawon))
 - Davyd McColl from South Africa 🇿🇦 ([fluffynuts](https://github.com/fluffynuts))
 - Ruslan Gunawardana from Ukraine 🇺🇦 ([exarus](https://github.com/exarus))
 - Sukka from China 🇨🇳 ([SukkaW](https://github.com/SukkaW))
@@ -422,7 +429,6 @@ You can:
 - KT from China and the United States 🇨🇳 🇺🇸 ([KTachibanaM](https://github.com/KTachibanaM/))
 - Vincent Hyvert from France 🇫🇷 ([vinceh121](https://github.com/vinceh121/))
 - Samundra Khatri from Nepal 🇳🇵 ([samundrak](https://github.com/samundrak))
-- Ahad Chowdhury from Bangladesh 🇧🇩 ([maacpiash](https://github.com/maacpiash))
 - Ajithkumar from India 🇮🇳 ([ajithkumarsekar](https://github.com/Ajithkumarsekar))
 - Tobias aka. TheDevMinerTV from Germany 🇩🇪 ([TheDevMinerTV](https://github.com/TheDevMinerTV/))
 - Muhammad Yaseen from Pakistan 🇵🇰 ([Yaseen](https://github.com/muhammadyaseen))
