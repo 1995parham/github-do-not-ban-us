@@ -6,7 +6,7 @@ English | [简体中文](./README-CN.md) | [Español ](./README-ES.md) | [Ελλ
 
 ~~**Tip:** You can use [this extension](https://github.com/JafarAkhondali/remove-github-restrictions-message) or [this extension](https://github.com/MohamadKh75/ShutHub) or [this tampermonkey script](https://gist.github.com/HirbodBehnam/2e079e187be0b1b6a6bcb734ed88474e) or [Stylish](https://userstyles.org/styles/173827/hide-github-warning) to hide this yellow box!~~
 
-**UPDATE:** The warning message is dissmissable now.
+**UPDATE:** The warning message is dismissable now.
 
 ![github-octocat](https://user-images.githubusercontent.com/16706911/61997137-7aa7df00-b0b2-11e9-97f1-f452855fe21c.png)
 
@@ -526,5 +526,7 @@ You can:
 - Kevin Pennarun from France 🇫🇷 ([kepennar](https://github.com/kepennar))
 - Kizito Akhilome from Nigeria 🇳🇬 ([akhilome](https://github.com/akhilome))
 - Arman Safikhani from Iran 🇮🇷 ([Arman92](https://github.com/arman92))
+- Amin Yazdanpanah from Iran 🇮🇷 ([aminyazdanpanah](https://github.com/aminyazdanpanah))
 - Pooya Barati from Iran 🇮🇷 ([pooyabarati](https://github.com/pooyabarati))
+- Rogério dos Santos Fernandes 🇧🇷 ([spartanroger](https://github.com/spartanroger))
 - Tim Visée from the Netherlands 🇳🇱 ([timvisee](https://github.com/timvisee))
