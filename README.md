@@ -453,3 +453,4 @@ You can:
 - Sandy Chen from China 🇨🇳 ([sandy2008](https://github.com/sandy2008))
 - Kitten King from India 🇮🇳 ([kittenking](https://github.com/kittenking))
 - meysam gheysaryan from IR ([meysam7289](https://github.com/meysam7289))
+- Jason C. McDonald from United States 🇺🇸 ([codemouse92](https://github.com/codemouse92))
