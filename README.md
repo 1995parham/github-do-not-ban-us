@@ -304,6 +304,11 @@ You can:
 ### Peru 🇵🇪
 - Wilson Flores [wilsson](https://github.com/wilsson)
 
+### Australia 🇦🇺
+- Seamus Donnellan ([donnellan0007](https://github.com/donnellan0007))
+- Caspian Baska ([caspiano](https://github.com/caspiano))
+- Ben Barnes ([ben-barnes](https://github.com/ben-barnes/))
+
 
 - Conner Orth from Netherlands 🇳🇱
 - Chris C from Luxembourg 🇱🇺
