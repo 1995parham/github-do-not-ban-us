@@ -85,7 +85,6 @@ You can:
 ## Supporters
 
 ### Iran 🇮🇷
-
 - [Sadra Hallaj](https://github.com/sadrahallaj)
 - [1995parham](https://github.com/1995parham)
 - [pesehr](https://github.com/pesehr)
@@ -96,7 +95,7 @@ You can:
 - [Hussein Habibi Juybari](https://github.com/Husseinhj)
 - [Mahdi Ghiasi](https://github.com/MahdiGhiasi)
 - [Ali Tavalaie](https://github.com/tavallaie)
-- rajabiseraji
+- [Mohammad Rajabi](https://github.com/rajabiseraji)
 - [Saman Fekri](https://github.com/SamanFekri)
 - [Sina Sheikholeslami](https://ssheikholeslami.github.io)
 - [Muhammad Hussein Fattahizadeh](https://github.com/mhf-ir)
@@ -299,11 +298,11 @@ You can:
 ### Italy 🇮🇹
 - [Marco Aceti](https://github.com/MarcoBuster)
 - [Daniil Gentili](https://github.com/danog)
-- micheleriva
+- [micheleriva](https://github.com/micheleriva)
 - [MatteoPieroni](https://github.com/matteopieroni)
 
 ### Peru 🇵🇪
-- Wilson Flores [wilsson](https://github.com/wilsson)
+- [Wilson Flores](https://github.com/wilsson)
 
 ### Australia 🇦🇺
 - [Seamus Donnellan](https://github.com/donnellan0007)
@@ -329,8 +328,8 @@ You can:
 - [Ahad Chowdhury](https://github.com/maacpiash)
 
 ### Russia 🇷🇺
-- divinity1437
-- mighty9245
+- [divinity1437](https://github.com/divinity1437)
+- [mighty9245](https://github.com/mighty9245)
 - [Ivanq from](https://github.com/imachug/)
 - [Arseniy Graur](https://github.com/argraur)
 
@@ -381,7 +380,7 @@ You can:
 - [xtlsoft](https://github.com/xtlsoft/)
 - [Scvoet](https://github.com/scvoet/)
 - [SnailMann](https://github.com/SnailMann)
-- Lpmvb 
+- [Lpmvb](https://github.com/Lpmvb) 
 - [KT](https://github.com/KTachibanaM/)
 - [Inline Harper](https://github.com/Afanyiyu)
 - [James](https://github.com/jamesyangget)
@@ -393,7 +392,7 @@ You can:
 - [Stephen Yin](https://github.com/hacker0limbo)
 
 ### United Kingdom 🇬🇧
-- speccius
+- [speccius](https://github.com/speccius)
 - [Laster K.](https://github.com/lazerl0rd)
 - [Matthew Parnell](https://github.com/parnmatt)
 - [Liam](https://github.com/Xerbo)
@@ -425,7 +424,7 @@ You can:
 - Benjamin Hogué
 
 ### Mexico 🇲🇽
-- fredddie
+- [fredddie](https://github.com/fredddie)
 - [Giovanni Nuño](https://github.com/gionuno)
 
 ### Brazil 🇧🇷
@@ -466,8 +465,8 @@ You can:
 - [Mehmet Alp](https://github.com/mehmetakifalp)
 
 ### Syria 🇸🇾
-- Louay Al-osh (https://github.com/lalosh)
-- Ahmad Habannakeh (https://github.com/abnud1)
+- [Louay Al-osh](https://github.com/lalosh)
+- [Ahmad Habannakeh](https://github.com/abnud1)
 
 ### Romania 🇷🇴
 - [Cosmin-Petru Nechifor from Romania](https://github.com/CosminNechifor/)
@@ -477,7 +476,7 @@ You can:
 - [Saleh](https://github.com/qirh/)
 
 ### Spain 🇪🇸
-- Mrloder from Spain
+- [Mrloder](https://github.com/Mrloder)
 - [Alejandro González-Pérez](https://github.com/algope)
 
 ### Portugal 🇵🇹
@@ -516,7 +515,7 @@ You can:
 - [Amine Mouafik](https://github.com/kytwb)
 
 ### Algeria 🇩🇿
-- Houari ZEGAI [HouariZegai](https://github.com/HouariZegai)
+- [Houari Zegai](https://github.com/HouariZegai)
 - [Abdelhak Bougouffa](https://abougouffa.github.io)
 
 ### Nigeria 🇳🇬
