@@ -1,21 +1,23 @@
 # Un messaggio a GitHub
 
-[English](./README.md) | [简体中文](./README-CN.md) | [Spanish](./README-ES.md) | Italiano
+[English](./README.md) | [简体中文](./README-CN.md) | [Español](./README-ES.md) | [Ελληνικά](./README-GR.md) | Italiano | [Русский](./README-RU.md) | [فارسی](./README-PER.md) | [Française](./README-FR.md) | [Deutsch](./README-DE.md) | [العربية](./README-AR.md) | [Türkçe](./README-TR.md)
 
 ![alt text](./message.png)
 
 Suggerimento: Puoi usare [questa estensione](https://github.com/MohamadKh75/ShutHub) per nascondere questo box giallo!
 
-## Introduction
+![github-octocat](https://user-images.githubusercontent.com/16706911/61997137-7aa7df00-b0b2-11e9-97f1-f452855fe21c.png)
 
-GitHub è sempre stata una piattaforma aperta e libera per tutti, ma ha deciso di limitare gli account Iraniani dal contribuire e essere parte dell'ecosistema open-source. Sebbene capiamo che Github possa aver preso questa decisione sotto la pressione del governo USA, ci saremmo aspettati un'azione più rispettosa.
+## Introduzione
+
+GitHub è sempre stata una piattaforma aperta e libera per tutti, ma ha deciso di limitare gli account iraniani dal contribuire e essere parte dell'ecosistema open-source. Sebbene capiamo che GitHub possa aver preso questa decisione sotto la pressione del governo USA, ci saremmo aspettati un'azione più rispettosa.
 
 
 1) GitHub ha limitato il nostro accesso alle repository private improvvisamente, il minimo sarebbe stato avvisarci prima di limitarne l'accesso.
 
 2) Il team di GitHub ha deciso di fare un passo oltre e limitarci **basandosi sulla nostra nazionalità**, indipendentemente da dove viviamo, mentre avrebbero potuto limitare basandosi sull'indirizzo IP, come altre aziende basate negli USA.
 
-Alla fine, speriamo che il team di Github:
+Alla fine, speriamo che il team di GitHub:
 - ci permetta di scaricare e rendere pubbliche le nostre repository private (controllo nelle impostazioni).
 - cambi la propria politica di limitazione non basandasi sulla nazionalità dell'utente.
 - annunci la propria decisione pubblicamente e si scusi per aver creato questa situazione (come ha fatto Slack nella stessa situazione: https://slackhq.com/an-apology-and-an-update).
@@ -53,12 +55,12 @@ Puoi trovare la lista completa [qui](https://github.com/mohebifar/made-in-iran).
 
 ## Come puoi supportarci
 
-Puoi diffondere il messaggio ovunque riesci, e considerare la Libertà di Sviluppare come la "Libertà di Parola".
+Puoi diffondere il messaggio ovunque riesci e considerare la Libertà di Sviluppare come la "Libertà di Parola".
 Tu puoi:
 
 - Cliccare la stella e condividere questa repo sulle piattaforme social con #githubForEveryone.
 - Aggiungere una cartella con il tuo username nella cartella "together".
-- Scrivere un pezzo di codice che abbiamo come output "GitHub is for everyone" (in qualsiasi lingua tu preferisca).
+- Scrivere un pezzo di codice che abbiamo come output "GitHub is for everyone" (in qualsiasi linguaggio tu preferisca).
 - Creare una pull request.
 - Aggiungere il tuo nome e il tuo paese alla sezione supporter.
 
@@ -69,5 +71,5 @@ Tu puoi:
   - [GitHub starts blocking developers in countries facing US trade sanctions](https://www.zdnet.com/article/github-starts-blocking-developers-in-countries-facing-us-trade-sanctions)
 
 ## Supporter
- 
+
 [README.md](README.md#supporters)
