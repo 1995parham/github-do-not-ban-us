@@ -1,6 +1,6 @@
 # Ένα μήνυμα προς το GitHub
 
-[English](./README.md) | [简体中文](./README-CN.md) | [Español](./README-ES.md) | Ελληνικά | [Italiano](./README-IT.md) | [Русский](./README-RU.md) | [فارسی](./README-PER.md) | [Française](./README-FR.md) | [Deutsch](./README-DE.md) | [العربية](./README-AR.md)
+[English](./README.md) | [简体中文](./README-CN.md) | [Español](./README-ES.md) | Ελληνικά | [Italiano](./README-IT.md) | [Русский](./README-RU.md) | [فارسی](./README-PER.md) | [Française](./README-FR.md) | [Deutsch](./README-DE.md) | [العربية](./README-AR.md) | [Türkçe](./README-TR.md)
 
 ![alt text](./message.png)
 
@@ -59,7 +59,7 @@ https://github.com/imaNNeoFighT/fl_chart
 
 - Να κάνετε "star" και να κοινοποιήστε αυτό το απωθητήριο σε κοινωνικές πλατφόρμες με το hashtag "githubForEveryone.
 - Να προσθέσετε έναν φκελο με το όνομα χρήστη σας εντός του φακέλου "together".
-- Να συγγράψετε ένα κομμάτι κώδικα το οποίο θα τυπώνει "Github is for everyone" (το Github είναι για όλους) (σε ότι γλώσσα θέλετε).
+- Να συγγράψετε ένα κομμάτι κώδικα το οποίο θα τυπώνει "GitHub is for everyone" (το GitHub είναι για όλους) (σε ότι γλώσσα θέλετε).
 - Να δημιουργήσετε ένα "pull request".
 - Να προσθέσετε το όνομα και την χώρα σας στο τμήμα "supporters" (υποστηρικτές).
 
