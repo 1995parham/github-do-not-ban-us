@@ -414,3 +414,5 @@ You can:
 - AliReza Sadeghi from Iran 🇮🇷 ([aliraza7926](https://github.com/aliraza7926))
 - Benjamin Sherman from the United States 🇺🇸([benjaminrsherman](https://gitlab.com/benjaminrsherman))
 - Elan Bustos from the United States 🇺🇸([elanlb](https://github.com/elanlb))
+- Pashootan Vaezipoor from Iran and Canada 🇮🇷 🇨🇦 ([CpHaddock](https://github.com/CpHaddock))
+- Serene Husni from Jordan and Canada 🇯🇴 🇨🇦 
