@@ -1,50 +1,54 @@
 # A Message to GitHub
 
-
-English | [简体中文](./README-CN.md) | [Español ](./README-ES.md) | [Ελληνικά](./README-GR.md) | [Italiano](./README-IT.md) | [Русский](./README-RU.md) | [فارسی](./README-PER.md) | [Française ](./README-FR.md) | [Deutsch](./README-DE.md) | [Հայերէն](./README-HY.md) | [Српски](./README-SR.md)
+English | [简体中文](./README-CN.md) | [Español ](./README-ES.md) | [Ελληνικά](./README-GR.md) | [Italiano](./README-IT.md) | [Русский](./README-RU.md) | [فارسی](./README-PER.md) | [Française ](./README-FR.md) | [Deutsch](./README-DE.md) | [Հայերէն](./README-HY.md) | [Српски](./README-SR.md) | [العربية](./README-AR.md) | [Türkçe](./README-TR.md) | [Português do Brasil](./README-PT-BR.md)
 
 ![alt text](./message.png)
 
-~~**Tip:** You can use [this extension](https://github.com/JafarAkhondali/remove-github-restrictions-message) or [this extension](https://github.com/MohamadKh75/ShutHub) or [this tampermonkey script](https://gist.github.com/HirbodBehnam/2e079e187be0b1b6a6bcb734ed88474e) or [Stylish](https://userstyles.org/styles/173827/hide-github-warning) to hide this yellow box!~~  
-**UPDATE:** The warning message is dissmissable now.
+~~**Tip:** You can use [this extension](https://github.com/JafarAkhondali/remove-github-restrictions-message) or [this extension](https://github.com/MohamadKh75/ShutHub) or [this tampermonkey script](https://gist.github.com/HirbodBehnam/2e079e187be0b1b6a6bcb734ed88474e) or [Stylish](https://userstyles.org/styles/173827/hide-github-warning) to hide this yellow box!~~
+
+**UPDATE:** The warning message is dismissable now.
 
 ![github-octocat](https://user-images.githubusercontent.com/16706911/61997137-7aa7df00-b0b2-11e9-97f1-f452855fe21c.png)
 
 ## Introduction
 
-GitHub used to be an open and free platform for everyone, but it has decided to restrict Iranian accounts from contributing and being part of the open-source ecosystem. Although we understand GitHub might make this decision under the pressure of US government, we were expecting more respectful action from GitHub.
+GitHub used to be an open and free platform for everyone, but it has decided to restrict Iranian accounts from contributing and being part of the open-source ecosystem. Although we understand GitHub might make this decision under the pressure of US government, we were expecting a more respectful action from GitHub.
 
-1. Github restricted our access to private repositories suddenly, but at very least we wanted Github to warn us before limiting our access.
+1. GitHub restricted our access to private repositories suddenly, but at the very least we wanted GitHub to warn us before limiting our access.
 
-2. GitHub's team decided to take one step further and restrict us **based on our Nationality** no matter where we are living, while they were able to just restrict our IP addresses like other US-based companies.
+2. GitHub decided to take one step further and ban every user that used Iran's IP address somewhere their history no matter where she/he is living, while they could just restrict access by IP address like other US-based companies. This action is kind of ban by nationality.
 
-Eventually, we are hoping that GitHub's team:
+Eventually, we are hoping that GitHub's team will:
 
-- Let us download our private repositories and also make them public (setting control).
-   - **UPDATE:** It is possible now to make private repositories public.
-- Change their restriction policies to not limiting users based on their Nationality.
-- Cnnounce their decision publicly and apologize for making this situation (like what slack did before in the same situation: https://slackhq.com/an-apology-and-an-update).
+- Let us download our private repositories and gists and also make them public (setting control).
+  **UPDATE:** It is possible now to make private repositories public, however this option is not available on private gists (containing IDE Setting Sync files etc.) yet.
+- Change their restriction policies so as to not limit users based on their Nationality.
+- Announce their decision publicly and apologize for making this situation (like what Slack did before in the same situation: https://slackhq.com/an-apology-and-an-update).
+- **UPDATE** GitHub page are now working for restricted persons.
 
 ## Open-source projects made by Iranian developers
 
 Some examples of open-source projects created by Iranian developers:
 
-- https://github.com/harfbuzz
-- https://github.com/usablica/intro.js
-- https://github.com/lebab/lebab
-- https://github.com/saeedalipoor/icono
-- https://github.com/morteza/bootstrap-rtl
-- https://github.com/ilius/pyglossary
-- https://github.com/TheSNAKY/Lives
-- https://github.com/sasanrose/phpredmin
-- https://github.com/ahmdrz/goinsta
-- https://github.com/persepolisdm/persepolis
-- https://github.com/sepandhaghighi/pycm
-- https://github.com/sepandhaghighi/art
-- https://github.com/imaNNeoFighT/fl_chart
-- https://github.com/nuxt/nuxt.js
-- https://github.com/bootstrap-vue/bootstrap-vue
-- https://github.com/wolfengine/wolf.engine
+- [@harfbuzz](https://github.com/harfbuzz)/[**harfbuzz**](https://github.com/harfbuzz/harfbuzz)
+- [@usablica](https://github.com/usablica)/[**intro.js**](https://github.com/usablica/intro.js)
+- [@lebab](https://github.com/lebab)/[**lebab**](https://github.com/lebab/lebab)
+- [@saeedalipoor](https://github.com/saeedalipoor)/[**icono**](https://github.com/saeedalipoor/icono)
+- [@morteza](https://github.com/morteza)/[**bootstrap-rtl**](https://github.com/morteza/bootstrap-rtl)
+- [@ilius](https://github.com/ilius)/[**pyglossary**](https://github.com/ilius/pyglossary)
+- [@TheSNAKY](https://github.com/TheSNAKY)/[**Lives**](https://github.com/TheSNAKY/Lives)
+- [@sasanrose](https://github.com/sasanrose)/[**phpredmin**](https://github.com/sasanrose/phpredmin)
+- [@ahmdrz](https://github.com/ahmdrz)/[**goinsta**](https://github.com/ahmdrz/goinsta)
+- [@persepolisdm](https://github.com/persepolisdm)/[**persepolis**](https://github.com/persepolisdm/persepolis)
+- [@sepandhaghighi](https://github.com/sepandhaghighi)/[**pycm**](https://github.com/sepandhaghighi/pycm)
+- [@sepandhaghighi](https://github.com/sepandhaghighi)/[**art**](https://github.com/sepandhaghighi/art)
+- [@imaNNeoFighT](https://github.com/imaNNeoFighT)/[**fl_chart**](https://github.com/imaNNeoFighT/fl_chart)
+- [@nuxt](https://github.com/nuxt)/[**nuxt.js**](https://github.com/nuxt/nuxt.js)
+- [@bootstrap-vue](https://github.com/bootstrap-vue)/[**bootstrap-vue**](https://github.com/bootstrap-vue/bootstrap-vue)
+- [@wolfengine](https://github.com/wolfengine)/[**wolf.engine**](https://github.com/wolfengine/wolf.engine)
+- [@soroushchehresa](https://github.com/soroushchehresa)/[**vue-soundcloud**](https://github.com/soroushchehresa/vue-soundcloud)
+- [@soroushchehresa](https://github.com/soroushchehresa)/[**unsplash-wallpapers**](https://github.com/soroushchehresa/unsplash-wallpapers)
+- [@MohamadKh75](https://github.com/MohamadKh75)/[**react-navigation-transition-config**](https://github.com/MohamadKh75/react-navigation-transition-config)
 
 You can find the full list [here](https://github.com/mohebifar/made-in-iran).
 
@@ -53,11 +57,11 @@ You can find the full list [here](https://github.com/mohebifar/made-in-iran).
 You can spread the message everywhere you can, and keep the Free Software "as in Free speech".
 You can:
 
-- Star and share this repo on social platforms with #githubForEveryone.
-- Add a folder with your username in "together" folder.
+- Star and share this repo on social platforms with **#githubForEveryone**.
+- Add a folder with your username in ["together" folder](together).
 - Write a piece of code that prints "GitHub is for everyone" (in any language you wish).
 - Create a pull request.
-- Add your name and your country to the supporters section.
+- Add your name and your country to the [supporters section](#supporters).
 
 ## Further Readings
 
@@ -67,24 +71,31 @@ You can:
 - [GitHub starts blocking developers in countries facing US trade sanctions](https://www.zdnet.com/article/github-starts-blocking-developers-in-countries-facing-us-trade-sanctions)
 - [What is it like to be a dev in Iran](https://shahinsorkh.ir/2019/07/20/how-is-it-like-to-be-a-dev-in-iran)
 - [I am lucky, you are not](https://dev.to/jeromegamez/i-am-lucky-you-are-not-2eco)
+- [If You Don't Know, Now You Know - GitHub Is Restricting Access For Users From Iran And A Few Other Embargoed Countries](https://dev.to/mjraadi/if-you-don-t-know-now-you-know-github-is-restricting-access-for-users-from-iran-and-a-few-other-embargoed-countries-5ga9)
+- [محدود شدن اکانت های ایرانی‌ها روی گیت هاب](https://jadi.net/2019/07/github-sanctions)
+- [GitHub blocked my account and they think I’m developing nuclear weapons](https://medium.com/@hamed/github-blocked-my-account-and-they-think-im-developing-nuclear-weapons-e7e1fe62cb74)
+- [Yellow badges are back. This time not by Nazi Germany & not for Jews, but by U.S. tech companies](https://medium.com/@hamed/yellow-badges-are-back-this-time-not-by-nazi-germany-not-for-jews-but-by-u-s-tech-companies-48e92d690176)
+- [Github: The largest developer communities from every corner of the globe, But Iran!](https://medium.com/@khalesic/github-the-largest-developer-communities-from-every-corner-of-the-globe-but-iran-804c05a991df)
 
 ## On Social Networks
 
 - [GitHub banned all Iranian users.](https://www.reddit.com/r/programming/comments/ciey8g/github_banned_all_iranian_users_our_accounts_are/) on Reddit
 - [Dan Abramov: Wow, looking forward to getting blocked from @GitHub when US decides to sanction Russia](https://twitter.com/dan_abramov/status/1154869188672086019?s=19) on Twitter
-- [Hamed Saeedi :Today @github blocked my access](https://twitter.com/Hamed/status/1154268514074660864?s=19) on Twitter
+- [Hamed Saeedi: Today @github blocked my access](https://twitter.com/Hamed/status/1154268514074660864?s=19) on Twitter
 - [Behdad Esfahbod: So, recently @github has started disabling accounts of Iranian developers](https://twitter.com/behdadesfahbod/status/1154755351092158465?s=19) on Twitter
-- [Nuxt.js: Our core team member @_pi0_ cannot access our private repositories anymore on @github because of US Sanctions...
-  ](https://t.co/4FiLexH9Mf) on Twitter
-- [Conner Orth](https://twitter.com/conner_orth/status/1154723522729709568) on Twitter
-- [Nat Friedman](https://twitter.com/natfriedman/status/1155311121038864384) on Twitter
-- [Pooya Eimandar](https://twitter.com/_poei/status/1154994262884454400) on Twitter
-- [Pooya Eimandar](https://www.reddit.com/r/github/comments/cirde7/ive_been_paid_github_for_more_than_three_years/?st=jympkq19&sh=df5e5410) on Reddit 
-- [Sana Khalesi](https://medium.com/@khalesic/github-the-largest-developer-communities-from-every-corner-of-the-globe-but-iran-804c05a991df) on Medium 
+- [Nuxt.js: Our core team member @_pi0_ cannot access our private repositories anymore on @github because of US Sanctions...](https://t.co/4FiLexH9Mf) on Twitter
+- [Conner Orth:Shout out for this terribly sad turn of events for our fellow Iranian developers.](https://twitter.com/conner_orth/status/1154723522729709568) on Twitter
+- [Nat Friedman:We're not doing this because we want to; we're doing it because we have to.](https://twitter.com/natfriedman/status/1155311121038864384) on Twitter
+- [Pooya Eimandar:@github disabled my repos without prior notice.](https://twitter.com/_poei/status/1154994262884454400) on Twitter
+- [Pooya Eimandar:I've been paid github for more than three years and now I can't even export my repos because of my nationality. ](https://www.reddit.com/r/github/comments/cirde7/ive_been_paid_github_for_more_than_three_years/?st=jympkq19&sh=df5e5410) on Reddit
 
 ## News
 
-- [Github allow us to make our private repositories, public](https://github.com/1995parham/github-do-not-ban-us/issues/666)
+- [GitHub allow us to make our private repositories, public](https://github.com/1995parham/github-do-not-ban-us/issues/666)
+
+![nat-friedman](nat-friedman.png)
+
+- GitHub page are now working for restricted persons.
 
 ## Supporters
 
@@ -322,6 +333,30 @@ You can:
 - [Amir Masud Zare Bidaki](https://github.com/amirmasud)
 - [Ali Sameni](https://github.com/aliwesome)
 - [Amir Hossein Mirzaei](https://github.com/amirc901)
+- [MohamadKh75](https://github.com/MohamadKh75)
+- [Ali Madihi](https://github.com/mrunderline)
+- [Amir Zandi](https://github.com/amirzandi)
+- [Parsa Torbati](https://github.com/poyynt)
+- [Amir Habibzadeh](https://github.com/amirhabibzadeh)
+- [Mahdi Razavi](https://github.com/m-razavi)
+- [Ali Joghataei](https://github.com/ali-joghataei)
+- [Saeed Bibak](https://github.com/saeedbibak)
+- [Arman Safikhani](https://github.com/arman92)
+- [Pooya Barati](https://github.com/pooyabarati)
+- [Ahmad Khani](https://github.com/engineerahkhani)
+- [Mohammad Mahdi Bakhshi](https://github.com/thantez)
+- [Amin Yazdanpanah](https://github.com/aminyazdanpanah)
+- [Abdolreza Taheri](https://github.com/abdolrezat/)
+- [Ako Salman](https://github.com/akoSalman)
+- [Mohammad Hosein Mighani](https://github.com/MHMighani)
+- [Aref Anafgeh](https://github.com/arefanafgeh)
+- [Mojtaba Ahadi](https://github.com/M-Ahadi)
+- [Masoud Dangchi](https://github.com/therealgadfly)
+- [Parsa Samadnejad](https://github.com/troddenspade)
+- [Amir Feqhi](https://github.com/amirfeqhi)
+- [Farzin Ghanbari](https://github.com/farzinghanbari)
+- [Hossein Shabani](https://github.com/HosseinShabani)
+- [Pooya Khandel](https://github.com/PoOyaKhandel)
 
 ### China 🇨🇳
 - [Zhiwa](https://github.com/aboutmydreams)
@@ -353,6 +388,9 @@ You can:
 - [Sandy Chen](https://github.com/sandy2008)
 - [Stephen Yin](https://github.com/hacker0limbo)
 - [Adam Yi](https://github.com/adamyi)
+- [Bofei Wang China 🇨🇳](https://github.com/bofeiw)
+- [FishPlusOrange](https://github.com/FishPlusOrange)
+- [Jingping Fang](https://github.com/fangjingping)
 
 ### USA 🇺🇸
 - Appadeia
@@ -376,6 +414,11 @@ You can:
 - [Jennifer Shehane](https://github.com/jennifer-shehane)
 - [Jason C. McDonald](https://github.com/codemouse92)
 - [Carvell Scott](https://github.com/CarvellScott)
+- [Richard Merryfield](https://gitlab.com/labadore)
+- [Darrien Glasser](github.com/DarrienG)
+- [Joshua Morrison](https://github.com/MrM21632)
+- [Jack Kamm](https://github.com/jackkamm)
+- [Lory](https://github.com/Lorymi)
 
 ### India 🇮🇳
 - [Abdus](https://github.com/thisosabdus)
@@ -392,6 +435,10 @@ You can:
 - [Haider Ali Punjabi](https://github.com/haideralipunjabi)
 - [Ajay Rawat](https://github.com/hello-ajayrawat)
 - [Mohamed Anees](https://github.com/mohamedanees6)
+- [Saud](https://github.com/rottencandy)
+- [Lakshmiprasad](https://github.com/sLakshmiprasad)
+- [Gaurav Agarwal](https://github.com/gauravagarwal2704)
+- [Mihir Chaturvedi](https://github.com/plibither8)
 
 ### Germany 🇩🇪
 - [Jérôme Gamez](https://github.com/jeromegamez)
@@ -404,7 +451,22 @@ You can:
 - [Tobias aka. TheDevMinerTV](https://github.com/TheDevMinerTV/)
 - [Wilhelm Behncke](https://github.com/grebaldi)
 - [Max Strübing](https://github.com/mstruebing)
-- - Udo Kramer from Germany 🇩🇪 ([optikfluffel](https://github.com/optikfluffel))
+- [Udo Kramer](https://github.com/optikfluffel)
+- [Marwen](https://github.com/mtrabelsi)
+- [Florian Wartner](https://github.com/fwartner)
+- [Matthias S](https://github.com/Raincode)
+- [Leonard Ginters](https://github.com/l2ig)
+
+### Turkey 🇹🇷
+- [Erkan Özkök](https://github.com/nozkok)
+- [Fırat Eşki](https://github.com/firateski)
+- [Mehmet Kaykısız](https://github.com/mkaykisiz)
+- [Mehmet Alp](https://github.com/mehmetakifalp)
+- [Atakan Ermiş](https://github.com/AtakanErmis)
+- [Selman Samet](https://github.com/selmansamet)
+- [Atakan Ermiş](https://github.com/AtakanErmis)
+- [Yağızhan Burak Yakar](https://github.com/yagizhan49)
+- [Ardy A](https://github.com/ardyln)
 
 ### United Kingdom 🇬🇧
 - [speccius](https://github.com/speccius)
@@ -414,6 +476,7 @@ You can:
 - Angus L. Fraser
 - [Liam Kenneth](https://github.com/LiamKenneth)
 - [Aiden Wallis](https://github.com/AidenWallis)
+- [Ron](https://github.com/Noisytoot)
 
 ### France 🇫🇷
 - Enzo
@@ -421,6 +484,16 @@ You can:
 - [Vincent Hyvert](https://github.com/vinceh121/)
 - [Simon Lecutiez](https://github.com/soetz)
 - [Trinity Pointard](https://github.com/fdb-hiroshima/)
+- [Céleste Cinti](https://github.com/Leytere)
+- [Kevin Pennarun](https://github.com/kepennar)
+
+### Russia 🇷🇺
+- [divinity1437](https://github.com/divinity1437)
+- [mighty9245](https://github.com/mighty9245)
+- [Ivanq](https://github.com/imachug/)
+- [Arseniy Graur](https://github.com/argraur)
+- [Dead Black Clover](https://github.com/deadblackclover)
+- [Dobro](https://github.com/DOBRO)
 
 ### Canada 🇨🇦
 - [Michael Power](https://github.com/mwpower)
@@ -434,18 +507,35 @@ You can:
 - [Vincent Weevers](https://github.com/vweevers)
 - [Danny Kamps](https://github.com/Dkamps18)
 - [Robert de Bock](https://github.com/robertdebock)
+- [Tim Visée](https://github.com/timvisee)
+
+### Indonesia 🇮🇩
+- [Lokimonoton](https://github.com/lokimonoton)
+- [Sutan Gading Fadhillah Nasution](https://github.com/sutanlab)
+- [Louis Raymond](https://github.com/ccxex29)
+- [Johannes Sandjaja](https://github.com/pussio)
+- [ri7nz](https://github.com/ri7nz)
 
 ### Poland 🇵🇱
 - [Karol Kulik](https://github.com/MrK191)
 - [Piotr Kazimierski](https://github.com/Inquis1t0r/)
 - [Igor](https://github.com/igorpos)
 - [Artur Kondas](https://github.com/youshy)
+- [Kuba Juszczyk](https://github.com/ku8ar)
 
-### Turkey 🇹🇷
-- [Erkan Özkök ](https://github.com/nozkok)
-- [Fırat Eşki ](https://github.com/firateski)
-- [Mehmet Kaykısız ](https://github.com/mkaykisiz)
-- [Mehmet Alp](https://github.com/mehmetakifalp)
+### Greece 🇬🇷
+- [Orestis Ousoultzoglou](https://github.com/xlxs4)
+- [Mavromatakis Dimitris](https://gitlab.com/damavrom)
+- [Gerasimos Maropoulos](https://github.com/kataras)
+- [Antonios Sidiropoulos](https://github.com/s-i-d-i)
+- [Ioannis Krommydas](https://github.com/ioannis-krommydas)
+
+### Brazil 🇧🇷
+- [Mateus Gabi Moreira](https://github.com/mateusgabi)
+- [Matheus Graciano](https://github.com/graciano)
+- [Lucas Bittencourt](https://github.com/lucasnaja)
+- [Rogério dos Santos Fernandes](https://github.com/spartanroger)
+- [Luiz Eduardo Amaral](https://github.com/luxedo)
 
 ### Bangladesh 🇧🇩
 - Fahim 
@@ -453,33 +543,23 @@ You can:
 - [Ibtehaz Shawon](https://github.com/ibtehaz-shawon)
 - [Ahad Chowdhury](https://github.com/maacpiash)
 
-### Russia 🇷🇺
-- [divinity1437](https://github.com/divinity1437)
-- [mighty9245](https://github.com/mighty9245)
-- [Ivanq](https://github.com/imachug/)
-- [Arseniy Graur](https://github.com/argraur)
-
 ### Italy 🇮🇹
 - [Marco Aceti](https://github.com/MarcoBuster)
 - [Daniil Gentili](https://github.com/danog)
 - [micheleriva](https://github.com/micheleriva)
 - [MatteoPieroni](https://github.com/matteopieroni)
 
+### Tunisia 🇹🇳
+- [Imed Adel](https://github.com/ImedAdel)
+- [Adem Kouki](https://gitlab.com/Ademking)
+- [Imed Jaberi](https://github.com/3imed-jaberi)
+- [Mustapha Limam](https://github.com/MustaphaLimam)
+
 ### Australia 🇦🇺
 - [Seamus Donnellan](https://github.com/donnellan0007)
 - [Caspian Baska](https://github.com/caspiano)
 - [Ben Barnes](https://github.com/ben-barnes/)
 - [Alexander J.](https://github.com/alexanderj2357)
-
-### Greece 🇬🇷
-- [Orestis Ousoultzoglou](https://github.com/xlxs4)
-- [Mavromatakis Dimitris](https://gitlab.com/damavrom)
-- [Gerasimos Maropoulos](https://github.com/kataras)
-
-### Brazil 🇧🇷
-- [Mateus Gabi Moreira](https://github.com/mateusgabi)
-- [Matheus Graciano](https://github.com/graciano)
-- [Lucas Bittencourt](https://github.com/lucasnaja)
 
 ### Ukraine 🇺🇦
 - [Ruslan Gunawardana](https://github.com/exarus)
@@ -489,10 +569,21 @@ You can:
 ### Syria 🇸🇾
 - [Louay Al-osh](https://github.com/lalosh)
 - [Ahmad Habannakeh](https://github.com/abnud1)
+- [ItsWajdy](https://github.com/ItsWajdy)
+
+### Thailand 🇹🇭
+- [Kittinan](https://github.com/kittinan)
+- [Amine Mouafik](https://github.com/kytwb)
+- [Chatchai Saratakij](https://github.com/CSaratakij)
+
+### Algeria 🇩🇿
+- [Houari Zegai](https://github.com/HouariZegai)
+- [Abdelhak Bougouffa](https://abougouffa.github.io)
+- [Salim Djerbouh](https://github.com/CaddyDz)
 
 ### Romania 🇷🇴
 - [Cosmin-Petru Nechifor](https://github.com/CosminNechifor/)
-- [b1sergiu ](https://github.com/b1sergiu/)
+- [b1sergiu](https://github.com/b1sergiu/)
 
 ### Spain 🇪🇸
 - [Mrloder](https://github.com/Mrloder)
@@ -510,18 +601,6 @@ You can:
 - [Cuong Nguyen](https://github.com/cuongw)
 - [Duong Nguyen](https://github.com/you-create)
 
-### Tunisia 🇹🇳
-- [Imed Adel](https://github.com/ImedAdel)
-- [Adem Kouki](https://gitlab.com/Ademking)
-
-### Thailand 🇹🇭
-- [Kittinan](https://github.com/kittinan)
-- [Amine Mouafik](https://github.com/kytwb)
-
-### Algeria 🇩🇿
-- [Houari Zegai](https://github.com/HouariZegai)
-- [Abdelhak Bougouffa](https://abougouffa.github.io)
-
 ### Armenia 🇦🇲
 - [f-person](https://github.com/f-person)
 - [fugio](https://github.com/fugio)
@@ -530,9 +609,25 @@ You can:
 - [Davyd McCollca](https://github.com/fluffynuts)
 - Sivuyile Magutywaca
 
+### Czechia 🇨🇿
+- [Daniel Kvasnicka](https://github.com/dkvasnicka)
+- [Martin Král](https://github.com/MartinKral)
+
+### Nigeria 🇳🇬
+- [Adaobi Frank](https://github.com/droidada)
+- [Kizito Akhilome](https://github.com/akhilome)
+
+### Belgium 🇧🇪
+- [Stijn Segers](https://github.com/Borromini)
+- [Simon Tas](https://github.com/nomis6432)
+
 ### Mexico 🇲🇽
 - [fredddie](https://github.com/fredddie)
 - [Giovanni Nuño](https://github.com/gionuno)
+
+### Norway
+- [Peter Stensby](https://github.com/pstensby)
+- [Maryam Mehrabian](https://github.com/marme660)
 
 ### Morocco 🇲🇦
 - [Karim Oulad Chalha](https://github.com/karim88/)
@@ -576,9 +671,6 @@ You can:
 ### Scotland
 - [Lewis Conroy](https://github.com/captainkinney)
 
-### Indonesia 🇮🇩
-- [Lokimonoton](https://github.com/lokimonoton)
-
 ### Senegal 🇸🇳
 - [Madiodio Gaye](https://github.com/madiodio)
 
@@ -588,17 +680,17 @@ You can:
 ### Iceland 🇮🇸
 - Angel Uniminin
 
-### Czechia 🇨🇿
-- [Daniel Kvasnicka](https://github.com/dkvasnicka)
-
 ### Peru 🇵🇪
 - [Wilson Flores](https://github.com/wilsson)
 
-### Nigeria 🇳🇬
-- [Adaobi Frank](https://github.com/droidada)
+### Iraq 🇮🇶
+- [George Ajam](https://github.com/geoapi)
 
-### Belgium 🇧🇪
-- [Stijn Segers](https://github.com/Borromini)
+### Kyrgyzstan 🇰🇬
+- [Emilbek Sulaymanov](https://github.com/emli)
+
+### Malysia 🇲🇾
+- [Julian Ooi](https://github.com/julianooi)
 
 ### Not Mentioned
 - [AbdElmomen Kadhim](https://github.com/bluemix)
