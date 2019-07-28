@@ -562,6 +562,7 @@ You can:
 - Ardy A from Turkey 🇹🇷 ([ardyln](https://github.com/ardyln))
 - Florian Wartner from Germany 🇩🇪 ([fwartner](https://github.com/fwartner))
 - Jack Kamm from the United States 🇺🇸 ([jackkamm](https://github.com/jackkamm))
+- Peter Stensby from Norway 🇳🇴 ([pstensby](https://github.com/pstensby))
 - Maryam Mehrabian from Norway 🇳🇴([marme660](https://github.com/marme660))
 - Hossein Shabani from Iran 🇮🇷 ([HosseinShabani](https://github.com/HosseinShabani))
 - Mihir Chaturvedi from India 🇮🇳 ([plibither8](https://github.com/plibither8))
