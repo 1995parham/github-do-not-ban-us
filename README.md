@@ -85,6 +85,7 @@ You can:
 
 ## Supporters
 
+- Wilson Flores [wilsson](https://github.com/wilsson) from 🇵🇪
 - Marco Aceti from Italy 🇮🇹 ([MarcoBuster](https://github.com/MarcoBuster))
 - Daniil Gentili from Italy and Russia 🇮🇹 🇷🇺 ([danog](https://github.com/danog))
 - Seamus Donnellan from Australia 🇦🇺 ([donnellan0007](https://github.com/donnellan0007))
