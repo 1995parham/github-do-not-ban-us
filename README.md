@@ -409,7 +409,7 @@ You can:
 - James from China 🇨🇳 ([jamesyangget](https://github.com/jamesyangget))
 - Mohammad Zare Moghadam 🇮🇷 ([thisismzm](https://github.com/thisismzm))
 - Eli Bierman from the United States 🇺🇸 ([edbedbe](https://github.com/edbedbe))
-- Ali Tabatabaei from Iran 🇮🇷 ([AliTabatabaeiAT]https://github.com/alitabatabaeiat)
+- Ali Tabatabaei from Iran 🇮🇷 ([AliTabatabaeiAT](https://github.com/alitabatabaeiat))
 - Liam Kenneth from England ([Liam Kenneth](https://github.com/LiamKenneth))
 - Aiden Wallis from the United Kingdom ([AidenWallis](https://github.com/AidenWallis))
 - Amine Mouafik from Thailand 🇹🇭 ([kytwb](https://github.com/kytwb))
