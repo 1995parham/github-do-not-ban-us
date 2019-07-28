@@ -305,6 +305,8 @@ You can:
 - [Amer Lotfi Orimi](https://github.com/amerllica)
 - [Mehran Goudarzi](https://github.com/Mehran)
 - [Ali Hassanabadi](https://github.com/AHassanabadi)
+- [Ehsan Mahmoudi](https://github.com/jeyem/)
+- [Ali Abdollahi](https://github.com/aabdollahi)
 
 ### China 🇨🇳
 - [Zhiwa](https://github.com/aboutmydreams)
@@ -396,6 +398,13 @@ You can:
 - [Liam Kenneth](https://github.com/LiamKenneth)
 - [Aiden Wallis](https://github.com/AidenWallis)
 
+### France 🇫🇷
+- Enzo
+- [Charles Jacquin](https://github.com/charjac)
+- [Vincent Hyvert](https://github.com/vinceh121/)
+- [Simon Lecutiez](https://github.com/soetz)
+- [Trinity Pointard](https://github.com/fdb-hiroshima/)
+
 ### Canada 🇨🇦
 - [Michael Power](https://github.com/mwpower)
 - [Mariam Arab](https://github.com/mariamarab)
@@ -432,12 +441,6 @@ You can:
 - [mighty9245](https://github.com/mighty9245)
 - [Ivanq](https://github.com/imachug/)
 - [Arseniy Graur](https://github.com/argraur)
-
-### France 🇫🇷
-- Enzo
-- [Charles Jacquin](https://github.com/charjac)
-- [Vincent Hyvert](https://github.com/vinceh121/)
-- [Simon Lecutiez](https://github.com/soetz)
 
 ### Italy 🇮🇹
 - [Marco Aceti](https://github.com/MarcoBuster)
@@ -576,6 +579,9 @@ You can:
 
 ### Nigeria 🇳🇬
 - [Adaobi Frank](https://github.com/droidada)
+
+### Belgium
+- [Stijn Segers](https://github.com/Borromini)
 
 ### Not Mentioned
 - [AbdElmomen Kadhim](https://github.com/bluemix)
