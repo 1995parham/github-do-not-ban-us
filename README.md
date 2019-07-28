@@ -43,6 +43,7 @@ Some examples of open-source projects created by Iranian developers:
 - https://github.com/imaNNeoFighT/fl_chart
 - https://github.com/nuxt/nuxt.js
 - https://github.com/bootstrap-vue/bootstrap-vue
+- https://github.com/wolfengine/wolf.engine
 
 You can find the full list [here](https://github.com/mohebifar/made-in-iran).
 
@@ -77,6 +78,9 @@ You can:
   ](https://t.co/4FiLexH9Mf) on Twitter
 - [Conner Orth](https://twitter.com/conner_orth/status/1154723522729709568) on Twitter
 - [Nat Friedman](https://twitter.com/natfriedman/status/1155311121038864384) on Twitter
+- [Pooya Eimandar](https://twitter.com/_poei/status/1154994262884454400) on Twitter
+- [Pooya Eimandar](https://www.reddit.com/r/github/comments/cirde7/ive_been_paid_github_for_more_than_three_years/?st=jympkq19&sh=df5e5410) on Reddit 
+- [Sana Khalesi](https://medium.com/@khalesic/github-the-largest-developer-communities-from-every-corner-of-the-globe-but-iran-804c05a991df) on Medium 
 
 ## News
 
@@ -100,7 +104,9 @@ You can:
 - divinity1437 from Russia 🇷🇺
 - Enzo from France 🇫🇷
 - Appadeia from the United States 🇺🇸
+- Junbo Li from China 🇨🇳 ([Adhders](https://github.com/Adhders))
 - Zhiwa from China 🇨🇳 ([zhiwa](https://github.com/aboutmydreams))
+- Junbo Li from China 🇨🇳 ([Adhders](https://github.com/Adhders))
 - Alexander Shelepenok from Belarus 🇧🇾
 - Ran Luo from China 🇨🇳
 - Zhu Zihao from China 🇨🇳 ([cireu](https://github.com/cireu))
@@ -494,5 +500,12 @@ You can:
 - Stijn Segers from Belgium 🇧🇪 ([Borromini](https://github.com/Borromini))
 - Ali Abdollahi from Iran 🇮🇷 ([aabdollahi](https://github.com/aabdollahi))
 - Trinity Pointard from France 🇫🇷 ([fdb-hiroshima](https://github.com/fdb-hiroshima/))
+- Udo Kramer from Germany 🇩🇪 ([optikfluffel](https://github.com/optikfluffel))
+- Ali Sameni from Iran 🇮🇷 ([aliwesome](https://github.com/aliwesome))
+- Vahid Sadeghizadeh from Iran 🇮🇷 ([vsadeghizade](https://github.com/vsadeghizade))
 - Kiarash Zarinmehr from Iran 🇮🇷 ([Kiarash-Z](https://github.com/Kiarash-Z))
 - Carvell Scott from the United States ([CarvellScott](https://github.com/CarvellScott))
+- Pooya Eimandar from Iran 🇮🇷 ([pooyaeimandar](https://github.com/pooyaeimandar))
+- Shayan Karami from Iran 🇮🇷 ([Shayank](https://github.com/Shayank))
+- Milad GanjAli from Iran 🇮🇷 ([miladganjali](https://github.com/miladganjali))
+- Ali Madihi from Iran 🇮🇷 ([mrunderline](https://github.com/mrunderline))
