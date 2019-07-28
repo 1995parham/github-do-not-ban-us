@@ -543,6 +543,7 @@ You can:
 - FishPlusOrange from China 🇨🇳 ([FishPlusOrange](https://github.com/FishPlusOrange))
 - Richard Merryfield from the United States 🇺🇸([labadore](https://gitlab.com/labadore))
 - Ako Salman from Iran 🇮🇷 ([Ako](https://github.com/akoSalman))
+- George Ajam from Iraq 🇮🇶 ([geoapi](https://github.com/geoapi))
 - Mohammad Hosein Mighani from Iran 🇮🇷 ([MHMighani](https://github.com/MHMighani))
 - Aref Anafgeh from Iran 🇮🇷 ([arefanafgeh](https://github.com/arefanafgeh))
 - Julian Ooi from Malaysia 🇲🇾([julianooi](https://github.com/julianooi))
