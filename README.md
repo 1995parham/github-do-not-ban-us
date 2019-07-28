@@ -82,6 +82,8 @@ You can:
 
 - [Github allow us to make our private repositories, public](https://github.com/1995parham/github-do-not-ban-us/issues/666)
 
+![nat-friedman](nat-friedman.png)
+
 ## Supporters
 
 - Amir Masud Zare Bidaki from Iran 🇮🇷 ([amirmasud](https://github.com/amirmasud))
