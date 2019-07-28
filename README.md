@@ -88,6 +88,8 @@ You can:
 
 ## Supporters
 
+**Note**: The following list is categorized by countries and ordered by supporters count in each country. Thank you all supporters!
+
 ### Iran 🇮🇷
 - [Sadra Hallaj](https://github.com/sadrahallaj)
 - [1995parham](https://github.com/1995parham)
