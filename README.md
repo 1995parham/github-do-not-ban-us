@@ -485,6 +485,21 @@ You can:
 ### Singapore 🇸🇬
 - Ru Chern Chong from Singapore 🇸🇬 ([ruchern](https://github.com/ruchern))
 
+### Egypt
+- Nabil Tharwat from Egypt 🇪🇬 ([KL13NT](https://github.com/KL13NT))
+- Bishoy Melek from Egypt 🇪🇬 ([bishoymelek](https://github.com/bishoymelek))
+  
+### Vietnam
+- Cuong Nguyen from Vietnam 🇻🇳 ([cuongw](https://github.com/cuongw))
+- Duong Nguyen from Vietnam 🇻🇳 ([you-create](https://github.com/you-create))
+
+### Poland
+- Karol Kulik from Poland 🇵🇱 ([MrK191](https://github.com/MrK191))
+- Piotr Kazimierski from Poland 🇵🇱 ([inquis1t0r](https://github.com/Inquis1t0r/))
+- Igor from Poland 🇵🇱 ([igorpos](https://github.com/igorpos))
+- Artur Kondas from Poland 🇵🇱 ([youshy](https://github.com/youshy)) 
+
+
 - AbdElmomen Kadhim ([bluemix](https://github.com/bluemix))
 - Milad Nekofar ([nekofar](https://github.com/nekofar))
 - Nikan Dalvand ([nikandlv](https://github.com/nikandlv))
@@ -493,13 +508,11 @@ You can:
 - Sarah Akhavan Kazemzadeh ([sarahakhavan](https://github.com/sarahakhavan))
 - Mehmet Alp Turkey ([mehmetakifalp](https://github.com/mehmetakifalp))
 - Haider Ali Punjabi ([haideralipunjabi](https://github.com/haideralipunjabi))
-- Nabil Tharwat from Egypt 🇪🇬 ([KL13NT](https://github.com/KL13NT))
 - Houari ZEGAI from Algeria 🇩🇿 [HouariZegai](https://github.com/HouariZegai)
 - Kittinan from Thailand 🇹🇭 ([kittinan](https://github.com/kittinan))
 - Imed Adel from Tunisia 🇹🇳 ([ImedAdel](https://github.com/ImedAdel))
 - Mahuton from Benin 🇧🇯 ([Mahuton](https://github.com/Mahuton))
 - George Ho from Hong Kong 🇭🇰 ([eigenfoo](https://github.com/eigenfoo))
-- Cuong Nguyen from Vietnam 🇻🇳 ([cuongw](https://github.com/cuongw))
 - Orestis Ousoultzoglou from Greece 🇬🇷 ([xlxs4](https://github.com/xlxs4))
 - Adaobi Frank from Nigeria 🇳🇬 ([droidada](https://github.com/droidada))
 - Abdelhak Bougouffa from Algeria 🇩🇿 ([abougouffa](https://abougouffa.github.io))
@@ -507,16 +520,10 @@ You can:
 - Samundra Khatri from Nepal 🇳🇵 ([samundrak](https://github.com/samundrak))
 - Muhammad Yaseen from Pakistan 🇵🇰 ([Yaseen](https://github.com/muhammadyaseen))
 - Francisco Sánchez from Chile 🇨🇱 ([fransafu](https://github.com/fransafu/))
-- Karol Kulik from Poland 🇵🇱 ([MrK191](https://github.com/MrK191))
 - Daniel Kvasnicka from Czechia and the United States 🇨🇿 🇺🇸 ([dkvasnicka](https://github.com/dkvasnicka))
 - Lewis Conroy from Scotlabd ([Lewis Conroy](https://github.com/captainkinney))
 - Mavromatakis Dimitris from Greece 🇬🇷 ([damavrom](https://gitlab.com/damavrom))
-- Piotr Kazimierski from Poland 🇵🇱 ([inquis1t0r](https://github.com/Inquis1t0r/))
 - Abdullrahman Al-Zeidi from Oman 🇴🇲 ([AbdullrahmanAlzeidi](https://github.com/AbdullrahmanAlzeidi))
-- Igor from Poland 🇵🇱 ([igorpos](https://github.com/igorpos))
-- Bishoy Melek from Egypt 🇪🇬 ([bishoymelek](https://github.com/bishoymelek))
-- Duong Nguyen from Vietnam 🇻🇳 ([you-create](https://github.com/you-create))
-- Artur Kondas from Poland 🇵🇱 ([youshy](https://github.com/youshy)) 
 - Liam Kenneth from England ([Liam Kenneth](https://github.com/LiamKenneth))
 - Aiden Wallis from the United Kingdom ([AidenWallis](https://github.com/AidenWallis))
 - Amine Mouafik from Thailand 🇹🇭 ([kytwb](https://github.com/kytwb))
