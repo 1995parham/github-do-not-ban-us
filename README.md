@@ -333,9 +333,12 @@ You can:
 - Ivanq from ([imachug](https://github.com/imachug/))
 - Arseniy Graur ([argraur](https://github.com/argraur))
 
+### France 🇫🇷
+- Enzo
+- Charles Jacquin ([charjac](https://github.com/charjac))
+- Vincent Hyvert ([vinceh121](https://github.com/vinceh121/))
+- Simon Lecutiez ([soetz](https://github.com/soetz))
 
-
-- Enzo from France 🇫🇷
 - Appadeia from the United States 🇺🇸
 - Zhiwa from China 🇨🇳 ([zhiwa](https://github.com/aboutmydreams))
 - Alexander Shelepenok from Belarus 🇧🇾
@@ -424,14 +427,12 @@ You can:
 - tipok from Germany 🇩🇪 ([tipok](https://github.com/tipok))
 - Shreyas Minocha from India 🇮🇳 ([shreyasminocha](ahttps://github.com/shreyasminoch))
 - Md Narimani ([mnarimani](https://github.com/mnarimani))
-- Charles Jacquin from France 🇫🇷 ([charjac](https://github.com/charjac))
 - Alejandro González-Pérez from Spain 🇪🇸 ([algope](https://github.com/algope))
 - Lpmvb from China 🇨🇳
 - Andrii Siriak from Ukraine ([siriak](https://github.com/siriak))
 - Dharani Akurathi from India ([Dharni0607](https://github.com/Dharni0607))
 - Heman from the United States 🇺🇸 ([hemangandhi](https://github.com/hemangandhi/)
 - KT from China and the United States 🇨🇳 🇺🇸 ([KTachibanaM](https://github.com/KTachibanaM/))
-- Vincent Hyvert from France 🇫🇷 ([vinceh121](https://github.com/vinceh121/))
 - Samundra Khatri from Nepal 🇳🇵 ([samundrak](https://github.com/samundrak))
 - Ajithkumar from India 🇮🇳 ([ajithkumarsekar](https://github.com/Ajithkumarsekar))
 - Tobias aka. TheDevMinerTV from Germany 🇩🇪 ([TheDevMinerTV](https://github.com/TheDevMinerTV/))
@@ -469,7 +470,6 @@ You can:
 - Lokimonoton from Indonesia 🇮🇩 ([lokimonoton](https://github.com/lokimonoton))
 - Sivuyile Magutywa from South Africa 🇿🇦
 - Charles Milette from Canada 🇨🇦 ([sylveon](https://github.com/sylveon))
-- Simon Lecutiez from France 🇫🇷 ([soetz](https://github.com/soetz))
 - Madiodio Gaye from Senegal 🇸🇳 ([madiodio](https://github.com/madiodio))
 - RealPG from China 🇨🇳 ([realpg](https://github.com/realpg))
 - Barce from the United States 🇺🇸 ([barce](https://github.com/barce))
