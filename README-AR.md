@@ -108,4 +108,4 @@
 
 ## <div dir="rtl"> داعمين </div>
 
-[README.md](README.md#supporters)
+[README.md](CONTRIBUTORS.md)

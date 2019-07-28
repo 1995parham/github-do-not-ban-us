@@ -67,4 +67,4 @@ Tu puoi:
 
 ## Supporter
 
-[README.md](README.md#supporters)
+[README.md](CONTRIBUTORS.md)

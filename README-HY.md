@@ -80,4 +80,4 @@ English | [简体中文](./README-CN.md) | [Español ](./README-ES.md) | [Ελλ
 
 ## Աջակիցներ
 
-[README.md](README.md#supporters)
+[README.md](CONTRIBUTORS.md)

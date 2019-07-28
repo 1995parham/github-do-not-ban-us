@@ -67,4 +67,5 @@ Vous pouvez:
 - [GitHub starts blocking developers in countries facing US trade sanctions](https://www.zdnet.com/article/github-starts-blocking-developers-in-countries-facing-us-trade-sanctions)
 
 ## Supporters
-[README.md] (./README.md)
+
+[README.md](CONTRIBUTORS.md)
