@@ -98,6 +98,7 @@ You can:
 - divinity1437 from Russia 🇷🇺
 - Enzo from France 🇫🇷
 - Appadeia from the United States 🇺🇸
+- Junbo Li from China 🇨🇳 ([Adhders](https://github.com/Adhders))
 - Zhiwa from China 🇨🇳 ([zhiwa](https://github.com/aboutmydreams))
 - Alexander Shelepenok from Belarus 🇧🇾
 - Ran Luo from China 🇨🇳
