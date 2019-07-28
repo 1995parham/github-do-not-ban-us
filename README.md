@@ -510,6 +510,18 @@ You can:
 - Kittinan from Thailand 🇹🇭 ([kittinan](https://github.com/kittinan))
 - Amine Mouafik from Thailand 🇹🇭 ([kytwb](https://github.com/kytwb))
 
+### Algeria
+- Houari ZEGAI from Algeria 🇩🇿 [HouariZegai](https://github.com/HouariZegai)
+- Abdelhak Bougouffa from Algeria 🇩🇿 ([abougouffa](https://abougouffa.github.io))
+
+### Nigeria
+- Adaobi Frank from Nigeria 🇳🇬 ([droidada](https://github.com/droidada))
+
+### Greece
+- Orestis Ousoultzoglou from Greece 🇬🇷 ([xlxs4](https://github.com/xlxs4))
+- Mavromatakis Dimitris from Greece 🇬🇷 ([damavrom](https://gitlab.com/damavrom))
+- Gerasimos Maropoulos from Greece 🇬🇷 ([kataras](https://github.com/kataras))
+
 - AbdElmomen Kadhim ([bluemix](https://github.com/bluemix))
 - Milad Nekofar ([nekofar](https://github.com/nekofar))
 - Nikan Dalvand ([nikandlv](https://github.com/nikandlv))
@@ -518,22 +530,16 @@ You can:
 - Sarah Akhavan Kazemzadeh ([sarahakhavan](https://github.com/sarahakhavan))
 - Mehmet Alp Turkey ([mehmetakifalp](https://github.com/mehmetakifalp))
 - Haider Ali Punjabi ([haideralipunjabi](https://github.com/haideralipunjabi))
-- Houari ZEGAI from Algeria 🇩🇿 [HouariZegai](https://github.com/HouariZegai)
 - Mahuton from Benin 🇧🇯 ([Mahuton](https://github.com/Mahuton))
 - George Ho from Hong Kong 🇭🇰 ([eigenfoo](https://github.com/eigenfoo))
-- Orestis Ousoultzoglou from Greece 🇬🇷 ([xlxs4](https://github.com/xlxs4))
-- Adaobi Frank from Nigeria 🇳🇬 ([droidada](https://github.com/droidada))
-- Abdelhak Bougouffa from Algeria 🇩🇿 ([abougouffa](https://abougouffa.github.io))
 - Md Narimani ([mnarimani](https://github.com/mnarimani))
 - Samundra Khatri from Nepal 🇳🇵 ([samundrak](https://github.com/samundrak))
 - Muhammad Yaseen from Pakistan 🇵🇰 ([Yaseen](https://github.com/muhammadyaseen))
 - Daniel Kvasnicka from Czechia and the United States 🇨🇿 🇺🇸 ([dkvasnicka](https://github.com/dkvasnicka))
 - Lewis Conroy from Scotlabd ([Lewis Conroy](https://github.com/captainkinney))
-- Mavromatakis Dimitris from Greece 🇬🇷 ([damavrom](https://gitlab.com/damavrom))
 - Abdullrahman Al-Zeidi from Oman 🇴🇲 ([AbdullrahmanAlzeidi](https://github.com/AbdullrahmanAlzeidi))
 - Liam Kenneth from England ([Liam Kenneth](https://github.com/LiamKenneth))
 - Aiden Wallis from the United Kingdom ([AidenWallis](https://github.com/AidenWallis))
-- Gerasimos Maropoulos from Greece 🇬🇷 ([kataras](https://github.com/kataras))
 - f-person from Armenia 🇦🇲 ([f-person](https://github.com/f-person))
 - Lokimonoton from Indonesia 🇮🇩 ([lokimonoton](https://github.com/lokimonoton))
 - Madiodio Gaye from Senegal 🇸🇳 ([madiodio](https://github.com/madiodio))
