@@ -261,9 +261,11 @@ You can:
 - Yhlben from China 🇨🇳 ([yhlben](https://github.com/yhlben))
 - Abdus from India 🇮🇳 ([thisisabdus](https://github.com/thisosabdus))
 - Ali Bakhtiar from Iran 🇮🇷 ([alibakhtiar](https://github.com/alibakhtiar))
+
 - Abdus from India 🇮🇳 ([thisisabdus](https://github.com/thisosabdus))
 - Mohammad Alijani from Iran 🇮🇷 ([virtualdemon](https://github.com/virtualdemon))
 - Laster K. from UK 🇬🇧 ([lazerl0rd](https://github.com/lazerl0rd))
+- Ali Nasir from Iran 🇮🇷 ([Ali Nasir](https://github.com/Ali-Nasir-01))
 - Erfan Mahdavi form Iran 🇮🇷 ([erfanwd](https://github.com/erfanwd))
 - Mohsen Darestani Farahani from Iran 🇮🇷 ([8lueMeth](https://github.com/8luemeth))
 - Amirerfanr Rafati from Iran 🇮🇷 ([erfanr](https://github.com/erfanr))
@@ -539,3 +541,4 @@ You can:
 - Ako Salman from Iran 🇮🇷 ([Ako](https://github.com/akoSalman))
 - Atakan Ermiş from Turkey 🇹🇷 ([AtakanErmis](https://github.com/AtakanErmis))
 - ri7nz from Indonesia 🇮🇩 ([ri7nz](https://github.com/ri7nz))
+- Joshua Morrison from the United States 🇺🇸 ([MrM21632](https://github.com/MrM21632))
