@@ -565,6 +565,7 @@ You can:
 - Florian Wartner from Germany 🇩🇪 ([fwartner](https://github.com/fwartner))
 - Jack Kamm from the United States 🇺🇸 ([jackkamm](https://github.com/jackkamm))
 - Leonard Ginters from Germany 🇩🇪 ([l2ig](https://github.com/l2ig))
+- Farzin Ghanbari from Iran 🇮🇷 ([farzinghanbari](https://github.com/farzinghanbari))
 - Kuba Juszczyk from Poland 🇵🇱 ([ku8ar](https://github.com/ku8ar))
 - Peter Stensby from Norway 🇳🇴 ([pstensby](https://github.com/pstensby))
 - Maryam Mehrabian from Norway 🇳🇴([marme660](https://github.com/marme660))
