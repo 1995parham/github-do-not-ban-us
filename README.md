@@ -512,3 +512,4 @@ You can:
 - Céleste Cinti from France 🇫🇷 ([Leytere](https://github.com/Leytere))
 - Amir Habibzadeh from Iran 🇮🇷 ([amirhabibzadeh](https://github.com/amirhabibzadeh))
 - Mahdi Razavi from Iran 🇮🇷 ([m-razavi](https://github.com/m-razavi))
+- Arman Safikhani from Iran 🇮🇷 ([Arman92](https://github.com/arman92))
