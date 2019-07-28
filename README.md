@@ -92,7 +92,6 @@ You can:
 
 ## Supporters
 
-- Marwen from Germany 🇩🇪 ([mtrabelsi](https://github.com/mtrabelsi))
 - MohamadKh75 from Iran 🇮🇷 ([MohamadKh75](https://github.com/MohamadKh75))
 - Amir Masud Zare Bidaki from Iran 🇮🇷 ([amirmasud](https://github.com/amirmasud))
 - Hamed Hajiloo from Iran 🇮🇷 ([HamedHajiloo](https://github.com/hamedhajiloo))
@@ -127,7 +126,6 @@ You can:
 - Alireza Mahmoudian from Iran 🇮🇷 ([BelegCuthalion](https://github.com/BelegCuthalion))
 - Amirhossein Yaghoobi from Iran 🇮🇷 ([amir-yaghoobi](https://github.com/amir-yaghoobi))
 - Marjan Jangholi from Iran 🇮🇷 ([jangholi](https://github.com/jangholi))
-- Romain from France 🇫🇷 ([maoschanz](https://github.com/maoschanz))
 - Hussein Habibi Juybari from Iran 🇮🇷 ([husseinhj](https://github.com/Husseinhj))
 - Mahdi Ghiasi from Iran 🇮🇷 ([MahdiGhiasi](https://github.com/MahdiGhiasi))
 - Ali Tavalaie from Iran 🇮🇷 ([tavallaie](https://github.com/tavallaie))
@@ -546,3 +544,4 @@ You can:
 - Johannes Sandjaja from Indonesia 🇮🇩 ([pussio](https://github.com/pussio))
 - ri7nz from Indonesia 🇮🇩 ([ri7nz](https://github.com/ri7nz))
 - Joshua Morrison from the United States 🇺🇸 ([MrM21632](https://github.com/MrM21632))
+- Mohammad Naghibi from Iran 🇮🇷 ([mohammadnaghibi](https://github.com/mohammadnaghibi))
