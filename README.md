@@ -468,6 +468,13 @@ You can:
 - Cosmin-Petru Nechifor from Romania ([cosminnechifor](https://github.com/CosminNechifor/))
 - b1sergiu from Romania 🇷🇴 ([b1sergiu](https://github.com/b1sergiu/))
 
+### Saudi Arabia 🇸🇦
+- Saleh ([qirh](https://github.com/qirh/))
+
+### Spain 🇪🇸
+- Mrloder from Spain
+- Alejandro González-Pérez from Spain 🇪🇸 ([algope](https://github.com/algope))
+
 
 - AbdElmomen Kadhim ([bluemix](https://github.com/bluemix))
 - Milad Nekofar ([nekofar](https://github.com/nekofar))
@@ -478,11 +485,9 @@ You can:
 - Mehmet Alp Turkey ([mehmetakifalp](https://github.com/mehmetakifalp))
 - Haider Ali Punjabi ([haideralipunjabi](https://github.com/haideralipunjabi))
 - Mindaugas Vaitiekūnas from Lithuania 🇱🇹 ([mindaugasw](https://github.com/mindaugasw))
-- Saleh from Saudi Arabia 🇸🇦 ([qirh](https://github.com/qirh/))
 - Ru Chern Chong from Singapore 🇸🇬 ([ruchern](https://github.com/ruchern))
 - Daniel Caldas from Portugal 🇵🇹 ([danielcaldas](https://github.com/danielcaldas))
 - Nabil Tharwat from Egypt 🇪🇬 ([KL13NT](https://github.com/KL13NT))
-- Mrloder from Spain 🇪🇸
 - Houari ZEGAI from Algeria 🇩🇿 [HouariZegai](https://github.com/HouariZegai)
 - Kittinan from Thailand 🇹🇭 ([kittinan](https://github.com/kittinan))
 - Imed Adel from Tunisia 🇹🇳 ([ImedAdel](https://github.com/ImedAdel))
@@ -493,7 +498,6 @@ You can:
 - Adaobi Frank from Nigeria 🇳🇬 ([droidada](https://github.com/droidada))
 - Abdelhak Bougouffa from Algeria 🇩🇿 ([abougouffa](https://abougouffa.github.io))
 - Md Narimani ([mnarimani](https://github.com/mnarimani))
-- Alejandro González-Pérez from Spain 🇪🇸 ([algope](https://github.com/algope))
 - Samundra Khatri from Nepal 🇳🇵 ([samundrak](https://github.com/samundrak))
 - Muhammad Yaseen from Pakistan 🇵🇰 ([Yaseen](https://github.com/muhammadyaseen))
 - Francisco Sánchez from Chile 🇨🇱 ([fransafu](https://github.com/fransafu/))
