@@ -105,6 +105,7 @@ You can:
 - Enzo from France 🇫🇷
 - Appadeia from the United States 🇺🇸
 - Zhiwa from China 🇨🇳 ([zhiwa](https://github.com/aboutmydreams))
+- Junbo Li from China 🇨🇳 ([Adhders](https://github.com/Adhders))
 - Alexander Shelepenok from Belarus 🇧🇾
 - Ran Luo from China 🇨🇳
 - Zhu Zihao from China 🇨🇳 ([cireu](https://github.com/cireu))
@@ -500,3 +501,5 @@ You can:
 - Trinity Pointard from France 🇫🇷 ([fdb-hiroshima](https://github.com/fdb-hiroshima/))
 - Kiarash Zarinmehr from Iran 🇮🇷 ([Kiarash-Z](https://github.com/Kiarash-Z))
 - Pooya Eimandar from Iran 🇮🇷 ([pooyaeimandar](https://github.com/pooyaeimandar))
+- Shayan Karami from Iran 🇮🇷 ([Shayank](https://github.com/Shayank))
+- Milad GanjAli from Iran 🇮🇷 ([miladganjali](https://github.com/miladganjali))
