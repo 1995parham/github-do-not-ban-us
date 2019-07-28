@@ -1,0 +1,13 @@
+@charset 'utf-8';
+
+/**
+ *  support from China by Eltrac
+ */
+ 
+body:before {
+    content: "GitHub for everyone!";
+	color: red;
+	text-decoration: underline;
+	font-weight: bold;
+	font-size: 100px;
+}

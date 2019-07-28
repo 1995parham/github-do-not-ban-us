@@ -1,14 +1,16 @@
 # Un mensaje a GitHub
 
-[English](./README.md) | [简体中文](./README-CN.md) | Español
+[English](./README.md) | [简体中文](./README-CN.md) | Español | [Ελληνικά](./README-GR.md) | [Italiano](./README-IT.md) | [Русский](./README-RU.md) | [فارسی](./README-PER.md) | [Française](./README-FR.md) | [Deutsch](./README-DE.md)
 
 ![alt text](./message.png)
 
 Consejo: ¡Puedes usar [esta extensión](https://github.com/MohamadKh75/ShutHub) para ocultarlo!
 
+![github-octocat](https://user-images.githubusercontent.com/16706911/61997137-7aa7df00-b0b2-11e9-97f1-f452855fe21c.png)
+
 ## Introducción
 
-GitHub solía ser una plataforma abierta y libre para todos, pero ha decidió restringir la contribución de las cuentas iraníes desplazándolas del ecosistema de open-source. 
+GitHub solía ser una plataforma abierta y libre para todos, pero ha decidió restringir la contribución de las cuentas iraníes desplazándolas del ecosistema de open-source.
 A pesar de que entendemos que GitHub ha podido tomar esta decisión debido a la presión del gobierno estadounidense, esperábamos una acción más respetuosa por parte de GitHub.
 
 
@@ -70,7 +72,7 @@ Puedes:
   - [GitHub banned Irán-based users](https://financialtribune.com/articles/sci-tech/99111/github-bans-Irán-based-users)
   - [GitHub has blocked an Iránian software developer account](https://hub.packtpub.com/github-has-blocked-an-Iránian-software-developers-account)
   - [GitHub starts blocking developers in countries facing US trade sanctions](https://www.zdnet.com/article/github-starts-blocking-developers-in-countries-facing-us-trade-sanctions)
-  
+
  ## Defensores
- 
- [README.md](README.md)
+
+ [README.md](README.md#supporters)
