@@ -1,6 +1,5 @@
 # A Message to GitHub
 
-
 English | [简体中文](./README-CN.md) | [Español ](./README-ES.md) | [Ελληνικά](./README-GR.md) | [Italiano](./README-IT.md) | [Русский](./README-RU.md) | [فارسی](./README-PER.md) | [Française ](./README-FR.md) | [Deutsch](./README-DE.md) | [Հայերէն](./README-HY.md)
 
 ![alt text](./message.png)
@@ -21,7 +20,7 @@ GitHub used to be an open and free platform for everyone, but it has decided to 
 Eventually, we are hoping that GitHub's team:
 
 - Let us download our private repositories and also make them public (setting control).
-   - **UPDATE:** It is possible now to make private repositories public.
+  - **UPDATE:** It is possible now to make private repositories public.
 - Change their restriction policies to not limiting users based on their Nationality.
 - Cnnounce their decision publicly and apologize for making this situation (like what slack did before in the same situation: https://slackhq.com/an-apology-and-an-update).
 
@@ -388,7 +387,7 @@ You can:
 - Lewis Conroy from Scotlabd ([Lewis Conroy](https://github.com/captainkinney))
 - jkmpariab from iran 🇮🇷 ([jkmpariab](https://github.com/jkmpariab))
 - Jordan Hart from the United States 🇺🇸 ([jordanhart](https://github.com/jordanhart))
-- Mohsen Khanpour from Iran  🇮🇷 ([mohsenkhanpour](https://github.com/mohsenkhanpour))
+- Mohsen Khanpour from Iran 🇮🇷 ([mohsenkhanpour](https://github.com/mohsenkhanpour))
 - Nima Amiri from Iran 🇮🇷 ([Nimak](https://github.com/arc92))
 - Tyler from the United States 🇺🇸 ([arctair](https://github.com/arctair))
 - Andreas Basurto from the United States 🇺🇸 ([nitrohorse](https://github.com/nitrohorse))
@@ -408,7 +407,7 @@ You can:
 - Igor from Poland 🇵🇱 ([igorpos](https://github.com/igorpos))
 - Bishoy Melek from Egypt 🇪🇬 ([bishoymelek](https://github.com/bishoymelek))
 - Duong Nguyen from Vietnam 🇻🇳 ([you-create](https://github.com/you-create))
-- Artur Kondas from Poland 🇵🇱 ([youshy](https://github.com/youshy)) 
+- Artur Kondas from Poland 🇵🇱 ([youshy](https://github.com/youshy))
 - James from China 🇨🇳 ([jamesyangget](https://github.com/jamesyangget))
 - Mohammad Zare Moghadam 🇮🇷 ([thisismzm](https://github.com/thisismzm))
 - Eli Bierman from the United States 🇺🇸 ([edbedbe](https://github.com/edbedbe))
@@ -446,7 +445,7 @@ You can:
 - Ali Ranjbarzadeh from Iran (https://github.com/AliRanjbarzadeh)
 - Mehdi Dehghani from Iran ([dehghani-mehdi](https://github.com/dehghani-mehdi))
 - Ahmad Aghazadeh from Iran ([ahmadaghazadeh](https://github.com/ahmadaghazadeh))
-- Jennifer Shehane from United States 🇺🇸  ([jennifer-shehane](https://github.com/jennifer-shehane))
+- Jennifer Shehane from United States 🇺🇸 ([jennifer-shehane](https://github.com/jennifer-shehane))
 - Daniel Lalasa ([daniellalasa2](https://github.com/daniellalasa2))
 - Mohammad Ali Amini from Iran ([hakhsin](https://github.com/hakhsin))
 - Naser Nourani from Iran 🇮🇷 ([NNourani](https://github.com/nnourani/))
@@ -473,3 +472,4 @@ You can:
 - Seyed Abbas Ghomi from Iran 🇮🇷 ([SeyedAbbasGhomi](https://github.com/SeyedAbbasGhomi))
 - Alexander J. from Australia 🇦🇺 ([alexanderj2357](https://github.com/alexanderj2357))
 - Wilhelm Behncke from Germany 🇩🇪 ([grebaldi](https://github.com/grebaldi))
+- Ajay Rawat from India 🇮🇳 ([hello-ajayrawat](https://github.com/hello-ajayrawat))
