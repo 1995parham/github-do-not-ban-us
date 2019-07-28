@@ -4,7 +4,11 @@
 
 ![alt text](./message.png)
 
-<div dir="rtl"> نصيحة: يمكنك استخدام <a href="https://github.com/JafarAkhondali/remove-github-restrictions-message">هذا البرنامج المساعد</a> أو <a href="https://github.com/MohamadKh75/ShutHub">هذا البرنامج المساعد</a> إخفاء الرسالة الصفراء تلقائيًا أعلى الشاشة. </div>
+<div dir="rtl"><s> نصيحة: يمكنك استخدام <a href="https://github.com/JafarAkhondali/remove-github-restrictions-message">هذا البرنامج المساعد</a> أو <a href="https://github.com/MohamadKh75/ShutHub">هذا البرنامج المساعد</a> إخفاء الرسالة الصفراء تلقائيًا أعلى الشاشة. </s></div>
+
+
+<div dir="rtl"><strong>تحديث</strong>: اصبح من الممكن اخفاء رسالة التحذير دون الحاجة لبرامج مساعدة.</div>
+
 
 ![github-octocat](https://user-images.githubusercontent.com/16706911/61997137-7aa7df00-b0b2-11e9-97f1-f452855fe21c.png)
 
