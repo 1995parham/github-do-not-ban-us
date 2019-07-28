@@ -392,6 +392,7 @@ You can:
 - Mavromatakis Dimitris from Greece 🇬🇷 ([damavrom](https://gitlab.com/damavrom))
 - Piotr Kazimierski from Poland 🇵🇱 ([inquis1t0r](https://github.com/Inquis1t0r/))
 - Ravi from India 🇮🇳 ([xolve](https://github.com/xolve))
+- Madiodio Gaye from Senegal 🇸🇳 ([madiodio](https://github.com/madiodio))
 - RealPG from China 🇨🇳 ([realpg](https://github.com/realpg))
 - Ben Barnes from Australia 🇦🇺 ([ben-barnes](https://github.com/ben-barnes/))
 - Barce from the United States 🇺🇸 ([barce](https://github.com/barce))
