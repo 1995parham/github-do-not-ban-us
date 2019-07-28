@@ -558,3 +558,4 @@ You can:
 - Ardy A from Turkey 🇹🇷 ([ardyln](https://github.com/ardyln))
 - Florian Wartner from Germany 🇩🇪 ([fwartner](https://github.com/fwartner))
 - Jack Kamm from the United States 🇺🇸 ([jackkamm](https://github.com/jackkamm))
+- Salim Djerbouh from Algeria 🇩🇿 ([caddydz](https://github.com/CaddyDz))
