@@ -84,6 +84,7 @@ You can:
 
 ## Supporters
 
+- Amir Masud Zare Bidaki from Iran 🇮🇷 ([amirmasud](https://github.com/amirmasud))
 - Hamed Hajiloo from Iran 🇮🇷 ([HamedHajiloo](https://github.com/hamedhajiloo))
 - Wilson Flores [wilsson](https://github.com/wilsson) from 🇵🇪
 - Marco Aceti from Italy 🇮🇹 ([MarcoBuster](https://github.com/MarcoBuster))
