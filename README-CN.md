@@ -78,7 +78,7 @@ GitHub 曾经是一个面向所有人的开放、自由的平台，但它现在�
 
 ## 新闻
 
-- [Github 允许我们公开私有仓库](https://github.com/1995parham/github-do-not-ban-us/issues/666)
+- [GitHub 允许我们公开私有仓库](https://github.com/1995parham/github-do-not-ban-us/issues/666)
 
 ## 支持者列表
 
