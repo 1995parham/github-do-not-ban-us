@@ -593,3 +593,4 @@ You can:
 - Pooya Khandel from Iran 🇮🇷 ([po_oya](https://github.com/PoOyaKhandel))
 - Luiz Eduardo Amaral from Brazil 🇧🇷 ([luxedo](https://github.com/luxedo))
 - Lory from the United States 🇺🇸 and Iran 🇮🇷 ([Lorymi](https://github.com/Lorymi))
+- DOBRO from Russia 🇷🇺 ([DOBRO](https://github.com/DOBRO))
