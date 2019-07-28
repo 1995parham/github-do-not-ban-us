@@ -541,6 +541,7 @@ You can:
 - Rogério dos Santos Fernandes 🇧🇷 ([spartanroger](https://github.com/spartanroger))
 - Tim Visée from the Netherlands 🇳🇱 ([timvisee](https://github.com/timvisee))
 - Ako Salman from Iran 🇮🇷 ([Ako](https://github.com/akoSalman))
+- Martin Král from Czech Republic 🇨🇿 ([MartinKral](https://github.com/MartinKral))
 - Atakan Ermiş from Turkey 🇹🇷 ([AtakanErmis](https://github.com/AtakanErmis))
 - ItsWajdy from Syria 🇸🇾 ([ItsWajdy] (https://github.com/ItsWajdy))
 - Emilbek Sulaymanov from Kyrgyzstan 🇰🇬 ([emli](https://github.com/emli))
