@@ -28,21 +28,24 @@ GitHub је некада био отворена и слободна платф�
 
 Неки од пројеката отвореног кода које су написали Ирански програмери:
 
-- https://github.com/harfbuzz
-- https://github.com/usablica/intro.js
-- https://github.com/lebab/lebab
-- https://github.com/saeedalipoor/icono
-- https://github.com/morteza/bootstrap-rtl
-- https://github.com/ilius/pyglossary
-- https://github.com/TheSNAKY/Lives
-- https://github.com/sasanrose/phpredmin
-- https://github.com/ahmdrz/goinsta
-- https://github.com/persepolisdm/persepolis
-- https://github.com/sepandhaghighi/pycm
-- https://github.com/sepandhaghighi/art
-- https://github.com/imaNNeoFighT/fl_chart
-- https://github.com/nuxt/nuxt.js
-- https://github.com/bootstrap-vue/bootstrap-vue
+- [@harfbuzz](https://github.com/harfbuzz)/[**harfbuzz**](https://github.com/harfbuzz/harfbuzz)
+- [@usablica](https://github.com/usablica)/[**intro.js**](https://github.com/usablica/intro.js)
+- [@lebab](https://github.com/lebab)/[**lebab**](https://github.com/lebab/lebab)
+- [@saeedalipoor](https://github.com/saeedalipoor)/[**icono**](https://github.com/saeedalipoor/icono)
+- [@morteza](https://github.com/morteza)/[**bootstrap-rtl**](https://github.com/morteza/bootstrap-rtl)
+- [@ilius](https://github.com/ilius)/[**pyglossary**](https://github.com/ilius/pyglossary)
+- [@TheSNAKY](https://github.com/TheSNAKY)/[**Lives**](https://github.com/TheSNAKY/Lives)
+- [@sasanrose](https://github.com/sasanrose)/[**phpredmin**](https://github.com/sasanrose/phpredmin)
+- [@ahmdrz](https://github.com/ahmdrz)/[**goinsta**](https://github.com/ahmdrz/goinsta)
+- [@persepolisdm](https://github.com/persepolisdm)/[**persepolis**](https://github.com/persepolisdm/persepolis)
+- [@sepandhaghighi](https://github.com/sepandhaghighi)/[**pycm**](https://github.com/sepandhaghighi/pycm)
+- [@sepandhaghighi](https://github.com/sepandhaghighi)/[**art**](https://github.com/sepandhaghighi/art)
+- [@imaNNeoFighT](https://github.com/imaNNeoFighT)/[**fl_chart**](https://github.com/imaNNeoFighT/fl_chart)
+- [@nuxt](https://github.com/nuxt)/[**nuxt.js**](https://github.com/nuxt/nuxt.js)
+- [@bootstrap-vue](https://github.com/bootstrap-vue)/[**bootstrap-vue**](https://github.com/bootstrap-vue/bootstrap-vue)
+- [@wolfengine](https://github.com/wolfengine)/[**wolf.engine**](https://github.com/wolfengine/wolf.engine)
+- [@soroushchehresa](https://github.com/soroushchehresa)/[**vue-soundcloud**](https://github.com/soroushchehresa/vue-soundcloud)
+- [@soroushchehresa](https://github.com/soroushchehresa)/[**unsplash-wallpapers**](https://github.com/soroushchehresa/unsplash-wallpapers)
 
 Комплетна листа може се пронаћи [овде](https://github.com/mohebifar/made-in-iran).
 
