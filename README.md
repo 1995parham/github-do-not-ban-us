@@ -107,6 +107,7 @@ You can:
 - Fahim from Bangladesh 🇧🇩
 - divinity1437 from Russia 🇷🇺
 - Enzo from France 🇫🇷
+- Edgar from 🇦🇲 ([EdgarAmirbekian](https://github.com/edgaramirbekian))
 - Appadeia from the United States 🇺🇸
 - Junbo Li from China 🇨🇳 ([Adhders](https://github.com/Adhders))
 - Zhiwa from China 🇨🇳 ([zhiwa](https://github.com/aboutmydreams))
