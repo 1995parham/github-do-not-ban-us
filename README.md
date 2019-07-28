@@ -392,7 +392,7 @@ You can:
 - Sandy Chen ([sandy2008](https://github.com/sandy2008))
 - Stephen Yin ([hacker0limbo](https://github.com/hacker0limbo))
 
-### United Kingdom
+### United Kingdom 🇬🇧
 - speccius
 - Laster K. ([lazerl0rd](https://github.com/lazerl0rd))
 - Matthew Parnell ([GitLab](https://gitlab.com/parnmatt), [parnmatt GitHub](https://github.com/parnmatt))
@@ -424,11 +424,11 @@ You can:
 ### Guadeloupe 🇬🇵
 - Benjamin Hogué
 
-### Mexico
+### Mexico 🇲🇽
 - fredddie from Mexico 🇲🇽
 - Giovanni Nuño from Mexico 🇲🇽 ([gionuno](https://github.com/gionuno))
 
-### Brazil
+### Brazil 🇧🇷
 - Mateus Gabi Moreira from Brazil 🇧🇷 ([mateusgabi](https://github.com/mateusgabi))
 - Matheus Graciano from Brazil 🇧🇷 ([graciano](https://github.com/graciano))
 - Lucas Bittencourt from Brazil 🇧🇷 ([lucasnaja](https://github.com/lucasnaja))
@@ -440,7 +440,7 @@ You can:
 - Davyd McColl from South Africa 🇿🇦 ([fluffynuts](https://github.com/fluffynuts))
 - Sivuyile Magutywa from South Africa 🇿🇦
 
-### India
+### India 🇮🇳
 - Abdus from India 🇮🇳 ([thisisabdus](https://github.com/thisosabdus))
 - Vaibhav Khulbe from India 🇮🇳 ([Kvaibhav01](https://github.com/Kvaibhav01))
 - Anand Chowdhary from India and Netherlands 🇮🇳 🇳🇱 ([AnandChowdhary](https://github.com/AnandChowdhary))
@@ -480,7 +480,7 @@ You can:
 - Mrloder from Spain
 - Alejandro González-Pérez from Spain 🇪🇸 ([algope](https://github.com/algope))
 
-### Portugal
+### Portugal 🇵🇹
 - Daniel Caldas from Portugal 🇵🇹 ([danielcaldas](https://github.com/danielcaldas))
 - Jose Pita from from Portugal 🇵🇹 ([jpita](https://github.com/jpita/))
 
@@ -490,60 +490,60 @@ You can:
 ### Singapore 🇸🇬
 - Ru Chern Chong from Singapore 🇸🇬 ([ruchern](https://github.com/ruchern))
 
-### Egypt
+### Egypt 🇪🇬
 - Nabil Tharwat from Egypt 🇪🇬 ([KL13NT](https://github.com/KL13NT))
 - Bishoy Melek from Egypt 🇪🇬 ([bishoymelek](https://github.com/bishoymelek))
   
-### Vietnam
+### Vietnam 🇻🇳
 - Cuong Nguyen from Vietnam 🇻🇳 ([cuongw](https://github.com/cuongw))
 - Duong Nguyen from Vietnam 🇻🇳 ([you-create](https://github.com/you-create))
 
-### Poland
+### Poland 🇵🇱
 - Karol Kulik from Poland 🇵🇱 ([MrK191](https://github.com/MrK191))
 - Piotr Kazimierski from Poland 🇵🇱 ([inquis1t0r](https://github.com/Inquis1t0r/))
 - Igor from Poland 🇵🇱 ([igorpos](https://github.com/igorpos))
 - Artur Kondas from Poland 🇵🇱 ([youshy](https://github.com/youshy)) 
 
-### Tunisia
+### Tunisia 🇹🇳
 - Imed Adel from Tunisia 🇹🇳 ([ImedAdel](https://github.com/ImedAdel))
 - Adem Kouki from Tunisia 🇹🇳 ([Ademking](https://gitlab.com/Ademking))
 
-### Chile
+### Chile 🇨🇱
 - Francisco Sánchez from Chile 🇨🇱 ([fransafu](https://github.com/fransafu/))
 
-### Thailand
+### Thailand 🇹🇭
 - Kittinan from Thailand 🇹🇭 ([kittinan](https://github.com/kittinan))
 - Amine Mouafik from Thailand 🇹🇭 ([kytwb](https://github.com/kytwb))
 
-### Algeria
+### Algeria 🇩🇿
 - Houari ZEGAI from Algeria 🇩🇿 [HouariZegai](https://github.com/HouariZegai)
 - Abdelhak Bougouffa from Algeria 🇩🇿 ([abougouffa](https://abougouffa.github.io))
 
-### Nigeria
+### Nigeria 🇳🇬
 - Adaobi Frank from Nigeria 🇳🇬 ([droidada](https://github.com/droidada))
 
-### Greece
+### Greece 🇬🇷
 - Orestis Ousoultzoglou from Greece 🇬🇷 ([xlxs4](https://github.com/xlxs4))
 - Mavromatakis Dimitris from Greece 🇬🇷 ([damavrom](https://gitlab.com/damavrom))
 - Gerasimos Maropoulos from Greece 🇬🇷 ([kataras](https://github.com/kataras))
 
-### Armenia
+### Armenia 🇦🇲
 - f-person from Armenia 🇦🇲 ([f-person](https://github.com/f-person))
 - fugio from armenia 🇦🇲 ([fugio](https://github.com/fugio))
 
-### Benin
+### Benin 🇧🇯
 - Mahuton from Benin 🇧🇯 ([Mahuton](https://github.com/Mahuton))
 
 ### Oman 🇴🇲
 - Abdullrahman Al-Zeidi from Oman 🇴🇲 ([AbdullrahmanAlzeidi](https://github.com/AbdullrahmanAlzeidi))
 
-### Hong Kong
+### Hong Kong 🇭🇰
 - George Ho from Hong Kong 🇭🇰 ([eigenfoo](https://github.com/eigenfoo))
 
-### Nepal
+### Nepal 🇳🇵
 - Samundra Khatri from Nepal 🇳🇵 ([samundrak](https://github.com/samundrak))
 
-### Pakistan
+### Pakistan 🇵🇰
 - Muhammad Yaseen from Pakistan 🇵🇰 ([Yaseen](https://github.com/muhammadyaseen))
 
 ### Jordan 🇯🇴
@@ -552,11 +552,11 @@ You can:
 ### Scotland
 - Lewis Conroy from Scotlabd ([Lewis Conroy](https://github.com/captainkinney))
 
-### Indonesia
+### Indonesia 🇮🇩
 - Lokimonoton from Indonesia 🇮🇩 ([lokimonoton](https://github.com/lokimonoton))
 
-### Senegal
-- Madiodio Gaye from Senegal 🇸🇳 ([madiodio](https://github.com/madiodio))
+### Senegal 🇸🇳
+- Madiodio Gaye ([madiodio](https://github.com/madiodio))
 
 ### Czechia 🇨🇿
 - Daniel Kvasnicka ([dkvasnicka](https://github.com/dkvasnicka))
