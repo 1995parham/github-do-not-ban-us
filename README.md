@@ -1,6 +1,6 @@
 # A Message to Github
 
-English | [简体中文](./README-CN.md) | [Español ](./README-ES.md) | [Ελληνικά](./README-GR.md) | [Italiano](./README-IT.md) | [Русский](./README-RU.md) | [فارسی](./README-PER.md) | [Française ](./README-FR.md) | [Deutsch](./README-DE.md) | [Հայերէն](./README-HY.md) | [Српски](./README-SR.md)
+English | [简体中文](./README-CN.md) | [Español ](./README-ES.md) | [Ελληνικά](./README-GR.md) | [Italiano](./README-IT.md) | [Русский](./README-RU.md) | [فارسی](./README-PER.md) | [Française ](./README-FR.md) | [Deutsch](./README-DE.md) | [Հայերէն](./README-HY.md) | [Српски](./README-SR.md) | [العربية](./README-AR.md)
 
 ![alt text](./message.png)
 
@@ -509,7 +509,13 @@ You can:
 - Shayan Karami from Iran 🇮🇷 ([Shayank](https://github.com/Shayank))
 - Milad GanjAli from Iran 🇮🇷 ([miladganjali](https://github.com/miladganjali))
 - Ali Madihi from Iran 🇮🇷 ([mrunderline](https://github.com/mrunderline))
+- Parsa Torbati from Iran 🇮🇷 ([poyynt](https://github.com/poyynt))
 - Céleste Cinti from France 🇫🇷 ([Leytere](https://github.com/Leytere))
 - Amir Habibzadeh from Iran 🇮🇷 ([amirhabibzadeh](https://github.com/amirhabibzadeh))
 - Mahdi Razavi from Iran 🇮🇷 ([m-razavi](https://github.com/m-razavi))
 - Bofei Wang China 🇨🇳 ([bofeiw](https://github.com/bofeiw))
+- Ali Joghataei from Iran 🇮🇷 ([ali-joghataei](https://github.com/ali-joghataei))
+- Saeed Bibak from Iran 🇮🇷 ([saeedbibak](https://github.com/saeedbibak))
+- Kevin Pennarun from France 🇫🇷 ([kepennar](https://github.com/kepennar))
+- Kizito Akhilome from Nigeria 🇳🇬 ([akhilome](https://github.com/akhilome))
+- Arman Safikhani from Iran 🇮🇷 ([Arman92](https://github.com/arman92))
