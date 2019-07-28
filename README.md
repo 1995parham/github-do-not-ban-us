@@ -25,7 +25,7 @@ Eventually, we are hoping that GitHub's team:
 
 Some examples of open-source projects created by Iranian developers:
 
-- [**@harfbuzz**](https://github.com/harfbuzz)
+- [@harfbuzz](https://github.com/harfbuzz)/[**harfbuzz**](https://github.com/harfbuzz/harfbuzz)
 - [@usablica](https://github.com/usablica)/[**intro.js**](https://github.com/usablica/intro.js)
 - [@lebab](https://github.com/lebab)/[**lebab**](https://github.com/lebab/lebab)
 - [@saeedalipoor](https://github.com/saeedalipoor)/[**icono**](https://github.com/saeedalipoor/icono)
