@@ -534,3 +534,4 @@ You can:
 - Amin Yazdanpanah from Iran 🇮🇷 ([aminyazdanpanah](https://github.com/aminyazdanpanah))
 - Pooya Barati from Iran 🇮🇷 ([pooyabarati](https://github.com/pooyabarati))
 - Rogério dos Santos Fernandes 🇧🇷 ([spartanroger](https://github.com/spartanroger))
+- Tim Visée from the Netherlands 🇳🇱 ([timvisee](https://github.com/timvisee))
