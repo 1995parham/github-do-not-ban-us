@@ -450,10 +450,15 @@ You can:
 - Ravi from India 🇮🇳 ([xolve](https://github.com/xolve))
 - Kitten King from India 🇮🇳 ([kittenking](https://github.com/kittenking))
 
-### Ukraine
-- Ruslan Gunawardana from Ukraine 🇺🇦 ([exarus](https://github.com/exarus))
+### Ukraine 🇺🇦
+- Ruslan Gunawardana from Ukraine  ([exarus](https://github.com/exarus))
 - Andrii Kovalchuk from Ukraine 🇺🇦 ([tieorange](https://github.com/tieorange/))
 - Andrii Siriak from Ukraine ([siriak](https://github.com/siriak))
+
+### Turkey 🇹🇷
+- Erkan Özkök from Turkey 🇹🇷 ([nozkok](https://github.com/nozkok))
+- Fırat Eşki from Turkey 🇹🇷 ([firateski](https://github.com/firateski))
+- Mehmet Kaykısız from Turkey 🇹🇷 ([mkaykisiz](https://github.com/mkaykisiz))
 
 - AbdElmomen Kadhim ([bluemix](https://github.com/bluemix))
 - Milad Nekofar ([nekofar](https://github.com/nekofar))
@@ -464,10 +469,8 @@ You can:
 - Mehmet Alp Turkey ([mehmetakifalp](https://github.com/mehmetakifalp))
 - Haider Ali Punjabi ([haideralipunjabi](https://github.com/haideralipunjabi))
 - Louay Al-osh from Syria 🇸🇾 (https://github.com/lalosh)
-- Erkan Özkök from Turkey 🇹🇷 ([nozkok](https://github.com/nozkok))
 - Cosmin-Petru Nechifor from Romania 🇷🇴 ([cosminnechifor](https://github.com/CosminNechifor/))
 - Mindaugas Vaitiekūnas from Lithuania 🇱🇹 ([mindaugasw](https://github.com/mindaugasw))
-- Fırat Eşki from Turkey 🇹🇷 ([firateski](https://github.com/firateski))
 - b1sergiu from Romania 🇷🇴 ([b1sergiu](https://github.com/b1sergiu/))
 - Saleh from Saudi Arabia 🇸🇦 ([qirh](https://github.com/qirh/))
 - Ru Chern Chong from Singapore 🇸🇬 ([ruchern](https://github.com/ruchern))
@@ -480,7 +483,6 @@ You can:
 - Mahuton from Benin 🇧🇯 ([Mahuton](https://github.com/Mahuton))
 - George Ho from Hong Kong 🇭🇰 ([eigenfoo](https://github.com/eigenfoo))
 - Cuong Nguyen from Vietnam 🇻🇳 ([cuongw](https://github.com/cuongw))
-- Mehmet Kaykısız from Turkey 🇹🇷 ([mkaykisiz](https://github.com/mkaykisiz))
 - Orestis Ousoultzoglou from Greece 🇬🇷 ([xlxs4](https://github.com/xlxs4))
 - Adaobi Frank from Nigeria 🇳🇬 ([droidada](https://github.com/droidada))
 - Abdelhak Bougouffa from Algeria 🇩🇿 ([abougouffa](https://abougouffa.github.io))
