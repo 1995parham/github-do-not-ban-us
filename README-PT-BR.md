@@ -1,6 +1,6 @@
 # Uma Mensagem ao GitHub
 
-English | [简体中文](./README-CN.md) | [Español ](./README-ES.md) | [Ελληνικά](./README-GR.md) | [Italiano](./README-IT.md) | [Русский](./README-RU.md) | [فارسی](./README-PER.md) | [Française ](./README-FR.md) | [Deutsch](./README-DE.md) | [Հայերէն](./README-HY.md) | [Српски](./README-SR.md) | [العربية](./README-AR.md) | [Português do Brasil](./README-PT-BR.md) | [Türkçe](./README-TR.md)
+[English](./README.md) | [简体中文](./README-CN.md) | [Español ](./README-ES.md) | [Ελληνικά](./README-GR.md) | [Italiano](./README-IT.md) | [Русский](./README-RU.md) | [فارسی](./README-PER.md) | [Française ](./README-FR.md) | [Deutsch](./README-DE.md) | [Հայերէն](./README-HY.md) | [Српски](./README-SR.md) | [العربية](./README-AR.md) | [Türkçe](./README-TR.md) | Português do Brasil
 
 ![alt text](./message.png)
 
@@ -80,8 +80,8 @@ Você pode:
 - [Conner Orth](https://twitter.com/conner_orth/status/1154723522729709568) on Twitter
 - [Nat Friedman](https://twitter.com/natfriedman/status/1155311121038864384) on Twitter
 - [Pooya Eimandar](https://twitter.com/_poei/status/1154994262884454400) on Twitter
-- [Pooya Eimandar](https://www.reddit.com/r/github/comments/cirde7/ive_been_paid_github_for_more_than_three_years/?st=jympkq19&sh=df5e5410) on Reddit 
-- [Sana Khalesi](https://medium.com/@khalesic/github-the-largest-developer-communities-from-every-corner-of-the-globe-but-iran-804c05a991df) on Medium 
+- [Pooya Eimandar](https://www.reddit.com/r/github/comments/cirde7/ive_been_paid_github_for_more_than_three_years/?st=jympkq19&sh=df5e5410) on Reddit
+- [Sana Khalesi](https://medium.com/@khalesic/github-the-largest-developer-communities-from-every-corner-of-the-globe-but-iran-804c05a991df) on Medium
 
 ## Notícias
 
