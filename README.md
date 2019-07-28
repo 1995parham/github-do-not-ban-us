@@ -523,6 +523,17 @@ You can:
 - Mavromatakis Dimitris from Greece 🇬🇷 ([damavrom](https://gitlab.com/damavrom))
 - Gerasimos Maropoulos from Greece 🇬🇷 ([kataras](https://github.com/kataras))
 
+### Armenia
+- f-person from Armenia 🇦🇲 ([f-person](https://github.com/f-person))
+- fugio from armenia 🇦🇲 ([fugio](https://github.com/fugio))
+
+### Benin
+- Mahuton from Benin 🇧🇯 ([Mahuton](https://github.com/Mahuton))
+
+### Oman 🇴🇲
+- Abdullrahman Al-Zeidi from Oman 🇴🇲 ([AbdullrahmanAlzeidi](https://github.com/AbdullrahmanAlzeidi))
+
+
 - AbdElmomen Kadhim ([bluemix](https://github.com/bluemix))
 - Milad Nekofar ([nekofar](https://github.com/nekofar))
 - Nikan Dalvand ([nikandlv](https://github.com/nikandlv))
@@ -531,19 +542,15 @@ You can:
 - Sarah Akhavan Kazemzadeh ([sarahakhavan](https://github.com/sarahakhavan))
 - Mehmet Alp Turkey ([mehmetakifalp](https://github.com/mehmetakifalp))
 - Haider Ali Punjabi ([haideralipunjabi](https://github.com/haideralipunjabi))
-- Mahuton from Benin 🇧🇯 ([Mahuton](https://github.com/Mahuton))
 - George Ho from Hong Kong 🇭🇰 ([eigenfoo](https://github.com/eigenfoo))
 - Md Narimani ([mnarimani](https://github.com/mnarimani))
 - Samundra Khatri from Nepal 🇳🇵 ([samundrak](https://github.com/samundrak))
 - Muhammad Yaseen from Pakistan 🇵🇰 ([Yaseen](https://github.com/muhammadyaseen))
 - Daniel Kvasnicka from Czechia and the United States 🇨🇿 🇺🇸 ([dkvasnicka](https://github.com/dkvasnicka))
 - Lewis Conroy from Scotlabd ([Lewis Conroy](https://github.com/captainkinney))
-- Abdullrahman Al-Zeidi from Oman 🇴🇲 ([AbdullrahmanAlzeidi](https://github.com/AbdullrahmanAlzeidi))
 - Liam Kenneth from England ([Liam Kenneth](https://github.com/LiamKenneth))
 - Aiden Wallis from the United Kingdom ([AidenWallis](https://github.com/AidenWallis))
-- f-person from Armenia 🇦🇲 ([f-person](https://github.com/f-person))
 - Lokimonoton from Indonesia 🇮🇩 ([lokimonoton](https://github.com/lokimonoton))
 - Madiodio Gaye from Senegal 🇸🇳 ([madiodio](https://github.com/madiodio))
 - Serene Husni from Jordan and Canada 🇯🇴 🇨🇦
-- fugio from armenia 🇦🇲 ([fugio](https://github.com/fugio))
 - Daniel Lalasa ([daniellalasa2](https://github.com/daniellalasa2))
