@@ -553,3 +553,6 @@ You can:
 - Joshua Morrison from the United States 🇺🇸 ([MrM21632](https://github.com/MrM21632))
 - Yağızhan Burak Yakar from Turkey 🇹🇷 ([yagizhan49](https://github.com/yagizhan49))
 - Antonios Sidiropoulos from Greece 🇬🇷 ([s-i-d-i](https://github.com/s-i-d-i))
+- Ardy A from Turkey 🇹🇷 ([ardyln](https://github.com/ardyln))
+- Florian Wartner from Germany 🇩🇪 ([fwartner](https://github.com/fwartner))
+- Jack Kamm from the United States 🇺🇸 ([jackkamm](https://github.com/jackkamm))
