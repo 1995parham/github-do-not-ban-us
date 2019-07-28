@@ -242,6 +242,7 @@ You can:
 - Sukka from China 🇨🇳 ([SukkaW](https://github.com/SukkaW))
 - Erfan Mehraban from Iran 🇮🇷 ([erfan-mehraban](https://github.com/erfan-mehraban))
 - Seyed Hossein Hosseini from Iran 🇮🇷 ([DiniMad](https://github.com/DiniMad))
+- Seyed Ali Salmabadi from Iran 🇮🇷 ([salis77](https://github.com/salis77))
 - Louay Al-osh from Syria 🇸🇾 (https://github.com/lalosh)
 - Mohammad Hussein Tavakoli Bina from Iran 🇮🇷 ([mhtb32](https://github.com/mhtb32))
 - Ali Yazdi from Iran 🇮🇷 ([aliyazdi75](https://github.com/aliyazdi75))
