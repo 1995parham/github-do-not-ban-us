@@ -82,6 +82,8 @@ You can:
 
 - [Github allow us to make our private repositories, public](https://github.com/1995parham/github-do-not-ban-us/issues/666)
 
+![nat-friedman](nat-friedman.png)
+
 ## Supporters
 
 - Amir Masud Zare Bidaki from Iran 🇮🇷 ([amirmasud](https://github.com/amirmasud))
@@ -485,6 +487,9 @@ You can:
 - Max Strübing from Germany 🇩🇪([mstruebing](https://github.com/mstruebing))
 - Ali Kavani from Iran 🇮🇷 ([subzerobo](https://github.com/subzerobo))
 - Amer Lotfi Orimi from Iran 🇮🇷 ([amerllica](https://github.com/amerllica))
+- Amir Hossein Mirzaei from Iran 🇮🇷 ([amirc901](https://github.com/amirc901))
 - Mehran Goudarzi from Iran 🇮🇷 ([Mehran](https://github.com/Mehran))
 - Ali Hassanabadi from Iran 🇮🇷 ([AHassanabadi](https://github.com/AHassanabadi))
 - Stijn Segers from Belgium 🇧🇪 ([Borromini](https://github.com/Borromini))
+- Ali Abdollahi from Iran 🇮🇷 ([aabdollahi](https://github.com/aabdollahi))
+- Trinity Pointard from France 🇫🇷 ([fdb-hiroshima](https://github.com/fdb-hiroshima/))
