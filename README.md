@@ -86,6 +86,10 @@ You can:
   
 - [Conner Orth](https://twitter.com/conner_orth/status/1154723522729709568) on Twitter
 
+## News
+
+- [Github allow us to make our private repositories, public](https://github.com/1995parham/github-do-not-ban-us/issues/666)
+
 ## Supporters
 
 - Hamed Hajiloo from Iran 🇮🇹 ([HamedHajiloo](https://github.com/hamedhajiloo))
@@ -143,6 +147,7 @@ You can:
 - Nikan Dalvand ([nikandlv](https://github.com/nikandlv))
 - Alireza Torabian from Iran 🇮🇷 ([1997alireza](https://github.com/1997alireza))
 - Ali Irani from Iran 🇮🇷 ([aliir74](https://github.com/ali74))
+- Alireza Jahanshahlou from Iran 🇮🇷 ([a-jahanshahlo](https://github.com/a-jahanshahlo))
 - jocs from China 🇨🇳 ([jocs](https://github.com/Jocs))
 - Jérôme Gamez from Germany 🇩🇪 ([jeromegamez](https://github.com/jeromegamez))
 - Mohammadreza Samadi from Iran 🇮🇷 ([MhmDSmdi](https://github.com/MhmDSmdi))
@@ -400,6 +405,7 @@ You can:
 - Isabelle L. from the United States 🇺🇸 ([ilsko](https://github.com/ilsko))
 - Mavromatakis Dimitris from Greece 🇬🇷 ([damavrom](https://gitlab.com/damavrom))
 - Piotr Kazimierski from Poland 🇵🇱 ([inquis1t0r](https://github.com/Inquis1t0r/))
+- Amir mohammad Naderi from Iran 🇮🇷 ([amiiir](https://github.com/amiiir))
 - Jose Pita from from Portugal 🇵🇹 ([jpita](https://github.com/jpita/))
 - Ravi from India 🇮🇳 ([xolve](https://github.com/xolve))
 - Mohammad Hadi Hosseinpour from Iran 🇮🇷 ([hadi77ir](https://github.com/hadi77ir))
@@ -457,7 +463,9 @@ You can:
 - meysam gheysaryan from IR ([meysam7289](https://github.com/meysam7289))
 - Saman Zahedi from Iran 🇮🇷 ([thezahedi](https://github.com/thezahedi))
 - Jason C. McDonald from United States 🇺🇸 ([codemouse92](https://github.com/codemouse92))
-- Mostafa Khaki from Iran ([mosi-kha](https://github.com/mosi-kha))
 - Masoud Tavakkoli from Iran 🇮🇷 ([ProMasoud](https://github.com/ProMasoud))
-- Javad Gholampoor from Iran 🇮🇷 ([javad10170](https://github.com/javad10170))
 - Stephen Yin from China 🇨🇳 ([hacker0limbo](https://github.com/hacker0limbo))
+- MohammadAmin SamiAzar from Iran 🇮🇷 ([SamiAzar](https://github.com/samiazar))
+- Mostafa Khaki from Iran ([mosi-kha](https://github.com/mosi-kha))
+- Javad Gholampoor from Iran 🇮🇷 ([javad10170](https://github.com/javad10170))
+- Seyed Hossein (sedhossein) Hosseini from Iran 🇮🇷 ([sedhossein](https://github.com/sedhossein))
