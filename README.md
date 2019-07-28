@@ -1,4 +1,4 @@
-﻿# A Message to GitHub
+# A Message to GitHub
 
 English | [简体中文](./README-CN.md) | [Español ](./README-ES.md) | [Ελληνικά](./README-GR.md) | [Italiano](./README-IT.md) | [Русский](./README-RU.md) | [فارسی](./README-PER.md) | [Française ](./README-FR.md) | [Deutsch](./README-DE.md) | [Հայերէն](./README-HY.md) | [Српски](./README-SR.md) | [العربية](./README-AR.md) | [Türkçe](./README-TR.md)
 
@@ -549,6 +549,8 @@ You can:
 - Richard Merryfield from the United States 🇺🇸([labadore](https://gitlab.com/labadore))
 - Ako Salman from Iran 🇮🇷 ([Ako](https://github.com/akoSalman))
 - Mojtaba Ahadi from Iran 🇮🇷 ([Mojtaba](https://github.com/M-Ahadi))
+- Atakan Ermiş from Turkey 🇹🇷 ([AtakanErmis](https://github.com/AtakanErmis))
+- Selman Samet from Turkey 🇹🇷 ([selmansamet](https://github.com/selmansamet))
 - Masoud Dangchi from Iran 🇮🇷 ([therealgadfly](https://github.com/therealgadfly))
 - Atakan Ermiş from Turkey 🇹🇷 ([AtakanErmis](https://github.com/AtakanErmis))
 - Louis Raymond from Indonesia 🇮🇩 ([ccxex29](https://github.com/ccxex29))
