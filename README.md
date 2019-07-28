@@ -146,7 +146,7 @@ You can:
 - [Mojtaba Valipour](https://github.com/mvpcom)
 - [Arman Hosseini](https://github.com/arman-hosseini)
 - [Ali Amirnezhad](https://github.com/webilix)
-- [Muhammad Azhdari from](https://github.com/mmdaz)
+- [Muhammad Azhdari](https://github.com/mmdaz)
 - [Ehsan Ahmadi](https://github.com/ehsana94)
 - [Ali Farazdaghi](https://github.com/alifarazz)
 - [Mehran Rafiee](https://github.com/mehran75)
@@ -187,7 +187,7 @@ You can:
 - [Erfan Gholizade](https://github.com/erfantkerfan)
 - [Hamidreza Moallem Taheri](https://github.com/hrmt2000)
 - [Seyed Morteza Kamali](https://github.com/smkplus)
-- [Iman Heydarifrom](https://github.com/hamyarwoo)
+- [Iman Heydari](https://github.com/hamyarwoo)
 - [Reza Aghajani](https://github.com/jrezaw)
 - [Alireza Faghani](https://github.com/faghani)
 - [Ali Bakhtiar](https://github.com/alibakhtiar)
@@ -215,7 +215,7 @@ You can:
 - [Saeed Salhi](https://github.com/1saeedsalehi/)
 - [Naser Nourani](https://github.com/nnourani/)
 - [Mohammad Moallemi](https://github.com/mmoallemi99/)
-- [Amir M. Joshaghani from](https://github.com/amjoshaghani)
+- [Amir M. Joshaghani](https://github.com/amjoshaghani)
 - [Amin Nazari](https://github.com/aminNazarii/)
 - [Hirbod Behnam](https://github.com/HirbodBehnam/)
 - [Mohammad Ali Sadraei](https://github.com/mohalisad/)
@@ -294,6 +294,17 @@ You can:
 - [Pooya Parsa](https://github.com/pi0)
 - [Hamed Hajiloo](https://github.com/hamedhajiloo)
 - [Meysam Gheysaryan](https://github.com/meysam7289)
+- [Seyed Abbas Ghomi](https://github.com/SeyedAbbasGhomi)
+- [Khashayar Ghamati](https://github.com/khashayarghamati)
+- [Hamid](https://github.com/progHamid)
+- [HamidReza Adib](https://github.com/hamidrezaadib)
+- [Salman Amintabar](https://github.com/amintabar)
+- [Mohammad Ebrahimi Aval](https://github.com/ebrahimiaval)
+- [Soroush Kavousi](https://github.com/bitianist)
+- [Ali Kavani](https://github.com/subzerobo)
+- [Amer Lotfi Orimi](https://github.com/amerllica)
+- [Mehran Goudarzi](https://github.com/Mehran)
+- [Ali Hassanabadi](https://github.com/AHassanabadi)
 
 ### China 🇨🇳
 - [Zhiwa](https://github.com/aboutmydreams)
@@ -324,6 +335,7 @@ You can:
 - [Vimiix Yao](https://github.com/vimiix)
 - [Sandy Chen](https://github.com/sandy2008)
 - [Stephen Yin](https://github.com/hacker0limbo)
+- [Adam Yi](https://github.com/adamyi)
 
 ### USA 🇺🇸
 - Appadeia
@@ -340,7 +352,7 @@ You can:
 - [Isabelle L.](https://github.com/ilsko)
 - [Eli Bierman](https://github.com/edbedbe)
 - [Gokul Swaminathan](https://github.com/JavaCafe01)
-- [Thomas from](https://github.com/Hakerh400)
+- [Thomas](https://github.com/Hakerh400)
 - [Barce](https://github.com/barce)
 - [Benjamin Sherman](https://gitlab.com/benjaminrsherman)
 - [Elan Bustos](https://github.com/elanlb)
@@ -355,11 +367,13 @@ You can:
 - [Praveen Kumar Saini](https://github.com/praveen-me)
 - [Faiyaz Shaikh](https://github.com/yTakkar)
 - [Shreyas Minocha](ahttps://github.com/shreyasminoch)
-- [Dharani Akurathi from India](https://github.com/Dharni0607)
+- [Dharani Akurathi](https://github.com/Dharni0607)
 - [Ajithkumar](https://github.com/Ajithkumarsekar)
 - [Ravi](https://github.com/xolve)
 - [Kitten King](https://github.com/kittenking)
 - [Haider Ali Punjabi](https://github.com/haideralipunjabi)
+- [Ajay Rawat](https://github.com/hello-ajayrawat)
+- [Mohamed Anees](https://github.com/mohamedanees6)
 
 ### Germany 🇩🇪
 - [Jérôme Gamez](https://github.com/jeromegamez)
@@ -370,6 +384,8 @@ You can:
 - [Axel Rindle](https://github.com/axelrindle)
 - [tipok](https://github.com/tipok)
 - [Tobias aka. TheDevMinerTV](https://github.com/TheDevMinerTV/)
+- [Wilhelm Behncke](https://github.com/grebaldi)
+- [Max Strübing](https://github.com/mstruebing)
 
 ### United Kingdom 🇬🇧
 - [speccius](https://github.com/speccius)
@@ -414,7 +430,7 @@ You can:
 ### Russia 🇷🇺
 - [divinity1437](https://github.com/divinity1437)
 - [mighty9245](https://github.com/mighty9245)
-- [Ivanq from](https://github.com/imachug/)
+- [Ivanq](https://github.com/imachug/)
 - [Arseniy Graur](https://github.com/argraur)
 
 ### France 🇫🇷
@@ -433,6 +449,7 @@ You can:
 - [Seamus Donnellan](https://github.com/donnellan0007)
 - [Caspian Baska](https://github.com/caspiano)
 - [Ben Barnes](https://github.com/ben-barnes/)
+- [Alexander J.](https://github.com/alexanderj2357)
 
 ### Greece 🇬🇷
 - [Orestis Ousoultzoglou](https://github.com/xlxs4)
@@ -454,7 +471,7 @@ You can:
 - [Ahmad Habannakeh](https://github.com/abnud1)
 
 ### Romania 🇷🇴
-- [Cosmin-Petru Nechifor from Romania](https://github.com/CosminNechifor/)
+- [Cosmin-Petru Nechifor](https://github.com/CosminNechifor/)
 - [b1sergiu ](https://github.com/b1sergiu/)
 
 ### Spain 🇪🇸
@@ -537,7 +554,7 @@ You can:
 - Serene Husni
 
 ### Scotland
-- [Lewis Conroy from Scotlabd](https://github.com/captainkinney)
+- [Lewis Conroy](https://github.com/captainkinney)
 
 ### Indonesia 🇮🇩
 - [Lokimonoton](https://github.com/lokimonoton)
