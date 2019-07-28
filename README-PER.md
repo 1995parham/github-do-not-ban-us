@@ -4,7 +4,7 @@
 
 ![alt text](./message.png)
 
-~~<div dir="rtl"> راهنمایی: شما می‌توانید از <a href="https://github.com/JafarAkhondali/remove-github-restrictions-message">این افزونه</a> یا <a href="https://github.com/MohamadKh75/ShutHub">این افزونه</a> برای مخفی‌کردن خودکار پیام زردرنگ بالای صفحه استفاده کنید. </div>~~
+~~ <div dir="rtl"> راهنمایی: شما می‌توانید از <a href="https://github.com/JafarAkhondali/remove-github-restrictions-message">این افزونه</a> یا <a href="https://github.com/MohamadKh75/ShutHub">این افزونه</a> برای مخفی‌کردن خودکار پیام زردرنگ بالای صفحه استفاده کنید. </div> ~~
 
 <div dir="rtl">
  
