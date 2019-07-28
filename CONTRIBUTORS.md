@@ -1,6 +1,5 @@
 # Contributors (sorted alphabetically)
 
-- [Ron](https://github.com/ron-wolf) with ❤️ from the United States and Israel 🇺🇸 🇮🇱
 - 1995parham from Iran 🇮🇷 ([1995parham](https://github.com/1995parham))
 - 88250 from China 🇨🇳 ([88250](https://github.com/88250))
 - A C Sreedhar Reddy from India 🇮🇳 ([a-c-sreedhar-reddy](https://github.com/a-c-sreedhar-reddy))
@@ -417,6 +416,7 @@
 - Rogério dos Santos Fernandes from Brazil 🇧🇷 ([spartanroger](https://github.com/spartanroger))
 - Romain from France 🇫🇷 ([maoschanz](https://github.com/maoschanz))
 - Ron from the UK 🇬🇧 ([Noisytoot](https://github.com/Noisytoot))
+- Ron with ❤️ from the United States and Israel 🇺🇸 🇮🇱 [Ron](https://github.com/ron-wolf) 
 - Ru Chern Chong from Singapore 🇸🇬 ([ruchern](https://github.com/ruchern))
 - Ruslan Gunawardana from Ukraine 🇺🇦 ([exarus](https://github.com/exarus))
 - S. Mahdi Mir-Ismaili from Iran 🇮🇷 ([mirismaili](https://github.com/mirismaili))
