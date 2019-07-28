@@ -1,4 +1,4 @@
-# Un message pour Github
+# Un message pour GitHub
 
 [English](./README.md) | [简体中文](./README-CN.md) | [Español](./README-ES.md) | [Ελληνικά](./README-GR.md) | [Italiano](./README-IT.md) | [Русский](./README-RU.md) | [فارسی](./README-PER.md) | Français | [Deutsch](./README-DE.md) | [العربية](./README-AR.md) | [Türkçe](./README-TR.md)
 
@@ -11,13 +11,13 @@ Astuce: vous pouvez utiliser [cette extension](https://github.com/JafarAkhondali
 
 ## Introduction
 
-Github était une platforme ouverte, libre et gratuite pour tout le monde, mais elle a décidé d'interdire les comptes iraniens de contribuer et faire partie de l'écosystème open-source. Nous comprenons que Github a pris cette décision suite à la pression du gouvernement américain, nous nous attendions à une action plus respectueuse de la part de Github.
+GitHub était une platforme ouverte, libre et gratuite pour tout le monde, mais elle a décidé d'interdire les comptes iraniens de contribuer et faire partie de l'écosystème open-source. Nous comprenons que GitHub a pris cette décision suite à la pression du gouvernement américain, nous nous attendions à une action plus respectueuse de la part de GitHub.
 
-1. Github a soudainement restreint notre accès aux dépots privés. Nous aurions souhaité que Github nous avertisse avant de le limiter.
+1. GitHub a soudainement restreint notre accès aux dépots privés. Nous aurions souhaité que GitHub nous avertisse avant de le limiter.
 
-2. L'équipe de Github a décidé d'aller plus loin et de nous restreindre **selon notre nationalité** peu importe où nous habitons, alors qu'ils pouvaient restreindre nos adresses IP comme les autres entreprises basées aux États-Unis.
+2. L'équipe de GitHub a décidé d'aller plus loin et de nous restreindre **selon notre nationalité** peu importe où nous habitons, alors qu'ils pouvaient restreindre nos adresses IP comme les autres entreprises basées aux États-Unis.
 
-Nous espérons que l'équipe de Github:
+Nous espérons que l'équipe de GitHub:
 
 - Nous laisse télécharger nos dépots privés et aussi les rendre publics (via les paramètres).
 - Change leur politique de restriction pour ne pas limiter les utilisateurs selon leur nationalité.
