@@ -446,3 +446,4 @@ You can:
 - Mehdi Dehghani from Iran ([dehghani-mehdi](https://github.com/dehghani-mehdi))
 - Jennifer Shehane from United States 🇺🇸  ([jennifer-shehane](https://github.com/jennifer-shehane))
 - Daniel Lalasa ([daniellalasa2](https://github.com/daniellalasa2))
+- Kitten King from India 🇮🇳 ([kittenking](https://github.com/kittenking))
