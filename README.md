@@ -89,7 +89,7 @@ You can:
 ## News
 
 - [Github allow us to make our private repositories, public](https://github.com/1995parham/github-do-not-ban-us/issues/666)
-
+- github added x for closing the message.
 ## Supporters
 
 - Hamed Hajiloo from Iran 🇮🇹 ([HamedHajiloo](https://github.com/hamedhajiloo))
