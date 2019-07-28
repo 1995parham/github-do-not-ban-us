@@ -393,6 +393,7 @@ You can:
 - Mavromatakis Dimitris from Greece 🇬🇷 ([damavrom](https://gitlab.com/damavrom))
 - Piotr Kazimierski from Poland 🇵🇱 ([inquis1t0r](https://github.com/Inquis1t0r/))
 - Ravi from India 🇮🇳 ([xolve](https://github.com/xolve))
+- Artur Kondas from Poland 🇵🇱 ([youshy](https://github.com/youshy)) 
 - James from China 🇨🇳 ([jamesyangget](https://github.com/jamesyangget))
 - Mohammad Zare Moghadam 🇮🇷 ([thisismzm](https://github.com/thisismzm))
 - Eli Bierman from the United States 🇺🇸 ([edbedbe](https://github.com/edbedbe))
