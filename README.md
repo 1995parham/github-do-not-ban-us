@@ -297,24 +297,24 @@ You can:
 - [Meysam Gheysaryan](https://github.com/meysam7289)
 
 ### Italy 🇮🇹
-- [Marco Aceti](https://github.com/MarcoBuster))
-- [Daniil Gentili](https://github.com/danog))
+- [Marco Aceti](https://github.com/MarcoBuster)
+- [Daniil Gentili](https://github.com/danog)
 - micheleriva
-- [MatteoPieroni](https://github.com/matteopieroni))
+- [MatteoPieroni](https://github.com/matteopieroni)
 
 ### Peru 🇵🇪
 - Wilson Flores [wilsson](https://github.com/wilsson)
 
 ### Australia 🇦🇺
-- [Seamus Donnellan](https://github.com/donnellan0007))
-- [Caspian Baska](https://github.com/caspiano))
-- [Ben Barnes](https://github.com/ben-barnes/))
+- [Seamus Donnellan](https://github.com/donnellan0007)
+- [Caspian Baska](https://github.com/caspiano)
+- [Ben Barnes](https://github.com/ben-barnes/)
 
 ### Netherlands 🇳🇱
 - Conner Orth
-- [Vincent Weevers](https://github.com/vweevers))
-- [Danny Kamps](https://github.com/Dkamps18))
-- [Robert de Bock](https://github.com/robertdebock))
+- [Vincent Weevers](https://github.com/vweevers)
+- [Danny Kamps](https://github.com/Dkamps18)
+- [Robert de Bock](https://github.com/robertdebock)
 
 ### Luxembourg 🇱🇺
 - Chris C
@@ -324,99 +324,99 @@ You can:
 
 ### Bangladesh 🇧🇩
 - Fahim 
-- [Tariqul Islam](https://github.com/ta-riq))
-- [Ibtehaz Shawon](https://github.com/ibtehaz-shawon))
-- [Ahad Chowdhury](https://github.com/maacpiash))
+- [Tariqul Islam](https://github.com/ta-riq)
+- [Ibtehaz Shawon](https://github.com/ibtehaz-shawon)
+- [Ahad Chowdhury](https://github.com/maacpiash)
 
 ### Russia 🇷🇺
 - divinity1437
 - mighty9245
-- [Ivanq from](https://github.com/imachug/))
-- [Arseniy Graur](https://github.com/argraur))
+- [Ivanq from](https://github.com/imachug/)
+- [Arseniy Graur](https://github.com/argraur)
 
 ### France 🇫🇷
 - Enzo
-- [Charles Jacquin](https://github.com/charjac))
-- [Vincent Hyvert](https://github.com/vinceh121/))
-- [Simon Lecutiez](https://github.com/soetz))
+- [Charles Jacquin](https://github.com/charjac)
+- [Vincent Hyvert](https://github.com/vinceh121/)
+- [Simon Lecutiez](https://github.com/soetz)
 
 ### USA 🇺🇸
 - Appadeia
-- [Sam Johnson](https://github.com/sam0x17))
-- [Peter Nelson](https://github.com/pdtnelson))
-- [Duncan Sparks](https://github.com/DuncanSparks))
-- [Dylan Cutler](https://github.com/DCtheTall))
+- [Sam Johnson](https://github.com/sam0x17)
+- [Peter Nelson](https://github.com/pdtnelson)
+- [Duncan Sparks](https://github.com/DuncanSparks)
+- [Dylan Cutler](https://github.com/DCtheTall)
 - [Ron](https://github.com/ron-wolf) with ❤️
-- [Jason Kraus](https://github.com/zbyte64))
+- [Jason Kraus](https://github.com/zbyte64)
 - [Heman](https://github.com/hemangandhi/)
-- [Jordan Hart](https://github.com/jordanhart))
-- [Tyler](https://github.com/arctair))
-- [Andreas Basurto](https://github.com/nitrohorse))
-- [Isabelle L.](https://github.com/ilsko))
-- [Eli Bierman](https://github.com/edbedbe))
-- [Gokul Swaminathan](https://github.com/JavaCafe01))
-- [Thomas from](https://github.com/Hakerh400))
-- [Barce](https://github.com/barce))
-- [Benjamin Sherman](https://gitlab.com/benjaminrsherman))
-- [Elan Bustos](https://github.com/elanlb))
-- [Jennifer Shehane](https://github.com/jennifer-shehane))
-- [Jason C. McDonald](https://github.com/codemouse92))
+- [Jordan Hart](https://github.com/jordanhart)
+- [Tyler](https://github.com/arctair)
+- [Andreas Basurto](https://github.com/nitrohorse)
+- [Isabelle L.](https://github.com/ilsko)
+- [Eli Bierman](https://github.com/edbedbe)
+- [Gokul Swaminathan](https://github.com/JavaCafe01)
+- [Thomas from](https://github.com/Hakerh400)
+- [Barce](https://github.com/barce)
+- [Benjamin Sherman](https://gitlab.com/benjaminrsherman)
+- [Elan Bustos](https://github.com/elanlb)
+- [Jennifer Shehane](https://github.com/jennifer-shehane)
+- [Jason C. McDonald](https://github.com/codemouse92)
 
 ### China 🇨🇳
-- [Zhiwa](https://github.com/aboutmydreams))
+- [Zhiwa](https://github.com/aboutmydreams)
 - Ran Luo 
-- [Zhu Zihao](https://github.com/cireu))
-- [88250](https://github.com/88250))
-- [jocs](https://github.com/Jocs))
-- [WenlongLiu](https://github.com/gitors))
-- [Sogrey](https://github.com/Sogrey))
-- [tristone13th](https://github.com/tristone13th))
-- [Natnij](https://github.com/natnij))
-- [Sukka](https://github.com/SukkaW))
-- [Bohan Wang](https://github.com/Cygra))
-- [Yanshigou](https://github.com/yanshigou))
-- [Yhlben](https://github.com/yhlben))
-- [binbin huang](https://github.com/nocanstillbb))
-- [Himself65](https://github.com/himself65/))
-- [xtlsoft](https://github.com/xtlsoft/))
-- [Scvoet](https://github.com/scvoet/))
-- [SnailMann](https://github.com/SnailMann))
+- [Zhu Zihao](https://github.com/cireu)
+- [88250](https://github.com/88250)
+- [jocs](https://github.com/Jocs)
+- [WenlongLiu](https://github.com/gitors)
+- [Sogrey](https://github.com/Sogrey)
+- [tristone13th](https://github.com/tristone13th)
+- [Natnij](https://github.com/natnij)
+- [Sukka](https://github.com/SukkaW)
+- [Bohan Wang](https://github.com/Cygra)
+- [Yanshigou](https://github.com/yanshigou)
+- [Yhlben](https://github.com/yhlben)
+- [binbin huang](https://github.com/nocanstillbb)
+- [Himself65](https://github.com/himself65/)
+- [xtlsoft](https://github.com/xtlsoft/)
+- [Scvoet](https://github.com/scvoet/)
+- [SnailMann](https://github.com/SnailMann)
 - Lpmvb 
-- [KT](https://github.com/KTachibanaM/))
-- [Inline Harper](https://github.com/Afanyiyu))
-- [James](https://github.com/jamesyangget))
-- [RealPG](https://github.com/realpg))
-- [George Zou](https://github.com/georgezouq))
-- [Eltrac](https://github.com/BigCoke233))
-- [Vimiix Yao](https://github.com/vimiix))
-- [Sandy Chen](https://github.com/sandy2008))
-- [Stephen Yin](https://github.com/hacker0limbo))
+- [KT](https://github.com/KTachibanaM/)
+- [Inline Harper](https://github.com/Afanyiyu)
+- [James](https://github.com/jamesyangget)
+- [RealPG](https://github.com/realpg)
+- [George Zou](https://github.com/georgezouq)
+- [Eltrac](https://github.com/BigCoke233)
+- [Vimiix Yao](https://github.com/vimiix)
+- [Sandy Chen](https://github.com/sandy2008)
+- [Stephen Yin](https://github.com/hacker0limbo)
 
 ### United Kingdom 🇬🇧
 - speccius
-- [Laster K.](https://github.com/lazerl0rd))
-- [Matthew Parnell](https://github.com/parnmatt))
-- [Liam](https://github.com/Xerbo))
+- [Laster K.](https://github.com/lazerl0rd)
+- [Matthew Parnell](https://github.com/parnmatt)
+- [Liam](https://github.com/Xerbo)
 - Angus L. Fraser
-- [Liam Kenneth](https://github.com/LiamKenneth))
-- [Aiden Wallis](https://github.com/AidenWallis))
+- [Liam Kenneth](https://github.com/LiamKenneth)
+- [Aiden Wallis](https://github.com/AidenWallis)
 
 ### Germany 🇩🇪
-- [Jérôme Gamez](https://github.com/jeromegamez))
-- [Jan Krüger](https://github.com/waterfl0w))
-- [Morteza Nokhodian](https://github.com/nokhodian))
-- [twofist](https://github.com/twofist))
-- [Jonas Gierer](https://github.com/jgierer12))
-- [Axel Rindle](https://github.com/axelrindle))
-- [tipok](https://github.com/tipok))
-- [Tobias aka. TheDevMinerTV](https://github.com/TheDevMinerTV/))
+- [Jérôme Gamez](https://github.com/jeromegamez)
+- [Jan Krüger](https://github.com/waterfl0w)
+- [Morteza Nokhodian](https://github.com/nokhodian)
+- [twofist](https://github.com/twofist)
+- [Jonas Gierer](https://github.com/jgierer12)
+- [Axel Rindle](https://github.com/axelrindle)
+- [tipok](https://github.com/tipok)
+- [Tobias aka. TheDevMinerTV](https://github.com/TheDevMinerTV/)
 
 ### Canada 🇨🇦
-- [Michael Power](https://github.com/mwpower))
-- [Mariam Arab](https://github.com/mariamarab))
-- [Omar2535](https://github.com/omar2535))
-- [Mohsen](https://github.com/DarkChocolate))
-- [Charles Milette](https://github.com/sylveon))
+- [Michael Power](https://github.com/mwpower)
+- [Mariam Arab](https://github.com/mariamarab)
+- [Omar2535](https://github.com/omar2535)
+- [Mohsen](https://github.com/DarkChocolate)
+- [Charles Milette](https://github.com/sylveon)
 
 ### Belarus 🇧🇾
 - Alexander Shelepenok
@@ -426,147 +426,147 @@ You can:
 
 ### Mexico 🇲🇽
 - fredddie
-- [Giovanni Nuño](https://github.com/gionuno))
+- [Giovanni Nuño](https://github.com/gionuno)
 
 ### Brazil 🇧🇷
-- [Mateus Gabi Moreira](https://github.com/mateusgabi))
-- [Matheus Graciano](https://github.com/graciano))
-- [Lucas Bittencourt](https://github.com/lucasnaja))
+- [Mateus Gabi Moreira](https://github.com/mateusgabi)
+- [Matheus Graciano](https://github.com/graciano)
+- [Lucas Bittencourt](https://github.com/lucasnaja)
 
 ### Morocco 🇲🇦
-- [Karim Oulad Chalha](https://github.com/karim88/))
+- [Karim Oulad Chalha](https://github.com/karim88/)
 
 ### South Africa 🇿🇦
-- [Davyd McCollca](https://github.com/fluffynuts))
+- [Davyd McCollca](https://github.com/fluffynuts)
 - Sivuyile Magutywaca
 
 ### India 🇮🇳
-- [Abdus](https://github.com/thisosabdus))
-- [Vaibhav Khulbe](https://github.com/Kvaibhav01))
-- [Anand Chowdhary](https://github.com/AnandChowdhary))
-- [A C Sreedhar Reddy](https://github.com/a-c-sreedhar-reddy))
-- [Praveen Kumar Saini](https://github.com/praveen-me))
-- [Faiyaz Shaikh](https://github.com/yTakkar))
-- [Shreyas Minocha](ahttps://github.com/shreyasminoch))
-- [Dharani Akurathi from India](https://github.com/Dharni0607))
-- [Ajithkumar](https://github.com/Ajithkumarsekar))
-- [Ravi](https://github.com/xolve))
-- [Kitten King](https://github.com/kittenking))
-- [Haider Ali Punjabi](https://github.com/haideralipunjabi))
+- [Abdus](https://github.com/thisosabdus)
+- [Vaibhav Khulbe](https://github.com/Kvaibhav01)
+- [Anand Chowdhary](https://github.com/AnandChowdhary)
+- [A C Sreedhar Reddy](https://github.com/a-c-sreedhar-reddy)
+- [Praveen Kumar Saini](https://github.com/praveen-me)
+- [Faiyaz Shaikh](https://github.com/yTakkar)
+- [Shreyas Minocha](ahttps://github.com/shreyasminoch)
+- [Dharani Akurathi from India](https://github.com/Dharni0607)
+- [Ajithkumar](https://github.com/Ajithkumarsekar)
+- [Ravi](https://github.com/xolve)
+- [Kitten King](https://github.com/kittenking)
+- [Haider Ali Punjabi](https://github.com/haideralipunjabi)
 
 ### Ukraine 🇺🇦
-- [Ruslan Gunawardana](https://github.com/exarus))
-- [Andrii Kovalchuk](https://github.com/tieorange/))
-- [Andrii Siriak](https://github.com/siriak))
+- [Ruslan Gunawardana](https://github.com/exarus)
+- [Andrii Kovalchuk](https://github.com/tieorange/)
+- [Andrii Siriak](https://github.com/siriak)
 
 ### Turkey 🇹🇷
-- [Erkan Özkök ](https://github.com/nozkok))
-- [Fırat Eşki ](https://github.com/firateski))
-- [Mehmet Kaykısız ](https://github.com/mkaykisiz))
-- [Mehmet Alp](https://github.com/mehmetakifalp))
+- [Erkan Özkök ](https://github.com/nozkok)
+- [Fırat Eşki ](https://github.com/firateski)
+- [Mehmet Kaykısız ](https://github.com/mkaykisiz)
+- [Mehmet Alp](https://github.com/mehmetakifalp)
 
 ### Syria 🇸🇾
 - Louay Al-osh (https://github.com/lalosh)
 - Ahmad Habannakeh (https://github.com/abnud1)
 
 ### Romania 🇷🇴
-- [Cosmin-Petru Nechifor from Romania](https://github.com/CosminNechifor/))
-- [b1sergiu ](https://github.com/b1sergiu/))
+- [Cosmin-Petru Nechifor from Romania](https://github.com/CosminNechifor/)
+- [b1sergiu ](https://github.com/b1sergiu/)
 
 ### Saudi Arabia 🇸🇦
-- [Saleh](https://github.com/qirh/))
+- [Saleh](https://github.com/qirh/)
 
 ### Spain 🇪🇸
 - Mrloder from Spain
-- [Alejandro González-Pérez](https://github.com/algope))
+- [Alejandro González-Pérez](https://github.com/algope)
 
 ### Portugal 🇵🇹
-- [Daniel Caldas](https://github.com/danielcaldas))
-- [Jose Pita](https://github.com/jpita/))
+- [Daniel Caldas](https://github.com/danielcaldas)
+- [Jose Pita](https://github.com/jpita/)
 
 ### Lithuania 🇱🇹
-- [Mindaugas Vaitiekūnas](https://github.com/mindaugasw))
+- [Mindaugas Vaitiekūnas](https://github.com/mindaugasw)
 
 ### Singapore 🇸🇬
-- [Ru Chern Chong](https://github.com/ruchern))
+- [Ru Chern Chong](https://github.com/ruchern)
 
 ### Egypt 🇪🇬
-- [Nabil Tharwat](https://github.com/KL13NT))
-- [Bishoy Melek](https://github.com/bishoymelek))
+- [Nabil Tharwat](https://github.com/KL13NT)
+- [Bishoy Melek](https://github.com/bishoymelek)
   
 ### Vietnam 🇻🇳
-- [Cuong Nguyen](https://github.com/cuongw))
-- [Duong Nguyen](https://github.com/you-create))
+- [Cuong Nguyen](https://github.com/cuongw)
+- [Duong Nguyen](https://github.com/you-create)
 
 ### Poland 🇵🇱
-- [Karol Kulik](https://github.com/MrK191))
-- [Piotr Kazimierski](https://github.com/Inquis1t0r/))
-- [Igor](https://github.com/igorpos))
-- [Artur Kondas](https://github.com/youshy)) 
+- [Karol Kulik](https://github.com/MrK191)
+- [Piotr Kazimierski](https://github.com/Inquis1t0r/)
+- [Igor](https://github.com/igorpos)
+- [Artur Kondas](https://github.com/youshy)
 
 ### Tunisia 🇹🇳
-- [Imed Adel](https://github.com/ImedAdel))
-- [Adem Kouki](https://gitlab.com/Ademking))
+- [Imed Adel](https://github.com/ImedAdel)
+- [Adem Kouki](https://gitlab.com/Ademking)
 
 ### Chile 🇨🇱
-- [Francisco Sánchez](https://github.com/fransafu/))
+- [Francisco Sánchez](https://github.com/fransafu/)
 
 ### Thailand 🇹🇭
-- [Kittinan](https://github.com/kittinan))
-- [Amine Mouafik](https://github.com/kytwb))
+- [Kittinan](https://github.com/kittinan)
+- [Amine Mouafik](https://github.com/kytwb)
 
 ### Algeria 🇩🇿
 - Houari ZEGAI [HouariZegai](https://github.com/HouariZegai)
-- [Abdelhak Bougouffa](https://abougouffa.github.io))
+- [Abdelhak Bougouffa](https://abougouffa.github.io)
 
 ### Nigeria 🇳🇬
-- [Adaobi Frank](https://github.com/droidada))
+- [Adaobi Frank](https://github.com/droidada)
 
 ### Greece 🇬🇷
-- [Orestis Ousoultzoglou](https://github.com/xlxs4))
-- [Mavromatakis Dimitris](https://gitlab.com/damavrom))
-- [Gerasimos Maropoulos](https://github.com/kataras))
+- [Orestis Ousoultzoglou](https://github.com/xlxs4)
+- [Mavromatakis Dimitris](https://gitlab.com/damavrom)
+- [Gerasimos Maropoulos](https://github.com/kataras)
 
 ### Armenia 🇦🇲
-- [f-person](https://github.com/f-person))
-- [fugio](https://github.com/fugio))
+- [f-person](https://github.com/f-person)
+- [fugio](https://github.com/fugio)
 
 ### Benin 🇧🇯
-- [Mahuton](https://github.com/Mahuton))
+- [Mahuton](https://github.com/Mahuton)
 
 ### Oman 🇴🇲
-- [Abdullrahman Al-Zeidi](https://github.com/AbdullrahmanAlzeidi))
+- [Abdullrahman Al-Zeidi](https://github.com/AbdullrahmanAlzeidi)
 
 ### Hong Kong 🇭🇰
-- [George Ho](https://github.com/eigenfoo))
+- [George Ho](https://github.com/eigenfoo)
 
 ### Nepal 🇳🇵
-- [Samundra Khatri](https://github.com/samundrak))
+- [Samundra Khatri](https://github.com/samundrak)
 
 ### Pakistan 🇵🇰
-- [Muhammad Yaseen](https://github.com/muhammadyaseen))
+- [Muhammad Yaseen](https://github.com/muhammadyaseen)
 
 ### Jordan 🇯🇴
 - Serene Husni
 
 ### Scotland
-- [Lewis Conroy from Scotlabd](https://github.com/captainkinney))
+- [Lewis Conroy from Scotlabd](https://github.com/captainkinney)
 
 ### Indonesia 🇮🇩
-- [Lokimonoton](https://github.com/lokimonoton))
+- [Lokimonoton](https://github.com/lokimonoton)
 
 ### Senegal 🇸🇳
-- [Madiodio Gaye](https://github.com/madiodio))
+- [Madiodio Gaye](https://github.com/madiodio)
 
 ### Czechia 🇨🇿
-- [Daniel Kvasnicka](https://github.com/dkvasnicka))
+- [Daniel Kvasnicka](https://github.com/dkvasnicka)
 
 ### Not Mentioned
-- [AbdElmomen Kadhim](https://github.com/bluemix))
-- [Milad Nekofar](https://github.com/nekofar))
-- [Nikan Dalvand](https://github.com/nikandlv))
-- [Max Base](https://github.com/BaseMax))
-- [Mohamad Fadavi](https://github.com/fadavi))
-- [Sarah Akhavan Kazemzadeh](https://github.com/sarahakhavan))
-- [Md Narimani](https://github.com/mnarimani))
-- [Daniel Lalasa](https://github.com/daniellalasa2))
+- [AbdElmomen Kadhim](https://github.com/bluemix)
+- [Milad Nekofar](https://github.com/nekofar)
+- [Nikan Dalvand](https://github.com/nikandlv)
+- [Max Base](https://github.com/BaseMax)
+- [Mohamad Fadavi](https://github.com/fadavi)
+- [Sarah Akhavan Kazemzadeh](https://github.com/sarahakhavan)
+- [Md Narimani](https://github.com/mnarimani)
+- [Daniel Lalasa](https://github.com/daniellalasa2)
