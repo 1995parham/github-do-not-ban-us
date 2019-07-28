@@ -580,7 +580,7 @@ You can:
 ### Nigeria 🇳🇬
 - [Adaobi Frank](https://github.com/droidada)
 
-### Belgium
+### Belgium 🇧🇪
 - [Stijn Segers](https://github.com/Borromini)
 
 ### Not Mentioned
