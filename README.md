@@ -439,3 +439,4 @@ You can:
 - Pashootan Vaezipoor from Iran and Canada 🇮🇷 🇨🇦 ([CpHaddock](https://github.com/CpHaddock))
 - Serene Husni from Jordan and Canada 🇯🇴 🇨🇦
 - fugio from armenia 🇦🇲 ([fugio](https://github.com/fugio))
+- Vimiix Yao from China 🇨🇳 ([vimiix](https://github.com/vimiix))
