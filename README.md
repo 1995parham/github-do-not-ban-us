@@ -393,6 +393,7 @@ You can:
 - Tyler from the United States 🇺🇸 ([arctair](https://github.com/arctair))
 - Andreas Basurto from the United States 🇺🇸 ([nitrohorse](https://github.com/nitrohorse))
 - MohammadHossein Bagheri from Iran 🇮🇷 ([PyBagheri](https://github.com/PyBagheri))
+- Amir M. Joshaghani from 🇮🇷 ([AMJoshaghani](https://github.com/amjoshaghani))
 - Isabelle L. from the United States 🇺🇸 ([ilsko](https://github.com/ilsko))
 - Mavromatakis Dimitris from Greece 🇬🇷 ([damavrom](https://gitlab.com/damavrom))
 - Piotr Kazimierski from Poland 🇵🇱 ([inquis1t0r](https://github.com/Inquis1t0r/))
