@@ -548,6 +548,7 @@ You can:
 - FishPlusOrange from China 🇨🇳 ([FishPlusOrange](https://github.com/FishPlusOrange))
 - Richard Merryfield from the United States 🇺🇸([labadore](https://gitlab.com/labadore))
 - Ako Salman from Iran 🇮🇷 ([Ako](https://github.com/akoSalman))
+- Julian Ooi from Malaysia 🇲🇾([julianooi](https://github.com/julianooi))
 - Mojtaba Ahadi from Iran 🇮🇷 ([Mojtaba](https://github.com/M-Ahadi))
 - DEADBLACKCLOVER from Russia 🇷🇺 ([deadblackclover](https://github.com/deadblackclover))
 - Atakan Ermiş from Turkey 🇹🇷 ([AtakanErmis](https://github.com/AtakanErmis))
