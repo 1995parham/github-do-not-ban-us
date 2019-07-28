@@ -1,6 +1,6 @@
 # <div dir="rtl">پیامی به گیت‌هاب</div>
 
-[English](./README.md) | [简体中文](./README-CN.md) | [Español](./README-ES.md) | [Ελληνικά](./README-GR.md) | [Italiano](./README-IT.md) | [Русский](./README-RU.md) | فارسی | [Française](./README-FR.md) | [Deutsch](./README-DE.md) | [Հայերէն](./README-HY.md) | [العربية](./README-AR.md)
+[English](./README.md) | [简体中文](./README-CN.md) | [Español](./README-ES.md) | [Ελληνικά](./README-GR.md) | [Italiano](./README-IT.md) | [Русский](./README-RU.md) | فارسی | [Française](./README-FR.md) | [Deutsch](./README-DE.md) | [Հայերէն](./README-HY.md) | [العربية](./README-AR.md) | [Türkçe](./README-TR.md)
 
 ![alt text](./message.png)
 
@@ -70,7 +70,7 @@ https://github.com/imaNNeoFighT/fl_chart
 
 <div dir="rtl">
  
-- به این مخزن ستاره دهید و آن را در شبکه‌های اجتماعی با #GithubForEveryone انتشار دهید.
+- به این مخزن ستاره دهید و آن را در شبکه‌های اجتماعی با #GitHubForEveryone انتشار دهید.
 - یک فولدر با نام کاربری خود در فولدر "together" این مخزن اضافه کنید.
 - یک قطعه کد که رشته‌ی "GitHub is for everyone" را چاپ می‌کند را به زبان برنامه‌نویسی دل‌خواه‌تان بنویسید.
 - یک Pull Request بسازید.

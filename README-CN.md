@@ -1,6 +1,6 @@
 # 给 GitHub 的一封信
 
-[English](./README.md) | 简体中文 | [Español ](./README-ES.md) | [Ελληνικά](./README-GR.md) | [Italiano](./README-IT.md) | [Русский](./README-RU.md) | [فارسی](./README-PER.md) | [Française ](./README-FR.md) | [Deutsch](./README-DE.md) | [Հայերէն](./README-HY.md) | [العربية](./README-AR.md)
+[English](./README.md) | 简体中文 | [Español ](./README-ES.md) | [Ελληνικά](./README-GR.md) | [Italiano](./README-IT.md) | [Русский](./README-RU.md) | [فارسی](./README-PER.md) | [Française ](./README-FR.md) | [Deutsch](./README-DE.md) | [Հայերէն](./README-HY.md) | [العربية](./README-AR.md) | [Türkçe}(./README-TR.md)
 
 ![alt text](./message.png)
 
@@ -53,7 +53,7 @@ GitHub 曾经是一个面向所有人的开放、自由的平台，但它现在�
 
 - 加星并在社交平台上分享这个仓库，加上 #githubForEveryone 这个话题。
 - 在 “together” 文件夹中添加一个以你的用户名命名的文件夹。
-- 编写一份输出为“Github is for everyone”的代码（可以使用任何你想要的语言）。
+- 编写一份输出为“GitHub is for everyone”的代码（可以使用任何你想要的语言）。
 - 提交一个 Pull request。
 - 在支持者列表中添加你的名字和国籍。
 
@@ -78,7 +78,7 @@ GitHub 曾经是一个面向所有人的开放、自由的平台，但它现在�
 
 ## 新闻
 
-- [Github 允许我们公开私有仓库](https://github.com/1995parham/github-do-not-ban-us/issues/666)
+- [GitHub 允许我们公开私有仓库](https://github.com/1995parham/github-do-not-ban-us/issues/666)
 
 ## 支持者列表
 
