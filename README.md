@@ -410,6 +410,7 @@ You can:
 - Isabelle L. from the United States 🇺🇸 ([ilsko](https://github.com/ilsko))
 - Mavromatakis Dimitris from Greece 🇬🇷 ([damavrom](https://gitlab.com/damavrom))
 - Piotr Kazimierski from Poland 🇵🇱 ([inquis1t0r](https://github.com/Inquis1t0r/))
+- Eziy from Germany 🇩🇪 ([eziy](https://github.com/eziy))
 - Amir mohammad Naderi from Iran 🇮🇷 ([amiiir](https://github.com/amiiir))
 - Jose Pita from from Portugal 🇵🇹 ([jpita](https://github.com/jpita/))
 - Ravi from India 🇮🇳 ([xolve](https://github.com/xolve))
