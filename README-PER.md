@@ -4,10 +4,11 @@
 
 ![alt text](./message.png)
 
-<div dir="rtl" text-decoration: "line-through"> راهنمایی: شما می‌توانید از <a href="https://github.com/JafarAkhondali/remove-github-restrictions-message">این افزونه</a> یا <a href="https://github.com/MohamadKh75/ShutHub">این افزونه</a> برای مخفی‌کردن خودکار پیام زردرنگ بالای صفحه استفاده کنید. </div>
+
+~~iv dir="rtl"> راهنمایی: شما می‌توانید از <a href="https://github.com/JafarAkhondali/remove-github-restrictions-message">این افزونه</a> یا <a href="https://github.com/MohamadKh75/ShutHub">این افزونه</a> برای مخفی‌کردن خودکار پیام زردرنگ بالای صفحه استفاده کنید. </div>~~
 
 <div dir="rtl">
- 
+
 **آپدیت:** اکنون می‌توانید پیام اخطار را پنهان کنید.
 </div>
 
