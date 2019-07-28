@@ -544,6 +544,22 @@ You can:
 ### Pakistan
 - Muhammad Yaseen from Pakistan 🇵🇰 ([Yaseen](https://github.com/muhammadyaseen))
 
+### Jordan 🇯🇴
+- Serene Husni
+
+### Scotland
+- Lewis Conroy from Scotlabd ([Lewis Conroy](https://github.com/captainkinney))
+
+### Indonesia
+- Lokimonoton from Indonesia 🇮🇩 ([lokimonoton](https://github.com/lokimonoton))
+
+### Senegal
+- Madiodio Gaye from Senegal 🇸🇳 ([madiodio](https://github.com/madiodio))
+
+### Czechia 🇨🇿
+- Daniel Kvasnicka ([dkvasnicka](https://github.com/dkvasnicka))
+
+### Not Mentioned
 - AbdElmomen Kadhim ([bluemix](https://github.com/bluemix))
 - Milad Nekofar ([nekofar](https://github.com/nekofar))
 - Nikan Dalvand ([nikandlv](https://github.com/nikandlv))
@@ -553,9 +569,4 @@ You can:
 - Mehmet Alp Turkey ([mehmetakifalp](https://github.com/mehmetakifalp))
 - Haider Ali Punjabi ([haideralipunjabi](https://github.com/haideralipunjabi))
 - Md Narimani ([mnarimani](https://github.com/mnarimani))
-- Daniel Kvasnicka from Czechia and the United States 🇨🇿 🇺🇸 ([dkvasnicka](https://github.com/dkvasnicka))
-- Lewis Conroy from Scotlabd ([Lewis Conroy](https://github.com/captainkinney))
-- Lokimonoton from Indonesia 🇮🇩 ([lokimonoton](https://github.com/lokimonoton))
-- Madiodio Gaye from Senegal 🇸🇳 ([madiodio](https://github.com/madiodio))
-- Serene Husni from Jordan and Canada 🇯🇴 🇨🇦
 - Daniel Lalasa ([daniellalasa2](https://github.com/daniellalasa2))
