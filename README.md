@@ -391,8 +391,14 @@ You can:
 - Sandy Chen ([sandy2008](https://github.com/sandy2008))
 - Stephen Yin ([hacker0limbo](https://github.com/hacker0limbo))
 
+### United Kingdom
+- speccius
+- Laster K. ([lazerl0rd](https://github.com/lazerl0rd))
+- Matthew Parnell ([GitLab](https://gitlab.com/parnmatt), [parnmatt GitHub](https://github.com/parnmatt))
+- Liam ([Xerbo](https://github.com/Xerbo))
+- Angus L. Fraser
+
 - Alexander Shelepenok from Belarus 🇧🇾
-- speccius from UK 🇬🇧
 - Benjamin Hogué from Guadeloupe 🇬🇵
 - fredddie from Mexico 🇲🇽
 - AbdElmomen Kadhim ([bluemix](https://github.com/bluemix))
@@ -415,7 +421,6 @@ You can:
 - Erkan Özkök from Turkey 🇹🇷 ([nozkok](https://github.com/nozkok))
 - Abdus from India 🇮🇳 ([thisisabdus](https://github.com/thisosabdus))
 - Abdus from India 🇮🇳 ([thisisabdus](https://github.com/thisosabdus))
-- Laster K. from UK 🇬🇧 ([lazerl0rd](https://github.com/lazerl0rd))
 - Vaibhav Khulbe from India 🇮🇳 ([Kvaibhav01](https://github.com/Kvaibhav01))
 - Jan Krüger from Germany 🇩🇪 ([waterfl0w](https://github.com/waterfl0w))
 - Cosmin-Petru Nechifor from Romania 🇷🇴 ([cosminnechifor](https://github.com/CosminNechifor/))
@@ -436,18 +441,15 @@ You can:
 - Houari ZEGAI from Algeria 🇩🇿 [HouariZegai](https://github.com/HouariZegai)
 - A C Sreedhar Reddy from India 🇮🇳 ([a-c-sreedhar-reddy](https://github.com/a-c-sreedhar-reddy))
 - Kittinan from Thailand 🇹🇭 ([kittinan](https://github.com/kittinan))
-- Matthew Parnell from UK 🇬🇧 ([parnmatt GitLab](https://gitlab.com/parnmatt), [parnmatt GitHub](https://github.com/parnmatt))
 - Imed Adel from Tunisia 🇹🇳 ([ImedAdel](https://github.com/ImedAdel))
 - Praveen Kumar Saini from India 🇮🇳 ([praveen-me](https://github.com/praveen-me))
 - Mahuton from Benin 🇧🇯 ([Mahuton](https://github.com/Mahuton))
 - George Ho from Hong Kong 🇭🇰 ([eigenfoo](https://github.com/eigenfoo))
-- Liam from UK 🇬🇧 ([Xerbo](https://github.com/Xerbo))
 - Mariam Arab from Canada 🇨🇦 ([mariamarab](https://github.com/mariamarab))
 - Cuong Nguyen from Vietnam 🇻🇳 ([cuongw](https://github.com/cuongw))
 - Mehmet Kaykısız from Turkey 🇹🇷 ([mkaykisiz](https://github.com/mkaykisiz))
 - Omar2535 from Canada 🇨🇦 ([omar2535](https://github.com/omar2535))
 - Orestis Ousoultzoglou from Greece 🇬🇷 ([xlxs4](https://github.com/xlxs4))
-- Angus L. Fraser from UK 🇬🇧
 - Faiyaz Shaikh from India 🇮🇳 ([Faiyaz Shaikh](https://github.com/yTakkar))
 - Adaobi Frank from Nigeria 🇳🇬 ([droidada](https://github.com/droidada))
 - Abdelhak Bougouffa from Algeria 🇩🇿 ([abougouffa](https://abougouffa.github.io))
