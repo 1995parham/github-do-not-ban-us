@@ -545,6 +545,7 @@ You can:
 - FishPlusOrange from China 🇨🇳 ([FishPlusOrange](https://github.com/FishPlusOrange))
 - Richard Merryfield from the United States 🇺🇸([labadore](https://gitlab.com/labadore))
 - Ako Salman from Iran 🇮🇷 ([Ako](https://github.com/akoSalman))
+- Masoud Dangchi from Iran 🇮🇷 ([therealgadfly](https://github.com/therealgadfly))
 - Atakan Ermiş from Turkey 🇹🇷 ([AtakanErmis](https://github.com/AtakanErmis))
 - Louis Raymond from Indonesia 🇮🇩 ([ccxex29](https://github.com/ccxex29))
 - Martin Král from Czech Republic 🇨🇿 ([MartinKral](https://github.com/MartinKral))
