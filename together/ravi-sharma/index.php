@@ -1,1 +1,0 @@
-<?='GitHub is for everyone!'?>
