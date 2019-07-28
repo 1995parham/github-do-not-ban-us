@@ -499,6 +499,7 @@ You can:
 - Stijn Segers from Belgium 🇧🇪 ([Borromini](https://github.com/Borromini))
 - Ali Abdollahi from Iran 🇮🇷 ([aabdollahi](https://github.com/aabdollahi))
 - Trinity Pointard from France 🇫🇷 ([fdb-hiroshima](https://github.com/fdb-hiroshima/))
+- Vahid Sadeghizadeh from Iran 🇮🇷 ([vsadeghizade](https://github.com/vsadeghizade))
 - Kiarash Zarinmehr from Iran 🇮🇷 ([Kiarash-Z](https://github.com/Kiarash-Z))
 - Pooya Eimandar from Iran 🇮🇷 ([pooyaeimandar](https://github.com/pooyaeimandar))
 - Shayan Karami from Iran 🇮🇷 ([Shayank](https://github.com/Shayank))
