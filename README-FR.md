@@ -1,6 +1,6 @@
 # Un message pour Github
 
-English | [简体中文](./README-CN.md) | [Spanish](./README-ES.md) | [Ελληνικά](./README-GR.md) | [Italiano](./README-IT.md) | [Русский](./README-RU.md)
+[English](./README.md) | [简体中文](./README-CN.md) | [Español](./README-ES.md) | [Ελληνικά](./README-GR.md) | [Italiano](./README-IT.md) | [Русский](./README-RU.md) | [فارسی](./README-PER.md) | Française | [Deutsch](./README-DE.md)
 
 ![alt text](./message.png)
 
@@ -11,17 +11,17 @@ Astuce: Vous pouvez utiliser [cette extension](https://github.com/JafarAkhondali
 
 ## Introduction
 
-Github était une platforme ouverte, libre et gratuite pour tout le monde, mais elle a décidée d'interdire les comptes Iraniens de contribuer et faire partie de l'écosystème open-source. Nous comprenons que Github a pris cette décision suite à la pression du gouvernement des États-Unis, nous nous attendions à une action plus respectueuse de la part de Github.
+Github était une platforme ouverte, libre et gratuite pour tout le monde, mais elle a décidée d'interdire les comptes Iraniens de contribuer et faire partie de l'écosystème open-source. Nous comprenons que Github a pris cette décision suite à la pression du gouvernement Américain, nous nous attendions à une action plus respectueuse de la part de Github.
 
-1. Github a soudainement restraint notre accès aux dépots privés, mais au moins on voulait que Github nous avertisse avant de le limiter.
+1. Github a soudainement restreint notre accès aux dépots privés. Nous aurions souhaité que Github nous avertisse avant de le limiter.
 
 2. L'équipe de Github a décidé d'aller plus loin et de nous restreindre **selon notre nationalité** peu importe où nous habitons, alors qu'ils pouvaient restreindre nos adresses IP comme les autres entreprises basées aux États-Unis.
 
-Éventuellement, nous espérons que l'équipe de Github:
+Nous espérons que l'équipe de Github:
 
-- Nous laisse télécharger nos dépots privés et aussi des les rendrent publics (via les paramètres).
-- Change leur politique de restriction pour ne pas limiter les utilisateurs envers leur nationalité.
-- Annonce leur décision publiquement et de s'excuser pour avoir créer cette situation (comme ce que slack avait fait dans la même situation: https://slackhq.com/an-apology-and-an-update).
+- Nous laisse télécharger nos dépots privés et aussi les rendrent publics (via les paramètres).
+- Change leur politique de restriction pour ne pas limiter les utilisateurs selon leur nationalité.
+- Annonce leur décision publiquement et s'excuse d'avoir créer cette situation (comme ce que slack avait fait dans la même situation: https://slackhq.com/an-apology-and-an-update).
 
 ## Projets open-source faits par des développeurs Iraniens
 
@@ -51,11 +51,11 @@ https://github.com/sepandhaghighi/art
 
 https://github.com/imaNNeoFighT/fl_chart
 
-Vous pouvez voir la litre complète [ici](https://github.com/mohebifar/made-in-iran).
+Vous pouvez voir la liste complète [ici](https://github.com/mohebifar/made-in-iran).
 
 ## Comment vous pouvez nous supporter
 
-Vous pouvez répendre le message là où vous le pouvez, et faire en sorte de garder le Logiciel Libre "comme la Liberté D'Expression".
+Vous pouvez répandre le message là où vous le pouvez, et faire en sorte de garder le Logiciel Libre "comme la liberté d'expression".
 Vous pouvez:
 
 - Mettre une étoile à ce dépot et le partager sur les réseaux sociaux avec #githubForEveryone.
