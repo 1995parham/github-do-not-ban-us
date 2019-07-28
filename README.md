@@ -186,6 +186,7 @@ You can:
 - Mohamad Fadavi ([fadavi](https://github.com/fadavi))
 - Mojtaba Valipour from Iran 🇮🇷 ([mvpcom](https://github.com/mvpcom))
 - Arman Hosseini from Iran 🇮🇷 ([arman-hosseini](https://github.com/arman-hosseini))
+- Abdellah Chadidi from Morocco 🇲🇦 ([chadidi](https://github.com/chadidi))
 - Karim Oulad Chalha from Morocco 🇲🇦 ([karim88](https://github.com/karim88/))
 - Ali Amirnezhad from Iran 🇮🇷 ([webilix](https://github.com/webilix))
 - Sarah Akhavan Kazemzadeh ([sarahakhavan](https://github.com/sarahakhavan))
