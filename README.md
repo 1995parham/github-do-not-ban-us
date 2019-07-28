@@ -594,3 +594,4 @@ You can:
 - Luiz Eduardo Amaral from Brazil 🇧🇷 ([luxedo](https://github.com/luxedo))
 - Lory from the United States 🇺🇸 and Iran 🇮🇷 ([Lorymi](https://github.com/Lorymi))
 - DOBRO from Russia 🇷🇺 ([DOBRO](https://github.com/DOBRO))
+- Nobel from Nepal 🇳🇵 ([Coderkoala](https://github.com/coderkoala))
