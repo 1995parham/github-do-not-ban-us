@@ -1,7 +1,7 @@
 # A Message to GitHub
 
 
-English | [简体中文](./README-CN.md) | [Español ](./README-ES.md) | [Ελληνικά](./README-GR.md) | [Italiano](./README-IT.md) | [Русский](./README-RU.md) | [فارسی](./README-PER.md) | [Française ](./README-FR.MD) | [Deutsch](./README-DE.md)
+English | [简体中文](./README-CN.md) | [Español](./README-ES.md) | [Ελληνικά](./README-GR.md) | [Italiano](./README-IT.md) | [Русский](./README-RU.md) | [فارسی](./README-PER.md) | [Française](./README-FR.MD) | [Deutsch](./README-DE.md)
 
 ![alt text](./message.png)
 
