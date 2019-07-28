@@ -540,5 +540,6 @@ You can:
 - Tim Visée from the Netherlands 🇳🇱 ([timvisee](https://github.com/timvisee))
 - Ako Salman from Iran 🇮🇷 ([Ako](https://github.com/akoSalman))
 - Atakan Ermiş from Turkey 🇹🇷 ([AtakanErmis](https://github.com/AtakanErmis))
+- Johannes Sandjaja from Indonesia 🇮🇩 ([pussio](https://github.com/pussio))
 - ri7nz from Indonesia 🇮🇩 ([ri7nz](https://github.com/ri7nz))
 - Joshua Morrison from the United States 🇺🇸 ([MrM21632](https://github.com/MrM21632))
