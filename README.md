@@ -295,13 +295,18 @@ You can:
 - [Pooya Parsa](https://github.com/pi0)
 - [Hamed Hajiloo](https://github.com/hamedhajiloo)
 
-- Wilson Flores [wilsson](https://github.com/wilsson) from 🇵🇪
-- Marco Aceti from Italy 🇮🇹 ([MarcoBuster](https://github.com/MarcoBuster))
-- Daniil Gentili from Italy and Russia 🇮🇹 🇷🇺 ([danog](https://github.com/danog))
-- Seamus Donnellan from Australia 🇦🇺 ([donnellan0007](https://github.com/donnellan0007))
+### Italy 🇮🇹
+- Marco Aceti ([MarcoBuster](https://github.com/MarcoBuster))
+- Daniil Gentili ([danog](https://github.com/danog))
+- micheleriva
+- MatteoPieroni ([MatteoPieroni](https://github.com/matteopieroni))
+
+### Peru 🇵🇪
+- Wilson Flores [wilsson](https://github.com/wilsson)
+
+
 - Conner Orth from Netherlands 🇳🇱
 - Chris C from Luxembourg 🇱🇺
-- micheleriva from Italy 🇮🇹
 - Angel Uniminin from Iceland 🇮🇸
 - Fahim from Bangladesh 🇧🇩
 - divinity1437 from Russia 🇷🇺
@@ -360,7 +365,6 @@ You can:
 - binbin huang from China 🇨🇳 ([hbb](https://github.com/nocanstillbb))
 - Fırat Eşki from Turkey 🇹🇷 ([firateski](https://github.com/firateski))
 - Morteza Nokhodian from Germany 🇩🇪 ([nokhodian](https://github.com/nokhodian))
-- Caspian Baska from Australia 🇦🇺 ([caspiano](https://github.com/caspiano))
 - Anand Chowdhary from India and Netherlands 🇮🇳 🇳🇱 ([AnandChowdhary](https://github.com/AnandChowdhary))
 - Himself65 from China 🇨🇳 ([Himself65](https://github.com/himself65/))
 - twofist from Germany 🇩🇪 ([twofist](https://github.com/twofist))
@@ -395,7 +399,6 @@ You can:
 - Omar2535 from Canada 🇨🇦 ([omar2535](https://github.com/omar2535))
 - Orestis Ousoultzoglou from Greece 🇬🇷 ([xlxs4](https://github.com/xlxs4))
 - Angus L. Fraser from UK 🇬🇧
-- MatteoPieroni from Italy 🇮🇹 ([MatteoPieroni](https://github.com/matteopieroni))
 - Faiyaz Shaikh from India 🇮🇳 ([Faiyaz Shaikh](https://github.com/yTakkar))
 - Adaobi Frank from Nigeria 🇳🇬 ([droidada](https://github.com/droidada))
 - Abdelhak Bougouffa from Algeria 🇩🇿 ([abougouffa](https://abougouffa.github.io))
@@ -452,7 +455,6 @@ You can:
 - Simon Lecutiez from France 🇫🇷 ([soetz](https://github.com/soetz))
 - Madiodio Gaye from Senegal 🇸🇳 ([madiodio](https://github.com/madiodio))
 - RealPG from China 🇨🇳 ([realpg](https://github.com/realpg))
-- Ben Barnes from Australia 🇦🇺 ([ben-barnes](https://github.com/ben-barnes/))
 - Barce from the United States 🇺🇸 ([barce](https://github.com/barce))
 - Adem Kouki from Tunisia 🇹🇳 ([Ademking](https://gitlab.com/Ademking))
 - George Zou from China 🇨🇳 ([GeorgeZou](https://github.com/georgezouq))
