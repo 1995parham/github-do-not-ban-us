@@ -452,6 +452,7 @@ You can:
 - Ajithkumar from India 🇮🇳 ([ajithkumarsekar](https://github.com/Ajithkumarsekar))
 - Ravi from India 🇮🇳 ([xolve](https://github.com/xolve))
 - Kitten King from India 🇮🇳 ([kittenking](https://github.com/kittenking))
+- Haider Ali Punjabi ([haideralipunjabi](https://github.com/haideralipunjabi))
 
 ### Ukraine 🇺🇦
 - Ruslan Gunawardana from Ukraine  ([exarus](https://github.com/exarus))
@@ -462,6 +463,7 @@ You can:
 - Erkan Özkök from Turkey 🇹🇷 ([nozkok](https://github.com/nozkok))
 - Fırat Eşki from Turkey 🇹🇷 ([firateski](https://github.com/firateski))
 - Mehmet Kaykısız from Turkey 🇹🇷 ([mkaykisiz](https://github.com/mkaykisiz))
+- Mehmet Alp ([mehmetakifalp](https://github.com/mehmetakifalp))
 
 ### Syria 🇸🇾
 - Louay Al-osh from Syria  (https://github.com/lalosh)
@@ -566,7 +568,5 @@ You can:
 - Max Base ([BaseMax](https://github.com/BaseMax))
 - Mohamad Fadavi ([fadavi](https://github.com/fadavi))
 - Sarah Akhavan Kazemzadeh ([sarahakhavan](https://github.com/sarahakhavan))
-- Mehmet Alp Turkey ([mehmetakifalp](https://github.com/mehmetakifalp))
-- Haider Ali Punjabi ([haideralipunjabi](https://github.com/haideralipunjabi))
 - Md Narimani ([mnarimani](https://github.com/mnarimani))
 - Daniel Lalasa ([daniellalasa2](https://github.com/daniellalasa2))
