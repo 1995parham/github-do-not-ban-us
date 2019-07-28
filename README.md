@@ -392,6 +392,7 @@ You can:
 - Mavromatakis Dimitris from Greece 🇬🇷 ([damavrom](https://gitlab.com/damavrom))
 - Piotr Kazimierski from Poland 🇵🇱 ([inquis1t0r](https://github.com/Inquis1t0r/))
 - Ravi from India 🇮🇳 ([xolve](https://github.com/xolve))
+- Lokimonoton from Indonesia 🇮🇩 ([lokimonoton](https://github.com/lokimonoton))
 - Sivuyile Magutywa from South Africa 🇿🇦
 - S. Mahdi Mir-Ismaili from Iran 🇮🇷 ([mirismaili](https://github.com/mirismaili))
 - Charles Milette from Canada 🇨🇦 ([sylveon](https://github.com/sylveon))
