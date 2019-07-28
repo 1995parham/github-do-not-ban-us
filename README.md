@@ -1,4 +1,4 @@
-﻿# A Message to Github
+﻿# A Message to GitHub
 
 English | [简体中文](./README-CN.md) | [Español ](./README-ES.md) | [Ελληνικά](./README-GR.md) | [Italiano](./README-IT.md) | [Русский](./README-RU.md) | [فارسی](./README-PER.md) | [Française ](./README-FR.md) | [Deutsch](./README-DE.md) | [Հայերէն](./README-HY.md) | [Српски](./README-SR.md) | [العربية](./README-AR.md) | [Türkçe](./README-TR.md)
 
@@ -14,7 +14,7 @@ English | [简体中文](./README-CN.md) | [Español ](./README-ES.md) | [Ελλ
 
 GitHub used to be an open and free platform for everyone, but it has decided to restrict Iranian accounts from contributing and being part of the open-source ecosystem. Although we understand GitHub might make this decision under the pressure of US government, we were expecting more respectful action from GitHub.
 
-1. Github restricted our access to private repositories suddenly, but at very least we wanted Github to warn us before limiting our access.
+1. GitHub restricted our access to private repositories suddenly, but at very least we wanted GitHub to warn us before limiting our access.
 
 2. GitHub's team decided to take one step further and restrict us **based on our Nationality** no matter where we are living, while they were able to just restrict our IP addresses like other US-based companies.
 
@@ -86,7 +86,7 @@ You can:
 
 ## News
 
-- [Github allow us to make our private repositories, public](https://github.com/1995parham/github-do-not-ban-us/issues/666)
+- [GitHub allow us to make our private repositories, public](https://github.com/1995parham/github-do-not-ban-us/issues/666)
 
 ![nat-friedman](nat-friedman.png)
 
@@ -559,3 +559,4 @@ You can:
 - Ardy A from Turkey 🇹🇷 ([ardyln](https://github.com/ardyln))
 - Florian Wartner from Germany 🇩🇪 ([fwartner](https://github.com/fwartner))
 - Jack Kamm from the United States 🇺🇸 ([jackkamm](https://github.com/jackkamm))
+- Mihir Chaturvedi from India 🇮🇳 ([plibither8](https://github.com/plibither8))
