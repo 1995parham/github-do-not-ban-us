@@ -566,6 +566,7 @@ You can:
 - Ardy A from Turkey 🇹🇷 ([ardyln](https://github.com/ardyln))
 - Florian Wartner from Germany 🇩🇪 ([fwartner](https://github.com/fwartner))
 - Jack Kamm from the United States 🇺🇸 ([jackkamm](https://github.com/jackkamm))
+- Matthias S from Germany 🇩🇪 ([Raincode](https://github.com/Raincode))
 - Gaurav Agarwal from India 🇮🇳 ([gauravagarwal2704](https://github.com/gauravagarwal2704))
 - Leonard Ginters from Germany 🇩🇪 ([l2ig](https://github.com/l2ig))
 - Farzin Ghanbari from Iran 🇮🇷 ([farzinghanbari](https://github.com/farzinghanbari))
