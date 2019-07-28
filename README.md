@@ -472,4 +472,5 @@ You can:
 - Javad Gholampoor from Iran 🇮🇷 ([javad10170](https://github.com/javad10170))
 - Seyed Hossein (sedhossein) Hosseini from Iran 🇮🇷 ([sedhossein](https://github.com/sedhossein))
 - Babak K. Shandiz from Iran 🇮🇷 ([babakks](https://github.com/babakks))
+- Doyin Olarewaju from Nigeria 🇳🇬 ([gate3](https://github.com/gate3))
 
