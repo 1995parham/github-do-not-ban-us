@@ -1,6 +1,6 @@
 # <div dir="rtl">پیامی به گیت‌هاب</div>
 
-[English](./README.md) | [简体中文](./README-CN.md) | [Español](./README-ES.md) | [Ελληνικά](./README-GR.md) | [Italiano](./README-IT.md) | [Русский](./README-RU.md) | فارسی | [Française](./README-FR.md) | [Deutsch](./README-DE.md)
+[English](./README.md) | [简体中文](./README-CN.md) | [Español](./README-ES.md) | [Ελληνικά](./README-GR.md) | [Italiano](./README-IT.md) | [Русский](./README-RU.md) | فارسی | [Française](./README-FR.md) | [Deutsch](./README-DE.md) | [Հայերէն](./README-HY.md)
 
 ![alt text](./message.png)
 
@@ -89,3 +89,14 @@ https://github.com/imaNNeoFighT/fl_chart
 
 </div>
 
+## <div dir="rtl"> در شبکه‌های مجازی </div>
+
+- [GitHub banned all Iranian users.](https://www.reddit.com/r/programming/comments/ciey8g/github_banned_all_iranian_users_our_accounts_are/) on Reddit
+- [Dan Abramov: Wow, looking forward to getting blocked from @GitHub when US decides to sanction Russia](https://twitter.com/dan_abramov/status/1154869188672086019?s=19) on Twitter
+- [Hamed Saeedi :Today @github blocked my access](https://twitter.com/Hamed/status/1154268514074660864?s=19) on Twitter
+- [Behdad Esfahbod: So, recently @github has started disabling accounts of Iranian developers](https://twitter.com/behdadesfahbod/status/1154755351092158465?s=19) on Twitter
+- [Nuxt.js: Our core team member @_pi0_ cannot access our private repositories anymore on @github because of US Sanctions...
+  ](https://t.co/4FiLexH9Mf) on Twitter
+
+## <div dir="rtl"> حمایت‌کنندگان</div>
+[README.md](README.md#supporters)
