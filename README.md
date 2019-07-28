@@ -527,3 +527,4 @@ You can:
 - Kizito Akhilome from Nigeria 🇳🇬 ([akhilome](https://github.com/akhilome))
 - Arman Safikhani from Iran 🇮🇷 ([Arman92](https://github.com/arman92))
 - Sutan Gading Fadhillah Nasution from Indonesia 🇮🇩 ([sutanlab](https://github.com/sutanlab))
+- Pooya Barati from Iran 🇮🇷 ([pooyabarati](https://github.com/pooyabarati))
