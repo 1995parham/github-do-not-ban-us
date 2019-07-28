@@ -48,7 +48,6 @@ Some examples of open-source projects created by Iranian developers:
 - [@wolfengine](https://github.com/wolfengine)/[**wolf.engine**](https://github.com/wolfengine/wolf.engine)
 - [@soroushchehresa](https://github.com/soroushchehresa)/[**vue-soundcloud**](https://github.com/soroushchehresa/vue-soundcloud)
 - [@soroushchehresa](https://github.com/soroushchehresa)/[**unsplash-wallpapers**](https://github.com/soroushchehresa/unsplash-wallpapers)
-- [@MohamadKh75](https://github.com/MohamadKh75)/[**react-navigation-transition-config**](https://github.com/MohamadKh75/react-navigation-transition-config)
 
 You can find the full list [here](https://github.com/mohebifar/made-in-iran).
 
@@ -357,6 +356,7 @@ You can:
 - [Farzin Ghanbari](https://github.com/farzinghanbari)
 - [Hossein Shabani](https://github.com/HosseinShabani)
 - [Pooya Khandel](https://github.com/PoOyaKhandel)
+- [Mohammad Alian](https://github.com/mdaliyan)
 
 ### China 🇨🇳
 - [Zhiwa](https://github.com/aboutmydreams)
@@ -495,6 +495,14 @@ You can:
 - [Dead Black Clover](https://github.com/deadblackclover)
 - [Dobro](https://github.com/DOBRO)
 
+### Brazil 🇧🇷
+- [Mateus Gabi Moreira](https://github.com/mateusgabi)
+- [Matheus Graciano](https://github.com/graciano)
+- [Lucas Bittencourt](https://github.com/lucasnaja)
+- [Rogério dos Santos Fernandes](https://github.com/spartanroger)
+- [Luiz Eduardo Amaral](https://github.com/luxedo)
+- [Gilberto dos Santos Agostinho Filho](https://github.com/gilbertohasnofb)
+
 ### Canada 🇨🇦
 - [Michael Power](https://github.com/mwpower)
 - [Mariam Arab](https://github.com/mariamarab)
@@ -529,13 +537,6 @@ You can:
 - [Gerasimos Maropoulos](https://github.com/kataras)
 - [Antonios Sidiropoulos](https://github.com/s-i-d-i)
 - [Ioannis Krommydas](https://github.com/ioannis-krommydas)
-
-### Brazil 🇧🇷
-- [Mateus Gabi Moreira](https://github.com/mateusgabi)
-- [Matheus Graciano](https://github.com/graciano)
-- [Lucas Bittencourt](https://github.com/lucasnaja)
-- [Rogério dos Santos Fernandes](https://github.com/spartanroger)
-- [Luiz Eduardo Amaral](https://github.com/luxedo)
 
 ### Bangladesh 🇧🇩
 - Fahim 
@@ -625,9 +626,13 @@ You can:
 - [fredddie](https://github.com/fredddie)
 - [Giovanni Nuño](https://github.com/gionuno)
 
-### Norway
+### Norway 🇳🇴
 - [Peter Stensby](https://github.com/pstensby)
 - [Maryam Mehrabian](https://github.com/marme660)
+
+### Nepal 🇳🇵
+- [Samundra Khatri](https://github.com/samundrak)
+- [Nobel](https://github.com/coderkoala)
 
 ### Morocco 🇲🇦
 - [Karim Oulad Chalha](https://github.com/karim88/)
@@ -659,9 +664,6 @@ You can:
 ### Hong Kong 🇭🇰
 - [George Ho](https://github.com/eigenfoo)
 
-### Nepal 🇳🇵
-- [Samundra Khatri](https://github.com/samundrak)
-
 ### Pakistan 🇵🇰
 - [Muhammad Yaseen](https://github.com/muhammadyaseen)
 
@@ -691,6 +693,9 @@ You can:
 
 ### Malysia 🇲🇾
 - [Julian Ooi](https://github.com/julianooi)
+
+### Switzerland 🇨🇭
+- [Higoka](https://github.com/higoka)
 
 ### Not Mentioned
 - [AbdElmomen Kadhim](https://github.com/bluemix)
