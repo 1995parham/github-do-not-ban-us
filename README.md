@@ -526,5 +526,6 @@ You can:
 - Kevin Pennarun from France 🇫🇷 ([kepennar](https://github.com/kepennar))
 - Kizito Akhilome from Nigeria 🇳🇬 ([akhilome](https://github.com/akhilome))
 - Arman Safikhani from Iran 🇮🇷 ([Arman92](https://github.com/arman92))
+- Amin Yazdanpanah from Iran 🇮🇷 ([aminyazdanpanah](https://github.com/aminyazdanpanah))
 - Pooya Barati from Iran 🇮🇷 ([pooyabarati](https://github.com/pooyabarati))
 - Rogério dos Santos Fernandes 🇧🇷 ([spartanroger](https://github.com/spartanroger))
