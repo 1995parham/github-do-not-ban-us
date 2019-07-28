@@ -95,6 +95,8 @@ You can:
 
 ![nat-friedman](nat-friedman.png)
 
+- GitHub page are now working for restricted persons.
+
 ## Supporters
 
 - Marwen from Germany 🇩🇪 ([mtrabelsi](https://github.com/mtrabelsi))
