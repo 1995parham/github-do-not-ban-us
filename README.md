@@ -86,6 +86,10 @@ You can:
   
 - [Conner Orth](https://twitter.com/conner_orth/status/1154723522729709568) on Twitter
 
+## News
+
+- [Github allow us to make our private repositories, public](https://github.com/1995parham/github-do-not-ban-us/issues/666)
+
 ## Supporters
 
 - Hamed Hajiloo from Iran 🇮🇹 ([HamedHajiloo](https://github.com/hamedhajiloo))
@@ -459,3 +463,5 @@ You can:
 - Jason C. McDonald from United States 🇺🇸 ([codemouse92](https://github.com/codemouse92))
 - Masoud Tavakkoli from Iran 🇮🇷 ([ProMasoud](https://github.com/ProMasoud))
 - MohammadAmin SamiAzar from Iran 🇮🇷 ([SamiAzar](https://github.com/samiazar))
+- Mostafa Khaki from Iran ([mosi-kha](https://github.com/mosi-kha))
+- Javad Gholampoor from Iran 🇮🇷 ([javad10170](https://github.com/javad10170))
