@@ -392,6 +392,7 @@ You can:
 - Mavromatakis Dimitris from Greece 🇬🇷 ([damavrom](https://gitlab.com/damavrom))
 - Piotr Kazimierski from Poland 🇵🇱 ([inquis1t0r](https://github.com/Inquis1t0r/))
 - Ravi from India 🇮🇳 ([xolve](https://github.com/xolve))
+- Aiden Wallis from the United Kingdom ([AidenWallis](https://github.com/AidenWallis))
 - Amine Mouafik from Thailand 🇹🇭 ([kytwb](https://github.com/kytwb))
 - Gerasimos Maropoulos from Greece 🇬🇷 ([kataras](https://github.com/kataras))
 - f-person from Armenia 🇦🇲 ([f-person](https://github.com/f-person))
