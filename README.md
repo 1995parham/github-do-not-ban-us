@@ -313,12 +313,13 @@ You can:
 - [Ali Abdollahi](https://github.com/aabdollahi)
 - [Kiarash Zarinmehr](https://github.com/Kiarash-Z)
 - [Vahid Sadeghizadeh](https://github.com/vsadeghizade)
-- [Kiarash Zarinmehr](https://github.com/Kiarash-Z)
 - [Pooya Eimandar](https://github.com/pooyaeimandar)
 - [Shayan Karami](https://github.com/Shayank)
 - [Milad GanjAli](https://github.com/miladganjali)
 - [Ali Madihi](https://github.com/mrunderline)
 - [Amir Masud Zare Bidaki](https://github.com/amirmasud)
+- [Ali Sameni](https://github.com/aliwesome)
+- [Amir Hossein Mirzaei](https://github.com/amirc901)
 
 ### China 🇨🇳
 - [Zhiwa](https://github.com/aboutmydreams)
@@ -372,6 +373,7 @@ You can:
 - [Elan Bustos](https://github.com/elanlb)
 - [Jennifer Shehane](https://github.com/jennifer-shehane)
 - [Jason C. McDonald](https://github.com/codemouse92)
+- [Carvell Scott](https://github.com/CarvellScott)
 
 ### India 🇮🇳
 - [Abdus](https://github.com/thisosabdus)
@@ -400,6 +402,7 @@ You can:
 - [Tobias aka. TheDevMinerTV](https://github.com/TheDevMinerTV/)
 - [Wilhelm Behncke](https://github.com/grebaldi)
 - [Max Strübing](https://github.com/mstruebing)
+- - Udo Kramer from Germany 🇩🇪 ([optikfluffel](https://github.com/optikfluffel))
 
 ### United Kingdom 🇬🇧
 - [speccius](https://github.com/speccius)
