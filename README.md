@@ -494,4 +494,5 @@ You can:
 -   Stijn Segers from Belgium 🇧🇪 ([Borromini](https://github.com/Borromini))
 -   Ali Abdollahi from Iran 🇮🇷 ([aabdollahi](https://github.com/aabdollahi))
 -   Trinity Pointard from France 🇫🇷 ([fdb-hiroshima](https://github.com/fdb-hiroshima/))
+-   Mehran Goudarzi from Iran 🇮🇷 ([Mehran](https://github.com/Mehran))
 -   Ahmad Khani from Iran 🇮🇷 ([engineerahkhani](https://github.com/engineerahkhani))
