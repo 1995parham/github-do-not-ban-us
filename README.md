@@ -392,5 +392,6 @@ You can:
 - Mavromatakis Dimitris from Greece 🇬🇷 ([damavrom](https://gitlab.com/damavrom))
 - Piotr Kazimierski from Poland 🇵🇱 ([inquis1t0r](https://github.com/Inquis1t0r/))
 - Ravi from India 🇮🇳 ([xolve](https://github.com/xolve))
+- George Zou from China 🇨🇳 ([GeorgeZou](https://github.com/georgezouq))
 - AliReza Sadeghi from Iran 🇮🇷 ([aliraza7926](https://github.com/aliraza7926))
 - Benjamin Sherman from the United States 🇺🇸([benjaminrsherman](https://gitlab.com/benjaminrsherman))
