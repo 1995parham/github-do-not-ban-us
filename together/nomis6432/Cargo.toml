@@ -1,0 +1,7 @@
+[package]
+name = "nomis6432"
+version = "0.1.0"
+authors = ["Simon Tas <simon.tas.st@gmail.com>"]
+edition = "2019"
+
+[dependencies]

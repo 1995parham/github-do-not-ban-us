@@ -1,6 +1,6 @@
 # <div dir="rtl">پیامی به گیت‌هاب</div>
 
-[English](./README.md) | [简体中文](./README-CN.md) | [Español](./README-ES.md) | [Ελληνικά](./README-GR.md) | [Italiano](./README-IT.md) | [Русский](./README-RU.md) | فارسی | [Française](./README-FR.md) | [Deutsch](./README-DE.md) | [Հայերէն](./README-HY.md)
+[English](./README.md) | [简体中文](./README-CN.md) | [Español](./README-ES.md) | [Ελληνικά](./README-GR.md) | [Italiano](./README-IT.md) | [Русский](./README-RU.md) | فارسی | [Française](./README-FR.md) | [Deutsch](./README-DE.md) | [Հայերէն](./README-HY.md) | [العربية](./README-AR.md) | [Türkçe](./README-TR.md)
 
 ![alt text](./message.png)
 

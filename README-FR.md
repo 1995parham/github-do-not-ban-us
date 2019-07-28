@@ -1,6 +1,6 @@
 # Un message pour Github
 
-[English](./README.md) | [简体中文](./README-CN.md) | [Español](./README-ES.md) | [Ελληνικά](./README-GR.md) | [Italiano](./README-IT.md) | [Русский](./README-RU.md) | [فارسی](./README-PER.md) | Française | [Deutsch](./README-DE.md)
+[English](./README.md) | [简体中文](./README-CN.md) | [Español](./README-ES.md) | [Ελληνικά](./README-GR.md) | [Italiano](./README-IT.md) | [Русский](./README-RU.md) | [فارسی](./README-PER.md) | Française | [Deutsch](./README-DE.md) | [العربية](./README-AR.md) | [Türkçe](./README-TR.md)
 
 ![alt text](./message.png)
 
