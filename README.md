@@ -475,6 +475,15 @@ You can:
 - Mrloder from Spain
 - Alejandro González-Pérez from Spain 🇪🇸 ([algope](https://github.com/algope))
 
+### Portugal
+- Daniel Caldas from Portugal 🇵🇹 ([danielcaldas](https://github.com/danielcaldas))
+- Jose Pita from from Portugal 🇵🇹 ([jpita](https://github.com/jpita/))
+
+### Lithuania 🇱🇹
+- Mindaugas Vaitiekūnas ([mindaugasw](https://github.com/mindaugasw))
+
+### Singapore 🇸🇬
+- Ru Chern Chong from Singapore 🇸🇬 ([ruchern](https://github.com/ruchern))
 
 - AbdElmomen Kadhim ([bluemix](https://github.com/bluemix))
 - Milad Nekofar ([nekofar](https://github.com/nekofar))
@@ -484,9 +493,6 @@ You can:
 - Sarah Akhavan Kazemzadeh ([sarahakhavan](https://github.com/sarahakhavan))
 - Mehmet Alp Turkey ([mehmetakifalp](https://github.com/mehmetakifalp))
 - Haider Ali Punjabi ([haideralipunjabi](https://github.com/haideralipunjabi))
-- Mindaugas Vaitiekūnas from Lithuania 🇱🇹 ([mindaugasw](https://github.com/mindaugasw))
-- Ru Chern Chong from Singapore 🇸🇬 ([ruchern](https://github.com/ruchern))
-- Daniel Caldas from Portugal 🇵🇹 ([danielcaldas](https://github.com/danielcaldas))
 - Nabil Tharwat from Egypt 🇪🇬 ([KL13NT](https://github.com/KL13NT))
 - Houari ZEGAI from Algeria 🇩🇿 [HouariZegai](https://github.com/HouariZegai)
 - Kittinan from Thailand 🇹🇭 ([kittinan](https://github.com/kittinan))
@@ -506,7 +512,6 @@ You can:
 - Lewis Conroy from Scotlabd ([Lewis Conroy](https://github.com/captainkinney))
 - Mavromatakis Dimitris from Greece 🇬🇷 ([damavrom](https://gitlab.com/damavrom))
 - Piotr Kazimierski from Poland 🇵🇱 ([inquis1t0r](https://github.com/Inquis1t0r/))
-- Jose Pita from from Portugal 🇵🇹 ([jpita](https://github.com/jpita/))
 - Abdullrahman Al-Zeidi from Oman 🇴🇲 ([AbdullrahmanAlzeidi](https://github.com/AbdullrahmanAlzeidi))
 - Igor from Poland 🇵🇱 ([igorpos](https://github.com/igorpos))
 - Bishoy Melek from Egypt 🇪🇬 ([bishoymelek](https://github.com/bishoymelek))
