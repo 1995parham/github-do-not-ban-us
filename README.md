@@ -309,8 +309,12 @@ You can:
 - Caspian Baska ([caspiano](https://github.com/caspiano))
 - Ben Barnes ([ben-barnes](https://github.com/ben-barnes/))
 
+### Netherlands 🇳🇱
+- Conner Orth
+- Vincent Weevers ([vweevers](https://github.com/vweevers))
+- Danny Kamps ([Dkamps18](https://github.com/Dkamps18))
+- Robert de Bock ([robertdebock](https://github.com/robertdebock))
 
-- Conner Orth from Netherlands 🇳🇱
 - Chris C from Luxembourg 🇱🇺
 - Angel Uniminin from Iceland 🇮🇸
 - Fahim from Bangladesh 🇧🇩
@@ -351,7 +355,6 @@ You can:
 - Natnij from China 🇨🇳 ([natnij](https://github.com/natnij))
 - Ibtehaz Shawon from Bangladesh 🇧🇩 ([ibtehaz-shawon](https://github.com/ibtehaz-shawon))
 - Davyd McColl from South Africa 🇿🇦 ([fluffynuts](https://github.com/fluffynuts))
-- Vincent Weevers from Netherlands 🇳🇱 ([vweevers](https://github.com/vweevers))
 - Ruslan Gunawardana from Ukraine 🇺🇦 ([exarus](https://github.com/exarus))
 - Sukka from China 🇨🇳 ([SukkaW](https://github.com/SukkaW))
 - Louay Al-osh from Syria 🇸🇾 (https://github.com/lalosh)
@@ -453,7 +456,6 @@ You can:
 - Gokul Swaminathan from the United States 🇺🇸 ([JavaCafe01](https://github.com/JavaCafe01))
 - Lucas Bittencourt from Brazil 🇧🇷 ([lucasnaja](https://github.com/lucasnaja))
 - Thomas from United States 🇺🇸 ([Hakerh400](https://github.com/Hakerh400))
-- Danny Kamps from The Netherlands 🇳🇱 ([Dkamps18](https://github.com/Dkamps18))
 - Lokimonoton from Indonesia 🇮🇩 ([lokimonoton](https://github.com/lokimonoton))
 - Sivuyile Magutywa from South Africa 🇿🇦
 - Charles Milette from Canada 🇨🇦 ([sylveon](https://github.com/sylveon))
@@ -476,4 +478,3 @@ You can:
 - meysam gheysaryan from IR ([meysam7289](https://github.com/meysam7289))
 - Jason C. McDonald from United States 🇺🇸 ([codemouse92](https://github.com/codemouse92))
 - Stephen Yin from China 🇨🇳 ([hacker0limbo](https://github.com/hacker0limbo))
-- Robert de Bock from The Netherlands 🇳🇱 ([robertdebock](https://github.com/robertdebock))
