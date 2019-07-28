@@ -1,7 +1,7 @@
 # A Message to GitHub
 
 
-English | [简体中文](./README-CN.md) | [Español](./README-ES.md) | [Ελληνικά](./README-GR.md) | [Italiano](./README-IT.md) | [Русский](./README-RU.md) | [فارسی](./README-PER.md) | [Française](./README-FR.MD) | [Deutsch](./README-DE.md)
+English | [简体中文](./README-CN.md) | [Español](./README-ES.md) | [Ελληνικά](./README-GR.md) | [Italiano](./README-IT.md) | [Русский](./README-RU.md) | [فارسی](./README-PER.md) | [Française](./README-FR.md) | [Deutsch](./README-DE.md)
 
 ![alt text](./message.png)
 
@@ -422,6 +422,7 @@ You can:
 - Benjamin Sherman from the United States 🇺🇸([benjaminrsherman](https://gitlab.com/benjaminrsherman))
 - Navid Khazaee form Iran 🇮🇷 ([nkhdiscovery](https://github.com/nkhdiscovery))
 - Elan Bustos from the United States 🇺🇸([elanlb](https://github.com/elanlb))
+- Mo Zargham from Canada 🇨🇦🇮🇷 ([Mozar10](https://github.com/Mozar10))
 - Eltrac from China 🇨🇳 ([BigCoke233](https://github.com/BigCoke233))
 - Pashootan Vaezipoor from Iran and Canada 🇮🇷 🇨🇦 ([CpHaddock](https://github.com/CpHaddock))
-- Serene Husni from Jordan and Canada 🇯🇴 🇨🇦 
+- Serene Husni from Jordan and Canada 🇯🇴 🇨🇦
