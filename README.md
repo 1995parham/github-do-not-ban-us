@@ -127,6 +127,7 @@ You can:
 - Alireza Mahmoudian from Iran 🇮🇷 ([BelegCuthalion](https://github.com/BelegCuthalion))
 - Amirhossein Yaghoobi from Iran 🇮🇷 ([amir-yaghoobi](https://github.com/amir-yaghoobi))
 - Marjan Jangholi from Iran 🇮🇷 ([jangholi](https://github.com/jangholi))
+- Romain from France 🇫🇷 ([maoschanz](https://github.com/maoschanz))
 - Hussein Habibi Juybari from Iran 🇮🇷 ([husseinhj](https://github.com/Husseinhj))
 - Mahdi Ghiasi from Iran 🇮🇷 ([MahdiGhiasi](https://github.com/MahdiGhiasi))
 - Ali Tavalaie from Iran 🇮🇷 ([tavallaie](https://github.com/tavallaie))
