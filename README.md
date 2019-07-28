@@ -491,3 +491,4 @@ You can:
 - Mehran Goudarzi from Iran 🇮🇷 ([Mehran](https://github.com/Mehran))
 - Ali Hassanabadi from Iran 🇮🇷 ([AHassanabadi](https://github.com/AHassanabadi))
 - Ali Abdollahi from Iran 🇮🇷 ([aabdollahi](https://github.com/aabdollahi))
+- Trinity Pointard from France 🇫🇷 ([fdb-hiroshima](https://github.com/fdb-hiroshima/))
