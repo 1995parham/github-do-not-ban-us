@@ -29,31 +29,21 @@ Eventually, we are hoping that GitHub's team:
 
 Some examples of open-source projects created by Iranian developers:
 
-https://github.com/harfbuzz
-
-https://github.com/usablica/intro.js
-
-https://github.com/lebab/lebab
-
-https://github.com/saeedalipoor/icono
-
-https://github.com/morteza/bootstrap-rtl
-
-https://github.com/ilius/pyglossary
-
-https://github.com/TheSNAKY/Lives
-
-https://github.com/sasanrose/phpredmin
-
-https://github.com/ahmdrz/goinsta
-
-https://github.com/persepolisdm/persepolis
-
-https://github.com/sepandhaghighi/pycm
-
-https://github.com/sepandhaghighi/art
-
-https://github.com/imaNNeoFighT/fl_chart
+- https://github.com/harfbuzz
+- https://github.com/usablica/intro.js
+- https://github.com/lebab/lebab
+- https://github.com/saeedalipoor/icono
+- https://github.com/morteza/bootstrap-rtl
+- https://github.com/ilius/pyglossary
+- https://github.com/TheSNAKY/Lives
+- https://github.com/sasanrose/phpredmin
+- https://github.com/ahmdrz/goinsta
+- https://github.com/persepolisdm/persepolis
+- https://github.com/sepandhaghighi/pycm
+- https://github.com/sepandhaghighi/art
+- https://github.com/imaNNeoFighT/fl_chart
+- https://github.com/nuxt/nuxt.js
+- https://github.com/bootstrap-vue/bootstrap-vue
 
 You can find the full list [here](https://github.com/mohebifar/made-in-iran).
 
