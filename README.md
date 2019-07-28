@@ -408,6 +408,13 @@ You can:
 - tipok ([tipok](https://github.com/tipok))
 - Tobias aka. TheDevMinerTV ([TheDevMinerTV](https://github.com/TheDevMinerTV/))
 
+### Canada 🇨🇦
+- Michael Power from Canada 🇨🇦 ([mwpower](https://github.com/mwpower))
+- Mariam Arab from Canada 🇨🇦 ([mariamarab](https://github.com/mariamarab))
+- Omar2535 from Canada 🇨🇦 ([omar2535](https://github.com/omar2535))
+- Mohsen from Canada 🇨🇦 ([DarkChocolate](https://github.com/DarkChocolate))
+- Charles Milette from Canada 🇨🇦 ([sylveon](https://github.com/sylveon))
+
 - Alexander Shelepenok from Belarus 🇧🇾
 - Benjamin Hogué from Guadeloupe 🇬🇵
 - fredddie from Mexico 🇲🇽
@@ -418,7 +425,6 @@ You can:
 - Mohamad Fadavi ([fadavi](https://github.com/fadavi))
 - Karim Oulad Chalha from Morocco 🇲🇦 ([karim88](https://github.com/karim88/))
 - Sarah Akhavan Kazemzadeh ([sarahakhavan](https://github.com/sarahakhavan))
-- Michael Power from Canada 🇨🇦 ([mwpower](https://github.com/mwpower))
 - Mateus Gabi Moreira from Brazil 🇧🇷 ([mateusgabi](https://github.com/mateusgabi))
 - Matheus Graciano from Brazil 🇧🇷 ([graciano](https://github.com/graciano))
 - Mehmet Alp Turkey ([mehmetakifalp](https://github.com/mehmetakifalp))
@@ -449,10 +455,8 @@ You can:
 - Praveen Kumar Saini from India 🇮🇳 ([praveen-me](https://github.com/praveen-me))
 - Mahuton from Benin 🇧🇯 ([Mahuton](https://github.com/Mahuton))
 - George Ho from Hong Kong 🇭🇰 ([eigenfoo](https://github.com/eigenfoo))
-- Mariam Arab from Canada 🇨🇦 ([mariamarab](https://github.com/mariamarab))
 - Cuong Nguyen from Vietnam 🇻🇳 ([cuongw](https://github.com/cuongw))
 - Mehmet Kaykısız from Turkey 🇹🇷 ([mkaykisiz](https://github.com/mkaykisiz))
-- Omar2535 from Canada 🇨🇦 ([omar2535](https://github.com/omar2535))
 - Orestis Ousoultzoglou from Greece 🇬🇷 ([xlxs4](https://github.com/xlxs4))
 - Faiyaz Shaikh from India 🇮🇳 ([Faiyaz Shaikh](https://github.com/yTakkar))
 - Adaobi Frank from Nigeria 🇳🇬 ([droidada](https://github.com/droidada))
@@ -474,7 +478,6 @@ You can:
 - Piotr Kazimierski from Poland 🇵🇱 ([inquis1t0r](https://github.com/Inquis1t0r/))
 - Jose Pita from from Portugal 🇵🇹 ([jpita](https://github.com/jpita/))
 - Ravi from India 🇮🇳 ([xolve](https://github.com/xolve))
-- Mohsen from Canada 🇨🇦 ([DarkChocolate](https://github.com/DarkChocolate))
 - Abdullrahman Al-Zeidi from Oman 🇴🇲 ([AbdullrahmanAlzeidi](https://github.com/AbdullrahmanAlzeidi))
 - Igor from Poland 🇵🇱 ([igorpos](https://github.com/igorpos))
 - Bishoy Melek from Egypt 🇪🇬 ([bishoymelek](https://github.com/bishoymelek))
@@ -488,7 +491,6 @@ You can:
 - Lucas Bittencourt from Brazil 🇧🇷 ([lucasnaja](https://github.com/lucasnaja))
 - Lokimonoton from Indonesia 🇮🇩 ([lokimonoton](https://github.com/lokimonoton))
 - Sivuyile Magutywa from South Africa 🇿🇦
-- Charles Milette from Canada 🇨🇦 ([sylveon](https://github.com/sylveon))
 - Madiodio Gaye from Senegal 🇸🇳 ([madiodio](https://github.com/madiodio))
 - Adem Kouki from Tunisia 🇹🇳 ([Ademking](https://gitlab.com/Ademking))
 - Serene Husni from Jordan and Canada 🇯🇴 🇨🇦
