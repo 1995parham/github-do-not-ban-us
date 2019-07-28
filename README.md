@@ -478,3 +478,4 @@ You can:
 - HamidReza Adib from Iran 🇮🇷 ([hamidrezaadib](https://github.com/hamidrezaadib))
 - Salman Amintabar from Iran 🇮🇷 ([amintabar](https://github.com/amintabar))
 - Mohammad Ebrahimi Aval from Iran 🇮🇷 ([ebrahimiaval](https://github.com/ebrahimiaval))
+- Mohamed Anees from India 🇮🇳 ([mohamedanees6](https://github.com/mohamedanees6))
