@@ -16,7 +16,7 @@ GitHub used to be an open and free platform for everyone, but it has decided to 
 
 1. GitHub restricted our access to private repositories suddenly, but at very least we wanted GitHub to warn us before limiting our access.
 
-2. GitHub decided to take one step further and ban every user that used Iran's **IP address** somewhere their history no matter where she/he is living, while they were able to just restrict our IP addresses like other US-based companies and its a kind of ban by nationality.
+2. GitHub decided to take one step further and ban every user that used Iran's IP address somewhere their history no matter where she/he is living, while they could just restrict access by IP address like other US-based companies. This action is kind of ban by nationality.
 
 Eventually, we are hoping that GitHub's team:
 
