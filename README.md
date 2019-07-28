@@ -533,6 +533,14 @@ You can:
 ### Oman 🇴🇲
 - Abdullrahman Al-Zeidi from Oman 🇴🇲 ([AbdullrahmanAlzeidi](https://github.com/AbdullrahmanAlzeidi))
 
+### Hong Kong
+- George Ho from Hong Kong 🇭🇰 ([eigenfoo](https://github.com/eigenfoo))
+
+### Nepal
+- Samundra Khatri from Nepal 🇳🇵 ([samundrak](https://github.com/samundrak))
+
+### Pakistan
+- Muhammad Yaseen from Pakistan 🇵🇰 ([Yaseen](https://github.com/muhammadyaseen))
 
 - AbdElmomen Kadhim ([bluemix](https://github.com/bluemix))
 - Milad Nekofar ([nekofar](https://github.com/nekofar))
@@ -542,10 +550,7 @@ You can:
 - Sarah Akhavan Kazemzadeh ([sarahakhavan](https://github.com/sarahakhavan))
 - Mehmet Alp Turkey ([mehmetakifalp](https://github.com/mehmetakifalp))
 - Haider Ali Punjabi ([haideralipunjabi](https://github.com/haideralipunjabi))
-- George Ho from Hong Kong 🇭🇰 ([eigenfoo](https://github.com/eigenfoo))
 - Md Narimani ([mnarimani](https://github.com/mnarimani))
-- Samundra Khatri from Nepal 🇳🇵 ([samundrak](https://github.com/samundrak))
-- Muhammad Yaseen from Pakistan 🇵🇰 ([Yaseen](https://github.com/muhammadyaseen))
 - Daniel Kvasnicka from Czechia and the United States 🇨🇿 🇺🇸 ([dkvasnicka](https://github.com/dkvasnicka))
 - Lewis Conroy from Scotlabd ([Lewis Conroy](https://github.com/captainkinney))
 - Liam Kenneth from England ([Liam Kenneth](https://github.com/LiamKenneth))
