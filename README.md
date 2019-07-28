@@ -430,6 +430,4 @@ You can:
 - Eltrac from China 🇨🇳 ([BigCoke233](https://github.com/BigCoke233))
 - Pashootan Vaezipoor from Iran and Canada 🇮🇷 🇨🇦 ([CpHaddock](https://github.com/CpHaddock))
 - Serene Husni from Jordan and Canada 🇯🇴 🇨🇦
-=======
 - fugio from armenia 🇦🇲 ([fugio](https://github.com/fugio))
->>>>>>> b59f92b67c2eb53a7e905cab562710a5d79a7ff2
