@@ -538,3 +538,4 @@ You can:
 - Tim Visée from the Netherlands 🇳🇱 ([timvisee](https://github.com/timvisee))
 - Ako Salman from Iran 🇮🇷 ([Ako](https://github.com/akoSalman))
 - Atakan Ermiş from Turkey 🇹🇷 ([AtakanErmis](https://github.com/AtakanErmis))
+- Joshua Morrison from the United States 🇺🇸 ([MrM21632](https://github.com/MrM21632))
