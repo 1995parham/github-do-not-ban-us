@@ -1,11 +1,11 @@
 # A Message to GitHub
 
 
-English | [简体中文](./README-CN.md) | [Español ](./README-ES.md) | [Ελληνικά](./README-GR.md) | [Italiano](./README-IT.md) | [Русский](./README-RU.md) | [فارسی](./README-PER.md) | [Française ](./README-FR.MD) | [Deutsch](./README-DE.md)
+English | [简体中文](./README-CN.md) | [Español](./README-ES.md) | [Ελληνικά](./README-GR.md) | [Italiano](./README-IT.md) | [Русский](./README-RU.md) | [فارسی](./README-PER.md) | [Française](./README-FR.MD) | [Deutsch](./README-DE.md)
 
 ![alt text](./message.png)
 
-Tip: You can use [this extension](https://github.com/JafarAkhondali/remove-github-restrictions-message) or [this extension](https://github.com/MohamadKh75/ShutHub) to hide this yellow box!
+Tip: You can use [this extension](https://github.com/JafarAkhondali/remove-github-restrictions-message) or [this extension](https://github.com/MohamadKh75/ShutHub) or [this Tampermonkey script](https://gist.github.com/HirbodBehnam/2e079e187be0b1b6a6bcb734ed88474e) to hide this yellow box!
 
 ![github-octocat](https://user-images.githubusercontent.com/16706911/61997137-7aa7df00-b0b2-11e9-97f1-f452855fe21c.png)
 
@@ -393,3 +393,23 @@ You can:
 - Piotr Kazimierski from Poland 🇵🇱 ([inquis1t0r](https://github.com/Inquis1t0r/))
 - Ravi from India 🇮🇳 ([xolve](https://github.com/xolve))
 - Amine Mouafik from Thailand 🇹🇭 ([kytwb](https://github.com/kytwb))
+- Gerasimos Maropoulos from Greece 🇬🇷 ([kataras](https://github.com/kataras))
+- f-person from Armenia 🇦🇲 ([f-person](https://github.com/f-person))
+- Gokul Swaminathan from the United States 🇺🇸 ([JavaCafe01](https://github.com/JavaCafe01))
+- Lucas Bittencourt from Brazil 🇧🇷 ([lucasnaja](https://github.com/lucasnaja))
+- Thomas from United States 🇺🇸 ([Hakerh400](https://github.com/Hakerh400))
+- Danny Kamps from The Netherlands 🇳🇱 ([Dkamps18](https://github.com/Dkamps18))
+- Lokimonoton from Indonesia 🇮🇩 ([lokimonoton](https://github.com/lokimonoton))
+- Sivuyile Magutywa from South Africa 🇿🇦
+- S. Mahdi Mir-Ismaili from Iran 🇮🇷 ([mirismaili](https://github.com/mirismaili))
+- Charles Milette from Canada 🇨🇦 ([sylveon](https://github.com/sylveon))
+- Simon Lecutiez from France 🇫🇷 ([soetz](https://github.com/soetz))
+- Madiodio Gaye from Senegal 🇸🇳 ([madiodio](https://github.com/madiodio))
+- RealPG from China 🇨🇳 ([realpg](https://github.com/realpg))
+- Ben Barnes from Australia 🇦🇺 ([ben-barnes](https://github.com/ben-barnes/))
+- Barce from the United States 🇺🇸 ([barce](https://github.com/barce))
+- Adem Kouki from Tunisia 🇹🇳 ([Ademking](https://gitlab.com/Ademking))
+- George Zou from China 🇨🇳 ([GeorgeZou](https://github.com/georgezouq))
+- AliReza Sadeghi from Iran 🇮🇷 ([aliraza7926](https://github.com/aliraza7926))
+- Benjamin Sherman from the United States 🇺🇸([benjaminrsherman](https://gitlab.com/benjaminrsherman))
+- Elan Bustos from the United States 🇺🇸([elanlb](https://github.com/elanlb))
