@@ -415,9 +415,16 @@ You can:
 - Mohsen from Canada 🇨🇦 ([DarkChocolate](https://github.com/DarkChocolate))
 - Charles Milette from Canada 🇨🇦 ([sylveon](https://github.com/sylveon))
 
-- Alexander Shelepenok from Belarus 🇧🇾
-- Benjamin Hogué from Guadeloupe 🇬🇵
+### Belarus 🇧🇾
+- Alexander Shelepenok
+
+### Guadeloupe 🇬🇵
+- Benjamin Hogué
+
+### Mexico
 - fredddie from Mexico 🇲🇽
+- Giovanni Nuño from Mexico 🇲🇽 ([gionuno](https://github.com/gionuno))
+
 - AbdElmomen Kadhim ([bluemix](https://github.com/bluemix))
 - Milad Nekofar ([nekofar](https://github.com/nekofar))
 - Nikan Dalvand ([nikandlv](https://github.com/nikandlv))
@@ -429,7 +436,6 @@ You can:
 - Matheus Graciano from Brazil 🇧🇷 ([graciano](https://github.com/graciano))
 - Mehmet Alp Turkey ([mehmetakifalp](https://github.com/mehmetakifalp))
 - Haider Ali Punjabi ([haideralipunjabi](https://github.com/haideralipunjabi))
-- Giovanni Nuño from Mexico 🇲🇽 ([gionuno](https://github.com/gionuno))
 - Davyd McColl from South Africa 🇿🇦 ([fluffynuts](https://github.com/fluffynuts))
 - Ruslan Gunawardana from Ukraine 🇺🇦 ([exarus](https://github.com/exarus))
 - Louay Al-osh from Syria 🇸🇾 (https://github.com/lalosh)
