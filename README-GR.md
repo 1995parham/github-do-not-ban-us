@@ -1,10 +1,12 @@
 # Ένα μήνυμα προς το GitHub
 
-English | [简体中文](./README-CN.md) | [Spanish](./README-ES.md) | [Ελληνικά](./README-GR.md) | [Русский](./README-RU.md) | [Deutsch](./README-DE.md)
+[English](./README.md) | [简体中文](./README-CN.md) | [Español](./README-ES.md) | Ελληνικά | [Italiano](./README-IT.md) | [Русский](./README-RU.md) | [فارسی](./README-PER.md) | [Française](./README-FR.md) | [Deutsch](./README-DE.md) | [العربية](./README-AR.md)
 
 ![alt text](./message.png)
 
 Συμβουλή: Μπορείς να χρησιμοποιήσεις [αυτό το πρόσθετο](https://github.com/MohamadKh75/ShutHub) για να κρύψεις αυτό το κίτρινο κουτί!
+
+![github-octocat](https://user-images.githubusercontent.com/16706911/61997137-7aa7df00-b0b2-11e9-97f1-f452855fe21c.png)
 
 ## Εισαγωγή
 ## Introduction

@@ -1,0 +1,10 @@
+// This source code is written in a new language
+// The language of peace
+// we bring peace for everyone by including peace in our sources
+#include<peace.h>
+
+peace_void peace_main() {
+    peace_printf("GitHub is for everyone\n");
+    peace_printf("Peace is for everyone\n");
+    return PEACE_EXIT_SUCCESS;
+}
