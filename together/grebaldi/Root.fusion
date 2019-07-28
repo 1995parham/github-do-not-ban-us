@@ -1,0 +1,10 @@
+// 
+// @TODO: Add integration tests.
+// 
+prototype(Vendor.Site:ListenUp) < prototype(Neos.Fusion:Component) {
+    headline = 'GitHub is for everyone!'
+
+    renderer = afx`
+        <h1>{props.headline}</h1>
+    `
+}
