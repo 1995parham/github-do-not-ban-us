@@ -13,7 +13,7 @@ Tip: You can use [this extension](https://github.com/JafarAkhondali/remove-githu
 
 GitHub used to be an open and free platform for everyone, but it has decided to restrict Iranian accounts from contributing and being part of the open-source ecosystem. Although we understand GitHub might make this decision under the pressure of US government, we were expecting more respectful action from GitHub.
 
-1. GitHub restricted our access to private repositories suddenly, but at very least we wanted GitHub to warn us before limiting our access.
+1. Github restricted our access to private repositories suddenly, but at very least we wanted Github to warn us before limiting our access.
 
 2. GitHub's team decided to take one step further and restrict us **based on our Nationality** no matter where we are living, while they were able to just restrict our IP addresses like other US-based companies.
 
@@ -442,6 +442,9 @@ You can:
 - Pashootan Vaezipoor from Iran and Canada 🇮🇷 🇨🇦 ([CpHaddock](https://github.com/CpHaddock))
 - Serene Husni from Jordan and Canada 🇯🇴 🇨🇦
 - fugio from armenia 🇦🇲 ([fugio](https://github.com/fugio))
+- Vimiix Yao from China 🇨🇳 ([vimiix](https://github.com/vimiix))
 - Ali Ranjbarzadeh from Iran (https://github.com/AliRanjbarzadeh)
 - Mehdi Dehghani from Iran ([dehghani-mehdi](https://github.com/dehghani-mehdi))
 - Ahmad Aghazadeh from Iran ([ahmadaghazadeh](https://github.com/ahmadaghazadeh))
+- Jennifer Shehane from United States 🇺🇸  ([jennifer-shehane](https://github.com/jennifer-shehane))
+- Daniel Lalasa ([daniellalasa2](https://github.com/daniellalasa2))
