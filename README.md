@@ -92,6 +92,8 @@ You can:
 - Daniil Gentili from Italy and Russia 🇮🇹 🇷🇺 ([danog](https://github.com/danog))
 - Seamus Donnellan from Australia 🇦🇺 ([donnellan0007](https://github.com/donnellan0007))
 - Conner Orth from Netherlands 🇳🇱
+- Moni from 🇮🇳 ([monis10](https://github.com/MoniS10))
+- MoniJS from 🇺🇸 ([MoniJS](https://github.com/MoniJS))
 - Chris C from Luxembourg 🇱🇺
 - micheleriva from Italy 🇮🇹
 - Angel Uniminin from Iceland 🇮🇸
