@@ -181,6 +181,145 @@ You can:
 - Ali Amirnezhad from Iran 🇮🇷 ([webilix](https://github.com/webilix))
 - Sarah Akhavan Kazemzadeh ([sarahakhavan](https://github.com/sarahakhavan))
 - WenlongLiu from China 🇨🇳 ([gitors](https://github.com/gitors))
+35
+- https://github.com/morteza/bootstrap-rtl
+36
+- https://github.com/ilius/pyglossary
+37
+- https://github.com/TheSNAKY/Lives
+38
+- https://github.com/sasanrose/phpredmin
+39
+- https://github.com/ahmdrz/goinsta
+40
+- https://github.com/persepolisdm/persepolis
+41
+- https://github.com/sepandhaghighi/pycm
+42
+- https://github.com/sepandhaghighi/art
+43
+- https://github.com/imaNNeoFighT/fl_chart
+44
+- https://github.com/nuxt/nuxt.js
+45
+- https://github.com/bootstrap-vue/bootstrap-vue
+46
+​
+47
+You can find the full list [here](https://github.com/mohebifar/made-in-iran).
+48
+​
+49
+## How you can support us
+50
+​
+51
+You can spread the message everywhere you can, and keep the Free Software "as in Free speech".
+52
+You can:
+53
+​
+54
+- Star and share this repo on social platforms with #githubForEveryone.
+55
+- Add a folder with your username in "together" folder.
+56
+- Write a piece of code that prints "GitHub is for everyone" (in any language you wish).
+57
+- Create a pull request.
+58
+- Add your name and your country to the supporters section.
+59
+​
+60
+## Further Readings
+61
+​
+62
+- [Microsoft enters: GitHub banned Iranian developers!](https://medium.com/@d.aliyamini/microsoft-enters-github-banned-iranian-developers-843f7c60a146)
+63
+- [GitHub banned Iran-based users](https://financialtribune.com/articles/sci-tech/99111/github-bans-iran-based-users)
+64
+- [GitHub has blocked an Iranian software developer account](https://hub.packtpub.com/github-has-blocked-an-iranian-software-developers-account)
+65
+- [GitHub starts blocking developers in countries facing US trade sanctions](https://www.zdnet.com/article/github-starts-blocking-developers-in-countries-facing-us-trade-sanctions)
+66
+- [What is it like to be a dev in Iran](https://shahinsorkh.ir/2019/07/20/how-is-it-like-to-be-a-dev-in-iran)
+67
+- [I am lucky, you are not](https://dev.to/jeromegamez/i-am-lucky-you-are-not-2eco)
+68
+- [If You Don't Know, Now You Know - GitHub Is Restricting Access For Users From Iran And A Few Other Embargoed Countries](https://dev.to/mjraadi/if-you-don-t-know-now-you-know-github-is-restricting-access-for-users-from-iran-and-a-few-other-embargoed-countries-5ga9)
+69
+​
+70
+## On Social Networks
+71
+​
+72
+- [GitHub banned all Iranian users.](https://www.reddit.com/r/programming/comments/ciey8g/github_banned_all_iranian_users_our_accounts_are/) on Reddit
+73
+- [Dan Abramov: Wow, looking forward to getting blocked from @GitHub when US decides to sanction Russia](https://twitter.com/dan_abramov/status/1154869188672086019?s=19) on Twitter
+74
+- [Hamed Saeedi :Today @github blocked my access](https://twitter.com/Hamed/status/1154268514074660864?s=19) on Twitter
+75
+- [Behdad Esfahbod: So, recently @github has started disabling accounts of Iranian developers](https://twitter.com/behdadesfahbod/status/1154755351092158465?s=19) on Twitter
+76
+- [Nuxt.js: Our core team member @_pi0_ cannot access our private repositories anymore on @github because of US Sanctions...
+77
+  ](https://t.co/4FiLexH9Mf) on Twitter
+78
+- [Conner Orth](https://twitter.com/conner_orth/status/1154723522729709568) on Twitter
+79
+- [Nat Friedman](https://twitter.com/natfriedman/status/1155311121038864384) on Twitter
+80
+​
+81
+## News
+82
+​
+83
+- [Github allow us to make our private repositories, public](https://github.com/1995parham/github-do-not-ban-us/issues/666)
+84
+​
+85
+## Supporters
+86
+​
+87
+- Hamed Hajiloo from Iran 🇮🇷 ([HamedHajiloo](https://github.com/hamedhajiloo))
+88
+- Wilson Flores [wilsson](https://github.com/wilsson) from 🇵🇪
+89
+- Marco Aceti from Italy 🇮🇹 ([MarcoBuster](https://github.com/MarcoBuster))
+90
+- Daniil Gentili from Italy and Russia 🇮🇹 🇷🇺 ([danog](https://github.com/danog))
+91
+- Seamus Donnellan from Australia 🇦🇺 ([donnellan0007](https://github.com/donnellan0007))
+92
+- Conner Orth from Netherlands 🇳🇱
+93
+- Chris C from Luxembourg 🇱🇺
+94
+- micheleriva from Italy 🇮🇹
+95
+- Angel Uniminin from Iceland 🇮🇸
+96
+- Fahim from Bangladesh 🇧🇩
+97
+- divinity1437 from Russia 🇷🇺
+98
+- Enzo from France 🇫🇷
+99
+- Appadeia from the United States 🇺🇸
+100
+- Zhiwa from China 🇨🇳 ([zhiwa](https://github.com/aboutmydreams))
+101
+- Alexander Shelepenok from Belarus 🇧🇾
+102
+- Ran Luo from China 🇨🇳
+103
+- Zhu Zihao from China 🇨🇳 ([cireu](https://github.com/cireu))
+
 - Muhammad Azhdari from 🇮🇷 ([Muhammad Azhdari](https://github.com/mmdaz))
 - Ehsan Ahmadi from Iran 🇮🇷 ([ehsana94](https://github.com/ehsana94))
 - Ali Farazdaghi from Iran 🇮🇷 ([alifarazz](https://github.com/alifarazz))
@@ -484,3 +623,4 @@ You can:
 - Max Strübing from Germany 🇩🇪([mstruebing](https://github.com/mstruebing))
 - Ali Kavani from Iran 🇮🇷 ([subzerobo](https://github.com/subzerobo))
 - Amer Lotfi Orimi from Iran 🇮🇷 ([amerllica](https://github.com/amerllica))
+- Shayan Karami from Iran 🇮🇷 ([shayank](https://github.com/shayank))
