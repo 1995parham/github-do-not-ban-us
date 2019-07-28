@@ -393,3 +393,7 @@ You can:
 - Piotr Kazimierski from Poland 🇵🇱 ([inquis1t0r](https://github.com/Inquis1t0r/))
 - Ravi from India 🇮🇳 ([xolve](https://github.com/xolve))
 - Barce from the United States 🇺🇸 ([barce](https://github.com/barce))
+- Adem Kouki from Tunisia 🇹🇳 ([Ademking](https://gitlab.com/Ademking))
+- George Zou from China 🇨🇳 ([GeorgeZou](https://github.com/georgezouq))
+- AliReza Sadeghi from Iran 🇮🇷 ([aliraza7926](https://github.com/aliraza7926))
+- Benjamin Sherman from the United States 🇺🇸([benjaminrsherman](https://gitlab.com/benjaminrsherman))
