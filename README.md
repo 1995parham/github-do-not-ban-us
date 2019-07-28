@@ -13,7 +13,7 @@ Tip: You can use [this extension](https://github.com/JafarAkhondali/remove-githu
 
 GitHub used to be an open and free platform for everyone, but it has decided to restrict Iranian accounts from contributing and being part of the open-source ecosystem. Although we understand GitHub might make this decision under the pressure of US government, we were expecting more respectful action from GitHub.
 
-1. GitHub restricted our access to private repositories suddenly, but at very least we wanted GitHub to warn us before limiting our access.
+1. Github restricted our access to private repositories suddenly, but at very least we wanted Github to warn us before limiting our access.
 
 2. GitHub's team decided to take one step further and restrict us **based on our Nationality** no matter where we are living, while they were able to just restrict our IP addresses like other US-based companies.
 
@@ -86,6 +86,7 @@ You can:
 
 ## Supporters
 
+- Hamed Hajiloo from Iran 🇮🇹 ([HamedHajiloo](https://github.com/hamedhajiloo))
 - Wilson Flores [wilsson](https://github.com/wilsson) from 🇵🇪
 - Marco Aceti from Italy 🇮🇹 ([MarcoBuster](https://github.com/MarcoBuster))
 - Daniil Gentili from Italy and Russia 🇮🇹 🇷🇺 ([danog](https://github.com/danog))
@@ -385,13 +386,15 @@ You can:
 - Daniel Kvasnicka from Czechia and the United States 🇨🇿 🇺🇸 ([dkvasnicka](https://github.com/dkvasnicka))
 - Ahmad Habannakeh from Syria 🇸🇾 (https://github.com/abnud1)
 - Mohammad Mahdi Rostamzadeh from Iran 🇮🇷 ([favecode](https://github.com/favecode))
+- Lewis Conroy from Scotlabd ([Lewis Conroy](https://github.com/captainkinney))
+- jkmpariab from iran 🇮🇷 ([jkmpariab](https://github.com/jkmpariab))
 - Jordan Hart from the United States 🇺🇸 ([jordanhart](https://github.com/jordanhart))
 - Mohsen Khanpour from Iran  🇮🇷 ([mohsenkhanpour](https://github.com/mohsenkhanpour))
-- Lewis Conroy from Scotland ([Lewis Conroy](https://github.com/captainkinney))
 - Nima Amiri from Iran 🇮🇷 ([Nimak](https://github.com/arc92))
 - Tyler from the United States 🇺🇸 ([arctair](https://github.com/arctair))
 - Andreas Basurto from the United States 🇺🇸 ([nitrohorse](https://github.com/nitrohorse))
 - MohammadHossein Bagheri from Iran 🇮🇷 ([PyBagheri](https://github.com/PyBagheri))
+- Amir M. Joshaghani from 🇮🇷 ([AMJoshaghani](https://github.com/amjoshaghani))
 - Isabelle L. from the United States 🇺🇸 ([ilsko](https://github.com/ilsko))
 - Mavromatakis Dimitris from Greece 🇬🇷 ([damavrom](https://gitlab.com/damavrom))
 - Piotr Kazimierski from Poland 🇵🇱 ([inquis1t0r](https://github.com/Inquis1t0r/))
@@ -409,7 +412,7 @@ You can:
 - James from China 🇨🇳 ([jamesyangget](https://github.com/jamesyangget))
 - Mohammad Zare Moghadam 🇮🇷 ([thisismzm](https://github.com/thisismzm))
 - Eli Bierman from the United States 🇺🇸 ([edbedbe](https://github.com/edbedbe))
-- Ali Tabatabaei from Iran 🇮🇷 ([AliTabatabaeiAT]https://github.com/alitabatabaeiat)
+- Ali Tabatabaei from Iran 🇮🇷 ([AliTabatabaeiAT](https://github.com/alitabatabaeiat))
 - Liam Kenneth from England ([Liam Kenneth](https://github.com/LiamKenneth))
 - Aiden Wallis from the United Kingdom ([AidenWallis](https://github.com/AidenWallis))
 - Amine Mouafik from Thailand 🇹🇭 ([kytwb](https://github.com/kytwb))
@@ -440,3 +443,7 @@ You can:
 - Serene Husni from Jordan and Canada 🇯🇴 🇨🇦
 - fugio from armenia 🇦🇲 ([fugio](https://github.com/fugio))
 - Vimiix Yao from China 🇨🇳 ([vimiix](https://github.com/vimiix))
+- Ali Ranjbarzadeh from Iran (https://github.com/AliRanjbarzadeh)
+- Mehdi Dehghani from Iran ([dehghani-mehdi](https://github.com/dehghani-mehdi))
+- Jennifer Shehane from United States 🇺🇸  ([jennifer-shehane](https://github.com/jennifer-shehane))
+- Daniel Lalasa ([daniellalasa2](https://github.com/daniellalasa2))
