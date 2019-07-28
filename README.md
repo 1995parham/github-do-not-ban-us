@@ -75,7 +75,7 @@ You can:
 - [محدود شدن اکانت های ایرانی‌ها روی گیت هاب](https://jadi.net/2019/07/github-sanctions)
 - [GitHub blocked my account and they think I’m developing nuclear weapons](https://medium.com/@hamed/github-blocked-my-account-and-they-think-im-developing-nuclear-weapons-e7e1fe62cb74)
 - [Yellow badges are back. This time not by Nazi Germany & not for Jews, but by U.S. tech companies](https://medium.com/@hamed/yellow-badges-are-back-this-time-not-by-nazi-germany-not-for-jews-but-by-u-s-tech-companies-48e92d690176)
-
+- [Github: The largest developer communities from every corner of the globe, But Iran!](https://medium.com/@khalesic/github-the-largest-developer-communities-from-every-corner-of-the-globe-but-iran-804c05a991df)
 ## On Social Networks
 
 - [GitHub banned all Iranian users.](https://www.reddit.com/r/programming/comments/ciey8g/github_banned_all_iranian_users_our_accounts_are/) on Reddit
@@ -83,11 +83,10 @@ You can:
 - [Hamed Saeedi: Today @github blocked my access](https://twitter.com/Hamed/status/1154268514074660864?s=19) on Twitter
 - [Behdad Esfahbod: So, recently @github has started disabling accounts of Iranian developers](https://twitter.com/behdadesfahbod/status/1154755351092158465?s=19) on Twitter
 - [Nuxt.js: Our core team member @_pi0_ cannot access our private repositories anymore on @github because of US Sanctions...](https://t.co/4FiLexH9Mf) on Twitter
-- [Conner Orth](https://twitter.com/conner_orth/status/1154723522729709568) on Twitter
-- [Nat Friedman](https://twitter.com/natfriedman/status/1155311121038864384) on Twitter
-- [Pooya Eimandar](https://twitter.com/_poei/status/1154994262884454400) on Twitter
-- [Pooya Eimandar](https://www.reddit.com/r/github/comments/cirde7/ive_been_paid_github_for_more_than_three_years/?st=jympkq19&sh=df5e5410) on Reddit
-- [Sana Khalesi](https://medium.com/@khalesic/github-the-largest-developer-communities-from-every-corner-of-the-globe-but-iran-804c05a991df) on Medium
+- [Conner Orth:Shout out for this terribly sad turn of events for our fellow Iranian developers.](https://twitter.com/conner_orth/status/1154723522729709568) on Twitter
+- [Nat Friedman:We're not doing this because we want to; we're doing it because we have to.](https://twitter.com/natfriedman/status/1155311121038864384) on Twitter
+- [Pooya Eimandar:@github disabled my repos without prior notice.](https://twitter.com/_poei/status/1154994262884454400) on Twitter
+- [Pooya Eimandar:I've been paid github for more than three years and now I can't even export my repos because of my nationality. ](https://www.reddit.com/r/github/comments/cirde7/ive_been_paid_github_for_more_than_three_years/?st=jympkq19&sh=df5e5410) on Reddit
 
 ## News
 
