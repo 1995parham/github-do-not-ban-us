@@ -444,4 +444,5 @@ You can:
 - fugio from armenia 🇦🇲 ([fugio](https://github.com/fugio))
 - Ali Ranjbarzadeh from Iran (https://github.com/AliRanjbarzadeh)
 - Mehdi Dehghani from Iran ([dehghani-mehdi](https://github.com/dehghani-mehdi))
+- Jennifer Shehane from United States 🇺🇸  ([jennifer-shehane](https://github.com/jennifer-shehane))
 - Daniel Lalasa ([daniellalasa2](https://github.com/daniellalasa2))
