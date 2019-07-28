@@ -92,6 +92,7 @@ You can:
 
 ## Supporters
 
+- Marwen from Germany 🇩🇪 ([mtrabelsi](https://github.com/mtrabelsi))
 - MohamadKh75 from Iran 🇮🇷 ([MohamadKh75](https://github.com/MohamadKh75))
 - Amir Masud Zare Bidaki from Iran 🇮🇷 ([amirmasud](https://github.com/amirmasud))
 - Hamed Hajiloo from Iran 🇮🇷 ([HamedHajiloo](https://github.com/hamedhajiloo))
@@ -126,6 +127,7 @@ You can:
 - Alireza Mahmoudian from Iran 🇮🇷 ([BelegCuthalion](https://github.com/BelegCuthalion))
 - Amirhossein Yaghoobi from Iran 🇮🇷 ([amir-yaghoobi](https://github.com/amir-yaghoobi))
 - Marjan Jangholi from Iran 🇮🇷 ([jangholi](https://github.com/jangholi))
+- Romain from France 🇫🇷 ([maoschanz](https://github.com/maoschanz))
 - Hussein Habibi Juybari from Iran 🇮🇷 ([husseinhj](https://github.com/Husseinhj))
 - Mahdi Ghiasi from Iran 🇮🇷 ([MahdiGhiasi](https://github.com/MahdiGhiasi))
 - Ali Tavalaie from Iran 🇮🇷 ([tavallaie](https://github.com/tavallaie))
@@ -261,9 +263,11 @@ You can:
 - Yhlben from China 🇨🇳 ([yhlben](https://github.com/yhlben))
 - Abdus from India 🇮🇳 ([thisisabdus](https://github.com/thisosabdus))
 - Ali Bakhtiar from Iran 🇮🇷 ([alibakhtiar](https://github.com/alibakhtiar))
+
 - Abdus from India 🇮🇳 ([thisisabdus](https://github.com/thisosabdus))
 - Mohammad Alijani from Iran 🇮🇷 ([virtualdemon](https://github.com/virtualdemon))
 - Laster K. from UK 🇬🇧 ([lazerl0rd](https://github.com/lazerl0rd))
+- Ali Nasir from Iran 🇮🇷 ([Ali Nasir](https://github.com/Ali-Nasir-01))
 - Erfan Mahdavi form Iran 🇮🇷 ([erfanwd](https://github.com/erfanwd))
 - Mohsen Darestani Farahani from Iran 🇮🇷 ([8lueMeth](https://github.com/8luemeth))
 - Amirerfanr Rafati from Iran 🇮🇷 ([erfanr](https://github.com/erfanr))
@@ -539,3 +543,8 @@ You can:
 - Ako Salman from Iran 🇮🇷 ([Ako](https://github.com/akoSalman))
 - Atakan Ermiş from Turkey 🇹🇷 ([AtakanErmis](https://github.com/AtakanErmis))
 - ItsWajdy from Syria 🇸🇾 ([ItsWajdy] (https://github.com/ItsWajdy))
+- Emilbek Sulaymanov from Kyrgyzstan 🇰🇬 ([emli](https://github.com/emli))
+- Darrien Glasser from United States 🇺🇸 ([DarrienG](github.com/DarrienG))
+- Johannes Sandjaja from Indonesia 🇮🇩 ([pussio](https://github.com/pussio))
+- ri7nz from Indonesia 🇮🇩 ([ri7nz](https://github.com/ri7nz))
+- Joshua Morrison from the United States 🇺🇸 ([MrM21632](https://github.com/MrM21632))
