@@ -536,4 +536,5 @@ You can:
 - Pooya Barati from Iran 🇮🇷 ([pooyabarati](https://github.com/pooyabarati))
 - Rogério dos Santos Fernandes 🇧🇷 ([spartanroger](https://github.com/spartanroger))
 - Tim Visée from the Netherlands 🇳🇱 ([timvisee](https://github.com/timvisee))
-- Leonard Ginters from the Germany 🇩🇪 ([l2ig](https://github.com/l2ig))
+- Ako Salman from Iran 🇮🇷 ([Ako](https://github.com/akoSalman))
+- Leonard Ginters from Germany 🇩🇪 ([l2ig](https://github.com/l2ig))
