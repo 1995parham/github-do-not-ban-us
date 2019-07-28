@@ -596,3 +596,4 @@ You can:
 - DOBRO from Russia 🇷🇺 ([DOBRO](https://github.com/DOBRO))
 - Gilberto dos Santos Agostinho Filho from Brazil 🇧🇷 ([gilbertohasnofb](https://github.com/gilbertohasnofb))
 - Nobel from Nepal 🇳🇵 ([Coderkoala](https://github.com/coderkoala))
+- higoka from Switzerland 🇨🇭 ([higoka](https://github.com/higoka))
