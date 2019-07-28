@@ -398,6 +398,8 @@ You can:
 - Matthew Parnell ([GitLab](https://gitlab.com/parnmatt), [parnmatt GitHub](https://github.com/parnmatt))
 - Liam ([Xerbo](https://github.com/Xerbo))
 - Angus L. Fraser
+- Liam Kenneth ([Liam Kenneth](https://github.com/LiamKenneth))
+- Aiden Wallis ([AidenWallis](https://github.com/AidenWallis))
 
 ### Germany 🇩🇪
 - Jérôme Gamez ([jeromegamez](https://github.com/jeromegamez))
@@ -553,8 +555,6 @@ You can:
 - Md Narimani ([mnarimani](https://github.com/mnarimani))
 - Daniel Kvasnicka from Czechia and the United States 🇨🇿 🇺🇸 ([dkvasnicka](https://github.com/dkvasnicka))
 - Lewis Conroy from Scotlabd ([Lewis Conroy](https://github.com/captainkinney))
-- Liam Kenneth from England ([Liam Kenneth](https://github.com/LiamKenneth))
-- Aiden Wallis from the United Kingdom ([AidenWallis](https://github.com/AidenWallis))
 - Lokimonoton from Indonesia 🇮🇩 ([lokimonoton](https://github.com/lokimonoton))
 - Madiodio Gaye from Senegal 🇸🇳 ([madiodio](https://github.com/madiodio))
 - Serene Husni from Jordan and Canada 🇯🇴 🇨🇦
