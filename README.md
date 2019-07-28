@@ -445,5 +445,6 @@ You can:
 - Vimiix Yao from China 🇨🇳 ([vimiix](https://github.com/vimiix))
 - Ali Ranjbarzadeh from Iran (https://github.com/AliRanjbarzadeh)
 - Mehdi Dehghani from Iran ([dehghani-mehdi](https://github.com/dehghani-mehdi))
+- Ahmad Aghazadeh from Iran ([ahmadaghazadeh](https://github.com/ahmadaghazadeh))
 - Jennifer Shehane from United States 🇺🇸  ([jennifer-shehane](https://github.com/jennifer-shehane))
 - Daniel Lalasa ([daniellalasa2](https://github.com/daniellalasa2))
