@@ -553,6 +553,7 @@ You can:
 - Johannes Sandjaja from Indonesia 🇮🇩 ([pussio](https://github.com/pussio))
 - ri7nz from Indonesia 🇮🇩 ([ri7nz](https://github.com/ri7nz))
 - Joshua Morrison from the United States 🇺🇸 ([MrM21632](https://github.com/MrM21632))
+- Chatchai Saratakij from Thailand 🇹🇭 ([CSaratakij](https://github.com/CSaratakij))
 - Yağızhan Burak Yakar from Turkey 🇹🇷 ([yagizhan49](https://github.com/yagizhan49))
 - Parsa Samadnejad from Iran 🇮🇷 ([TroddenSpade](https://github.com/troddenspade))
 - Jingping Fang from China 🇨🇳 ([Codesman.fang](https://github.com/fangjingping))
