@@ -410,4 +410,4 @@ You can:
 - AliReza Sadeghi from Iran 🇮🇷 ([aliraza7926](https://github.com/aliraza7926))
 - Benjamin Sherman from the United States 🇺🇸([benjaminrsherman](https://gitlab.com/benjaminrsherman))
 - Elan Bustos from the United States 🇺🇸([elanlb](https://github.com/elanlb))
-- Eltrac from China 🇨🇳 ([cireu](https://github.com/BigCoke233))
+- Eltrac from China 🇨🇳 ([BigCoke233](https://github.com/BigCoke233))
