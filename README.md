@@ -86,6 +86,10 @@ You can:
   
 - [Conner Orth](https://twitter.com/conner_orth/status/1154723522729709568) on Twitter
 
+## News
+
+- [Github allow us to make our private repositories, public](https://github.com/1995parham/github-do-not-ban-us/issues/666)
+
 ## Supporters
 
 - Hamed Hajiloo from Iran 🇮🇹 ([HamedHajiloo](https://github.com/hamedhajiloo))
