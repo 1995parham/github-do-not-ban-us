@@ -5,6 +5,7 @@ English | [简体中文](./README-CN.md) | [Español ](./README-ES.md) | [Ελλ
 ![alt text](./message.png)
 
 ~~**Tip:** You can use [this extension](https://github.com/JafarAkhondali/remove-github-restrictions-message) or [this extension](https://github.com/MohamadKh75/ShutHub) or [this tampermonkey script](https://gist.github.com/HirbodBehnam/2e079e187be0b1b6a6bcb734ed88474e) or [Stylish](https://userstyles.org/styles/173827/hide-github-warning) to hide this yellow box!~~
+
 **UPDATE:** The warning message is dissmissable now.
 
 ![github-octocat](https://user-images.githubusercontent.com/16706911/61997137-7aa7df00-b0b2-11e9-97f1-f452855fe21c.png)
@@ -44,6 +45,7 @@ Some examples of open-source projects created by Iranian developers:
 - https://github.com/nuxt/nuxt.js
 - https://github.com/bootstrap-vue/bootstrap-vue
 - https://github.com/wolfengine/wolf.engine
+- https://github.com/MohamadKh75/react-navigation-transition-config
 
 You can find the full list [here](https://github.com/mohebifar/made-in-iran).
 
@@ -90,6 +92,7 @@ You can:
 
 ## Supporters
 
+- MohamadKh75 from Iran 🇮🇷 ([MohamadKh75](https://github.com/MohamadKh75))
 - Amir Masud Zare Bidaki from Iran 🇮🇷 ([amirmasud](https://github.com/amirmasud))
 - Hamed Hajiloo from Iran 🇮🇷 ([HamedHajiloo](https://github.com/hamedhajiloo))
 - Wilson Flores [wilsson](https://github.com/wilsson) from 🇵🇪
