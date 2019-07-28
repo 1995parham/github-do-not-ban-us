@@ -19,8 +19,8 @@ GitHub used to be an open and free platform for everyone, but it has decided to 
 
 Eventually, we are hoping that GitHub's team:
 
-- Let us download our private repositories and also make them public (setting control).
-  - **UPDATE:** It is possible now to make private repositories public.
+- Let us download our private repositories and gists and also make them public (setting control).
+  - **UPDATE:** It is possible now to make private repositories public, however this option is not available on private gists (containing IDE Setting Sync files etc.) yet.
 - Change their restriction policies to not limiting users based on their Nationality.
 - Announce their decision publicly and apologize for making this situation (like what slack did before in the same situation: https://slackhq.com/an-apology-and-an-update).
 
