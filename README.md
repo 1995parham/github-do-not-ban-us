@@ -393,6 +393,10 @@ You can:
 - Mavromatakis Dimitris from Greece 🇬🇷 ([damavrom](https://gitlab.com/damavrom))
 - Piotr Kazimierski from Poland 🇵🇱 ([inquis1t0r](https://github.com/Inquis1t0r/))
 - Ravi from India 🇮🇳 ([xolve](https://github.com/xolve))
+- Artur Kondas from Poland 🇵🇱 ([youshy](https://github.com/youshy)) 
+- James from China 🇨🇳 ([jamesyangget](https://github.com/jamesyangget))
+- Mohammad Zare Moghadam 🇮🇷 ([thisismzm](https://github.com/thisismzm))
+- Eli Bierman from the United States 🇺🇸 ([edbedbe](https://github.com/edbedbe))
 - Ali Tabatabaei from Iran 🇮🇷 ([AliTabatabaeiAT]https://github.com/alitabatabaeiat)
 - Liam Kenneth from England ([Liam Kenneth](https://github.com/LiamKenneth))
 - Aiden Wallis from the United Kingdom ([AidenWallis](https://github.com/AidenWallis))
@@ -419,3 +423,6 @@ You can:
 - Navid Khazaee form Iran 🇮🇷 ([nkhdiscovery](https://github.com/nkhdiscovery))
 - Elan Bustos from the United States 🇺🇸([elanlb](https://github.com/elanlb))
 - Mo Zargham from Canada 🇨🇦🇮🇷 ([Mozar10](https://github.com/Mozar10))
+- Eltrac from China 🇨🇳 ([BigCoke233](https://github.com/BigCoke233))
+- Pashootan Vaezipoor from Iran and Canada 🇮🇷 🇨🇦 ([CpHaddock](https://github.com/CpHaddock))
+- Serene Husni from Jordan and Canada 🇯🇴 🇨🇦
