@@ -552,3 +552,4 @@ You can:
 - ri7nz from Indonesia 🇮🇩 ([ri7nz](https://github.com/ri7nz))
 - Joshua Morrison from the United States 🇺🇸 ([MrM21632](https://github.com/MrM21632))
 - Yağızhan Burak Yakar from Turkey 🇹🇷 ([yagizhan49](https://github.com/yagizhan49))
+- Florian Wartner from Germany 🇩🇪 ([fwartner](https://github.com/fwartner))
