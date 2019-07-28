@@ -425,6 +425,11 @@ You can:
 - fredddie from Mexico 🇲🇽
 - Giovanni Nuño from Mexico 🇲🇽 ([gionuno](https://github.com/gionuno))
 
+### Brazil
+- Mateus Gabi Moreira from Brazil 🇧🇷 ([mateusgabi](https://github.com/mateusgabi))
+- Matheus Graciano from Brazil 🇧🇷 ([graciano](https://github.com/graciano))
+- Lucas Bittencourt from Brazil 🇧🇷 ([lucasnaja](https://github.com/lucasnaja))
+
 - AbdElmomen Kadhim ([bluemix](https://github.com/bluemix))
 - Milad Nekofar ([nekofar](https://github.com/nekofar))
 - Nikan Dalvand ([nikandlv](https://github.com/nikandlv))
@@ -432,8 +437,6 @@ You can:
 - Mohamad Fadavi ([fadavi](https://github.com/fadavi))
 - Karim Oulad Chalha from Morocco 🇲🇦 ([karim88](https://github.com/karim88/))
 - Sarah Akhavan Kazemzadeh ([sarahakhavan](https://github.com/sarahakhavan))
-- Mateus Gabi Moreira from Brazil 🇧🇷 ([mateusgabi](https://github.com/mateusgabi))
-- Matheus Graciano from Brazil 🇧🇷 ([graciano](https://github.com/graciano))
 - Mehmet Alp Turkey ([mehmetakifalp](https://github.com/mehmetakifalp))
 - Haider Ali Punjabi ([haideralipunjabi](https://github.com/haideralipunjabi))
 - Davyd McColl from South Africa 🇿🇦 ([fluffynuts](https://github.com/fluffynuts))
@@ -494,7 +497,6 @@ You can:
 - Amine Mouafik from Thailand 🇹🇭 ([kytwb](https://github.com/kytwb))
 - Gerasimos Maropoulos from Greece 🇬🇷 ([kataras](https://github.com/kataras))
 - f-person from Armenia 🇦🇲 ([f-person](https://github.com/f-person))
-- Lucas Bittencourt from Brazil 🇧🇷 ([lucasnaja](https://github.com/lucasnaja))
 - Lokimonoton from Indonesia 🇮🇩 ([lokimonoton](https://github.com/lokimonoton))
 - Sivuyile Magutywa from South Africa 🇿🇦
 - Madiodio Gaye from Senegal 🇸🇳 ([madiodio](https://github.com/madiodio))
