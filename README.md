@@ -1,6 +1,6 @@
 # A Message to GitHub
 
-English | [简体中文](./README-CN.md) | [Español](./README-ES.md) | [Ελληνικά](./README-GR.md) | [Italiano](./README-IT.md) | [Русский](./README-RU.md) | [فارسی](./README-PER.md) | [Française](./README-FR.md) | [Deutsch](./README-DE.md)
+English | [简体中文](./README-CN.md) | [Español ](./README-ES.md) | [Ελληνικά](./README-GR.md) | [Italiano](./README-IT.md) | [Русский](./README-RU.md) | [فارسی](./README-PER.md) | [Française ](./README-FR.md) | [Deutsch](./README-DE.md) | [Հայերէն](./README-HY.md)
 
 ![alt text](./message.png)
 
@@ -394,6 +394,7 @@ You can:
 - Mavromatakis Dimitris from Greece 🇬🇷 ([damavrom](https://gitlab.com/damavrom))
 - Piotr Kazimierski from Poland 🇵🇱 ([inquis1t0r](https://github.com/Inquis1t0r/))
 - Ravi from India 🇮🇳 ([xolve](https://github.com/xolve))
+<<<<<<< HEAD
 - Bishoy Melek from Egypt 🇪🇬 ([bishoymelek](https://github.com/bishoymelek))
 - Duong Nguyen from Vietnam 🇻🇳 ([you-create](https://github.com/you-create))
 - Artur Kondas from Poland 🇵🇱 ([youshy](https://github.com/youshy)) 
@@ -429,3 +430,6 @@ You can:
 - Eltrac from China 🇨🇳 ([BigCoke233](https://github.com/BigCoke233))
 - Pashootan Vaezipoor from Iran and Canada 🇮🇷 🇨🇦 ([CpHaddock](https://github.com/CpHaddock))
 - Serene Husni from Jordan and Canada 🇯🇴 🇨🇦
+=======
+- fugio from armenia 🇦🇲 ([fugio](https://github.com/fugio))
+>>>>>>> b59f92b67c2eb53a7e905cab562710a5d79a7ff2
