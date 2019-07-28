@@ -48,7 +48,6 @@ Some examples of open-source projects created by Iranian developers:
 - [@wolfengine](https://github.com/wolfengine)/[**wolf.engine**](https://github.com/wolfengine/wolf.engine)
 - [@soroushchehresa](https://github.com/soroushchehresa)/[**vue-soundcloud**](https://github.com/soroushchehresa/vue-soundcloud)
 - [@soroushchehresa](https://github.com/soroushchehresa)/[**unsplash-wallpapers**](https://github.com/soroushchehresa/unsplash-wallpapers)
-- [@MohamadKh75](https://github.com/MohamadKh75)/[**react-navigation-transition-config**](https://github.com/MohamadKh75/react-navigation-transition-config)
 
 You can find the full list [here](https://github.com/mohebifar/made-in-iran).
 
