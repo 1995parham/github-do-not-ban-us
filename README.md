@@ -537,3 +537,4 @@ You can:
 - Rogério dos Santos Fernandes 🇧🇷 ([spartanroger](https://github.com/spartanroger))
 - Tim Visée from the Netherlands 🇳🇱 ([timvisee](https://github.com/timvisee))
 - Ako Salman from Iran 🇮🇷 ([Ako](https://github.com/akoSalman))
+- DEADBLACKCLOVER from Russia 🇷🇺 ([deadblackclover](https://github.com/deadblackclover)
