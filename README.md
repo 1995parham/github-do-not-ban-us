@@ -69,7 +69,9 @@ You can:
 - [What is it like to be a dev in Iran](https://shahinsorkh.ir/2019/07/20/how-is-it-like-to-be-a-dev-in-iran)
 - [I am lucky, you are not](https://dev.to/jeromegamez/i-am-lucky-you-are-not-2eco)
 - [If You Don't Know, Now You Know - GitHub Is Restricting Access For Users From Iran And A Few Other Embargoed Countries](https://dev.to/mjraadi/if-you-don-t-know-now-you-know-github-is-restricting-access-for-users-from-iran-and-a-few-other-embargoed-countries-5ga9)
-- [محدود شدن اکانت های ایرانی‌ها روی گیت هاب](https://jadi.net/2019/07/github-sanctions) by [@jadijadi](http://github.com/jadijadi)
+- [محدود شدن اکانت های ایرانی‌ها روی گیت هاب](https://jadi.net/2019/07/github-sanctions)
+- [GitHub blocked my account and they think I’m developing nuclear weapons](https://medium.com/@hamed/github-blocked-my-account-and-they-think-im-developing-nuclear-weapons-e7e1fe62cb74)
+- [Yellow badges are back. This time not by Nazi Germany & not for Jews, but by U.S. tech companies](https://medium.com/@hamed/yellow-badges-are-back-this-time-not-by-nazi-germany-not-for-jews-but-by-u-s-tech-companies-48e92d690176)
 
 ## On Social Networks
 
