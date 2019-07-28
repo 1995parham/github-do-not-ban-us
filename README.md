@@ -1,6 +1,6 @@
 # A Message to Github
 
-English | [简体中文](./README-CN.md) | [Español ](./README-ES.md) | [Ελληνικά](./README-GR.md) | [Italiano](./README-IT.md) | [Русский](./README-RU.md) | [فارسی](./README-PER.md) | [Française ](./README-FR.md) | [Deutsch](./README-DE.md) | [Հայերէն](./README-HY.md) | [Српски](./README-SR.md)
+English | [简体中文](./README-CN.md) | [Español ](./README-ES.md) | [Ελληνικά](./README-GR.md) | [Italiano](./README-IT.md) | [Русский](./README-RU.md) | [فارسی](./README-PER.md) | [Française ](./README-FR.md) | [Deutsch](./README-DE.md) | [Հայերէն](./README-HY.md) | [Српски](./README-SR.md) | [العربية](./README-AR.md)
 
 ![alt text](./message.png)
 
@@ -20,8 +20,8 @@ GitHub used to be an open and free platform for everyone, but it has decided to 
 
 Eventually, we are hoping that GitHub's team:
 
-- Let us download our private repositories and also make them public (setting control).
-  - **UPDATE:** It is possible now to make private repositories public.
+- Let us download our private repositories and gists and also make them public (setting control).
+  - **UPDATE:** It is possible now to make private repositories public, however this option is not available on private gists (containing IDE Setting Sync files etc.) yet.
 - Change their restriction policies to not limiting users based on their Nationality.
 - Announce their decision publicly and apologize for making this situation (like what slack did before in the same situation: https://slackhq.com/an-apology-and-an-update).
 
@@ -512,3 +512,13 @@ You can:
 - Shayan Karami from Iran 🇮🇷 ([Shayank](https://github.com/Shayank))
 - Milad GanjAli from Iran 🇮🇷 ([miladganjali](https://github.com/miladganjali))
 - Ali Madihi from Iran 🇮🇷 ([mrunderline](https://github.com/mrunderline))
+- Parsa Torbati from Iran 🇮🇷 ([poyynt](https://github.com/poyynt))
+- Céleste Cinti from France 🇫🇷 ([Leytere](https://github.com/Leytere))
+- Amir Habibzadeh from Iran 🇮🇷 ([amirhabibzadeh](https://github.com/amirhabibzadeh))
+- Mahdi Razavi from Iran 🇮🇷 ([m-razavi](https://github.com/m-razavi))
+- Bofei Wang China 🇨🇳 ([bofeiw](https://github.com/bofeiw))
+- Ali Joghataei from Iran 🇮🇷 ([ali-joghataei](https://github.com/ali-joghataei))
+- Saeed Bibak from Iran 🇮🇷 ([saeedbibak](https://github.com/saeedbibak))
+- Kevin Pennarun from France 🇫🇷 ([kepennar](https://github.com/kepennar))
+- Kizito Akhilome from Nigeria 🇳🇬 ([akhilome](https://github.com/akhilome))
+- Arman Safikhani from Iran 🇮🇷 ([Arman92](https://github.com/arman92))
