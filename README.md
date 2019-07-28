@@ -465,4 +465,5 @@ You can:
 - Seyed Hossein (sedhossein) Hosseini from Iran 🇮🇷 ([sedhossein](https://github.com/sedhossein))
 - Robert de Bock from The Netherlands 🇳🇱 ([robertdebock](https://github.com/robertdebock))
 - Alireza Zolanvari from Iran 🇮🇷 ([alirezazolanvari](https://github.com/alirezazolanvari))
-- Babak K. Shandiz from Iran 🇮🇷 ([babakks](https://github.com/babakks)
+- Babak K. Shandiz from Iran 🇮🇷 ([babakks](https://github.com/babakks))
+- Pooya Parsa from Iran 🇮🇷 ([pi0](https://github.com/pi0))
