@@ -81,8 +81,8 @@ You can:
 - [Conner Orth](https://twitter.com/conner_orth/status/1154723522729709568) on Twitter
 - [Nat Friedman](https://twitter.com/natfriedman/status/1155311121038864384) on Twitter
 - [Pooya Eimandar](https://twitter.com/_poei/status/1154994262884454400) on Twitter
-- [Pooya Eimandar](https://www.reddit.com/r/github/comments/cirde7/ive_been_paid_github_for_more_than_three_years/?st=jympkq19&sh=df5e5410) on Reddit 
-- [Sana Khalesi](https://medium.com/@khalesic/github-the-largest-developer-communities-from-every-corner-of-the-globe-but-iran-804c05a991df) on Medium 
+- [Pooya Eimandar](https://www.reddit.com/r/github/comments/cirde7/ive_been_paid_github_for_more_than_three_years/?st=jympkq19&sh=df5e5410) on Reddit
+- [Sana Khalesi](https://medium.com/@khalesic/github-the-largest-developer-communities-from-every-corner-of-the-globe-but-iran-804c05a991df) on Medium
 
 ## News
 
@@ -527,3 +527,4 @@ You can:
 - Kizito Akhilome from Nigeria 🇳🇬 ([akhilome](https://github.com/akhilome))
 - Arman Safikhani from Iran 🇮🇷 ([Arman92](https://github.com/arman92))
 - Pooya Barati from Iran 🇮🇷 ([pooyabarati](https://github.com/pooyabarati))
+- Simon Tas from Belgium 🇧🇪 ([nomis6432](https://github.com/nomis6432))
