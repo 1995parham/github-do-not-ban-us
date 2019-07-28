@@ -1,10 +1,12 @@
 # 给 GitHub 的一封信
 
-[English](./README.md) | 简体中文 | [Spanish](./README-ES.md) | [Italiano](./README-IT.md) | [Русский](./README-RU.md) | [Deutsch](./README-DE.md)
+[English](./README.md) | 简体中文 | [Español](./README-ES.md) | [Ελληνικά](./README-GR.md) | [Italiano](./README-IT.md) | [Русский](./README-RU.md) | [فارسی](./README-PER.md) | [Française](./README-FR.MD) | [Deutsch](./README-DE.md)
 
 ![alt text](./message.png)
 
 提示: 你可以使用 [这个拓展](https://github.com/MohamadKh75/ShutHub) 来隐藏这个提醒
+
+![github-octocat](https://user-images.githubusercontent.com/16706911/61997137-7aa7df00-b0b2-11e9-97f1-f452855fe21c.png)
 
 ## 介绍
 

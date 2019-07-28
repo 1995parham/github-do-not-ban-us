@@ -1,0 +1,10 @@
+#!/usr/bin/env python
+# GitHub is for everyone | Amir M. Joshaghani
+class Main:
+    def __init__(self):
+        self.text = "GitHub is for everyone"
+    def run(self):
+        return self.text
+
+if __name__ == "__main__":
+    Main().run()
