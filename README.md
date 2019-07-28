@@ -398,13 +398,22 @@ You can:
 - Liam ([Xerbo](https://github.com/Xerbo))
 - Angus L. Fraser
 
+### Germany 🇩🇪
+- Jérôme Gamez ([jeromegamez](https://github.com/jeromegamez))
+- Jan Krüger ([waterfl0w](https://github.com/waterfl0w))
+- Morteza Nokhodian ([nokhodian](https://github.com/nokhodian))
+- twofist ([twofist](https://github.com/twofist))
+- Jonas Gierer ([jgierer12](https://github.com/jgierer12))
+- Axel Rindle ([axelrindle](https://github.com/axelrindle))
+- tipok ([tipok](https://github.com/tipok))
+- Tobias aka. TheDevMinerTV ([TheDevMinerTV](https://github.com/TheDevMinerTV/))
+
 - Alexander Shelepenok from Belarus 🇧🇾
 - Benjamin Hogué from Guadeloupe 🇬🇵
 - fredddie from Mexico 🇲🇽
 - AbdElmomen Kadhim ([bluemix](https://github.com/bluemix))
 - Milad Nekofar ([nekofar](https://github.com/nekofar))
 - Nikan Dalvand ([nikandlv](https://github.com/nikandlv))
-- Jérôme Gamez from Germany 🇩🇪 ([jeromegamez](https://github.com/jeromegamez))
 - Max Base ([BaseMax](https://github.com/BaseMax))
 - Mohamad Fadavi ([fadavi](https://github.com/fadavi))
 - Karim Oulad Chalha from Morocco 🇲🇦 ([karim88](https://github.com/karim88/))
@@ -422,20 +431,15 @@ You can:
 - Abdus from India 🇮🇳 ([thisisabdus](https://github.com/thisosabdus))
 - Abdus from India 🇮🇳 ([thisisabdus](https://github.com/thisosabdus))
 - Vaibhav Khulbe from India 🇮🇳 ([Kvaibhav01](https://github.com/Kvaibhav01))
-- Jan Krüger from Germany 🇩🇪 ([waterfl0w](https://github.com/waterfl0w))
 - Cosmin-Petru Nechifor from Romania 🇷🇴 ([cosminnechifor](https://github.com/CosminNechifor/))
 - Mindaugas Vaitiekūnas from Lithuania 🇱🇹 ([mindaugasw](https://github.com/mindaugasw))
 - Fırat Eşki from Turkey 🇹🇷 ([firateski](https://github.com/firateski))
-- Morteza Nokhodian from Germany 🇩🇪 ([nokhodian](https://github.com/nokhodian))
 - Anand Chowdhary from India and Netherlands 🇮🇳 🇳🇱 ([AnandChowdhary](https://github.com/AnandChowdhary))
-- twofist from Germany 🇩🇪 ([twofist](https://github.com/twofist))
 - b1sergiu from Romania 🇷🇴 ([b1sergiu](https://github.com/b1sergiu/))
 - Andrii Kovalchuk from Ukraine 🇺🇦 ([tieorange](https://github.com/tieorange/))
 - Saleh from Saudi Arabia 🇸🇦 ([qirh](https://github.com/qirh/))
 - Ru Chern Chong from Singapore 🇸🇬 ([ruchern](https://github.com/ruchern))
-- Jonas Gierer from Germany 🇩🇪 ([jgierer12](https://github.com/jgierer12))
 - Daniel Caldas from Portugal 🇵🇹 ([danielcaldas](https://github.com/danielcaldas))
-- Axel Rindle from Germany 🇩🇪 ([axelrindle](https://github.com/axelrindle))
 - Nabil Tharwat from Egypt 🇪🇬 ([KL13NT](https://github.com/KL13NT))
 - Mrloder from Spain 🇪🇸
 - Houari ZEGAI from Algeria 🇩🇿 [HouariZegai](https://github.com/HouariZegai)
@@ -453,7 +457,6 @@ You can:
 - Faiyaz Shaikh from India 🇮🇳 ([Faiyaz Shaikh](https://github.com/yTakkar))
 - Adaobi Frank from Nigeria 🇳🇬 ([droidada](https://github.com/droidada))
 - Abdelhak Bougouffa from Algeria 🇩🇿 ([abougouffa](https://abougouffa.github.io))
-- tipok from Germany 🇩🇪 ([tipok](https://github.com/tipok))
 - Shreyas Minocha from India 🇮🇳 ([shreyasminocha](ahttps://github.com/shreyasminoch))
 - Md Narimani ([mnarimani](https://github.com/mnarimani))
 - Alejandro González-Pérez from Spain 🇪🇸 ([algope](https://github.com/algope))
@@ -461,7 +464,6 @@ You can:
 - Dharani Akurathi from India ([Dharni0607](https://github.com/Dharni0607))
 - Samundra Khatri from Nepal 🇳🇵 ([samundrak](https://github.com/samundrak))
 - Ajithkumar from India 🇮🇳 ([ajithkumarsekar](https://github.com/Ajithkumarsekar))
-- Tobias aka. TheDevMinerTV from Germany 🇩🇪 ([TheDevMinerTV](https://github.com/TheDevMinerTV/))
 - Muhammad Yaseen from Pakistan 🇵🇰 ([Yaseen](https://github.com/muhammadyaseen))
 - Francisco Sánchez from Chile 🇨🇱 ([fransafu](https://github.com/fransafu/))
 - Karol Kulik from Poland 🇵🇱 ([MrK191](https://github.com/MrK191))
