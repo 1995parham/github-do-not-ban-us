@@ -5,7 +5,8 @@ English | [简体中文](./README-CN.md) | [Español ](./README-ES.md) | [Ελλ
 
 ![alt text](./message.png)
 
-Tip: You can use [this extension](https://github.com/JafarAkhondali/remove-github-restrictions-message) or [this extension](https://github.com/MohamadKh75/ShutHub) or [this Tampermonkey script](https://gist.github.com/HirbodBehnam/2e079e187be0b1b6a6bcb734ed88474e) to hide this yellow box!
+~~**Tip:** You can use [this extension](https://github.com/JafarAkhondali/remove-github-restrictions-message) or [this extension](https://github.com/MohamadKh75/ShutHub) or [this tampermonkey script](https://gist.github.com/HirbodBehnam/2e079e187be0b1b6a6bcb734ed88474e) or [Stylish](https://userstyles.org/styles/173827/hide-github-warning) to hide this yellow box!~~  
+**UPDATE:** The warning message is dissmissable now.
 
 ![github-octocat](https://user-images.githubusercontent.com/16706911/61997137-7aa7df00-b0b2-11e9-97f1-f452855fe21c.png)
 
@@ -19,39 +20,30 @@ GitHub used to be an open and free platform for everyone, but it has decided to 
 
 Eventually, we are hoping that GitHub's team:
 
-- let us download our private repositories and also make them public (setting control).
-- change their restriction policies to not limiting users based on their Nationality.
-- announce their decision publicly and apologize for making this situation (like what slack did before in the same situation: https://slackhq.com/an-apology-and-an-update).
+- Let us download our private repositories and also make them public (setting control).
+   - **UPDATE:** It is possible now to make private repositories public.
+- Change their restriction policies to not limiting users based on their Nationality.
+- Cnnounce their decision publicly and apologize for making this situation (like what slack did before in the same situation: https://slackhq.com/an-apology-and-an-update).
 
 ## Open-source projects made by Iranian developers
 
 Some examples of open-source projects created by Iranian developers:
 
-https://github.com/harfbuzz
-
-https://github.com/usablica/intro.js
-
-https://github.com/lebab/lebab
-
-https://github.com/saeedalipoor/icono
-
-https://github.com/morteza/bootstrap-rtl
-
-https://github.com/ilius/pyglossary
-
-https://github.com/TheSNAKY/Lives
-
-https://github.com/sasanrose/phpredmin
-
-https://github.com/ahmdrz/goinsta
-
-https://github.com/persepolisdm/persepolis
-
-https://github.com/sepandhaghighi/pycm
-
-https://github.com/sepandhaghighi/art
-
-https://github.com/imaNNeoFighT/fl_chart
+- https://github.com/harfbuzz
+- https://github.com/usablica/intro.js
+- https://github.com/lebab/lebab
+- https://github.com/saeedalipoor/icono
+- https://github.com/morteza/bootstrap-rtl
+- https://github.com/ilius/pyglossary
+- https://github.com/TheSNAKY/Lives
+- https://github.com/sasanrose/phpredmin
+- https://github.com/ahmdrz/goinsta
+- https://github.com/persepolisdm/persepolis
+- https://github.com/sepandhaghighi/pycm
+- https://github.com/sepandhaghighi/art
+- https://github.com/imaNNeoFighT/fl_chart
+- https://github.com/nuxt/nuxt.js
+- https://github.com/bootstrap-vue/bootstrap-vue
 
 You can find the full list [here](https://github.com/mohebifar/made-in-iran).
 
@@ -83,8 +75,8 @@ You can:
 - [Behdad Esfahbod: So, recently @github has started disabling accounts of Iranian developers](https://twitter.com/behdadesfahbod/status/1154755351092158465?s=19) on Twitter
 - [Nuxt.js: Our core team member @_pi0_ cannot access our private repositories anymore on @github because of US Sanctions...
   ](https://t.co/4FiLexH9Mf) on Twitter
-  
 - [Conner Orth](https://twitter.com/conner_orth/status/1154723522729709568) on Twitter
+- [Nat Friedman](https://twitter.com/natfriedman/status/1155311121038864384) on Twitter
 
 ## News
 
@@ -472,3 +464,10 @@ You can:
 - Javad Gholampoor from Iran 🇮🇷 ([javad10170](https://github.com/javad10170))
 - Seyed Hossein (sedhossein) Hosseini from Iran 🇮🇷 ([sedhossein](https://github.com/sedhossein))
 - Erfan Ahmadi from Iran 🇮🇷 ([Erfan-Ahmadi](https://github.com/Erfan-Ahmadi))
+- Robert de Bock from The Netherlands 🇳🇱 ([robertdebock](https://github.com/robertdebock))
+- Alireza Zolanvari from Iran 🇮🇷 ([alirezazolanvari](https://github.com/alirezazolanvari))
+- Babak K. Shandiz from Iran 🇮🇷 ([babakks](https://github.com/babakks))
+- Pooya Parsa from Iran 🇮🇷 ([pi0](https://github.com/pi0))
+- Adam Yi from China and Australia 🇨🇳 🇦🇺 ([adamyi](https://github.com/adamyi))
+- Seyed Abbas Ghomi from Iran 🇮🇷 ([SeyedAbbasGhomi](https://github.com/SeyedAbbasGhomi))
+- Alexander J. from Australia 🇦🇺 ([alexanderj2357](https://github.com/alexanderj2357))
