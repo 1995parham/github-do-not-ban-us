@@ -395,6 +395,7 @@ You can:
 - Isabelle L. from the United States 🇺🇸 ([ilsko](https://github.com/ilsko))
 - Mavromatakis Dimitris from Greece 🇬🇷 ([damavrom](https://gitlab.com/damavrom))
 - Piotr Kazimierski from Poland 🇵🇱 ([inquis1t0r](https://github.com/Inquis1t0r/))
+- Jose Pita from from Portugal 🇵🇹 ([jpita](https://github.com/jpita/))
 - Ravi from India 🇮🇳 ([xolve](https://github.com/xolve))
 - Mohammad Hadi Hosseinpour from Iran 🇮🇷 ([hadi77ir](https://github.com/hadi77ir))
 - Erfan Momeni from Iran 🇮🇷 ([MomeniErfan](https://github.com/MomeniErfan))
