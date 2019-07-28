@@ -1,10 +1,11 @@
-# A Message to GitHub
+# A Message to Github
 
-English | [简体中文](./README-CN.md) | [Español ](./README-ES.md) | [Ελληνικά](./README-GR.md) | [Italiano](./README-IT.md) | [Русский](./README-RU.md) | [فارسی](./README-PER.md) | [Française ](./README-FR.md) | [Deutsch](./README-DE.md) | [Հայերէն](./README-HY.md)
+English | [简体中文](./README-CN.md) | [Español ](./README-ES.md) | [Ελληνικά](./README-GR.md) | [Italiano](./README-IT.md) | [Русский](./README-RU.md) | [فارسی](./README-PER.md) | [Française ](./README-FR.md) | [Deutsch](./README-DE.md) | [Հայերէն](./README-HY.md) | [Српски](./README-SR.md) | [العربية](./README-AR.md)
 
 ![alt text](./message.png)
 
-~~**Tip:** You can use [this extension](https://github.com/JafarAkhondali/remove-github-restrictions-message) or [this extension](https://github.com/MohamadKh75/ShutHub) or [this tampermonkey script](https://gist.github.com/HirbodBehnam/2e079e187be0b1b6a6bcb734ed88474e) or [Stylish](https://userstyles.org/styles/173827/hide-github-warning) to hide this yellow box!~~  
+~~**Tip:** You can use [this extension](https://github.com/JafarAkhondali/remove-github-restrictions-message) or [this extension](https://github.com/MohamadKh75/ShutHub) or [this tampermonkey script](https://gist.github.com/HirbodBehnam/2e079e187be0b1b6a6bcb734ed88474e) or [Stylish](https://userstyles.org/styles/173827/hide-github-warning) to hide this yellow box!~~
+
 **UPDATE:** The warning message is dissmissable now.
 
 ![github-octocat](https://user-images.githubusercontent.com/16706911/61997137-7aa7df00-b0b2-11e9-97f1-f452855fe21c.png)
@@ -19,8 +20,8 @@ GitHub used to be an open and free platform for everyone, but it has decided to 
 
 Eventually, we are hoping that GitHub's team:
 
-- Let us download our private repositories and also make them public (setting control).
-  - **UPDATE:** It is possible now to make private repositories public.
+- Let us download our private repositories and gists and also make them public (setting control).
+  - **UPDATE:** It is possible now to make private repositories public, however this option is not available on private gists (containing IDE Setting Sync files etc.) yet.
 - Change their restriction policies to not limiting users based on their Nationality.
 - Announce their decision publicly and apologize for making this situation (like what slack did before in the same situation: https://slackhq.com/an-apology-and-an-update).
 
@@ -43,6 +44,8 @@ Some examples of open-source projects created by Iranian developers:
 - https://github.com/imaNNeoFighT/fl_chart
 - https://github.com/nuxt/nuxt.js
 - https://github.com/bootstrap-vue/bootstrap-vue
+- https://github.com/wolfengine/wolf.engine
+- https://github.com/MohamadKh75/react-navigation-transition-config
 
 You can find the full list [here](https://github.com/mohebifar/made-in-iran).
 
@@ -65,6 +68,7 @@ You can:
 - [GitHub starts blocking developers in countries facing US trade sanctions](https://www.zdnet.com/article/github-starts-blocking-developers-in-countries-facing-us-trade-sanctions)
 - [What is it like to be a dev in Iran](https://shahinsorkh.ir/2019/07/20/how-is-it-like-to-be-a-dev-in-iran)
 - [I am lucky, you are not](https://dev.to/jeromegamez/i-am-lucky-you-are-not-2eco)
+- [If You Don't Know, Now You Know - GitHub Is Restricting Access For Users From Iran And A Few Other Embargoed Countries](https://dev.to/mjraadi/if-you-don-t-know-now-you-know-github-is-restricting-access-for-users-from-iran-and-a-few-other-embargoed-countries-5ga9)
 
 ## On Social Networks
 
@@ -76,13 +80,20 @@ You can:
   ](https://t.co/4FiLexH9Mf) on Twitter
 - [Conner Orth](https://twitter.com/conner_orth/status/1154723522729709568) on Twitter
 - [Nat Friedman](https://twitter.com/natfriedman/status/1155311121038864384) on Twitter
+- [Pooya Eimandar](https://twitter.com/_poei/status/1154994262884454400) on Twitter
+- [Pooya Eimandar](https://www.reddit.com/r/github/comments/cirde7/ive_been_paid_github_for_more_than_three_years/?st=jympkq19&sh=df5e5410) on Reddit 
+- [Sana Khalesi](https://medium.com/@khalesic/github-the-largest-developer-communities-from-every-corner-of-the-globe-but-iran-804c05a991df) on Medium 
 
 ## News
 
 - [Github allow us to make our private repositories, public](https://github.com/1995parham/github-do-not-ban-us/issues/666)
 
+![nat-friedman](nat-friedman.png)
+
 ## Supporters
 
+- MohamadKh75 from Iran 🇮🇷 ([MohamadKh75](https://github.com/MohamadKh75))
+- Amir Masud Zare Bidaki from Iran 🇮🇷 ([amirmasud](https://github.com/amirmasud))
 - Hamed Hajiloo from Iran 🇮🇷 ([HamedHajiloo](https://github.com/hamedhajiloo))
 - Wilson Flores [wilsson](https://github.com/wilsson) from 🇵🇪
 - Marco Aceti from Italy 🇮🇹 ([MarcoBuster](https://github.com/MarcoBuster))
@@ -96,7 +107,9 @@ You can:
 - divinity1437 from Russia 🇷🇺
 - Enzo from France 🇫🇷
 - Appadeia from the United States 🇺🇸
+- Junbo Li from China 🇨🇳 ([Adhders](https://github.com/Adhders))
 - Zhiwa from China 🇨🇳 ([zhiwa](https://github.com/aboutmydreams))
+- Junbo Li from China 🇨🇳 ([Adhders](https://github.com/Adhders))
 - Alexander Shelepenok from Belarus 🇧🇾
 - Ran Luo from China 🇨🇳
 - Zhu Zihao from China 🇨🇳 ([cireu](https://github.com/cireu))
@@ -176,6 +189,7 @@ You can:
 - Mohamad Fadavi ([fadavi](https://github.com/fadavi))
 - Mojtaba Valipour from Iran 🇮🇷 ([mvpcom](https://github.com/mvpcom))
 - Arman Hosseini from Iran 🇮🇷 ([arman-hosseini](https://github.com/arman-hosseini))
+- Abdellah Chadidi from Morocco 🇲🇦 ([chadidi](https://github.com/chadidi))
 - Karim Oulad Chalha from Morocco 🇲🇦 ([karim88](https://github.com/karim88/))
 - Ali Amirnezhad from Iran 🇮🇷 ([webilix](https://github.com/webilix))
 - Sarah Akhavan Kazemzadeh ([sarahakhavan](https://github.com/sarahakhavan))
@@ -481,3 +495,34 @@ You can:
 - Mohamed Anees from India 🇮🇳 ([mohamedanees6](https://github.com/mohamedanees6))
 - Soroush Kavousi from Iran 🇮🇷 ([bitianist](https://github.com/bitianist))
 - Navid Emami from Iran 🇮🇷 ([novid](https://github.com/novid))
+- Max Strübing from Germany 🇩🇪([mstruebing](https://github.com/mstruebing))
+- Ali Kavani from Iran 🇮🇷 ([subzerobo](https://github.com/subzerobo))
+- Amer Lotfi Orimi from Iran 🇮🇷 ([amerllica](https://github.com/amerllica))
+- Amir Hossein Mirzaei from Iran 🇮🇷 ([amirc901](https://github.com/amirc901))
+- Mehran Goudarzi from Iran 🇮🇷 ([Mehran](https://github.com/Mehran))
+- Ali Hassanabadi from Iran 🇮🇷 ([AHassanabadi](https://github.com/AHassanabadi))
+- Ehsan Mahmoudi from Iran 🇮🇷 ([jeyem](https://github.com/jeyem/))
+- Stijn Segers from Belgium 🇧🇪 ([Borromini](https://github.com/Borromini))
+- Ali Abdollahi from Iran 🇮🇷 ([aabdollahi](https://github.com/aabdollahi))
+- Trinity Pointard from France 🇫🇷 ([fdb-hiroshima](https://github.com/fdb-hiroshima/))
+- Udo Kramer from Germany 🇩🇪 ([optikfluffel](https://github.com/optikfluffel))
+- Ali Sameni from Iran 🇮🇷 ([aliwesome](https://github.com/aliwesome))
+- Vahid Sadeghizadeh from Iran 🇮🇷 ([vsadeghizade](https://github.com/vsadeghizade))
+- Kiarash Zarinmehr from Iran 🇮🇷 ([Kiarash-Z](https://github.com/Kiarash-Z))
+- Carvell Scott from the United States ([CarvellScott](https://github.com/CarvellScott))
+- Pooya Eimandar from Iran 🇮🇷 ([pooyaeimandar](https://github.com/pooyaeimandar))
+- Shayan Karami from Iran 🇮🇷 ([Shayank](https://github.com/Shayank))
+- Milad GanjAli from Iran 🇮🇷 ([miladganjali](https://github.com/miladganjali))
+- Ali Madihi from Iran 🇮🇷 ([mrunderline](https://github.com/mrunderline))
+- Amir Zandi from Iran 🇮🇷 ([amirzandi](https://github.com/amirzandi))
+- Saud from India 🇮🇳 ([rottencandy](https://github.com/rottencandy))
+- Parsa Torbati from Iran 🇮🇷 ([poyynt](https://github.com/poyynt))
+- Céleste Cinti from France 🇫🇷 ([Leytere](https://github.com/Leytere))
+- Amir Habibzadeh from Iran 🇮🇷 ([amirhabibzadeh](https://github.com/amirhabibzadeh))
+- Mahdi Razavi from Iran 🇮🇷 ([m-razavi](https://github.com/m-razavi))
+- Bofei Wang China 🇨🇳 ([bofeiw](https://github.com/bofeiw))
+- Ali Joghataei from Iran 🇮🇷 ([ali-joghataei](https://github.com/ali-joghataei))
+- Saeed Bibak from Iran 🇮🇷 ([saeedbibak](https://github.com/saeedbibak))
+- Kevin Pennarun from France 🇫🇷 ([kepennar](https://github.com/kepennar))
+- Kizito Akhilome from Nigeria 🇳🇬 ([akhilome](https://github.com/akhilome))
+- Arman Safikhani from Iran 🇮🇷 ([Arman92](https://github.com/arman92))
