@@ -479,4 +479,6 @@ You can:
 - Salman Amintabar from Iran 🇮🇷 ([amintabar](https://github.com/amintabar))
 - Mohammad Ebrahimi Aval from Iran 🇮🇷 ([ebrahimiaval](https://github.com/ebrahimiaval))
 - Mohamed Anees from India 🇮🇳 ([mohamedanees6](https://github.com/mohamedanees6))
+- Soroush Kavousi from Iran 🇮🇷 ([bitianist](https://github.com/bitianist))
 - Max Strübing from Germany 🇩🇪([mstruebing](https://github.com/mstruebing))
+
