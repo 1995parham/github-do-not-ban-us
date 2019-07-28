@@ -92,8 +92,6 @@ You can:
 - Daniil Gentili from Italy and Russia 🇮🇹 🇷🇺 ([danog](https://github.com/danog))
 - Seamus Donnellan from Australia 🇦🇺 ([donnellan0007](https://github.com/donnellan0007))
 - Conner Orth from Netherlands 🇳🇱
-- Moni from 🇮🇳 ([monis10](https://github.com/MoniS10))
-- MoniJS from 🇺🇸 ([MoniJS](https://github.com/MoniJS))
 - Chris C from Luxembourg 🇱🇺
 - micheleriva from Italy 🇮🇹
 - Angel Uniminin from Iceland 🇮🇸
@@ -450,4 +448,5 @@ You can:
 - Ahmad Aghazadeh from Iran ([ahmadaghazadeh](https://github.com/ahmadaghazadeh))
 - Jennifer Shehane from United States 🇺🇸  ([jennifer-shehane](https://github.com/jennifer-shehane))
 - Daniel Lalasa ([daniellalasa2](https://github.com/daniellalasa2))
+- Sandy Chen from China 🇨🇳 ([sandy2008](https://github.com/sandy2008))
 - Kitten King from India 🇮🇳 ([kittenking](https://github.com/kittenking))
