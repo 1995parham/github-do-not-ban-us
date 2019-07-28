@@ -595,3 +595,4 @@ You can:
 - Lory from the United States 🇺🇸 and Iran 🇮🇷 ([Lorymi](https://github.com/Lorymi))
 - DOBRO from Russia 🇷🇺 ([DOBRO](https://github.com/DOBRO))
 - Gilberto dos Santos Agostinho Filho from Brazil 🇧🇷 ([gilbertohasnofb](https://github.com/gilbertohasnofb))
+- Nobel from Nepal 🇳🇵 ([Coderkoala](https://github.com/coderkoala))
