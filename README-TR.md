@@ -1,4 +1,4 @@
-# Github'a mesaj
+# GitHub'a mesaj
 
 [English](./README.md) | [简体中文](./README-CN.md) | [Español ](./README-ES.md) | [Ελληνικά](./README-GR.md) | [Italiano](./README-IT.md) | [Русский](./README-RU.md) | [فارسی](./README-PER.md) | [Française ](./README-FR.md) | [Deutsch](./README-DE.md) | [Հայերէն](./README-HY.md) | [Српски](./README-SR.md) | [العربية](./README-AR.md) | Türkçe
 
@@ -12,24 +12,24 @@
 
 ## Giriş
 
-Github eskiden herkes için açık ve özgür bir platformdu, ancak katkıda bulunarak açık kaynak ekosisteminin parçası olan İran'lı kullanıcıları yasaklama kararı aldı. ABD hükümetinin baskısı altında Github'ın bu kararı vermesini anlasak da, Github'dan daha saygılı bir yaklaşım beklemekteyiz.
+GitHub eskiden herkes için açık ve özgür bir platformdu, ancak katkıda bulunarak açık kaynak ekosisteminin parçası olan İranlı kullanıcıları yasaklama kararı aldı. ABD hükümetinin baskısı altında GitHub'ın bu kararı vermesini anlasak da, GitHub'dan daha saygılı bir yaklaşım beklemekteyiz.
 
-1. Github bizim özel depolara erişimimizi birden kısıtladı, en azından Github'ın bu kısıtlamadan önce bizi uyarmasını beklerdik.
+1. GitHub bizim özel depolara erişimimizi birden kısıtladı, en azından GitHub'ın bu kısıtlamadan önce bizi uyarmasını beklerdik.
 
-2. Github takımı bu durumu bir adım ötete taşıyarak nerede yaşadığımızı gözetmeksizin, diğer ABD şirketleri gibi IP bazlı kısıtlama yapmak yerine **Milliyete göre** bizi kısıtladı.
+2. GitHub takımı bu durumu bir adım ötete taşıyarak nerede yaşadığımızı gözetmeksizin, diğer ABD şirketleri gibi IP bazlı kısıtlama yapmak yerine bizi **milliyete göre** kısıtladı.
 
-Neticede, Github takımından:
+Neticede, GitHub takımından:
 
-- Özel depolarımızı ve Gist'lerimizi indirebilmeyi ve onları herkese açık yapabilmeyi,
-- **GÜNCELLEME:** Artık özel depoları herkese açabiliyoruz, ancak bu seçenek henüz özel Gist'ler için mümkün değil.
+- Özel depolarımızı ve Gistlerimizi indirebilmeyi ve onları herkese açık yapabilmeyi,
+- **GÜNCELLEME:** Artık özel depoları herkese açabiliyoruz, ancak bu seçenek henüz özel Gistler için mümkün değil.
 - Kısıtlama politikalarını değiştirerek kullanıcıların milliyet bazında engellenmemesini,
-- Kamuya açık şekilde verdikleri kararı açıklamaları ve herkesten özür dilemelerini, (daha önce aynı durumda Slack'in de yaptığı gibi: https://slackhq.com/an-apology-and-an-update)
+- Kamuya açık şekilde verdikleri kararı açıklamaları ve herkesten özür dilemelerini (daha önce aynı durumda Slack'in de yaptığı gibi: https://slackhq.com/an-apology-and-an-update)
 
 İstemekteyiz.
 
-## İran'lı geliştiriciler tarafından geliştirilen açık kaynak kodlu projeler
+## İranlı geliştiriciler tarafından geliştirilen açık kaynak kodlu projeler
 
-İran'lı geliştiriciler tarafından oluşturulan açık kaynak kodlu projelere bazı örnekler:
+İranlı geliştiriciler tarafından oluşturulan açık kaynak kodlu projelere bazı örnekler:
 
 - https://github.com/harfbuzz
 - https://github.com/usablica/intro.js
@@ -55,7 +55,7 @@ Tam listeye [buradan](https://github.com/mohebifar/made-in-iran) ulaşabilirsini
 
 - Bu depoyu yıldızlayıp sosyal platformlarfa #githubForEveryone etiketiyle paylaşın.
 - "together" klasörüne kullanıcı adınızın bulunduğu bir klasör açın
-- "Herkes için Github" yazdıran bir kod parçası yazın (dilediğiniz herhangi dilde).
+- "Herkes için GitHub" yazdıran bir kod parçası yazın (dilediğiniz herhangi dilde).
 - Bir Pull Request oluşturun.
 - İsminizi ve ülkenizi destekleyenler bölümüne ekleyin.
 
@@ -85,7 +85,7 @@ Tam listeye [buradan](https://github.com/mohebifar/made-in-iran) ulaşabilirsini
 
 ## Haberler
 
-- [Github özel depoları herkese açık yapmaya izin veriyor!](https://github.com/1995parham/github-do-not-ban-us/issues/666)
+- [GitHub özel depoları herkese açık yapmaya izin veriyor!](https://github.com/1995parham/github-do-not-ban-us/issues/666)
 
 ![nat-friedman](nat-friedman.png)
 
