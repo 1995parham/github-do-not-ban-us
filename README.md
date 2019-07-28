@@ -541,6 +541,7 @@ You can:
 - Pooya Barati from Iran 🇮🇷 ([pooyabarati](https://github.com/pooyabarati))
 - Rogério dos Santos Fernandes 🇧🇷 ([spartanroger](https://github.com/spartanroger))
 - Tim Visée from the Netherlands 🇳🇱 ([timvisee](https://github.com/timvisee))
+- Abdolreza Taheri from Iran 🇮🇷 ([abdolrezat](https://github.com/abdolrezat/))
 - FishPlusOrange from China 🇨🇳 ([FishPlusOrange](https://github.com/FishPlusOrange))
 - Richard Merryfield from the United States 🇺🇸([labadore](https://gitlab.com/labadore))
 - Ako Salman from Iran 🇮🇷 ([Ako](https://github.com/akoSalman))
