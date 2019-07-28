@@ -499,6 +499,16 @@ You can:
 - Igor from Poland 🇵🇱 ([igorpos](https://github.com/igorpos))
 - Artur Kondas from Poland 🇵🇱 ([youshy](https://github.com/youshy)) 
 
+### Tunisia
+- Imed Adel from Tunisia 🇹🇳 ([ImedAdel](https://github.com/ImedAdel))
+- Adem Kouki from Tunisia 🇹🇳 ([Ademking](https://gitlab.com/Ademking))
+
+### Chile
+- Francisco Sánchez from Chile 🇨🇱 ([fransafu](https://github.com/fransafu/))
+
+### Thailand
+- Kittinan from Thailand 🇹🇭 ([kittinan](https://github.com/kittinan))
+- Amine Mouafik from Thailand 🇹🇭 ([kytwb](https://github.com/kytwb))
 
 - AbdElmomen Kadhim ([bluemix](https://github.com/bluemix))
 - Milad Nekofar ([nekofar](https://github.com/nekofar))
@@ -509,8 +519,6 @@ You can:
 - Mehmet Alp Turkey ([mehmetakifalp](https://github.com/mehmetakifalp))
 - Haider Ali Punjabi ([haideralipunjabi](https://github.com/haideralipunjabi))
 - Houari ZEGAI from Algeria 🇩🇿 [HouariZegai](https://github.com/HouariZegai)
-- Kittinan from Thailand 🇹🇭 ([kittinan](https://github.com/kittinan))
-- Imed Adel from Tunisia 🇹🇳 ([ImedAdel](https://github.com/ImedAdel))
 - Mahuton from Benin 🇧🇯 ([Mahuton](https://github.com/Mahuton))
 - George Ho from Hong Kong 🇭🇰 ([eigenfoo](https://github.com/eigenfoo))
 - Orestis Ousoultzoglou from Greece 🇬🇷 ([xlxs4](https://github.com/xlxs4))
@@ -519,19 +527,16 @@ You can:
 - Md Narimani ([mnarimani](https://github.com/mnarimani))
 - Samundra Khatri from Nepal 🇳🇵 ([samundrak](https://github.com/samundrak))
 - Muhammad Yaseen from Pakistan 🇵🇰 ([Yaseen](https://github.com/muhammadyaseen))
-- Francisco Sánchez from Chile 🇨🇱 ([fransafu](https://github.com/fransafu/))
 - Daniel Kvasnicka from Czechia and the United States 🇨🇿 🇺🇸 ([dkvasnicka](https://github.com/dkvasnicka))
 - Lewis Conroy from Scotlabd ([Lewis Conroy](https://github.com/captainkinney))
 - Mavromatakis Dimitris from Greece 🇬🇷 ([damavrom](https://gitlab.com/damavrom))
 - Abdullrahman Al-Zeidi from Oman 🇴🇲 ([AbdullrahmanAlzeidi](https://github.com/AbdullrahmanAlzeidi))
 - Liam Kenneth from England ([Liam Kenneth](https://github.com/LiamKenneth))
 - Aiden Wallis from the United Kingdom ([AidenWallis](https://github.com/AidenWallis))
-- Amine Mouafik from Thailand 🇹🇭 ([kytwb](https://github.com/kytwb))
 - Gerasimos Maropoulos from Greece 🇬🇷 ([kataras](https://github.com/kataras))
 - f-person from Armenia 🇦🇲 ([f-person](https://github.com/f-person))
 - Lokimonoton from Indonesia 🇮🇩 ([lokimonoton](https://github.com/lokimonoton))
 - Madiodio Gaye from Senegal 🇸🇳 ([madiodio](https://github.com/madiodio))
-- Adem Kouki from Tunisia 🇹🇳 ([Ademking](https://gitlab.com/Ademking))
 - Serene Husni from Jordan and Canada 🇯🇴 🇨🇦
 - fugio from armenia 🇦🇲 ([fugio](https://github.com/fugio))
 - Daniel Lalasa ([daniellalasa2](https://github.com/daniellalasa2))
