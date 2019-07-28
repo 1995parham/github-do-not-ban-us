@@ -1,6 +1,6 @@
 # A Message to Github
 
-English | [简体中文](./README-CN.md) | [Español ](./README-ES.md) | [Ελληνικά](./README-GR.md) | [Italiano](./README-IT.md) | [Русский](./README-RU.md) | [فارسی](./README-PER.md) | [Française ](./README-FR.md) | [Deutsch](./README-DE.md) | [Հայերէն](./README-HY.md) | [Српски](./README-SR.md) | [العربية](./README-AR.md) | [Türkçe](./README-TR.md)
+English | [简体中文](./README-CN.md) | [Español ](./README-ES.md) | [Ελληνικά](./README-GR.md) | [Italiano](./README-IT.md) | [Русский](./README-RU.md) | [فارسی](./README-PER.md) | [Française ](./README-FR.md) | [Deutsch](./README-DE.md) | [Հայերէն](./README-HY.md) | [Српски](./README-SR.md) | [العربية](./README-AR.md)
 
 ![alt text](./message.png)
 
@@ -537,4 +537,4 @@ You can:
 - Rogério dos Santos Fernandes 🇧🇷 ([spartanroger](https://github.com/spartanroger))
 - Tim Visée from the Netherlands 🇳🇱 ([timvisee](https://github.com/timvisee))
 - Ako Salman from Iran 🇮🇷 ([Ako](https://github.com/akoSalman))
-- Atakan Ermiş from Turkey 🇹🇷 ([AtakanErmis](https://github.com/AtakanErmis))
+- Emilbek Sulaymanov from Kyrgyzstan 🇰🇬 ([emli](https://github.com/emli))
