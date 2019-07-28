@@ -1,4 +1,4 @@
-# <div dir="rtl">رسالة إلى Github</div>
+# <div dir="rtl">رسالة إلى GitHub</div>
 
 [English](./README.md) | [简体中文](./README-CN.md) | [Español](./README-ES.md) | [Ελληνικά](./README-GR.md) | [Italiano](./README-IT.md) | [Русский](./README-RU.md) | [فارسی](./README-PER.md) | [Française](./README-FR.md) | [Deutsch](./README-DE.md) | [Հայերէն](./README-HY.md) | [Српски](./README-SR.md) | العربية | [Türkçe](./README-TR.md)
 
@@ -16,7 +16,7 @@
 
 اعتادت GitHub أن تكون منصة مفتوحة ومجانية للجميع ، لكنها قررت تقييد الحسابات الإيرانية من المساهمة في النظام البيئي مفتوح المصدر. على الرغم من أننا نتفهم أن GitHub قد يتخذ هذا القرار تحت ضغط الحكومة الأمريكية ، إلا أننا كنا نتوقع المزيد من الاحترام من GitHub.
 
-1. قام Github بتقييد وصولنا إلى المستودعات الخاصة بشكل مفاجئ ، ولكن على الأقل أردنا أن يقوم Github بتحذيرنا قبل التقييد.
+1. قام GitHub بتقييد وصولنا إلى المستودعات الخاصة بشكل مفاجئ ، ولكن على الأقل أردنا أن يقوم GitHub بتحذيرنا قبل التقييد.
 
 2. قرر فريق GitHub أن يخطو خطوة أخرى إلى الأمام ويقيدنا **بناءً على جنسيتنا** بغض النظر عن المكان الذي نعيش فيه ، بينما كان بإمكانهم تقييد عناوين IP الخاصة بنا مثل الشركات الأخرى التي تتخذ من الولايات المتحدة مقراً لها.
 
@@ -87,9 +87,9 @@
 <div dir="rtl">
 
 - [GitHub حظرت جميع المستخدمين الإيرانيين.](https://www.reddit.com/r/programming/comments/ciey8g/github_banned_all_iranian_users_our_accounts_are/) على ريديت ( Reddit )
-- [دان أبراموف: واو ، أتطلع إلى الحصول على حظر من @Github عندما تقرر الولايات المتحدة معاقبة روسيا](https://twitter.com/dan_abramov/status/1154869188672086019?s=19) على تويتر ( Twitter )
-- [حامد سعيدي: اليوم @Github منعت إمكانيات الوصول لدي.](https://twitter.com/Hamed/status/1154268514074660864?s=19) على تويتر ( Twitter )
-- [بهداد اصفهبود: لذا ،حديثا بدأت @Github مؤخرًا بتعطيل حسابات المطورين الإيرانيين](https://twitter.com/behdadesfahbod/status/1154755351092158465?s=19) على تويتر ( Twitter )
+- [دان أبراموف: واو ، أتطلع إلى الحصول على حظر من @GitHub عندما تقرر الولايات المتحدة معاقبة روسيا](https://twitter.com/dan_abramov/status/1154869188672086019?s=19) على تويتر ( Twitter )
+- [حامد سعيدي: اليوم @GitHub منعت إمكانيات الوصول لدي.](https://twitter.com/Hamed/status/1154268514074660864?s=19) على تويتر ( Twitter )
+- [بهداد اصفهبود: لذا ،حديثا بدأت @GitHub مؤخرًا بتعطيل حسابات المطورين الإيرانيين](https://twitter.com/behdadesfahbod/status/1154755351092158465?s=19) على تويتر ( Twitter )
 - [Nuxt.js: لا يمكن لعضو فريقنا الأساسي @ _pi0_ الوصول إلى مستودعاتنا الخاصة بعد الآن علىgithub بسبب العقوبات الأمريكية ...](https://t.co/4FiLexH9Mf) على تويتر ( Twitter )
 - [كونر اورث](https://twitter.com/conner_orth/status/1154723522729709568) على تويتر ( Twitter )
 - [نات فريدمان](https://twitter.com/natfriedman/status/1155311121038864384) على تويتر ( Twitter )
@@ -101,7 +101,7 @@
 
 ## <div dir="rtl"> أخبار </div>
 
-- [Github سمحت لنا بجعل مستودعاتنا الخاصة ، عامة.](https://github.com/1995parham/github-do-not-ban-us/issues/666)
+- [GitHub سمحت لنا بجعل مستودعاتنا الخاصة ، عامة.](https://github.com/1995parham/github-do-not-ban-us/issues/666)
 
 ![nat-friedman](nat-friedman.png)
 
