@@ -1,4 +1,4 @@
-# A Message to Github
+﻿# A Message to Github
 
 English | [简体中文](./README-CN.md) | [Español ](./README-ES.md) | [Ελληνικά](./README-GR.md) | [Italiano](./README-IT.md) | [Русский](./README-RU.md) | [فارسی](./README-PER.md) | [Française ](./README-FR.md) | [Deutsch](./README-DE.md) | [Հայերէն](./README-HY.md) | [Српски](./README-SR.md) | [العربية](./README-AR.md) | [Türkçe](./README-TR.md)
 
@@ -552,6 +552,7 @@ You can:
 - ri7nz from Indonesia 🇮🇩 ([ri7nz](https://github.com/ri7nz))
 - Joshua Morrison from the United States 🇺🇸 ([MrM21632](https://github.com/MrM21632))
 - Yağızhan Burak Yakar from Turkey 🇹🇷 ([yagizhan49](https://github.com/yagizhan49))
+- Antonios Sidiropoulos from Greece 🇬🇷 ([s-i-d-i](https://github.com/s-i-d-i))
 - Ardy A from Turkey 🇹🇷 ([ardyln](https://github.com/ardyln))
 - Florian Wartner from Germany 🇩🇪 ([fwartner](https://github.com/fwartner))
 - Jack Kamm from the United States 🇺🇸 ([jackkamm](https://github.com/jackkamm))
