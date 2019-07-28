@@ -496,3 +496,4 @@ You can:
 - Trinity Pointard from France 🇫🇷 ([fdb-hiroshima](https://github.com/fdb-hiroshima/))
 - Kiarash Zarinmehr from Iran 🇮🇷 ([Kiarash-Z](https://github.com/Kiarash-Z))
 - Shayan Karami from Iran 🇮🇷 ([Shayank](https://github.com/Shayank))
+- Milad GanjAli from Iran 🇮🇷 ([miladganjali](https://github.com/miladganjali))
