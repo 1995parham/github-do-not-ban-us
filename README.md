@@ -317,6 +317,8 @@ You can:
 - [Pooya Eimandar](https://github.com/pooyaeimandar)
 - [Shayan Karami](https://github.com/Shayank)
 - [Milad GanjAli](https://github.com/miladganjali)
+- [Ali Madihi](https://github.com/mrunderline)
+- [Amir Masud Zare Bidaki](https://github.com/amirmasud)
 
 ### China 🇨🇳
 - [Zhiwa](https://github.com/aboutmydreams)
