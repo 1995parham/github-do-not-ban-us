@@ -490,5 +490,6 @@ You can:
 - Amir Hossein Mirzaei from Iran 🇮🇷 ([amirc901](https://github.com/amirc901))
 - Mehran Goudarzi from Iran 🇮🇷 ([Mehran](https://github.com/Mehran))
 - Ali Hassanabadi from Iran 🇮🇷 ([AHassanabadi](https://github.com/AHassanabadi))
+- Stijn Segers from Belgium 🇧🇪 ([Borromini](https://github.com/Borromini))
 - Ali Abdollahi from Iran 🇮🇷 ([aabdollahi](https://github.com/aabdollahi))
 - Trinity Pointard from France 🇫🇷 ([fdb-hiroshima](https://github.com/fdb-hiroshima/))
