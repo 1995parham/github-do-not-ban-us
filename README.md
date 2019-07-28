@@ -487,4 +487,5 @@ You can:
 - Amer Lotfi Orimi from Iran 🇮🇷 ([amerllica](https://github.com/amerllica))
 - Mehran Goudarzi from Iran 🇮🇷 ([Mehran](https://github.com/Mehran))
 - Ali Hassanabadi from Iran 🇮🇷 ([AHassanabadi](https://github.com/AHassanabadi))
-- Trinity Pointard from France 🇫🇷 ([fdb-hiroshima](https://github.com/fdb-hiroshima/)
+- Ali Abdollahi from Iran 🇮🇷 ([aabdollahi](https://github.com/aabdollahi))
+- Trinity Pointard from France 🇫🇷 ([fdb-hiroshima](https://github.com/fdb-hiroshima/))
