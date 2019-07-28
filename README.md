@@ -12,40 +12,42 @@ English | [简体中文](./README-CN.md) | [Español ](./README-ES.md) | [Ελλ
 
 ## Introduction
 
-GitHub used to be an open and free platform for everyone, but it has decided to restrict Iranian accounts from contributing and being part of the open-source ecosystem. Although we understand GitHub might make this decision under the pressure of US government, we were expecting more respectful action from GitHub.
+GitHub used to be an open and free platform for everyone, but it has decided to restrict Iranian accounts from contributing and being part of the open-source ecosystem. Although we understand GitHub might make this decision under the pressure of US government, we were expecting a more respectful action from GitHub.
 
-1. GitHub restricted our access to private repositories suddenly, but at very least we wanted GitHub to warn us before limiting our access.
+1. GitHub restricted our access to private repositories suddenly, but at the very least we wanted GitHub to warn us before limiting our access.
 
 2. GitHub decided to take one step further and ban every user that used Iran's IP address somewhere their history no matter where she/he is living, while they could just restrict access by IP address like other US-based companies. This action is kind of ban by nationality.
 
-Eventually, we are hoping that GitHub's team:
+Eventually, we are hoping that GitHub's team will:
 
 - Let us download our private repositories and gists and also make them public (setting control).
-- **UPDATE:** It is possible now to make private repositories public, however this option is not available on private gists (containing IDE Setting Sync files etc.) yet.
-- Change their restriction policies to not limiting users based on their place of residence and location.
-- Announce their decision publicly and apologize for making this situation (like what slack did before in the same situation: https://slackhq.com/an-apology-and-an-update).
+  **UPDATE:** It is possible now to make private repositories public, however this option is not available on private gists (containing IDE Setting Sync files etc.) yet.
+- Change their restriction policies so as to not limit users based on their Nationality.
+- Announce their decision publicly and apologize for making this situation (like what Slack did before in the same situation: https://slackhq.com/an-apology-and-an-update).
 
 ## Open-source projects made by Iranian developers
 
 Some examples of open-source projects created by Iranian developers:
 
-- https://github.com/harfbuzz
-- https://github.com/usablica/intro.js
-- https://github.com/lebab/lebab
-- https://github.com/saeedalipoor/icono
-- https://github.com/morteza/bootstrap-rtl
-- https://github.com/ilius/pyglossary
-- https://github.com/TheSNAKY/Lives
-- https://github.com/sasanrose/phpredmin
-- https://github.com/ahmdrz/goinsta
-- https://github.com/persepolisdm/persepolis
-- https://github.com/sepandhaghighi/pycm
-- https://github.com/sepandhaghighi/art
-- https://github.com/imaNNeoFighT/fl_chart
-- https://github.com/nuxt/nuxt.js
-- https://github.com/bootstrap-vue/bootstrap-vue
-- https://github.com/wolfengine/wolf.engine
-- https://github.com/MohamadKh75/react-navigation-transition-config
+- [@harfbuzz](https://github.com/harfbuzz)/[**harfbuzz**](https://github.com/harfbuzz/harfbuzz)
+- [@usablica](https://github.com/usablica)/[**intro.js**](https://github.com/usablica/intro.js)
+- [@lebab](https://github.com/lebab)/[**lebab**](https://github.com/lebab/lebab)
+- [@saeedalipoor](https://github.com/saeedalipoor)/[**icono**](https://github.com/saeedalipoor/icono)
+- [@morteza](https://github.com/morteza)/[**bootstrap-rtl**](https://github.com/morteza/bootstrap-rtl)
+- [@ilius](https://github.com/ilius)/[**pyglossary**](https://github.com/ilius/pyglossary)
+- [@TheSNAKY](https://github.com/TheSNAKY)/[**Lives**](https://github.com/TheSNAKY/Lives)
+- [@sasanrose](https://github.com/sasanrose)/[**phpredmin**](https://github.com/sasanrose/phpredmin)
+- [@ahmdrz](https://github.com/ahmdrz)/[**goinsta**](https://github.com/ahmdrz/goinsta)
+- [@persepolisdm](https://github.com/persepolisdm)/[**persepolis**](https://github.com/persepolisdm/persepolis)
+- [@sepandhaghighi](https://github.com/sepandhaghighi)/[**pycm**](https://github.com/sepandhaghighi/pycm)
+- [@sepandhaghighi](https://github.com/sepandhaghighi)/[**art**](https://github.com/sepandhaghighi/art)
+- [@imaNNeoFighT](https://github.com/imaNNeoFighT)/[**fl_chart**](https://github.com/imaNNeoFighT/fl_chart)
+- [@nuxt](https://github.com/nuxt)/[**nuxt.js**](https://github.com/nuxt/nuxt.js)
+- [@bootstrap-vue](https://github.com/bootstrap-vue)/[**bootstrap-vue**](https://github.com/bootstrap-vue/bootstrap-vue)
+- [@wolfengine](https://github.com/wolfengine)/[**wolf.engine**](https://github.com/wolfengine/wolf.engine)
+- [@soroushchehresa](https://github.com/soroushchehresa)/[**vue-soundcloud**](https://github.com/soroushchehresa/vue-soundcloud)
+- [@soroushchehresa](https://github.com/soroushchehresa)/[**unsplash-wallpapers**](https://github.com/soroushchehresa/unsplash-wallpapers)
+- [@MohamadKh75](https://github.com/MohamadKh75)/[**react-navigation-transition-config**](https://github.com/MohamadKh75/react-navigation-transition-config)
 
 You can find the full list [here](https://github.com/mohebifar/made-in-iran).
 
@@ -54,11 +56,11 @@ You can find the full list [here](https://github.com/mohebifar/made-in-iran).
 You can spread the message everywhere you can, and keep the Free Software "as in Free speech".
 You can:
 
-- Star and share this repo on social platforms with #githubForEveryone.
-- Add a folder with your username in "together" folder.
+- Star and share this repo on social platforms with **#githubForEveryone**.
+- Add a folder with your username in ["together" folder](together).
 - Write a piece of code that prints "GitHub is for everyone" (in any language you wish).
 - Create a pull request.
-- Add your name and your country to the supporters section.
+- Add your name and your country to the [supporters section](#supporters).
 
 ## Further Readings
 
@@ -79,8 +81,7 @@ You can:
 - [Dan Abramov: Wow, looking forward to getting blocked from @GitHub when US decides to sanction Russia](https://twitter.com/dan_abramov/status/1154869188672086019?s=19) on Twitter
 - [Hamed Saeedi: Today @github blocked my access](https://twitter.com/Hamed/status/1154268514074660864?s=19) on Twitter
 - [Behdad Esfahbod: So, recently @github has started disabling accounts of Iranian developers](https://twitter.com/behdadesfahbod/status/1154755351092158465?s=19) on Twitter
-- [Nuxt.js: Our core team member @_pi0_ cannot access our private repositories anymore on @github because of US Sanctions...
-](https://t.co/4FiLexH9Mf) on Twitter
+- [Nuxt.js: Our core team member @_pi0_ cannot access our private repositories anymore on @github because of US Sanctions...](https://t.co/4FiLexH9Mf) on Twitter
 - [Conner Orth](https://twitter.com/conner_orth/status/1154723522729709568) on Twitter
 - [Nat Friedman](https://twitter.com/natfriedman/status/1155311121038864384) on Twitter
 - [Pooya Eimandar](https://twitter.com/_poei/status/1154994262884454400) on Twitter
@@ -158,6 +159,7 @@ You can:
 - Ali Irani from Iran 🇮🇷 ([aliir74](https://github.com/ali74))
 - Alireza Jahanshahlou from Iran 🇮🇷 ([a-jahanshahlo](https://github.com/a-jahanshahlo))
 - jocs from China 🇨🇳 ([jocs](https://github.com/Jocs))
+- Mihir Chaturvedi from India 🇮🇳 ([plibither8](https://github.com/plibither8))
 - Jérôme Gamez from Germany 🇩🇪 ([jeromegamez](https://github.com/jeromegamez))
 - Mohammadreza Samadi from Iran 🇮🇷 ([MhmDSmdi](https://github.com/MhmDSmdi))
 - Sepehr Sameni from Iran 🇮🇷 ([Separius](https://github.com/Separius))
@@ -588,3 +590,4 @@ You can:
 - Mihir Chaturvedi from India 🇮🇳 ([plibither8](https://github.com/plibither8))
 - Pooya Khandel from Iran 🇮🇷 ([po_oya](https://github.com/PoOyaKhandel))
 - Luiz Eduardo Amaral from Brazil 🇧🇷 ([luxedo](https://github.com/luxedo))
+- Lory from the United States 🇺🇸 and Iran 🇮🇷 ([Lorymi](https://github.com/Lorymi))
