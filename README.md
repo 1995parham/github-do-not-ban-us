@@ -588,3 +588,4 @@ You can:
 - Mihir Chaturvedi from India 🇮🇳 ([plibither8](https://github.com/plibither8))
 - Pooya Khandel from Iran 🇮🇷 ([po_oya](https://github.com/PoOyaKhandel))
 - Luiz Eduardo Amaral from Brazil 🇧🇷 ([luxedo](https://github.com/luxedo))
+- Lory from the United States 🇺🇸 and Iran 🇮🇷 ([Lorymi](https://github.com/Lorymi))
