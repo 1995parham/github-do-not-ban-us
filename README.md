@@ -1,4 +1,4 @@
-# A Message to Github
+﻿# A Message to Github
 
 English | [简体中文](./README-CN.md) | [Español ](./README-ES.md) | [Ελληνικά](./README-GR.md) | [Italiano](./README-IT.md) | [Русский](./README-RU.md) | [فارسی](./README-PER.md) | [Française ](./README-FR.md) | [Deutsch](./README-DE.md) | [Հայերէն](./README-HY.md) | [Српски](./README-SR.md) | [العربية](./README-AR.md) | [Türkçe](./README-TR.md)
 
@@ -542,9 +542,20 @@ You can:
 - Tim Visée from the Netherlands 🇳🇱 ([timvisee](https://github.com/timvisee))
 - Ako Salman from Iran 🇮🇷 ([Ako](https://github.com/akoSalman))
 - Atakan Ermiş from Turkey 🇹🇷 ([AtakanErmis](https://github.com/AtakanErmis))
+- Louis Raymond from Indonesia 🇮🇩 ([ccxex29](https://github.com/ccxex29))
+- Martin Král from Czech Republic 🇨🇿 ([MartinKral](https://github.com/MartinKral))
+- Atakan Ermiş from Turkey 🇹🇷 ([AtakanErmis](https://github.com/AtakanErmis))
+- ItsWajdy from Syria 🇸🇾 ([ItsWajdy] (https://github.com/ItsWajdy))
 - Emilbek Sulaymanov from Kyrgyzstan 🇰🇬 ([emli](https://github.com/emli))
 - Darrien Glasser from United States 🇺🇸 ([DarrienG](github.com/DarrienG))
 - Johannes Sandjaja from Indonesia 🇮🇩 ([pussio](https://github.com/pussio))
 - ri7nz from Indonesia 🇮🇩 ([ri7nz](https://github.com/ri7nz))
 - Joshua Morrison from the United States 🇺🇸 ([MrM21632](https://github.com/MrM21632))
 - Chatchai Saratakij from Thailand 🇹🇭 ([CSaratakij](https://github.com/CSaratakij))
+- Yağızhan Burak Yakar from Turkey 🇹🇷 ([yagizhan49](https://github.com/yagizhan49))
+- Parsa Samadnejad from Iran 🇮🇷 ([TroddenSpade](https://github.com/troddenspade))
+- Jingping Fang from China 🇨🇳 ([Codesman.fang](https://github.com/fangjingping))
+- Antonios Sidiropoulos from Greece 🇬🇷 ([s-i-d-i](https://github.com/s-i-d-i))
+- Ardy A from Turkey 🇹🇷 ([ardyln](https://github.com/ardyln))
+- Florian Wartner from Germany 🇩🇪 ([fwartner](https://github.com/fwartner))
+- Jack Kamm from the United States 🇺🇸 ([jackkamm](https://github.com/jackkamm))
