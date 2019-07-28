@@ -392,6 +392,7 @@ You can:
 - Mavromatakis Dimitris from Greece 🇬🇷 ([damavrom](https://gitlab.com/damavrom))
 - Piotr Kazimierski from Poland 🇵🇱 ([inquis1t0r](https://github.com/Inquis1t0r/))
 - Ravi from India 🇮🇳 ([xolve](https://github.com/xolve))
+- Gokul Swaminathan from the United States 🇺🇸 ([JavaCafe01](https://github.com/JavaCafe01))
 - Lucas Bittencourt from Brazil 🇧🇷 ([lucasnaja](https://github.com/lucasnaja))
 - Thomas from United States 🇺🇸 ([Hakerh400](https://github.com/Hakerh400))
 - Danny Kamps from The Netherlands 🇳🇱 ([Dkamps18](https://github.com/Dkamps18))
