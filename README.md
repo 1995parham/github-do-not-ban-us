@@ -504,6 +504,7 @@ You can:
 - Ali Sameni from Iran 🇮🇷 ([aliwesome](https://github.com/aliwesome))
 - Vahid Sadeghizadeh from Iran 🇮🇷 ([vsadeghizade](https://github.com/vsadeghizade))
 - Kiarash Zarinmehr from Iran 🇮🇷 ([Kiarash-Z](https://github.com/Kiarash-Z))
+- Carvell Scott from the United States ([CarvellScott](https://github.com/CarvellScott))
 - Pooya Eimandar from Iran 🇮🇷 ([pooyaeimandar](https://github.com/pooyaeimandar))
 - Shayan Karami from Iran 🇮🇷 ([Shayank](https://github.com/Shayank))
 - Milad GanjAli from Iran 🇮🇷 ([miladganjali](https://github.com/miladganjali))
