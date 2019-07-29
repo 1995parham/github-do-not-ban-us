@@ -619,6 +619,8 @@ You can:
 - James Kitching from Scotland 🇬🇧 ([Jachdich](https://github.com/Jachdich))
 - Victor Borges from Brazil 🇧🇷 ([v-borg](https://github.com/v-borg))
 - Tom W from Australia 🇦🇺 ([Tomicktwo](https://github.com/tomicktwo/))
+- SilenceHS from China 🇨🇳 ([SilenceHS](https://github.com/SilenceHS))
+- Ahmad Chehreghani from Iran 🇮🇷 ([AChehre](https://github.com/Achehre/))
 - Nima Habibkhoda from Iran  🇮🇷  ([nimahkh](https://github.com/nimahkh))
 - Morteza Karimi from Iran 🇮🇷 ([MortezaKarimi](https://github.com/mortezakarimi/))
 - pexcn from Taiwan 🇹🇼 ([pexcn](https://github.com/pexcn))
@@ -627,3 +629,4 @@ You can:
 - Tomas Votruba from Czech Republic 🇨🇿 ([TomasVotruba](https://github.com/TomasVotruba/))
 - LeiHen from China 🇨🇳 ([LeiHen](https://github.com/LeiHen))
 - Mahdi Malvandi from Iran 🇮🇷 ([mahdi-malv](https://github.com/mahdi-malv))
+- Michiel Bakker from The Netherlands 🇳🇱 ([jaffog](https://github.com/jaffog))
