@@ -90,3 +90,6 @@ Você pode:
 - [GitHub permite tornar repositórios privados em repos públicos](https://github.com/1995parham/github-do-not-ban-us/issues/666)
 
 ![nat-friedman](nat-friedman.png)
+
+## apoiadoras
+[apoiadoras](README.md#Supporters)
