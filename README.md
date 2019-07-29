@@ -620,6 +620,7 @@ You can:
 - James Kitching from Scotland 🇬🇧 ([Jachdich](https://github.com/Jachdich))
 - Victor Borges from Brazil 🇧🇷 ([v-borg](https://github.com/v-borg))
 - Tom W from Australia 🇦🇺 ([Tomicktwo](https://github.com/tomicktwo/))
+- Ashish Patel from India 🇮🇳 ([a-patel](https://github.com/a-patel))
 - YHYJ from China 🇨🇳 ([YHYJ](https://github.com/YHYJ))
 - Weixing from China 🇨🇳 ([yutellite](https://github.com/yutellite))
 - SilenceHS from China 🇨🇳 ([SilenceHS](https://github.com/SilenceHS))
