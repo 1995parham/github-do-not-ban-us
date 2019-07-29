@@ -690,3 +690,4 @@ You can:
 - zhangnix from China 🇨🇳 ([spreadnix](https://github.com/spreadnix))
 - Nicolas M. Pardo from Colombia 🇨🇴 ([nikodermus](https://github.com/nikodermus))
 - Berkan Dirim from Turkey 🇹🇷 ([berkandirim](https://github.com/berkandirim))
+- Sarmin Hamidi from Iran 🇮🇷 ([sarminh](https://github.com/sarminh))
