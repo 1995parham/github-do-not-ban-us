@@ -599,6 +599,7 @@ You can:
 - higoka from Switzerland 🇨🇭 ([higoka](https://github.com/higoka))
 - Mohammad Alian from Iran 🇮🇷 ([mdaliyan](https://github.com/mdaliyan))
 - Saulo Nunes from Brazil 🇧🇷 ([SauloNunes](https://github.com/SauloNunes))
+- Hiroto Fukui from Japan 🇯🇵 ([bary822](https://github.com/bary822))
 - Andy Shi from Indonesia 🇮🇩 ([andy-shi88](https://github.com/andy-shi88))
 - Ravi Sharma from India 🇮🇳 ([ravi-sharma](https://github.com/ravi-sharma))
 - William from Netherlands 🇳🇱 ([Gusted](https://github.com/Gusted))
