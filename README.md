@@ -692,3 +692,4 @@ You can:
 - Berkan Dirim from Turkey 🇹🇷 ([berkandirim](https://github.com/berkandirim))
 - Shahabaldin Mohammadi from Iran 🇹🇷 ([Stevelex-elex](https://github.com/stevelex-elex))
 - Mathieu TUDISCO from France 🇫🇷 ([mathieutu](https://github.com/mathieutu))
+- Victor Andrade from Brazil 🇧🇷 ([victorapa](https://github.com/victorapa))
