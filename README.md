@@ -614,3 +614,4 @@ You can:
 - Amir Ganji 🇮🇷 ([amirgi73](https://github.com/amirgi73))
 - Şahin Mersin from Turkey 🇹🇷 ([electrocoder](https://github.com/electrocoder))
 - Saulo Nunes from Brazil 🇧🇷 ([SauloNunes](https://github.com/SauloNunes))
+- Junior Rocha from Brazil 🇧🇷 ([rotchajunior](https://github.com/rotchajunior))
