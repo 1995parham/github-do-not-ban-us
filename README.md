@@ -626,6 +626,7 @@ You can:
 - James Kitching from Scotland 🇬🇧 ([Jachdich](https://github.com/Jachdich))
 - Victor Borges from Brazil 🇧🇷 ([v-borg](https://github.com/v-borg))
 - Tom W from Australia 🇦🇺 ([Tomicktwo](https://github.com/tomicktwo/))
+- Sepideh Abadpour from Iran ([Sepideh Abadpour](https://github.com/SepidehAbadpour))
 - Shailen Naidoo za ([ShailenNaidoo](https://github.com/ShailenNaidoo/hydrogen))
 - Mujan from Iran 🇮🇷 ([Mujan](https://github.com/MujanMujan/))
 - Orçun from Turkey 🇹🇷 ([0x01h](https://github.com/0x01h/))
