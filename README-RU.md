@@ -1,6 +1,6 @@
 # Сообщение для GitHub
 
-[English](./README.md) | [简体中文](./README-CN.md) | [Español](./README-ES.md) | [Ελληνικά](./README-GR.md) | [Italiano](./README-IT.md) | Русский | [فارسی](./README-PER.md) | [Française](./README-FR.md) | [Deutsch](./README-DE.md) | [العربية](./README-AR.md) | [Türkçe](./README-TR.md)
+[English](./README.md) | [简体中文](./README-CN.md) | [Español](./README-ES.md) | [Ελληνικά](./README-GR.md) | [Italiano](./README-IT.md) | Русский | [فارسی](./README-PER.md) | [Française](./README-FR.md) | [Deutsch](./README-DE.md) | [العربية](./README-AR.md) | [Türkçe](./README-TR.md) | [Nederlands](./README-NL.md) | [한국어](./README-KO.md)
 
 ![alt text](./message.png)
 
@@ -75,3 +75,6 @@ GitHub был открытой и свободной платформой для
 - [Behdad Esfahbod: So, recently @github has started disabling accounts of Iranian developers](https://twitter.com/behdadesfahbod/status/1154755351092158465?s=19) on Twitter
 - [Nuxt.js: Our core team member @_pi0_ cannot access our private repositories anymore on @github because of US Sanctions...
 ](https://t.co/4FiLexH9Mf) on Twitter
+
+## сторонников
+[список сторонников](README.md#Supporters)
