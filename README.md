@@ -100,6 +100,7 @@ You can:
 
 - Guga Nemsitsveridze from Georgia 🇬🇪 ([guganems](https://github.com/guganems))
 - Rustam from Russia 🇷🇺 ([rs-hub](https://github.com/rs-hub/))
+- Resaqulyubi from Indonesia  🇮🇩 ([Resaqulyubi](https://github.com/Resaqulyubi)) 
 - Marwen from Germany 🇩🇪 ([mtrabelsi](https://github.com/mtrabelsi))
 - MohamadKh75 from Iran 🇮🇷 ([MohamadKh75](https://github.com/MohamadKh75))
 - Amir Masud Zare Bidaki from Iran 🇮🇷 ([amirmasud](https://github.com/amirmasud))
