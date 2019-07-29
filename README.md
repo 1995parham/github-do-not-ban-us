@@ -1,7 +1,7 @@
 # A Message to GitHub
 
+English | [简体中文](./README-CN.md) | [Español ](./README-ES.md) | [Ελληνικά](./README-GR.md) | [Italiano](./README-IT.md) | [Русский](./README-RU.md) | [فارسی](./README-PER.md) | [Français ](./README-FR.md) | [Deutsch](./README-DE.md) | [Հայերէն](./README-HY.md) | [Српски](./README-SR.md) | [العربية](./README-AR.md) | [Türkçe](./README-TR.md) | [Português do Brasil](./README-PT-BR.md) | [Nederlands](./README-NL.md) | [한국어](./README-KO.md) | [日本語](./README-JA.md)
 
-English | [简体中文](./README-CN.md) | [Español ](./README-ES.md) | [Ελληνικά](./README-GR.md) | [Italiano](./README-IT.md) | [Русский](./README-RU.md) | [فارسی](./README-PER.md) | [Français ](./README-FR.md) | [Deutsch](./README-DE.md) | [Հայերէն](./README-HY.md) | [Српски](./README-SR.md) | [العربية](./README-AR.md) | [Türkçe](./README-TR.md) | [Português do Brasil](./README-PT-BR.md) | [Nederlands](./README-NL.md) | [한국어](./README-KO.md)
 
 ![alt text](./message.png)
 
@@ -65,6 +65,8 @@ You can:
 
 ## Further Readings
 
+- [GitHub restricts developer accounts based in Iran, Crimea, and other countries under US sanctions](https://www.theverge.com/2019/7/29/8934694/github-us-trade-sanctions-developers-restricted-crimea-cuba-iran-north-korea-syria)
+- [GitHub confirms it has blocked developers in Iran, Syria and Crimea](https://techcrunch.com/2019/07/29/github-ban-sanctioned-countries/)
 - [Microsoft enters: GitHub banned Iranian developers!](https://medium.com/@d.aliyamini/microsoft-enters-github-banned-iranian-developers-843f7c60a146)
 - [GitHub banned Iran-based users](https://financialtribune.com/articles/sci-tech/99111/github-bans-iran-based-users)
 - [GitHub has blocked an Iranian software developer account](https://hub.packtpub.com/github-has-blocked-an-iranian-software-developers-account)
@@ -98,10 +100,11 @@ You can:
 
 ## Supporters
 
+- Ali Pirpiran from Iran 🇮🇷 ([alipirpiran](https://github.com/alipirpiran))
 - Angelo Gazzola from Italy 🇮🇹 ([nglgzz](https://github.com/nglgzz))
 - Guga Nemsitsveridze from Georgia 🇬🇪 ([guganems](https://github.com/guganems))
 - Rustam from Russia 🇷🇺 ([rs-hub](https://github.com/rs-hub/))
-- Resaqulyubi from Indonesia  🇮🇩 ([Resaqulyubi](https://github.com/Resaqulyubi)) 
+- Resaqulyubi from Indonesia  🇮🇩 ([Resaqulyubi](https://github.com/Resaqulyubi))
 - Marwen from Germany 🇩🇪 ([mtrabelsi](https://github.com/mtrabelsi))
 - MohamadKh75 from Iran 🇮🇷 ([MohamadKh75](https://github.com/MohamadKh75))
 - Amir Masud Zare Bidaki from Iran 🇮🇷 ([amirmasud](https://github.com/amirmasud))
@@ -113,7 +116,7 @@ You can:
 - Brennen Green from the United States ([brennegreen](https://github.com/brennengreen))
 - Conner Orth from Netherlands 🇳🇱
 - Chris C from Luxembourg 🇱🇺
-- micheleriva from Italy 🇮🇹
+- Michele Riva from Italy 🇮🇹 ([micheleriva](https://github.com/micheleriva))
 - Angel Uniminin from Iceland 🇮🇸
 - Fahim from Bangladesh 🇧🇩
 - divinity1437 from Russia 🇷🇺
@@ -624,9 +627,12 @@ You can:
 - Saulo Nunes from Brazil 🇧🇷 ([SauloNunes](https://github.com/SauloNunes))
 - Lucas Alencar from Brazil 🇧🇷 ([alencarlucas](https://github.com/alencarlucas))
 - James Kitching from Scotland 🇬🇧 ([Jachdich](https://github.com/Jachdich))
+- Ragty from China 🇨🇳 ([Ragty](https://github.com/huoji555))
 - Victor Borges from Brazil 🇧🇷 ([v-borg](https://github.com/v-borg))
 - Tom W from Australia 🇦🇺 ([Tomicktwo](https://github.com/tomicktwo/))
 - Saurav Gupta from India 🇮🇳 ([sauzy34](https://github.com/sauzy34/))
+- Hao Wu from Japan 🇯🇵 ([wheatup](https://github.com/wheatup))
+- Azkar Moulana 🇱🇰 ([azkarmoulana](https://github.com/azkarmoulana))
 - Henry Huang from China 🇨🇳 ([henryhuang](https://github.com/henryhuang/))
 - Sepideh Abadpour from Iran ([Sepideh Abadpour](https://github.com/SepidehAbadpour))
 - Shailen Naidoo za ([ShailenNaidoo](https://github.com/ShailenNaidoo/hydrogen))
@@ -657,6 +663,7 @@ You can:
 - Samet Günaydın from Turkey 🇹🇷 ([rokumatsumoto](https://github.com/rokumatsumoto))
 - Mostafa Nazari from Iran 🇮🇷 ([rxdelta](https://github.com/rxdelta))
 - Martin Dünkelmann from Germany 🇩🇪 ([MartinX3](https://github.com/MartinX3))
+- Benjamin Balder Bach from Denmark 🇩🇰 ([benjaoming](https://github.com/benjaoming/))
 - lukmi15 from Germany 🇩🇪([lukmi15](https://github.com/lukmi15))
 - Ali Behrouzi from Iran 🇮🇷 ([alibh97](https://github.com/alibh97))
 - Li Chang Wei from China 🇨🇳 ([lichangwei](https://github.com/lichangwei))
@@ -666,3 +673,30 @@ You can:
 - ChronosX88 from Russia 🇷🇺 ([ChronosX88](https://github.com/ChronosX88))
 - Rohit Joshi from Nepal 🇳🇵 ([rohitjoshi21](https://github.com/rohitjoshi21))
 - Abhinaw Singh from India 🇮🇳 ([Abhinaw-Singh](https://github.com/Abhinaw-Singh))
+- Jan-Willem Spuij from The Netherlands 🇳🇱 ([jspuij](https://github.com/jspuij))
+- Alaa Masoud from Jordan 🇯🇴 ([alaatm](https://github.com/alaatm))
+- Mohsen Hariri from Iran and Sweden 🇮🇷 ([mhariri](https://github.com/mhariri))
+- imciflam from Russia 🇷🇺 ([imciflam](https://github.com/imciflam))
+- Horia Constantin from The Netherlands 🇳🇱 ([treaz](https://github.com/treaz))
+- Maxwell Walters from United States 🇺🇸 ([warpaltarpers](https://github.com/warpaltarpers))
+- Alireza from Netherlands 🇳🇱 ([blueocean907](https://github.com/blueocean907))
+- Khurram Shehzad from Pakistan 🇵🇰 ([Khurram Shehzad](https://github.com/khurram18))
+- Hannes Oberreiter from Austria 🇦🇹 ([HannesOberreiter](https://github.com/HannesOberreiter))
+- Maxime B. from France 🇫🇷 ([brainOut](https://github.com/brainOut))
+- Akın Özgen from Turkey 🇹🇷 ([akinozgen](https://github.com/akinozgen))
+- Robert Verst from Germany 🇩🇪([lukmi15](https://github.com/rverst))
+- Kamil Wojciechowski from Poland 🇵🇱 ([ninsy](https://github.com/ninsy))
+- Konrad Unrooted Klawikowski from Poland 🇵🇱 ([Unrooted](https://github.com/Unrooted))
+- Shahin Sorkh from Iran 🇮🇷 ([ShahinSorkh](https://github.com/ShahinSorkh))
+- zhangnix from China 🇨🇳 ([spreadnix](https://github.com/spreadnix))
+- Nicolas M. Pardo from Colombia 🇨🇴 ([nikodermus](https://github.com/nikodermus))
+- Berkan Dirim from Turkey 🇹🇷 ([berkandirim](https://github.com/berkandirim))
+- Shahabaldin Mohammadi from Iran 🇹🇷 ([Stevelex-elex](https://github.com/stevelex-elex))
+- Mathieu TUDISCO from France 🇫🇷 ([mathieutu](https://github.com/mathieutu))
+- Guillaume BOGARD from France 🇫🇷 ([gbogard](https://github.com/gbogard))
+- Victor Andrade from Brazil 🇧🇷 ([victorapa](https://github.com/victorapa))
+- Lucas de Menezes Haddad from Brazil 🇧🇷 ([LucasHaddad](https://github.com/LucasHaddad))
+- Gabriel Starling from Brazil 🇧🇷 ([MadStarling](https://github.com/MadStarling))
+- Ri Hyŏk Su from DPR Korea 🇰🇵
+- Lucas Bernardo de Sousa from Brazil 🇧🇷 ([lucasbsousa](https://github.com/lucasbsousa))
+- Maximilian Ruta from Germany ([Deltachaos](https://github.com/Deltachaos))
