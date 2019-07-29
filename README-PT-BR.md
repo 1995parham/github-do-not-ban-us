@@ -1,6 +1,6 @@
 # Uma Mensagem ao GitHub
 
-[English](./README.md) | [简体中文](./README-CN.md) | [Español ](./README-ES.md) | [Ελληνικά](./README-GR.md) | [Italiano](./README-IT.md) | [Русский](./README-RU.md) | [فارسی](./README-PER.md) | [Française ](./README-FR.md) | [Deutsch](./README-DE.md) | [Հայերէն](./README-HY.md) | [Српски](./README-SR.md) | [العربية](./README-AR.md) | [Türkçe](./README-TR.md) | Português do Brasil
+[English](./README.md) | [简体中文](./README-CN.md) | [Español ](./README-ES.md) | [Ελληνικά](./README-GR.md) | [Italiano](./README-IT.md) | [Русский](./README-RU.md) | [فارسی](./README-PER.md) | [Française ](./README-FR.md) | [Deutsch](./README-DE.md) | [Հայերէն](./README-HY.md) | [Српски](./README-SR.md) | [العربية](./README-AR.md) | [Türkçe](./README-TR.md) | [Nederlands](./README-NL.md) | [한국어](./README-KO.md) | Português do Brasil
 
 ![alt text](./message.png)
 
@@ -16,7 +16,7 @@ GitHub costumava ser uma plataforma aberta e para todos, porém eles decidiram r
 
 1. GitHub restringiu nosso acesso para repositórios privados de repente sendo que nós queríamos, no mínimo, sermos avisados antes que o acesso fosse restringido.
 
-2. O time do GitHub decidiu ir um passo além e restringir os usuários **baseados na Nacionalidade** não importa onde nós vivemos, sendo que els poderiam apenas restringir o acesso através do endereço IP como outras empresas americanas.
+2. O time do GitHub decidiu ir um passo além e restringir os usuários **baseados na Nacionalidade** não importa onde nós vivemos, sendo que eles poderiam apenas restringir o acesso através do endereço IP como outras empresas americanas.
 
 Eventualmente, nós temos esperança que o time do GitHub:
 
@@ -90,3 +90,6 @@ Você pode:
 - [GitHub permite tornar repositórios privados em repos públicos](https://github.com/1995parham/github-do-not-ban-us/issues/666)
 
 ![nat-friedman](nat-friedman.png)
+
+## Apoiadoras
+[Apoiadoras](README.md#Supporters)
