@@ -62,6 +62,7 @@ GitHub 曾经是一个面向所有人的开放、自由的平台，但它现在�
 
 ## 拓展阅读
 
+  - [GitHub CEO 正式回应账号访问受限事件！](https://mp.weixin.qq.com/s/ykXvqYJmic7to6vXkkQTng)
   - [美国对外实行制裁，致多个地区 GitHub 账号使用受限！](https://mp.weixin.qq.com/s/JB4TyNRSMVJ5I39rDDBWeg)
   - [微软插手：GitHub 限制伊朗开发者！](https://medium.com/@d.aliyamini/microsoft-enters-github-banned-iranian-developers-843f7c60a146)
   - [GitHub 禁止伊朗用户](https://financialtribune.com/articles/sci-tech/99111/github-bans-iran-based-users)
