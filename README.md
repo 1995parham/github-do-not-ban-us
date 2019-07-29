@@ -641,6 +641,7 @@ You can:
 - raben2 from Germany 🇩🇪 ([raben2](https://github.com/raben2))
 - Mahdi Malvandi from Iran 🇮🇷 ([mahdi-malv](https://github.com/mahdi-malv))
 - Michiel Bakker from The Netherlands 🇳🇱 ([jaffog](https://github.com/jaffog))
+- Hasan Ramezani from Iran 🇮🇷 ([hramezani](https://github.com/hramezani/))
 - François D from Belgium BE ([altnabla](https://github.com/altnabla))
 - Mohammad Mahdi Ramezanpour from Iran 🇮🇷 ([ramezanpour](https://github.com/ramezanpour))
 - Dražen Perić from Slovenia 🇸🇮 ([peric](https://github.com/peric))
