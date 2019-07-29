@@ -629,6 +629,7 @@ You can:
 - Wang Yu from China 🇨🇳 ([blogwy](https://github.com/blogwy))
 - Tomas Votruba from Czech Republic 🇨🇿 ([TomasVotruba](https://github.com/TomasVotruba/))
 - LeiHen from China 🇨🇳 ([LeiHen](https://github.com/LeiHen))
+- Henry Ruhs from Germany 🇩🇪 ([redaxmedia](https://github.com/redaxmedia))
 - raben2 from Germany 🇩🇪 ([raben2](https://github.com/raben2))
 - Mahdi Malvandi from Iran 🇮🇷 ([mahdi-malv](https://github.com/mahdi-malv))
 - Michiel Bakker from The Netherlands 🇳🇱 ([jaffog](https://github.com/jaffog))
