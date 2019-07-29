@@ -597,6 +597,7 @@ You can:
 - Nobel from Nepal 🇳🇵 ([Coderkoala](https://github.com/coderkoala))
 - higoka from Switzerland 🇨🇭 ([higoka](https://github.com/higoka))
 - Mohammad Alian from Iran 🇮🇷 ([mdaliyan](https://github.com/mdaliyan))
+- Ravi Sharma from India 🇮🇳 ([ravi-sharma](https://github.com/ravi-sharma))
 - William from Netherlands 🇳🇱 ([Gusted](https://github.com/Gusted))
 - Cihat Gündüz from Germany 🇩🇪 ([Dschee](https://github.com/Dschee))
 - ainar-g from Russia 🇷🇺 ([ainar-g](https://github.com/ainar-g))
