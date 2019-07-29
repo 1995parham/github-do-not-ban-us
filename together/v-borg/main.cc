@@ -2,9 +2,9 @@
 
 int main()
 {
-  while (true)
+    while (true)
     {
-      std::cout << "Github is for everyone!" << std::endl;
+        std::cout << "Github is for everyone!" << std::endl;
     }
 }
 
