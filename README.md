@@ -618,3 +618,4 @@ You can:
 - James Kitching from Scotland 🇬🇧 ([Jachdich](https://github.com/Jachdich))
 - Victor Borges from Brazil 🇧🇷 ([v-borg](https://github.com/v-borg))
 - Tom W from Australia 🇦🇺 ([Tomicktwo](https://github.com/tomicktwo/))
+- Henry Huang from China 🇨🇳 ([henryhuang](https://github.com/henryhuang/))
