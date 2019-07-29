@@ -697,3 +697,5 @@ You can:
 - Lucas de Menezes Haddad from Brazil 🇧🇷 ([LucasHaddad](https://github.com/LucasHaddad))
 - Gabriel Starling from Brazil 🇧🇷 ([MadStarling](https://github.com/MadStarling))
 - Ri Hyŏk Su from DPR Korea 🇰🇵
+- Lucas Bernardo de Sousa from Brazil 🇧🇷 ([lucasbsousa](https://github.com/lucasbsousa))
+- Maximilian Ruta from Germany ([Deltachaos](https://github.com/Deltachaos))
