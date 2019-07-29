@@ -625,3 +625,4 @@ You can:
 - Wang Yu from China 🇨🇳 ([blogwy](https://github.com/blogwy))
 - Tomas Votruba from Czech Republic 🇨🇿 ([TomasVotruba](https://github.com/TomasVotruba/))
 - LeiHen from China 🇨🇳 ([LeiHen](https://github.com/LeiHen))
+- Henry Ruhs from Germany 🇩🇪 ([redaxmedia](https://github.com/redaxmedia))
