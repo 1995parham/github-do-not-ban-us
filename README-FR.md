@@ -1,6 +1,6 @@
 # Un message pour GitHub
 
-[English](./README.md) | [简体中文](./README-CN.md) | [Español](./README-ES.md) | [Ελληνικά](./README-GR.md) | [Italiano](./README-IT.md) | [Русский](./README-RU.md) | [فارسی](./README-PER.md) | Français | [Deutsch](./README-DE.md) | [العربية](./README-AR.md) | [Türkçe](./README-TR.md)
+[English](./README.md) | [简体中文](./README-CN.md) | [Español](./README-ES.md) | [Ελληνικά](./README-GR.md) | [Italiano](./README-IT.md) | [Русский](./README-RU.md) | [فارسی](./README-PER.md) | Français | [Deutsch](./README-DE.md) | [العربية](./README-AR.md) | [Türkçe](./README-TR.md) | [Nederlands](./README-NL.md)
 
 ![alt text](./message.png)
 
@@ -67,4 +67,4 @@ Vous pouvez:
 - [GitHub starts blocking developers in countries facing US trade sanctions](https://www.zdnet.com/article/github-starts-blocking-developers-in-countries-facing-us-trade-sanctions)
 
 ## Supporters
-[README.md] (./README.md)
+[README.md](./README.md#Supporters)
