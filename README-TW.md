@@ -49,40 +49,16 @@ GitHub 曾經是一個對所有人都開放且自由的平台，但它現在卻�
 
 你可以在[此处](https://github.com/mohebifar/made-in-iran)查看完整列表。
 
-## 如何支持我们
+## 如何支持我們
 
-你可以在任何地方传播这则消息，并且“和对待自由言论一样“维护自由软件。
+你可以將這則訊息傳不在任何地方、並且“和支持最基本的言論自由一樣“維護自由軟體。
 你可以：
 
-- 加星并在社交平台上分享这个仓库，加上 #githubForEveryone 这个话题。
-- 在 “together” 文件夹中添加一个以你的用户名命名的文件夹。
-- 编写一份输出为“Github is for everyone”的代码（可以使用任何你想要的语言）。
-- 提交一个 PR。
-- 在支持者列表中添加你的名字和国籍。
-
-## 拓展阅读
-
-  - [美国对外实行制裁，致多个地区 GitHub 账号使用受限！](https://mp.weixin.qq.com/s/JB4TyNRSMVJ5I39rDDBWeg)
-  - [微软插手：GitHub 限制伊朗开发者！](https://medium.com/@d.aliyamini/microsoft-enters-github-banned-iranian-developers-843f7c60a146)
-  - [GitHub 禁止伊朗用户](https://financialtribune.com/articles/sci-tech/99111/github-bans-iran-based-users)
-  - [GitHub 限制了一位伊朗软件开发者的帐户](https://hub.packtpub.com/github-has-blocked-an-iranian-software-developers-account)
-  - [GitHub 开始限制受到美国贸易制裁的国家的开发者](https://www.zdnet.com/article/github-starts-blocking-developers-in-countries-facing-us-trade-sanctions)
-  - [在伊朗做开发者是一种怎样的体验](https://shahinsorkh.ir/2019/07/20/how-is-it-like-to-be-a-dev-in-iran)
-  - [我很幸运，但你不是](https://dev.to/jeromegamez/i-am-lucky-you-are-not-2eco)
-
-## 社交網路上的討論
-
-- Reddit 上的 [GitHub banned all Iranian users.](https://www.reddit.com/r/programming/comments/ciey8g/github_banned_all_iranian_users_our_accounts_are/)
-- Twitter 上的 [Dan Abramov: Wow, looking forward to getting blocked from @GitHub when US decides to sanction Russia](https://twitter.com/dan_abramov/status/1154869188672086019?s=19)
-- Twitter 上的 [Hamed Saeedi :Today @github blocked my access](https://twitter.com/Hamed/status/1154268514074660864?s=19)
-- Twitter 上的 [Behdad Esfahbod: So, recently @github has started disabling accounts of Iranian developers](https://twitter.com/behdadesfahbod/status/1154755351092158465?s=19)
-- Twitter 上的 [Nuxt.js: Our core team member @_pi0_ cannot access our private repositories anymore on @github because of US Sanctions...](https://t.co/4FiLexH9Mf)
-- Twitter 上的 [Conner Orth](https://twitter.com/conner_orth/status/1154723522729709568)
-- Twitter 上的 [Nat Friedman](https://twitter.com/natfriedman/status/1155311121038864384)
-
-## 新聞
-
-- [請 GitHub 允曲我們公開我們的私有專案](https://github.com/1995parham/github-do-not-ban-us/issues/666)
+- 星星並在分享此專案到社交平台，加上 #githubForEveryone 這個 hashtag。
+- 在 “together” 文件節裡新增以你的用戶名命名的資料夾。
+- 將 「Github is for everyone」翻譯成你的語言。
+- 提交 PR。
+- 在支持者列表中新增你的名字和國籍。
 
 ## 支持者列表
 
