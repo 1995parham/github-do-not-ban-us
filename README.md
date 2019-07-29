@@ -701,4 +701,5 @@ You can:
 - Ri Hyŏk Su from DPR Korea 🇰🇵
 - Lucas Bernardo de Sousa from Brazil 🇧🇷 ([lucasbsousa](https://github.com/lucasbsousa))
 - Maximilian Ruta from Germany ([Deltachaos](https://github.com/Deltachaos))
+- Hal Shin from Canada :canada: ([communitybicycle](https://github.com/communitybicycle))
 - Leandro Lopes Lima from Brazil 🇧🇷 ([limaleandro19999](https://github.com/limaleandro1999))
