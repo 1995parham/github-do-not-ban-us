@@ -695,3 +695,4 @@ You can:
 - Guillaume BOGARD from France 🇫🇷 ([gbogard](https://github.com/gbogard))
 - Victor Andrade from Brazil 🇧🇷 ([victorapa](https://github.com/victorapa))
 - Lucas de Menezes Haddad from Brazil 🇧🇷 ([LucasHaddad](https://github.com/LucasHaddad))
+- Hal Shin from Canada :canada: ([communitybicycle](https://github.com/communitybicycle))
