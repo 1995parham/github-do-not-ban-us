@@ -669,5 +669,6 @@ You can:
 - ChronosX88 from Russia 🇷🇺 ([ChronosX88](https://github.com/ChronosX88))
 - Rohit Joshi from Nepal 🇳🇵 ([rohitjoshi21](https://github.com/rohitjoshi21))
 - Abhinaw Singh from India 🇮🇳 ([Abhinaw-Singh](https://github.com/Abhinaw-Singh))
+- Konrad Unrooted Klawikowski from Poland 🇵🇱 ([Unrooted](https://github.com/Unrooted))
 - Shahin Sorkh from Iran 🇮🇷 ([ShahinSorkh](https://github.com/ShahinSorkh))
 - zhangnix from China 🇨🇳 ([spreadnix](https://github.com/spreadnix))
