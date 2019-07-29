@@ -207,7 +207,7 @@ You can:
 - Mohamad Fadavi ([fadavi](https://github.com/fadavi))
 - Mojtaba Valipour from Iran 🇮🇷 ([mvpcom](https://github.com/mvpcom))
 - Arman Hosseini from Iran 🇮🇷 ([arman-hosseini](https://github.com/arman-hosseini))
-- Abdellah Chadidi from Morocco 🇲🇦 ([chadidi](https://github.com/chadidi))
+- Abdellah Chadidi from $ 🇲🇦 ([chadidi](https://github.com/chadidi))
 - Karim Oulad Chalha from Morocco 🇲🇦 ([karim88](https://github.com/karim88/))
 - Ali Amirnezhad from Iran 🇮🇷 ([webilix](https://github.com/webilix))
 - Sarah Akhavan Kazemzadeh ([sarahakhavan](https://github.com/sarahakhavan))
@@ -669,3 +669,4 @@ You can:
 - ChronosX88 from Russia 🇷🇺 ([ChronosX88](https://github.com/ChronosX88))
 - Rohit Joshi from Nepal 🇳🇵 ([rohitjoshi21](https://github.com/rohitjoshi21))
 - Abhinaw Singh from India 🇮🇳 ([Abhinaw-Singh](https://github.com/Abhinaw-Singh))
+- Zakariae EL Mesaoudi from Morocco 🇲🇦 ([zackmeso](https://github.com/zackmeso/))
