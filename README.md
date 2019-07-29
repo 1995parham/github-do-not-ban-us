@@ -622,3 +622,4 @@ You can:
 - Wang Yu from China 🇨🇳 ([blogwy](https://github.com/blogwy))
 - Tomas Votruba from Czech Republic 🇨🇿 ([TomasVotruba](https://github.com/TomasVotruba/))
 - LeiHen from China 🇨🇳 ([LeiHen](https://github.com/LeiHen))
+- Michiel Bakker from The Netherlands 🇳🇱 ([jaffog](https://github.com/jaffog))
