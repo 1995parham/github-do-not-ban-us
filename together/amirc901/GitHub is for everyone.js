@@ -1,0 +1,1 @@
+alert("GitHub is for everyone");
