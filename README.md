@@ -673,3 +673,4 @@ You can:
 - Konrad Unrooted Klawikowski from Poland 🇵🇱 ([Unrooted](https://github.com/Unrooted))
 - Shahin Sorkh from Iran 🇮🇷 ([ShahinSorkh](https://github.com/ShahinSorkh))
 - zhangnix from China 🇨🇳 ([spreadnix](https://github.com/spreadnix))
+- Nicolas M. Pardo from Colombia 🇨🇴 ([nikodermus](https://github.com/nikodermus))
