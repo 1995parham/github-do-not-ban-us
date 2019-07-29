@@ -65,6 +65,8 @@ You can:
 
 ## Further Readings
 
+- [GitHub restricts developer accounts based in Iran, Crimea, and other countries under US sanctions](https://www.theverge.com/2019/7/29/8934694/github-us-trade-sanctions-developers-restricted-crimea-cuba-iran-north-korea-syria)
+- [GitHub confirms it has blocked developers in Iran, Syria and Crimea](https://techcrunch.com/2019/07/29/github-ban-sanctioned-countries/)
 - [Microsoft enters: GitHub banned Iranian developers!](https://medium.com/@d.aliyamini/microsoft-enters-github-banned-iranian-developers-843f7c60a146)
 - [GitHub banned Iran-based users](https://financialtribune.com/articles/sci-tech/99111/github-bans-iran-based-users)
 - [GitHub has blocked an Iranian software developer account](https://hub.packtpub.com/github-has-blocked-an-iranian-software-developers-account)
@@ -689,3 +691,4 @@ You can:
 - Nicolas M. Pardo from Colombia 🇨🇴 ([nikodermus](https://github.com/nikodermus))
 - Berkan Dirim from Turkey 🇹🇷 ([berkandirim](https://github.com/berkandirim))
 - Shahabaldin Mohammadi from Iran 🇹🇷 ([Stevelex-elex](https://github.com/stevelex-elex))
+- Mathieu TUDISCO from France 🇫🇷 ([mathieutu](https://github.com/mathieutu)
