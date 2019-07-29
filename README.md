@@ -703,3 +703,4 @@ You can:
 - Maximilian Ruta from Germany ([Deltachaos](https://github.com/Deltachaos))
 - Hal Shin from Canada :canada: ([communitybicycle](https://github.com/communitybicycle))
 - Leandro Lopes Lima from Brazil 🇧🇷 ([limaleandro19999](https://github.com/limaleandro1999))
+- Cássio Almeida from Brazil 🇧🇷 ([kssioalmeida](https://github.com/kssioalmeida))
