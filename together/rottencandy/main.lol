@@ -1,0 +1,10 @@
+HAI 1.3
+
+CAN HAS STDIO?
+
+I HAS A MESSAGE ITZ "GitHub is for everyone"
+
+VISIBLE MESSAGE
+
+KTHXBYE
+
