@@ -105,6 +105,7 @@ You can:
 - Marco Aceti from Italy 🇮🇹 ([MarcoBuster](https://github.com/MarcoBuster))
 - Daniil Gentili from Italy and Russia 🇮🇹 🇷🇺 ([danog](https://github.com/danog))
 - Seamus Donnellan from Australia 🇦🇺 ([donnellan0007](https://github.com/donnellan0007))
+- Brennen Green from the United States ([brennegreen](https://github.com/brennengreen))
 - Conner Orth from Netherlands 🇳🇱
 - Chris C from Luxembourg 🇱🇺
 - micheleriva from Italy 🇮🇹
