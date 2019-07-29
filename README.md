@@ -98,6 +98,7 @@ You can:
 
 ## Supporters
 
+- Angelo Gazzola from Italy 🇮🇹 ([nglgzz](https://github.com/nglgzz))
 - Guga Nemsitsveridze from Georgia 🇬🇪 ([guganems](https://github.com/guganems))
 - Rustam from Russia 🇷🇺 ([rs-hub](https://github.com/rs-hub/))
 - Marwen from Germany 🇩🇪 ([mtrabelsi](https://github.com/mtrabelsi))
