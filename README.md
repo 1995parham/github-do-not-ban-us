@@ -691,4 +691,4 @@ You can:
 - Nicolas M. Pardo from Colombia 🇨🇴 ([nikodermus](https://github.com/nikodermus))
 - Berkan Dirim from Turkey 🇹🇷 ([berkandirim](https://github.com/berkandirim))
 - Shahabaldin Mohammadi from Iran 🇹🇷 ([Stevelex-elex](https://github.com/stevelex-elex))
-- Mathieu TUDISCO from France 🇫🇷 ([mathieutu](https://github.com/mathieutu)
+- Mathieu TUDISCO from France 🇫🇷 ([mathieutu](https://github.com/mathieutu))
