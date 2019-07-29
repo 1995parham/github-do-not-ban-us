@@ -615,3 +615,4 @@ You can:
 - Şahin Mersin from Turkey 🇹🇷 ([electrocoder](https://github.com/electrocoder))
 - Saulo Nunes from Brazil 🇧🇷 ([SauloNunes](https://github.com/SauloNunes))
 - Lucas Alencar from Brazil 🇧🇷 ([alencarlucas](https://github.com/alencarlucas))
+- Alexis Duarte from México 🇲🇽 ([alecsisduarte](https://github.com/alecsisduarte))
