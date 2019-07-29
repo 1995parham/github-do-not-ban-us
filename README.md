@@ -114,7 +114,7 @@ You can:
 - Brennen Green from the United States ([brennegreen](https://github.com/brennengreen))
 - Conner Orth from Netherlands 🇳🇱
 - Chris C from Luxembourg 🇱🇺
-- micheleriva from Italy 🇮🇹
+- Michele Riva from Italy 🇮🇹 ([micheleriva](https://github.com/micheleriva))
 - Angel Uniminin from Iceland 🇮🇸
 - Fahim from Bangladesh 🇧🇩
 - divinity1437 from Russia 🇷🇺
