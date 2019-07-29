@@ -640,6 +640,7 @@ You can:
 - raben2 from Germany 🇩🇪 ([raben2](https://github.com/raben2))
 - Mahdi Malvandi from Iran 🇮🇷 ([mahdi-malv](https://github.com/mahdi-malv))
 - Michiel Bakker from The Netherlands 🇳🇱 ([jaffog](https://github.com/jaffog))
+- Mostafa Nazari from Iran 🇮🇷 ([rxdelta](https://github.com/rxdelta))
 - Martin Dünkelmann from Germany 🇩🇪 ([MartinX3](https://github.com/MartinX3))
 - lukmi15 from Germany 🇩🇪([lukmi15](https://github.com/lukmi15))
 - Ali Behrouzi from Iran 🇮🇷 ([alibh97](https://github.com/alibh97))
