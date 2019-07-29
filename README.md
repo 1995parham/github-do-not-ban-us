@@ -629,3 +629,4 @@ You can:
 - Tomas Votruba from Czech Republic 🇨🇿 ([TomasVotruba](https://github.com/TomasVotruba/))
 - LeiHen from China 🇨🇳 ([LeiHen](https://github.com/LeiHen))
 - Michiel Bakker from The Netherlands 🇳🇱 ([jaffog](https://github.com/jaffog))
+- Robert Fridzema from The Netherlands 🇳🇱 ([fridzema](https://github.com/fridzema))
