@@ -11,7 +11,7 @@
 
 ## 介绍
 
-GitHub 曾經是一個對所有人都開放且自由的平台，但它現在卻決定限制伊朗用戶的使用、將之排除於開源生態。即使我们知道 GitHub 可能是在美國政府的施壓下做出此決定，但我們希望 GitHub 採取更尊重用戶的措施。
+GitHub 曾經是一個對所有人都開放且自由的平台，但它現在卻決定限制伊朗用戶的使用、將之排除於開源生態。即使我們知道 GitHub 可能是在美國政府的施壓下做出此決定，但我們希望 GitHub 採取更尊重用戶的措施。
 
 1. GitHub 突然限制了我们使用私有專案的權限，而我們希望 GitHub 最起碼要在採取該限制措施時先警告/告知我們。
 
@@ -22,7 +22,7 @@ GitHub 曾經是一個對所有人都開放且自由的平台，但它現在卻�
 - 允許我們下載我們的私有專案和 gist ，並且能在權限設置設定成公開。
   - **更新**：現在可以公開私有專案了、但還是不能將私有 gist 改成公開。
 - 改變現有的限制政策，不可根據用戶國籍來評斷限制與否。
-- 公開宣布他們得決定並且將為這次限制事件公開道歉（就像之前 Slack 公司為類似情況做的道歉：https://slackhq.com/an-apology-and-an-update ）。
+- 為這次限制事件公開道歉（就像之前 Slack 公司為類似情況做的道歉：https://slackhq.com/an-apology-and-an-update ）並公開宣布他們的進一步措施。
 
 ## 伊朗開發者貢獻的開源項目
 
@@ -47,7 +47,7 @@ GitHub 曾經是一個對所有人都開放且自由的平台，但它現在卻�
 - [@soroushchehresa](https://github.com/soroushchehresa)/[**vue-soundcloud**](https://github.com/soroushchehresa/vue-soundcloud)
 - [@soroushchehresa](https://github.com/soroushchehresa)/[**unsplash-wallpapers**](https://github.com/soroushchehresa/unsplash-wallpapers)
 
-你可以在[此处](https://github.com/mohebifar/made-in-iran)查看完整列表。
+你可以在[此處](https://github.com/mohebifar/made-in-iran)查看完整列表。
 
 ## 如何支持我們
 
