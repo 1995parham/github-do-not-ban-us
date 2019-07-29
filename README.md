@@ -696,3 +696,8 @@ You can:
 - Victor Andrade from Brazil 🇧🇷 ([victorapa](https://github.com/victorapa))
 - Lucas de Menezes Haddad from Brazil 🇧🇷 ([LucasHaddad](https://github.com/LucasHaddad))
 - Tony Simoes from France 🇫🇷 ([netapau](https://github.com/netapau)) 
+- Gabriel Starling from Brazil 🇧🇷 ([MadStarling](https://github.com/MadStarling))
+- Ri Hyŏk Su from DPR Korea 🇰🇵
+- Lucas Bernardo de Sousa from Brazil 🇧🇷 ([lucasbsousa](https://github.com/lucasbsousa))
+- Maximilian Ruta from Germany ([Deltachaos](https://github.com/Deltachaos))
+
