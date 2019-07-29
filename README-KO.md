@@ -1,36 +1,36 @@
-# A Message to GitHub
+# Github를 향한 메시지
 
-English | [简体中文](./README-CN.md) | [Español ](./README-ES.md) | [Ελληνικά](./README-GR.md) | [Italiano](./README-IT.md) | [Русский](./README-RU.md) | [فارسی](./README-PER.md) | [Française ](./README-FR.md) | [Deutsch](./README-DE.md) | [Հայերէն](./README-HY.md) | [Српски](./README-SR.md) | [العربية](./README-AR.md) | [Türkçe](./README-TR.md)
+[English](./README.md) | [简体中文](./README-CN.md) | [Español ](./README-ES.md) | [Ελληνικά](./README-GR.md) | [Italiano](./README-IT.md) | [Русский](./README-RU.md) | [فارسی](./README-PER.md) | [Française ](./README-FR.md) | [Deutsch](./README-DE.md) | [Հայերէն](./README-HY.md) | [Српски](./README-SR.md) | [العربية](./README-AR.md) | [Türkçe](./README-TR.md) | [Português do Brasil](./README-PT-BR.md) | 한국어
 
-English | [简体中文](./README-CN.md) | [Español ](./README-ES.md) | [Ελληνικά](./README-GR.md) | [Italiano](./README-IT.md) | [Русский](./README-RU.md) | [فارسی](./README-PER.md) | [Française ](./README-FR.md) | [Deutsch](./README-DE.md) | [Հայերէն](./README-HY.md) | [Српски](./README-SR.md) | [العربية](./README-AR.md) | [Türkçe](./README-TR.md) | [Português do Brasil](./README-PT-BR.md) | [Nederlands](./README-NL.md) | [한국어](./README-KO.md)
- 
 ![alt text](./message.png)
 
 ~~**Tip:** You can use [this extension](https://github.com/JafarAkhondali/remove-github-restrictions-message) or [this extension](https://github.com/MohamadKh75/ShutHub) or [this tampermonkey script](https://gist.github.com/HirbodBehnam/2e079e187be0b1b6a6bcb734ed88474e) or [Stylish](https://userstyles.org/styles/173827/hide-github-warning) to hide this yellow box!~~
 
-**UPDATE:** The warning message is dismissable now.
+**변경됨** : 경고 메시지는 이제 닫을 수 있습니다.
 
 ![github-octocat](https://user-images.githubusercontent.com/16706911/61997137-7aa7df00-b0b2-11e9-97f1-f452855fe21c.png)
 
-## Introduction
+## 소개
 
-GitHub used to be an open and free platform for everyone, but it has decided to restrict Iranian accounts from contributing and being part of the open-source ecosystem. Although we understand GitHub might make this decision under the pressure of US government, we were expecting a more respectful action from GitHub.
+GitHub는 모두에게 자유롭고 열려있는 플랫폼이었습니다. 그러나 이란의 계정이 오픈소스 생태계에 기여하거나 참여하지 못하도록 제한되었습니다. GitHub의 결정은 미국 정부의 압력에 따라 결정을 내린 것이므로 이해하지만, 조금 더 GitHub에 존중받을만한 결정을 기대하고 있었습니다.
 
-1. GitHub restricted our access to private repositories suddenly, but at the very least we wanted GitHub to warn us before limiting our access.
 
-2. GitHub decided to take one step further and ban every user that used Iran's IP address somewhere their history no matter where she/he is living, while they could just restrict access by IP address like other US-based companies. This action is kind of ban by nationality.
+1. GitHub는 갑작스럽게 비공개 저장소에 대한 접근을 제한했지만, 적어도 우리에게 사전에 안내 해주었어야합니다.
+2. GitHub는 더 나아가 이란의 IP 주소를 사용하는 모든 사용자가 자신이 어디에 살고있는지 상관없이 다른 미국에 있는 회사와 마찬가지로 IP 주소로 접근을 제한할 수 있다고 결정했습니다. 이 행동은 국적을 차별하는 금지입니다.
 
-Eventually, we are hoping that GitHub's team will:
 
-- Let us download our private repositories and gists and also make them public (setting control).
-  **UPDATE:** It is possible now to make private repositories public, however this option is not available on private gists (containing IDE Setting Sync files etc.) yet.
-- Change their restriction policies so as to not limit users based on their Nationality.
-- Announce their decision publicly and apologize for making this situation (like what Slack did before in the same situation: https://slackhq.com/an-apology-and-an-update).
-- **UPDATE** GitHub page are now working for restricted persons.
+우리는 GitHub 팀에 다음의 내용을 기대합니다:
 
-## Open-source projects made by Iranian developers
+- 개인 정보 저장소 및 gists를 다운로드하고 공개할 수 있도록(설정가능하게) 하십시오.
+  - **변경됨** 이제는 비공개 저장소를 공개할 수 있습니다 그러나 비공개 gists(IDE 설정파일 등)는 아직 안됩니다.
+- 국적이 어디인지에 따라 사용자를 제한하지 않도록 제한 정책을 변경하십시오.
+- 이러한 결정을 공개적으로 발표하고 이 같은 상황(이전의 [슬랙](https://slackhq.com/an-apology-and-an-update))을 만들기 위해 사과하십시오.
+- **변경됨** GitHub 페이지는 이제 제한된 사람들이 접근할 수 있습니다.
 
-Some examples of open-source projects created by Iranian developers:
+## 이란 개발자들이 만든 오픈소스 프로젝트
+
+이란 개발자가 만든 오픈소스 프로젝트의 일부입니다:
+
 
 - [@harfbuzz](https://github.com/harfbuzz)/[**harfbuzz**](https://github.com/harfbuzz/harfbuzz)
 - [@usablica](https://github.com/usablica)/[**intro.js**](https://github.com/usablica/intro.js)
@@ -51,20 +51,21 @@ Some examples of open-source projects created by Iranian developers:
 - [@soroushchehresa](https://github.com/soroushchehresa)/[**vue-soundcloud**](https://github.com/soroushchehresa/vue-soundcloud)
 - [@soroushchehresa](https://github.com/soroushchehresa)/[**unsplash-wallpapers**](https://github.com/soroushchehresa/unsplash-wallpapers)
 
-You can find the full list [here](https://github.com/mohebifar/made-in-iran).
+[여기](https://github.com/mohebifar/made-in-iran)에 전체 목록이 있습니다.
 
-## How you can support us
+## 어떻게 도와줄 수 있습니까
 
-You can spread the message everywhere you can, and keep the Free Software "as in Free speech".
-You can:
+가능한 모든 곳에 이 메시지를 알리고, 자유 소프트웨어를 "표현의 자유"와 같이 지켜주십시오.
 
-- Star and share this repo on social platforms with **#githubForEveryone**.
-- Add a folder with your username in ["together" folder](together).
-- Write a piece of code that prints "GitHub is for everyone" (in any language you wish).
-- Create a pull request.
-- Add your name and your country to the [supporters section](#supporters).
+이렇게 해주세요:
 
-## Further Readings
+- Star를 누르고, 이 저장소를 **#githubForEveryone** 태그와 함께 소셜미디어에 공유해주세요.
+- username이 있는 폴더를 ["together" folder](together)에 추가하십시오.
+- "GItHub is for everyon" 을 원하는 언어로 작성해주세요.
+- 풀 리퀘스트를 만드세요.
+- 이름과 국적을 [서포터 섹션](#supporters)에 추가하세요.
+
+## 더 읽어보기
 
 - [Microsoft enters: GitHub banned Iranian developers!](https://medium.com/@d.aliyamini/microsoft-enters-github-banned-iranian-developers-843f7c60a146)
 - [GitHub banned Iran-based users](https://financialtribune.com/articles/sci-tech/99111/github-bans-iran-based-users)
@@ -77,7 +78,8 @@ You can:
 - [GitHub blocked my account and they think I’m developing nuclear weapons](https://medium.com/@hamed/github-blocked-my-account-and-they-think-im-developing-nuclear-weapons-e7e1fe62cb74)
 - [Yellow badges are back. This time not by Nazi Germany & not for Jews, but by U.S. tech companies](https://medium.com/@hamed/yellow-badges-are-back-this-time-not-by-nazi-germany-not-for-jews-but-by-u-s-tech-companies-48e92d690176)
 - [Github: The largest developer communities from every corner of the globe, But Iran!](https://medium.com/@khalesic/github-the-largest-developer-communities-from-every-corner-of-the-globe-but-iran-804c05a991df)
-## On Social Networks
+
+## 소셜 미디어
 
 - [GitHub banned all Iranian users.](https://www.reddit.com/r/programming/comments/ciey8g/github_banned_all_iranian_users_our_accounts_are/) on Reddit
 - [Dan Abramov: Wow, looking forward to getting blocked from @GitHub when US decides to sanction Russia](https://twitter.com/dan_abramov/status/1154869188672086019?s=19) on Twitter
@@ -89,15 +91,15 @@ You can:
 - [Pooya Eimandar:@github disabled my repos without prior notice.](https://twitter.com/_poei/status/1154994262884454400) on Twitter
 - [Pooya Eimandar:I've been paid github for more than three years and now I can't even export my repos because of my nationality. ](https://www.reddit.com/r/github/comments/cirde7/ive_been_paid_github_for_more_than_three_years/?st=jympkq19&sh=df5e5410) on Reddit
 
-## News
+## 뉴스
 
 - [GitHub allow us to make our private repositories, public](https://github.com/1995parham/github-do-not-ban-us/issues/666)
 
 ![nat-friedman](nat-friedman.png)
 
-- GitHub page are now working for restricted persons.
+- GitHub 페이지는 이제 제한된 사용자들이 접근할 수 있습니다.
 
-## Supporters
+## 서포터
 
 - Marwen from Germany 🇩🇪 ([mtrabelsi](https://github.com/mtrabelsi))
 - MohamadKh75 from Iran 🇮🇷 ([MohamadKh75](https://github.com/MohamadKh75))
@@ -107,7 +109,6 @@ You can:
 - Marco Aceti from Italy 🇮🇹 ([MarcoBuster](https://github.com/MarcoBuster))
 - Daniil Gentili from Italy and Russia 🇮🇹 🇷🇺 ([danog](https://github.com/danog))
 - Seamus Donnellan from Australia 🇦🇺 ([donnellan0007](https://github.com/donnellan0007))
-- Brennen Green from the United States ([brennegreen](https://github.com/brennengreen))
 - Conner Orth from Netherlands 🇳🇱
 - Chris C from Luxembourg 🇱🇺
 - micheleriva from Italy 🇮🇹
@@ -149,7 +150,6 @@ You can:
 - Farid Forootan Shad from Iran 🇮🇷 ([faridfor](https://github.com/faridfor))
 - Vahid Bazzaz from Iran 🇮🇷 ([vahidbazzaz](https://github.com/vahidbazzaz))
 - Iman Khoshabbi from Iran 🇮🇷 ([imaNNeoFighT](https://github.com/imaNNeoFighT))
-- iyotetsuya from Taiwan 🇹🇼 ([iyotetsuya](https://github.com/iyotetsuya))
 - Muhammad Javad Falahi from Iran 🇮🇷 ([MJFalahi](https://github.com/MJFalahi))
 - Sina Darvishi from Iran 🇮🇷 ([SinaDarvi](https://github.com/SinaDarvi))
 - Adib Faramarzi from Iran 🇮🇷 ([adibfara](https://github.com/adibfara))
@@ -301,7 +301,6 @@ You can:
 - Saeid Doroudi from Iran 🇮🇷 ([doroudi](https://github.com/doroudi))
 - Mohammad Ganji from Iran 🇮🇷 ([MohGanji](https://github.com/MohGanji/))
 - Parham from Iran 🇮🇷 ([parhambz](https://github.com/parhambz))
-- Alireza Heydari from Iran 🇮🇷 ([alirezahi](https://github.com/alirezahi))
 - Mohammad Amin Chitgarha from Iran 🇮🇷 ([MAChitgarha](https://github.com/MAChitgarha/))
 - Anand Chowdhary from India and Netherlands 🇮🇳 🇳🇱 ([AnandChowdhary](https://github.com/AnandChowdhary))
 - Nima Amiri from Iran 🇮🇷 ([MAChitgarha](https://github.com/arc92))
@@ -547,7 +546,7 @@ You can:
 - Simon Tas from Belgium 🇧🇪 ([nomis6432](https://github.com/nomis6432))
 - Amin Yazdanpanah from Iran 🇮🇷 ([aminyazdanpanah](https://github.com/aminyazdanpanah))
 - Pooya Barati from Iran 🇮🇷 ([pooyabarati](https://github.com/pooyabarati))
-- Rogério dos Santos Fernandes 🇧🇷 ([spartanroger](https://github.com/spartanroger))
+- Rogério dos Santos Fernandes from Brazil 🇧🇷 ([spartanroger](https://github.com/spartanroger))
 - Tim Visée from the Netherlands 🇳🇱 ([timvisee](https://github.com/timvisee))
 - Imed Jaberi from Tunisia 🇹🇳 ([3imed-jaberi](https://github.com/3imed-jaberi))
 - Abdolreza Taheri from Iran 🇮🇷 ([abdolrezat](https://github.com/abdolrezat/))
@@ -594,7 +593,6 @@ You can:
 - Maryam Mehrabian from Norway 🇳🇴([marme660](https://github.com/marme660))
 - Hossein Shabani from Iran 🇮🇷 ([HosseinShabani](https://github.com/HosseinShabani))
 - Mihir Chaturvedi from India 🇮🇳 ([plibither8](https://github.com/plibither8))
-- Amit Eshore from India 🇮🇳 ([amiteshore](https://github.com/amiteshore))
 - Pooya Khandel from Iran 🇮🇷 ([po_oya](https://github.com/PoOyaKhandel))
 - Luiz Eduardo Amaral from Brazil 🇧🇷 ([luxedo](https://github.com/luxedo))
 - Lory from the United States 🇺🇸 and Iran 🇮🇷 ([Lorymi](https://github.com/Lorymi))
@@ -603,21 +601,5 @@ You can:
 - Nobel from Nepal 🇳🇵 ([Coderkoala](https://github.com/coderkoala))
 - higoka from Switzerland 🇨🇭 ([higoka](https://github.com/higoka))
 - Mohammad Alian from Iran 🇮🇷 ([mdaliyan](https://github.com/mdaliyan))
-- Taskeren from China 🇨🇳 ([nitu2003](https://github.com/nitu2003))
-- Chenzhen from China 🇨🇳 ([xoinstein](https://github.com/xoinstein))
-- Ami from the US 🇺🇸 ([Memitaru](https://github.com/memitaru))
-- Abi أب from Indonesia 🇮🇩 ([el7cosmos](https://github.com/el7cosmos))
-- John Mactavish from China 🇨🇳 ([gonearewe](https://github.com/gonearewe))
-- Hiroto Fukui from Japan 🇯🇵 ([bary822](https://github.com/bary822))
-- Andy Shi from Indonesia 🇮🇩 ([andy-shi88](https://github.com/andy-shi88))
-- Ravi Sharma from India 🇮🇳 ([ravi-sharma](https://github.com/ravi-sharma))
-- William from Netherlands 🇳🇱 ([Gusted](https://github.com/Gusted))
-- Cihat Gündüz from Germany 🇩🇪 ([Dschee](https://github.com/Dschee))
-- ainar-g from Russia 🇷🇺 ([ainar-g](https://github.com/ainar-g))
-- Amir Ganji 🇮🇷 ([amirgi73](https://github.com/amirgi73))
-- Şahin Mersin from Turkey 🇹🇷 ([electrocoder](https://github.com/electrocoder))
-- Saulo Nunes from Brazil 🇧🇷 ([SauloNunes](https://github.com/SauloNunes))
-- Lucas Alencar from Brazil 🇧🇷 ([alencarlucas](https://github.com/alencarlucas))
-- James Kitching from Scotland 🇬🇧 ([Jachdich](https://github.com/Jachdich))
-- Victor Borges from Brazil 🇧🇷 ([v-borg](https://github.com/v-borg))
-- Tom W from Australia 🇦🇺 ([Tomicktwo](https://github.com/tomicktwo/))
+
+****

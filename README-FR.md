@@ -1,17 +1,17 @@
 # Un message pour GitHub
 
-[English](./README.md) | [简体中文](./README-CN.md) | [Español](./README-ES.md) | [Ελληνικά](./README-GR.md) | [Italiano](./README-IT.md) | [Русский](./README-RU.md) | [فارسی](./README-PER.md) | Française | [Deutsch](./README-DE.md) | [العربية](./README-AR.md) | [Türkçe](./README-TR.md)
+[English](./README.md) | [简体中文](./README-CN.md) | [Español](./README-ES.md) | [Ελληνικά](./README-GR.md) | [Italiano](./README-IT.md) | [Русский](./README-RU.md) | [فارسی](./README-PER.md) | Français | [Deutsch](./README-DE.md) | [العربية](./README-AR.md) | [Türkçe](./README-TR.md) | [Nederlands](./README-NL.md) | [한국어](./README-KO.md)
 
 ![alt text](./message.png)
 
-Astuce: Vous pouvez utiliser [cette extension](https://github.com/JafarAkhondali/remove-github-restrictions-message) ou [cette extension](https://github.com/MohamadKh75/ShutHub) Pour cacher cette boite jaune!
+Astuce: vous pouvez utiliser [cette extension](https://github.com/JafarAkhondali/remove-github-restrictions-message) ou [cette extension](https://github.com/MohamadKh75/ShutHub) pour cacher cette boite jaune!
 
 ![github-octocat](https://user-images.githubusercontent.com/16706911/61997137-7aa7df00-b0b2-11e9-97f1-f452855fe21c.png)
 
 
 ## Introduction
 
-GitHub était une platforme ouverte, libre et gratuite pour tout le monde, mais elle a décidée d'interdire les comptes Iraniens de contribuer et faire partie de l'écosystème open-source. Nous comprenons que GitHub a pris cette décision suite à la pression du gouvernement Américain, nous nous attendions à une action plus respectueuse de la part de GitHub.
+GitHub était une platforme ouverte, libre et gratuite pour tout le monde, mais elle a décidé d'interdire les comptes iraniens de contribuer et faire partie de l'écosystème open-source. Nous comprenons que GitHub a pris cette décision suite à la pression du gouvernement américain, nous nous attendions à une action plus respectueuse de la part de GitHub.
 
 1. GitHub a soudainement restreint notre accès aux dépots privés. Nous aurions souhaité que GitHub nous avertisse avant de le limiter.
 
@@ -19,37 +19,32 @@ GitHub était une platforme ouverte, libre et gratuite pour tout le monde, mais 
 
 Nous espérons que l'équipe de GitHub:
 
-- Nous laisse télécharger nos dépots privés et aussi les rendrent publics (via les paramètres).
+- Nous laisse télécharger nos dépots privés et aussi les rendre publics (via les paramètres).
 - Change leur politique de restriction pour ne pas limiter les utilisateurs selon leur nationalité.
-- Annonce leur décision publiquement et s'excuse d'avoir créer cette situation (comme ce que slack avait fait dans la même situation: https://slackhq.com/an-apology-and-an-update).
+- Annonce leur décision publiquement et s'excuse d'avoir créé cette situation (comme ce que slack avait fait dans la même situation: https://slackhq.com/an-apology-and-an-update).
 
-## Projets open-source faits par des développeurs Iraniens
+## Projets open-source faits par des développeurs iraniens
 
-Des exemples de projets open-source conçus par des développeurs Iraniens:
+Des exemples de projets open-source conçus par des développeurs iraniens:
 
-https://github.com/usablica/intro.js
-
-https://github.com/lebab/lebab
-
-https://github.com/saeedalipoor/icono
-
-https://github.com/morteza/bootstrap-rtl
-
-https://github.com/ilius/pyglossary
-
-https://github.com/TheSNAKY/Lives
-
-https://github.com/sasanrose/phpredmin
-
-https://github.com/ahmdrz/goinsta
-
-https://github.com/persepolisdm/persepolis
-
-https://github.com/sepandhaghighi/pycm
-
-https://github.com/sepandhaghighi/art
-
-https://github.com/imaNNeoFighT/fl_chart
+- [@harfbuzz](https://github.com/harfbuzz)/[**harfbuzz**](https://github.com/harfbuzz/harfbuzz)
+- [@usablica](https://github.com/usablica)/[**intro.js**](https://github.com/usablica/intro.js)
+- [@lebab](https://github.com/lebab)/[**lebab**](https://github.com/lebab/lebab)
+- [@saeedalipoor](https://github.com/saeedalipoor)/[**icono**](https://github.com/saeedalipoor/icono)
+- [@morteza](https://github.com/morteza)/[**bootstrap-rtl**](https://github.com/morteza/bootstrap-rtl)
+- [@ilius](https://github.com/ilius)/[**pyglossary**](https://github.com/ilius/pyglossary)
+- [@TheSNAKY](https://github.com/TheSNAKY)/[**Lives**](https://github.com/TheSNAKY/Lives)
+- [@sasanrose](https://github.com/sasanrose)/[**phpredmin**](https://github.com/sasanrose/phpredmin)
+- [@ahmdrz](https://github.com/ahmdrz)/[**goinsta**](https://github.com/ahmdrz/goinsta)
+- [@persepolisdm](https://github.com/persepolisdm)/[**persepolis**](https://github.com/persepolisdm/persepolis)
+- [@sepandhaghighi](https://github.com/sepandhaghighi)/[**pycm**](https://github.com/sepandhaghighi/pycm)
+- [@sepandhaghighi](https://github.com/sepandhaghighi)/[**art**](https://github.com/sepandhaghighi/art)
+- [@imaNNeoFighT](https://github.com/imaNNeoFighT)/[**fl_chart**](https://github.com/imaNNeoFighT/fl_chart)
+- [@nuxt](https://github.com/nuxt)/[**nuxt.js**](https://github.com/nuxt/nuxt.js)
+- [@bootstrap-vue](https://github.com/bootstrap-vue)/[**bootstrap-vue**](https://github.com/bootstrap-vue/bootstrap-vue)
+- [@wolfengine](https://github.com/wolfengine)/[**wolf.engine**](https://github.com/wolfengine/wolf.engine)
+- [@soroushchehresa](https://github.com/soroushchehresa)/[**vue-soundcloud**](https://github.com/soroushchehresa/vue-soundcloud)
+- [@soroushchehresa](https://github.com/soroushchehresa)/[**unsplash-wallpapers**](https://github.com/soroushchehresa/unsplash-wallpapers)
 
 Vous pouvez voir la liste complète [ici](https://github.com/mohebifar/made-in-iran).
 
@@ -72,4 +67,4 @@ Vous pouvez:
 - [GitHub starts blocking developers in countries facing US trade sanctions](https://www.zdnet.com/article/github-starts-blocking-developers-in-countries-facing-us-trade-sanctions)
 
 ## Supporters
-[README.md] (./README.md)
+[README.md](./README.md#Supporters)
