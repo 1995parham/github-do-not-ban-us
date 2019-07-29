@@ -1,6 +1,6 @@
 # Uma Mensagem ao GitHub
 
-[English](./README.md) | [简体中文](./README-CN.md) | [Español ](./README-ES.md) | [Ελληνικά](./README-GR.md) | [Italiano](./README-IT.md) | [Русский](./README-RU.md) | [فارسی](./README-PER.md) | [Française ](./README-FR.md) | [Deutsch](./README-DE.md) | [Հայերէն](./README-HY.md) | [Српски](./README-SR.md) | [العربية](./README-AR.md) | [Türkçe](./README-TR.md) | Português do Brasil
+[English](./README.md) | [简体中文](./README-CN.md) | [Español ](./README-ES.md) | [Ελληνικά](./README-GR.md) | [Italiano](./README-IT.md) | [Русский](./README-RU.md) | [فارسی](./README-PER.md) | [Française ](./README-FR.md) | [Deutsch](./README-DE.md) | [Հայերէն](./README-HY.md) | [Српски](./README-SR.md) | [العربية](./README-AR.md) | [Türkçe](./README-TR.md) | Português do Brasil | [Nederlands](./README-NL.md)
 
 ![alt text](./message.png)
 
@@ -90,3 +90,6 @@ Você pode:
 - [GitHub permite tornar repositórios privados em repos públicos](https://github.com/1995parham/github-do-not-ban-us/issues/666)
 
 ![nat-friedman](nat-friedman.png)
+
+## apoiadoras
+[apoiadoras](README.md#Supporters)
