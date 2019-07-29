@@ -598,6 +598,7 @@ You can:
 - Nobel from Nepal 🇳🇵 ([Coderkoala](https://github.com/coderkoala))
 - higoka from Switzerland 🇨🇭 ([higoka](https://github.com/higoka))
 - Mohammad Alian from Iran 🇮🇷 ([mdaliyan](https://github.com/mdaliyan))
+- Chenzhen from China 🇨🇳 ([xoinstein](https://github.com/xoinstein))
 - Ami from the US 🇺🇸 ([Memitaru](https://github.com/memitaru))
 - Abi أب from Indonesia 🇮🇩 ([el7cosmos](https://github.com/el7cosmos))
 - John Mactavish from China 🇨🇳 ([gonearewe](https://github.com/gonearewe))
