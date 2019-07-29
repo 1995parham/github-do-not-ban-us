@@ -669,6 +669,7 @@ You can:
 - ChronosX88 from Russia 🇷🇺 ([ChronosX88](https://github.com/ChronosX88))
 - Rohit Joshi from Nepal 🇳🇵 ([rohitjoshi21](https://github.com/rohitjoshi21))
 - Abhinaw Singh from India 🇮🇳 ([Abhinaw-Singh](https://github.com/Abhinaw-Singh))
+- Maxwell Walters from United States 🇺🇸 ([warpaltarpers](https://github.com/warpaltarpers))
 - Alireza from Netherlands 🇳🇱 ([blueocean907](https://github.com/blueocean907))
 - Khurram Shehzad from Pakistan 🇵🇰 ([Khurram Shehzad](https://github.com/khurram18))
 - Hannes Oberreiter from Austria 🇦🇹 ([HannesOberreiter](https://github.com/HannesOberreiter))
