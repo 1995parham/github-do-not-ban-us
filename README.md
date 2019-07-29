@@ -1,7 +1,7 @@
 # A Message to GitHub
 
 English | [简体中文](./README-CN.md) | [Español ](./README-ES.md) | [Ελληνικά](./README-GR.md) | [Italiano](./README-IT.md) | [Русский](./README-RU.md) | [فارسی](./README-PER.md) | [Française ](./README-FR.md) | [Deutsch](./README-DE.md) | [Հայերէն](./README-HY.md) | [Српски](./README-SR.md) | [العربية](./README-AR.md) | [Türkçe](./README-TR.md) | [Português do Brasil](./README-PT-BR.md) | [Nederlands](./README-NL.md) | [한국어](./README-KO.md)
- 
+
 ![alt text](./message.png)
 
 ~~**Tip:** You can use [this extension](https://github.com/JafarAkhondali/remove-github-restrictions-message) or [this extension](https://github.com/MohamadKh75/ShutHub) or [this tampermonkey script](https://gist.github.com/HirbodBehnam/2e079e187be0b1b6a6bcb734ed88474e) or [Stylish](https://userstyles.org/styles/173827/hide-github-warning) to hide this yellow box!~~
@@ -616,3 +616,5 @@ You can:
 - Saulo Nunes from Brazil 🇧🇷 ([SauloNunes](https://github.com/SauloNunes))
 - Lucas Alencar from Brazil 🇧🇷 ([alencarlucas](https://github.com/alencarlucas))
 - James Kitching from Scotland 🇬🇧 ([Jachdich](https://github.com/Jachdich))
+- Ragty from China 🇨🇳 ([Ragty](https://github.com/huoji555))
+
