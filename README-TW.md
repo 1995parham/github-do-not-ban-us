@@ -55,7 +55,7 @@ GitHub 曾經是一個對所有人都開放且自由的平台，但它現在卻�
 你可以：
 
 - 星星並在分享此專案到社交平台，加上 #githubForEveryone 這個 hashtag。
-- 在 “together” 文件節裡新增以你的用戶名命名的資料夾。
+- 在 “together” 資料夾裡新增以你的用戶名命名的資料夾。
 - 將 「Github is for everyone」翻譯成你的語言。
 - 提交 PR。
 - 在支持者列表中新增你的名字和國籍。
