@@ -61,7 +61,7 @@ GitHub는 모두에게 자유롭고 열려있는 플랫폼이었습니다. 그�
 
 - Star를 누르고, 이 저장소를 **#githubForEveryone** 태그와 함께 소셜미디어에 공유해주세요.
 - username이 있는 폴더를 ["together" folder](together)에 추가하십시오.
-- "GItHub is for everyon" 을 원하는 언어로 작성해주세요.
+- "GItHub is for everyone" 을 원하는 언어로 작성해주세요.
 - 풀 리퀘스트를 만드세요.
 - 이름과 국적을 [서포터 섹션](#supporters)에 추가하세요.
 
