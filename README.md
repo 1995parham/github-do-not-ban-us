@@ -669,6 +669,7 @@ You can:
 - ChronosX88 from Russia 🇷🇺 ([ChronosX88](https://github.com/ChronosX88))
 - Rohit Joshi from Nepal 🇳🇵 ([rohitjoshi21](https://github.com/rohitjoshi21))
 - Abhinaw Singh from India 🇮🇳 ([Abhinaw-Singh](https://github.com/Abhinaw-Singh))
+- Alaa Masoud from Jordan 🇯🇴 ([alaatm](https://github.com/alaatm))
 - Mohsen Hariri from Iran and Sweden 🇮🇷 ([mhariri](https://github.com/mhariri))
 - imciflam from Russia 🇷🇺 ([imciflam](https://github.com/imciflam))
 - Horia Constantin from The Netherlands 🇳🇱 ([treaz](https://github.com/treaz))
