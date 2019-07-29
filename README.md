@@ -619,3 +619,5 @@ You can:
 - Victor Borges from Brazil 🇧🇷 ([v-borg](https://github.com/v-borg))
 - Tom W from Australia 🇦🇺 ([Tomicktwo](https://github.com/tomicktwo/))
 - Wang Yu from China 🇨🇳 ([blogwy](https://github.com/blogwy))
+- Tomas Votruba from Czech Republic 🇨🇿 ([TomasVotruba](https://github.com/TomasVotruba/))
+- LeiHen from China 🇨🇳 ([LeiHen](https://github.com/LeiHen))
