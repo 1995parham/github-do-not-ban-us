@@ -147,6 +147,7 @@ You can:
 - Farid Forootan Shad from Iran 🇮🇷 ([faridfor](https://github.com/faridfor))
 - Vahid Bazzaz from Iran 🇮🇷 ([vahidbazzaz](https://github.com/vahidbazzaz))
 - Iman Khoshabbi from Iran 🇮🇷 ([imaNNeoFighT](https://github.com/imaNNeoFighT))
+- iyotetsuya from Taiwan 🇹🇼 ([iyotetsuya](https://github.com/iyotetsuya))
 - Muhammad Javad Falahi from Iran 🇮🇷 ([MJFalahi](https://github.com/MJFalahi))
 - Sina Darvishi from Iran 🇮🇷 ([SinaDarvi](https://github.com/SinaDarvi))
 - Adib Faramarzi from Iran 🇮🇷 ([adibfara](https://github.com/adibfara))
