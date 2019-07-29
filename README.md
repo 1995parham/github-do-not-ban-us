@@ -681,4 +681,3 @@ You can:
 - zhu zihao from china 🇨🇳 ([cireu](https://github.com/cireu))
 - [ron](https://github.com/ron-wolf) with ❤️ from the united states and israel 🇺🇸 🇮🇱
 - şahin mersin from turkey 🇹🇷 ([electrocoder](https://github.com/electrocoder))
--taher ahmadi from iran 🇮🇷 ([taherahmadi](https://github.com/taherahmadi))
