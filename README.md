@@ -694,7 +694,9 @@ You can:
 - Mathieu TUDISCO from France 🇫🇷 ([mathieutu](https://github.com/mathieutu))
 - Guillaume BOGARD from France 🇫🇷 ([gbogard](https://github.com/gbogard))
 - Victor Andrade from Brazil 🇧🇷 ([victorapa](https://github.com/victorapa))
+- Guilherme de Assis from Brazil 🇧🇷 ([guias12](https://github.com/guias12))
 - Lucas de Menezes Haddad from Brazil 🇧🇷 ([LucasHaddad](https://github.com/LucasHaddad))
+- Tony Simoes from France 🇫🇷 ([netapau](https://github.com/netapau)) 
 - Gabriel Starling from Brazil 🇧🇷 ([MadStarling](https://github.com/MadStarling))
 - Ri Hyŏk Su from DPR Korea 🇰🇵
 - Lucas Bernardo de Sousa from Brazil 🇧🇷 ([lucasbsousa](https://github.com/lucasbsousa))
