@@ -62,6 +62,7 @@ GitHub 曾经是一个面向所有人的开放、自由的平台，但它现在�
 
 ## 拓展阅读
 
+  - [美国对外实行制裁，致多个地区 GitHub 账号使用受限！](https://mp.weixin.qq.com/s/JB4TyNRSMVJ5I39rDDBWeg)
   - [微软插手：GitHub 限制伊朗开发者！](https://medium.com/@d.aliyamini/microsoft-enters-github-banned-iranian-developers-843f7c60a146)
   - [GitHub 禁止伊朗用户](https://financialtribune.com/articles/sci-tech/99111/github-bans-iran-based-users)
   - [GitHub 限制了一位伊朗软件开发者的帐户](https://hub.packtpub.com/github-has-blocked-an-iranian-software-developers-account)
@@ -71,6 +72,7 @@ GitHub 曾经是一个面向所有人的开放、自由的平台，但它现在�
 
 ## 社交平台上的讨论
 
+- 微博上的 [讨论](https://weibo.com/5722964389/HFiuysEPu)
 - Reddit 上的 [GitHub banned all Iranian users.](https://www.reddit.com/r/programming/comments/ciey8g/github_banned_all_iranian_users_our_accounts_are/)
 - Twitter 上的 [Dan Abramov: Wow, looking forward to getting blocked from @GitHub when US decides to sanction Russia](https://twitter.com/dan_abramov/status/1154869188672086019?s=19)
 - Twitter 上的 [Hamed Saeedi :Today @github blocked my access](https://twitter.com/Hamed/status/1154268514074660864?s=19)
