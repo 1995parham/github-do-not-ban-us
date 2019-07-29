@@ -693,3 +693,4 @@ You can:
 - Shahabaldin Mohammadi from Iran 🇹🇷 ([Stevelex-elex](https://github.com/stevelex-elex))
 - Mathieu TUDISCO from France 🇫🇷 ([mathieutu](https://github.com/mathieutu))
 - Guillaume BOGARD from France 🇫🇷 ([gbogard](https://github.com/gbogard))
+- Victor Andrade from Brazil 🇧🇷 ([victorapa](https://github.com/victorapa))
