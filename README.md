@@ -660,6 +660,7 @@ You can:
 - Samet Günaydın from Turkey 🇹🇷 ([rokumatsumoto](https://github.com/rokumatsumoto))
 - Mostafa Nazari from Iran 🇮🇷 ([rxdelta](https://github.com/rxdelta))
 - Martin Dünkelmann from Germany 🇩🇪 ([MartinX3](https://github.com/MartinX3))
+- Benjamin Balder Bach from Denmark 🇩🇰 ([benjaoming](https://github.com/benjaoming/))
 - lukmi15 from Germany 🇩🇪([lukmi15](https://github.com/lukmi15))
 - Ali Behrouzi from Iran 🇮🇷 ([alibh97](https://github.com/alibh97))
 - Li Chang Wei from China 🇨🇳 ([lichangwei](https://github.com/lichangwei))
