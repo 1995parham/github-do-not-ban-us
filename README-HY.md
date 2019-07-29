@@ -1,6 +1,6 @@
 # Հաղորդագրութիւն ԳիթՀաբին
 
-English | [简体中文](./README-CN.md) | [Español ](./README-ES.md) | [Ελληνικά](./README-GR.md) | [Italiano](./README-IT.md) | [Русский](./README-RU.md) | [ﻑﺍﺮﺳی](./README-PER.md) | [Française ](./README-FR.MD) | [Deutsch](./README-DE.md) | [Հայերէն](./README-HY.md) | [العربية](./README-AR.md) | [Türkçe](./README-TR.md) | [한국어](./README-KO.md)
+English | [简体中文](./README-CN.md) | [Español ](./README-ES.md) | [Ελληνικά](./README-GR.md) | [Italiano](./README-IT.md) | [Русский](./README-RU.md) | [ﻑﺍﺮﺳی](./README-PER.md) | [Française ](./README-FR.MD) | [Deutsch](./README-DE.md) | [Հայերէն](./README-HY.md) | [العربية](./README-AR.md) | [Türkçe](./README-TR.md) | [Nederlands](./README-NL.md) | [한국어](./README-KO.md)
 
 ![alt text](./message.png)
 
