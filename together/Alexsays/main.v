@@ -1,1 +1,1 @@
-println('Open Source. Free Github for everyone! 💪🏼')
+println('GitHub is for everyone')
