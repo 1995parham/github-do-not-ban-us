@@ -1,7 +1,7 @@
 # A Message to GitHub
 
 English | [简体中文](./README-CN.md) | [Español ](./README-ES.md) | [Ελληνικά](./README-GR.md) | [Italiano](./README-IT.md) | [Русский](./README-RU.md) | [فارسی](./README-PER.md) | [Française ](./README-FR.md) | [Deutsch](./README-DE.md) | [Հայերէն](./README-HY.md) | [Српски](./README-SR.md) | [العربية](./README-AR.md) | [Türkçe](./README-TR.md) | [Português do Brasil](./README-PT-BR.md) | [Nederlands](./README-NL.md) | [한국어](./README-KO.md)
- 
+
 ![alt text](./message.png)
 
 ~~**Tip:** You can use [this extension](https://github.com/JafarAkhondali/remove-github-restrictions-message) or [this extension](https://github.com/MohamadKh75/ShutHub) or [this tampermonkey script](https://gist.github.com/HirbodBehnam/2e079e187be0b1b6a6bcb734ed88474e) or [Stylish](https://userstyles.org/styles/173827/hide-github-warning) to hide this yellow box!~~
@@ -618,6 +618,7 @@ You can:
 - James Kitching from Scotland 🇬🇧 ([Jachdich](https://github.com/Jachdich))
 - Victor Borges from Brazil 🇧🇷 ([v-borg](https://github.com/v-borg))
 - Tom W from Australia 🇦🇺 ([Tomicktwo](https://github.com/tomicktwo/))
+- Simon Bäumer from Germany 🇩🇪 ([SimonBaeumer](https://github.com/SimonBaeumer))
 - Wang Yu from China 🇨🇳 ([blogwy](https://github.com/blogwy))
 - Tomas Votruba from Czech Republic 🇨🇿 ([TomasVotruba](https://github.com/TomasVotruba/))
 - LeiHen from China 🇨🇳 ([LeiHen](https://github.com/LeiHen))
