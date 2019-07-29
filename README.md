@@ -696,3 +696,4 @@ You can:
 - Victor Andrade from Brazil 🇧🇷 ([victorapa](https://github.com/victorapa))
 - Lucas de Menezes Haddad from Brazil 🇧🇷 ([LucasHaddad](https://github.com/LucasHaddad))
 - Gabriel Starling from Brazil 🇧🇷 ([MadStarling](https://github.com/MadStarling))
+- Ri Hyŏk Su from DPR Korea 🇰🇵
