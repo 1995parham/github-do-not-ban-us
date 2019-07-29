@@ -639,3 +639,4 @@ You can:
 - Mahdi Malvandi from Iran 🇮🇷 ([mahdi-malv](https://github.com/mahdi-malv))
 - Michiel Bakker from The Netherlands 🇳🇱 ([jaffog](https://github.com/jaffog))
 - ChronosX88 from Russia 🇷🇺 ([ChronosX88](https://github.com/ChronosX88))
+- Rohit Joshi from Nepal 🇳🇵 ([rohitjoshi21](https://github.com/rohitjoshi21))
