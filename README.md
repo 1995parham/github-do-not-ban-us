@@ -99,7 +99,8 @@ You can:
 - GitHub page are now working for restricted persons.
 
 ## Supporters
-
+- Moni from 🇮🇳 ([monis10](https://github.com/MoniS10))	
+- MoniJS from 🇺🇸 ([MoniJS](https://github.com/MoniJS))
 - Ali Pirpiran from Iran 🇮🇷 ([alipirpiran](https://github.com/alipirpiran))
 - Angelo Gazzola from Italy 🇮🇹 ([nglgzz](https://github.com/nglgzz))
 - Guga Nemsitsveridze from Georgia 🇬🇪 ([guganems](https://github.com/guganems))
