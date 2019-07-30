@@ -503,6 +503,7 @@ You can:
 - Mahuton from Benin 🇧🇯 ([Mahuton](https://github.com/Mahuton))
 - Marco Aceti from Italy 🇮🇹 ([MarcoBuster](https://github.com/MarcoBuster))
 - Mariam Arab from Canada 🇨🇦 ([mariamarab](https://github.com/mariamarab))
+- Marek Fajkus from Czech Republic 🇨🇿 ([turboMack](https://github.com/turboMaCk))
 - Maria Sosnova from Russia 🇷🇺 ([Masha](https://github.com/masha/))
 - Mariell Hoversholm from Norway 🇳🇴 ([Proximyst](https://github.com/Proximyst))
 - Marjan Jangholi from Iran 🇮🇷 ([jangholi](https://github.com/jangholi))
