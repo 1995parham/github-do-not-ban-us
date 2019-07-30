@@ -110,7 +110,7 @@ You can:
 - GitHub page are now working for restricted persons.
 
 ## Supporters
-- Moni from 🇮🇳 ([monis10](https://github.com/MoniS10))	
+- Moni from 🇮🇳 ([monis10](https://github.com/MoniS10))
 - MoniJS from 🇺🇸 ([MoniJS](https://github.com/MoniJS))
 - Ali Pirpiran from Iran 🇮🇷 ([alipirpiran](https://github.com/alipirpiran))
 - Angelo Gazzola from Italy 🇮🇹 ([nglgzz](https://github.com/nglgzz))
@@ -742,3 +742,4 @@ You can:
 - Samuel Chia from China 🇨🇳 ([sosamuel](https://github.com/sosamuel))
 - Nate Marshall from UK ([BaRRaKudaRain](https://github.com/BaRRaKudaRain))
 - Mahdi Harati from Iran 🇮🇷 ([Raika](https://github.com/Raika))
+- Heechan Bak from Republic of Korea 🇰🇷 ([channprj](https://github.com/channprj))
