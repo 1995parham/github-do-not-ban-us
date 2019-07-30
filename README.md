@@ -110,7 +110,7 @@ You can:
 ## Supporters
 
 - Usama Tahir 🇵🇰 ([Usama-Tahir](https://github.com/Usama-Tahir))
-- Moni from 🇮🇳 ([monis10](https://github.com/MoniS10))	
+- Moni from 🇮🇳 ([monis10](https://github.com/MoniS10))
 - MoniJS from 🇺🇸 ([MoniJS](https://github.com/MoniJS))
 - Ali Pirpiran from Iran 🇮🇷 ([alipirpiran](https://github.com/alipirpiran))
 - Angelo Gazzola from Italy 🇮🇹 ([nglgzz](https://github.com/nglgzz))
@@ -722,7 +722,7 @@ You can:
 - Chris Sprance from Brazil 🇺🇸 ([csprance](https://github.com/csprance))
 - Justin W. Flory from United States 🇺🇸 ([jwflory](https://github.com/jwflory))
 - Matheus Fidelis from Brazil 🇧🇷 ([msfidelis](https://github.com/msfidelis))
-- Chandu from India 🇮🇳 ([zcam007](https://github.com/zcam007) 
+- Chandu from India 🇮🇳 ([zcam007](https://github.com/zcam007)
 - Yang from China 🇨🇳 ([nighca](https://github.com/nighca))
 - Dan Michael O. Heggø 🇳🇴 ([danmichaelo](https://github.com/danmichaelo))
 - Miguel Raz Guzman from Mexico 🇲🇽 ([miguelraz](https://github.com/miguelraz))
@@ -772,3 +772,4 @@ You can:
 - Asad Marmash from Jordan 🇯🇴 ([asadMarmash](https://github.com/asadMarmash/))
 - Ilya Komarov from Russia 🇷🇺 ([Komar0ff](https://github.com/Komar0ff))
 - Yaroslav Likhachev from Russia 🇷🇺 ([traktorist](https://github.com/traktorist))
+- Luiz Filho from Brazil 🇧🇷 ([luizmacfilho](https://github.com/luizmacfilho))
