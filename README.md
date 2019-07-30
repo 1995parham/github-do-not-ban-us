@@ -805,3 +805,4 @@ You can:
 - Galin Kostov from Bulgaria 🇧🇬 ([gvko](https://github.com/gvko))
 - Saurabh Daware from India 🇮🇳 ([saurabhdaware](https://github.com/saurabhdaware))
 - Jariullah Safi from the U.S. 🇺🇲 ([safijari](https://github.com/safijari))
+- Jihwan Oh from Republic of Korea 🇰🇷 ([fureweb-com](https://github.com/fureweb-com)) 
