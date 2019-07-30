@@ -1,6 +1,6 @@
 # 給 GitHub 的一封信
 
-[English](./README.md) | 繁體中文 | [Español ](./README-ES.md) | [Ελληνικά](./README-GR.md) | [Italiano](./README-IT.md) | [Русский](./README-RU.md) | [فارسی](./README-PER.md) | [Française ](./README-FR.md) | [Deutsch](./README-DE.md) | [Հայերէն](./README-HY.md) | [العربية](./README-AR.md) | [Türkçe](./README-TR.md) | [Nederlands](./README-NL.md)| [한국어](./README-KO.md)
+[English](./README.md) | 繁體中文 | [Español ](./README-ES.md) | [Ελληνικά](./README-GR.md) | [Italiano](./README-IT.md) | [Русский](./README-RU.md) | [فارسی](./README-PER.md) | [Française ](./README-FR.md) | [Deutsch](./README-DE.md) | [Հայերէն](./README-HY.md) | [العربية](./README-AR.md) | [Türkçe](./README-TR.md) | [Nederlands](./README-NL.md)| [한국어](./README-KO.md)| [简体中文](./README-CN.md)
 
 ![alt text](./message.png)
 
