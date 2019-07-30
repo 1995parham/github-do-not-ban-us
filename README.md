@@ -745,5 +745,6 @@ You can:
 - Roman Travnikov from Russia 🇷🇺 ([TravnikovRN](https://github.com/travnikovrn/))
 - Mohammad Shbool from Jordan 🇯🇴 ([mohshbool](https://github.com/mohshbool/))
 - Javad Ghane from Iran 🇮🇷 ([JavaDroid](https://github.com/javadghane))
+- Awais from Pakistan 🇵🇰 ([Awais](https://github.com/awais-vteams))
 - Asad Marmash from Jordan 🇯🇴 ([asadMarmash](https://github.com/asadMarmash/))
 - Ilya Komarov from Russia 🇷🇺 ([Komar0ff](https://github.com/Komar0ff))
