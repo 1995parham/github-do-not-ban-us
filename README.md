@@ -801,5 +801,6 @@ You can:
 - wencan from China 🇨🇳 ([wencan](https://github.com/wencan))
 - Muhammad Iqbal Fasri from Indonesia 🇮🇩 ([iqbalfasri](https://github.com/iqbalfasri))
 - Davide Bolzoni from Italy 🇮🇹 ([dbbd59](https://github.com/dbbd59))
+- Galin Kostov from Bulgaria 🇧🇬 ([gvko](https://github.com/gvko))
 - Saurabh Daware from India 🇮🇳 ([saurabhdaware](https://github.com/saurabhdaware))
 - Jariullah Safi from the U.S. 🇺🇲 ([safijari](https://github.com/safijari))
