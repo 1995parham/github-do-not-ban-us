@@ -744,3 +744,4 @@ You can:
 - Roman Travnikov from Russia 🇷🇺 ([TravnikovRN](https://github.com/travnikovrn/))
 - Mohammad Shbool from Jordan 🇯🇴 ([mohshbool](https://github.com/mohshbool/))
 - Javad Ghane from Iran 🇮🇷 ([JavaDroid](https://github.com/javadghane))
+- Anil Chaudhari from Nepal 🇳🇵 ([imanilchaudhari](https://github.com/imanilchaudhari))
