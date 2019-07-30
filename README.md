@@ -100,6 +100,7 @@ You can:
 
 ## Supporters
 
+- Martin L. Jensen from Denmark 🇩🇰 ([martinloesethjensen](https://github.com/martinloesethjensen))
 - Ali Pirpiran from Iran 🇮🇷 ([alipirpiran](https://github.com/alipirpiran))
 - Angelo Gazzola from Italy 🇮🇹 ([nglgzz](https://github.com/nglgzz))
 - Guga Nemsitsveridze from Georgia 🇬🇪 ([guganems](https://github.com/guganems))
