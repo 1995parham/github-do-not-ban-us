@@ -724,6 +724,7 @@ You can:
 - Ashhad Sheikh from Pakistan 🇵🇰 ([ashhadsheikh](https://github.com/ashhadsheikh))
 - Sora Liu from China 🇨🇳 ([lovesora](https://github.com/lovesora))
 - Rodrigo Alencar from Brazil 🇧🇷 ([ratox](https://github.com/ratox))
+- Rodrigo Alencar from Brazil 🇧🇷 ([victorperin](https://github.com/victorperin))
 - ZhangZisu from China 🇨🇳 ([ZhangZisu](https://github.com/ZhangZisu))
 - Gustavo Ocanto 🇻🇪 ([gocanto](https://github.com/gocanto))
 - Philip Huang from Taiwan 🇹🇼 ([p208p2002](https://github.com/p208p2002))
