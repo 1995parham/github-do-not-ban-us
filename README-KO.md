@@ -601,5 +601,6 @@ GitHub는 모두에게 자유롭고 열려있는 플랫폼이었습니다. 그�
 - Nobel from Nepal 🇳🇵 ([Coderkoala](https://github.com/coderkoala))
 - higoka from Switzerland 🇨🇭 ([higoka](https://github.com/higoka))
 - Mohammad Alian from Iran 🇮🇷 ([mdaliyan](https://github.com/mdaliyan))
+- Young Jae Sim from Republic of Korea 🇰🇷 ([Hanul](https://github.com/Hanul))
 
 ****

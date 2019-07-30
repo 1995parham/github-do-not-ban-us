@@ -51,6 +51,7 @@ Some examples of open-source projects created by Iranian developers:
 - [@soroushchehresa](https://github.com/soroushchehresa)/[**vue-soundcloud**](https://github.com/soroushchehresa/vue-soundcloud)
 - [@soroushchehresa](https://github.com/soroushchehresa)/[**unsplash-wallpapers**](https://github.com/soroushchehresa/unsplash-wallpapers)
 - [@MahdiMajidzadeh](https://github.com/MahdiMajidzadeh)/[**bootstrap-v4-rtl**](https://github.com/MahdiMajidzadeh/bootstrap-v4-rtl)
+- [@imanghafoori1](https://github.com/imanghafoori1)/[**laravel-widgetize**](https://github.com/imanghafoori1/laravel-widgetize)
 
 You can find the full list [here](https://github.com/mohebifar/made-in-iran).
 
@@ -673,6 +674,7 @@ You can:
 - raben2 from Germany 🇩🇪 ([raben2](https://github.com/raben2))
 - Mahdi Malvandi from Iran 🇮🇷 ([mahdi-malv](https://github.com/mahdi-malv))
 - Michiel Bakker from The Netherlands 🇳🇱 ([jaffog](https://github.com/jaffog))
+- LiuBo from China 🇨🇳 ([LiuBo](https://github.com/404cn))
 - Max Rodrigo from Spain 🇪🇸([maxrodrigo](https://github.com/maxrodrigo/))
 - Hasan Ramezani from Iran 🇮🇷 ([hramezani](https://github.com/hramezani/))
 - François D from Belgium BE ([altnabla](https://github.com/altnabla))
@@ -691,6 +693,7 @@ You can:
 - ChronosX88 from Russia 🇷🇺 ([ChronosX88](https://github.com/ChronosX88))
 - Rohit Joshi from Nepal 🇳🇵 ([rohitjoshi21](https://github.com/rohitjoshi21))
 - Abhinaw Singh from India 🇮🇳 ([Abhinaw-Singh](https://github.com/Abhinaw-Singh))
+- Minabsapi from France 🇫🇷 ([Minabsapi](https://github.com/Minabsapi))
 - Zakariae EL Mesaoudi from Morocco 🇲🇦 ([zackmeso](https://github.com/zackmeso/))
 - Jan-Willem Spuij from The Netherlands 🇳🇱 ([jspuij](https://github.com/jspuij))
 - Alaa Masoud from Jordan 🇯🇴 ([alaatm](https://github.com/alaatm))
@@ -804,3 +807,7 @@ You can:
 - Galin Kostov from Bulgaria 🇧🇬 ([gvko](https://github.com/gvko))
 - Saurabh Daware from India 🇮🇳 ([saurabhdaware](https://github.com/saurabhdaware))
 - Jariullah Safi from the U.S. 🇺🇲 ([safijari](https://github.com/safijari))
+- Jihwan Oh from Republic of Korea 🇰🇷 ([fureweb-com](https://github.com/fureweb-com))
+- Baha2rM98 from Iran :iran: ([Baha2rM98](https://github.com/Baha2rM98))
+- Quoc Khanh from Vietnam 🇻🇳 ([bkdev98](https://github.com/bkdev98))
+- Young Jae Sim from Republic of Korea 🇰🇷 ([Hanul](https://github.com/Hanul))
