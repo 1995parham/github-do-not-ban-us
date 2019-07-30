@@ -703,7 +703,7 @@ You can:
 - Victor Andrade from Brazil 🇧🇷 ([victorapa](https://github.com/victorapa))
 - Guilherme de Assis from Brazil 🇧🇷 ([guias12](https://github.com/guias12))
 - Lucas de Menezes Haddad from Brazil 🇧🇷 ([LucasHaddad](https://github.com/LucasHaddad))
-- Tony Simoes from France 🇫🇷 ([netapau](https://github.com/netapau)) 
+- Tony Simoes from France 🇫🇷 ([netapau](https://github.com/netapau))
 - Gabriel Starling from Brazil 🇧🇷 ([MadStarling](https://github.com/MadStarling))
 - Ri Hyŏk Su from DPR Korea 🇰🇵
 - Lucas Bernardo de Sousa from Brazil 🇧🇷 ([lucasbsousa](https://github.com/lucasbsousa))
@@ -711,6 +711,7 @@ You can:
 - Hal Shin from Canada :canada: ([communitybicycle](https://github.com/communitybicycle))
 - Leandro Lopes Lima from Brazil 🇧🇷 ([limaleandro19999](https://github.com/limaleandro1999))
 - Cássio Almeida from Brazil 🇧🇷 ([kssioalmeida](https://github.com/kssioalmeida))
+- ChangJoo Park from Republic of Korea 🇰🇷 ([changjoo-park](https://github.com/changjoo-park))
 - Arno Jin from China ([arnojin](https://github.com/arnojin))
 - Anwesh Budhathoki from Nepal 🇳🇵 ([abperni](https://github.com/abperni))
 - Liu Hui Hao from China 🇨🇳 ([geminate](https://github.com/geminate))
