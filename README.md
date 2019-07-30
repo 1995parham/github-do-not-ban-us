@@ -729,5 +729,6 @@ You can:
 - Gustavo Ocanto 🇻🇪 ([gocanto](https://github.com/gocanto))
 - Philip Huang from Taiwan 🇹🇼 ([p208p2002](https://github.com/p208p2002))
 - Dima Qiu from China 🇨🇳 ([DimaQiu](https://github.com/qmy777))
+- Weiyou Zhu from China 🇨🇳 ([zhuweiyou](https://github.com/zhuweiyou))
 - Samuel Chia from China 🇨🇳 ([sosamuel](https://github.com/sosamuel))
 - Nate Marshall from UK ([BaRRaKudaRain](https://github.com/BaRRaKudaRain))
