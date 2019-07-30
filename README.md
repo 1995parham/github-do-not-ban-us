@@ -718,6 +718,7 @@ You can:
 - Hal Shin from Canada :canada: ([communitybicycle](https://github.com/communitybicycle))
 - Leandro Lopes Lima from Brazil 🇧🇷 ([limaleandro19999](https://github.com/limaleandro1999))
 - Cássio Almeida from Brazil 🇧🇷 ([kssioalmeida](https://github.com/kssioalmeida))
+- Miguel Raz Guzman from Mexico 🇲🇽 ([miguelraz](https://github.com/miguelraz))
 - Saulo Joab from Brazil 🇧🇷 ([saulojoab](https://github.com/saulojoab))
 - Saleh Souzanchi from Iran 🇮🇷 ([zoghal](https://github.com/zoghal))
 - Salif Mehmed from Bulgaria 🇧🇬 ([salifm](https://github.com/salifm))
