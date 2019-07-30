@@ -1,0 +1,11 @@
+public boolean printMessageToGithub(){
+  String message = "GitHub is for everyone";
+
+  // Print General Message
+  Log.e("Supprot Iraninan Developers", message);
+
+  // Print Personal Message
+  Log.i("Personal Message To GitHub", "Open source have roots in the most fundamental human pronoun");
+
+  return true;
+}
