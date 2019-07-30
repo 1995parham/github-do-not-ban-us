@@ -690,7 +690,7 @@ You can:
 - Hannes Oberreiter from Austria 🇦🇹 ([HannesOberreiter](https://github.com/HannesOberreiter))
 - Maxime B. from France 🇫🇷 ([brainOut](https://github.com/brainOut))
 - Akın Özgen from Turkey 🇹🇷 ([akinozgen](https://github.com/akinozgen))
-- Robert Verst from Germany 🇩🇪([lukmi15](https://github.com/rverst))
+- Robert Verst from Germany 🇩🇪([rverst](https://github.com/rverst))
 - Kamil Wojciechowski from Poland 🇵🇱 ([ninsy](https://github.com/ninsy))
 - Konrad Unrooted Klawikowski from Poland 🇵🇱 ([Unrooted](https://github.com/Unrooted))
 - Shahin Sorkh from Iran 🇮🇷 ([ShahinSorkh](https://github.com/ShahinSorkh))
