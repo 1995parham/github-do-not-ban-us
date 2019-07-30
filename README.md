@@ -741,3 +741,4 @@ You can:
 - Nate Marshall from UK ([BaRRaKudaRain](https://github.com/BaRRaKudaRain))
 - Mahdi Harati from Iran 🇮🇷 ([Raika](https://github.com/Raika))
 - Roman Travnikov from Russia 🇷🇺 ([TravnikovRN](https://github.com/travnikovrn/))
+- Maria Sosnova from Russia 🇷🇺 ([Masha](https://github.com/masha/))
