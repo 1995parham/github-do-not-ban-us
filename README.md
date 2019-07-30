@@ -779,5 +779,6 @@ You can:
 - Yaroslav Likhachev from Russia 🇷🇺 ([traktorist](https://github.com/traktorist))
 - Luiz Filho from Brazil 🇧🇷 ([luizmacfilho](https://github.com/luizmacfilho))
 - Muhammad Usman from Pakistan 🇵🇰 ([Usman](https://github.com/hafizusman530))
+- Nafi Durmuş from Turkey 🇹🇷 ([nafidurmus](https://github.com/nafidurmus))
+- Mariell Hoversholm from Norway 🇳🇴 ([Proximyst](https://github.com/Proximyst))
 - Arthur Rocha from Brazil 🇧🇷 ([arthurrochat](https://github.com/arthurrochat))
-- Nafi Durmuş from Turkey 🇹🇷 ([nafidurmus](https://github.com/nafidurmus)) 
