@@ -1,3 +1,3 @@
 /* Support from 🇳🇬🇳🇬
  */
-console.log("Mmadu nile nwere Github");
+console.log("Mmadu nile nwere GitHub");

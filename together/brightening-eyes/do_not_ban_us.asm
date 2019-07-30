@@ -9,4 +9,4 @@ _main:
     ret
 
 message:
-    db "Github is for everyone.", 25, 0
+    db "GitHub is for everyone.", 25, 0

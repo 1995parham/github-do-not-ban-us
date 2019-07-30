@@ -8,8 +8,8 @@ OSSCommunity.__proto__.basic = [
 ]
 
 if (require.main === module) {
-  const Github = {}
-  console.log(Github.basic.join('\n'))
+  const GitHub = {}
+  console.log(GitHub.basic.join('\n'))
 } else {
   module.exports = OSSCommunity
 }

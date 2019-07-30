@@ -1,3 +1,3 @@
 #!/bin/bash
 
-echo Github is for EVERYONE!
+echo GitHub is for EVERYONE!

@@ -1,4 +1,4 @@
 fucntion github(everyone){
-	return `Github is for ${everyone}`;
+	return `GitHub is for ${everyone}`;
 }
 alert(github('everyone'));

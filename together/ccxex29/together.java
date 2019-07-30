@@ -1,5 +1,5 @@
 class together {
 	public static void main(String[] args) {
-		System.out.println("Github is for everyone");
+		System.out.println("GitHub is for everyone");
 	}
 }

@@ -3,6 +3,6 @@ use strict;
 use warnings;
 
 while(1){
-	print "Github is for everyone\n";	
+	print "GitHub is for everyone\n";	
 }
 

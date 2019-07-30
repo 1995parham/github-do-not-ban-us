@@ -1,6 +1,6 @@
 /* (() => {
   const net = require("net");
-  const data = "<!DOCTYPE html><head><charset=\"UTF-8\"></head><body><h1>Github is for everyone!</h1></body></html>";
+  const data = "<!DOCTYPE html><head><charset=\"UTF-8\"></head><body><h1>GitHub is for everyone!</h1></body></html>";
 
   const server = net.createServer(socket => {
     socket.write(`HTTP/1.0 200 OK\r\nServer: eziys crap server systems (ecss)\r\nContent-Length:${data.length}\r\nContent-Type: text/html\r\n\r\n${data}`);

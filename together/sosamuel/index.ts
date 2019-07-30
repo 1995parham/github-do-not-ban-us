@@ -1,2 +1,2 @@
-import Github from "./Github";
-Github.create();
+import GitHub from "./GitHub";
+GitHub.create();

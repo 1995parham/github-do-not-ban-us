@@ -2,7 +2,7 @@ using System;
 
 namespace GitHub
 {
-    class Github
+    class GitHub
     {
         static void Main() 
         {

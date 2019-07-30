@@ -1,1 +1,1 @@
-print("Github is for Everyone.")
+print("GitHub is for Everyone.")

@@ -1,1 +1,1 @@
-print("Github For Everyone")
+print("GitHub For Everyone")

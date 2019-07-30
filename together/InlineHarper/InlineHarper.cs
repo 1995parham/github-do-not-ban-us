@@ -1,1 +1,1 @@
-Console.WriteLine("Github is for everyone/GitHub 属于所有人");
+Console.WriteLine("GitHub is for everyone/GitHub 属于所有人");

@@ -1,5 +1,5 @@
 const { subject, complement, verb, prep } = {
-  subject: 'Github',
+  subject: 'GitHub',
   verb: 'is',
   prep: 'for',
   complement: 'everyone',

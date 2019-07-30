@@ -1,7 +1,7 @@
-// Stop discrimination against IRANIAN developers, Github!
-// Github is for everyone
+// Stop discrimination against IRANIAN developers, GitHub!
+// GitHub is for everyone
 
 console.log(`
-Github is for everyone.
+GitHub is for everyone.
 Stop discrimination against IRANIAN developers!`
 );

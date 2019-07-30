@@ -1,4 +1,4 @@
-# Github for Everyone Simple Kernel
+# GitHub for Everyone Simple Kernel
 
 ## Building
 

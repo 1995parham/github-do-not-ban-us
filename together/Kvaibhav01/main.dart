@@ -1,3 +1,3 @@
 void main() {
-	print('Github is for everyone');
+	print('GitHub is for everyone');
 }

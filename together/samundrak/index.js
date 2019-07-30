@@ -1,3 +1,3 @@
 (function() {
-  alert('MS Github is for everyone.');
+  alert('MS GitHub is for everyone.');
 })();

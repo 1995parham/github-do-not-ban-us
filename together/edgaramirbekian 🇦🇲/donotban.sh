@@ -1,1 +1,1 @@
-echo "Github is for everyone <3"
+echo "GitHub is for everyone <3"
