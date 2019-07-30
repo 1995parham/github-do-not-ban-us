@@ -19,7 +19,7 @@ GitHub war bisher eine offene und freie Plattform für jeden. Doch nun hat sich 
 Schlussendlich hoffen wir, dass GitHub's Team:
 
 - uns unsere privaten Repositories herunterladen und/oder veröffentlichen lässt (Kontrolle über Einstellungen).
-- seine Richtlinien zur Einschränkung ändert, soddas sie Benutzer nicht aufgrund ihrer Nationalität einschränken.
+- seine Richtlinien zur Einschränkung ändert, sodass sie Benutzer nicht aufgrund ihrer Nationalität einschränken.
 - seine Entscheidung veröffentlicht und sich für die Situation entschuldigt (genau wie Slack es in der selben Situation getan hat: https://slackhq.com/an-apology-and-an-update)
 
 ## Open-Source-Projekte von Iranischen Entwicklern
