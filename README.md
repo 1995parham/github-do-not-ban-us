@@ -719,6 +719,7 @@ You can:
 - Leandro Lopes Lima from Brazil 🇧🇷 ([limaleandro19999](https://github.com/limaleandro1999))
 - Max from Germany 🇩🇪 ([RealCerus](https://github.com/RealCerus))
 - Cássio Almeida from Brazil 🇧🇷 ([kssioalmeida](https://github.com/kssioalmeida))
+- Penn Bauman from United States 🇺🇸 ([pennbauman](https://github.com/pennbauman))
 - Bruno Gama from Brazil 🇧🇷 ([bruno-gama](https://github.com/bruno-gama))
 - Alexa Jakob from Canada ([wolframalexa](https://github.com/wolframalexa))
 - Chris Sprance from Brazil 🇺🇸 ([csprance](https://github.com/csprance))
