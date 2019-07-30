@@ -645,6 +645,7 @@ You can:
 - Ragty from China 🇨🇳 ([Ragty](https://github.com/huoji555))
 - Victor Borges from Brazil 🇧🇷 ([v-borg](https://github.com/v-borg))
 - Tom W from Australia 🇦🇺 ([Tomicktwo](https://github.com/tomicktwo/))
+- Saurav Gupta from India 🇮🇳 ([sauzy34](https://github.com/sauzy34/))
 - Mohammad Khalili from Iran 🇮🇷 ([mohakhalili71](https://github.com/mohakhalili71))
 - Hao Wu from Japan 🇯🇵 ([wheatup](https://github.com/wheatup))
 - Azkar Moulana 🇱🇰 ([azkarmoulana](https://github.com/azkarmoulana))
