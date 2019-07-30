@@ -43,8 +43,6 @@ Some examples of open-source projects created by Iranian developers:
 - [@sepandhaghighi](https://github.com/sepandhaghighi)/[**pycm**](https://github.com/sepandhaghighi/pycm)
 - [@sepandhaghighi](https://github.com/sepandhaghighi)/[**art**](https://github.com/sepandhaghighi/art)
 - [@imaNNeoFighT](https://github.com/imaNNeoFighT)/[**fl_chart**](https://github.com/imaNNeoFighT/fl_chart)
-- [@nuxt](https://github.com/nuxt)/[**nuxt.js**](https://github.com/nuxt/nuxt.js)
-- [@bootstrap-vue](https://github.com/bootstrap-vue)/[**bootstrap-vue**](https://github.com/bootstrap-vue/bootstrap-vue)
 - [@wolfengine](https://github.com/wolfengine)/[**wolf.engine**](https://github.com/wolfengine/wolf.engine)
 - [@soroushchehresa](https://github.com/soroushchehresa)/[**vue-soundcloud**](https://github.com/soroushchehresa/vue-soundcloud)
 - [@soroushchehresa](https://github.com/soroushchehresa)/[**unsplash-wallpapers**](https://github.com/soroushchehresa/unsplash-wallpapers)
@@ -110,6 +108,7 @@ You can:
 - GitHub page are now working for restricted persons.
 
 ## Supporters
+
 - Moni from 🇮🇳 ([monis10](https://github.com/MoniS10))	
 - MoniJS from 🇺🇸 ([MoniJS](https://github.com/MoniJS))
 - Ali Pirpiran from Iran 🇮🇷 ([alipirpiran](https://github.com/alipirpiran))
@@ -643,6 +642,7 @@ You can:
 - Ragty from China 🇨🇳 ([Ragty](https://github.com/huoji555))
 - Victor Borges from Brazil 🇧🇷 ([v-borg](https://github.com/v-borg))
 - Tom W from Australia 🇦🇺 ([Tomicktwo](https://github.com/tomicktwo/))
+- Mohammad Khalili from Iran 🇮🇷 ([mohakhalili71](https://github.com/mohakhalili71))
 - Hao Wu from Japan 🇯🇵 ([wheatup](https://github.com/wheatup))
 - Azkar Moulana 🇱🇰 ([azkarmoulana](https://github.com/azkarmoulana))
 - Henry Huang from China 🇨🇳 ([henryhuang](https://github.com/henryhuang/))
@@ -717,6 +717,8 @@ You can:
 - Hal Shin from Canada :canada: ([communitybicycle](https://github.com/communitybicycle))
 - Leandro Lopes Lima from Brazil 🇧🇷 ([limaleandro19999](https://github.com/limaleandro1999))
 - Cássio Almeida from Brazil 🇧🇷 ([kssioalmeida](https://github.com/kssioalmeida))
+- Saleh Souzanchi from Iran 🇮🇷 ([zoghal](https://github.com/zoghal))
+- Salif Mehmed from Bulgaria 🇧🇬 ([salifm](https://github.com/salifm))
 - Hanlin Peng from China 🇨🇳 ([lenconda](https://github.com/lenconda))
 - Ryutaro Maejima 🇯🇵 ([dohq](https://github.com/dohq))
 - Arno Jin from China （[arnojin](https://github.com/arnojin)）
@@ -742,3 +744,17 @@ You can:
 - Samuel Chia from China 🇨🇳 ([sosamuel](https://github.com/sosamuel))
 - Nate Marshall from UK ([BaRRaKudaRain](https://github.com/BaRRaKudaRain))
 - X.y. Ren from China 🇨🇳 ([t532](https://github.com/t532))
+- Mohamed Messaad from France 🇫🇷 ([shidenkai0](https://github.com/shidenkai0))
+- Mahdi Harati from Iran 🇮🇷 ([Raika](https://github.com/Raika))
+- lcpeng from China 🇨🇳 ([lcpeng](https://github.com/lcp0578))
+- Mahdi Motamedi from Iran 🇮🇷 ([mahdimotamedi](https://github.com/mahdimotamedi))
+- Danny Povolotski from Israel 🇮🇱([israelidanny](https://github.com/israelidanny))
+- Roman Travnikov from Russia 🇷🇺 ([TravnikovRN](https://github.com/travnikovrn/))
+- Maria Sosnova from Russia 🇷🇺 ([Masha](https://github.com/masha/))
+- Mohammad Shbool from Jordan 🇯🇴 ([mohshbool](https://github.com/mohshbool/))
+- Javad Ghane from Iran 🇮🇷 ([JavaDroid](https://github.com/javadghane))
+- Kunj B Sharma from India 🇮🇳 ([kunjsharma](https://github.com/kunjsharma))
+- deClare var from China 🇨🇳 ([Copay](https://github.com/Copay))
+- Awais from Pakistan 🇵🇰 ([Awais](https://github.com/awais-vteams))
+- Asad Marmash from Jordan 🇯🇴 ([asadMarmash](https://github.com/asadMarmash/))
+- Ilya Komarov from Russia 🇷🇺 ([Komar0ff](https://github.com/Komar0ff))
