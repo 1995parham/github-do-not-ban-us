@@ -108,6 +108,7 @@ You can:
 - GitHub page are now working for restricted persons.
 
 ## Supporters
+
 - Moni from 🇮🇳 ([monis10](https://github.com/MoniS10))	
 - MoniJS from 🇺🇸 ([MoniJS](https://github.com/MoniJS))
 - Ali Pirpiran from Iran 🇮🇷 ([alipirpiran](https://github.com/alipirpiran))
@@ -641,6 +642,7 @@ You can:
 - Ragty from China 🇨🇳 ([Ragty](https://github.com/huoji555))
 - Victor Borges from Brazil 🇧🇷 ([v-borg](https://github.com/v-borg))
 - Tom W from Australia 🇦🇺 ([Tomicktwo](https://github.com/tomicktwo/))
+- Mohammad Khalili from Iran 🇮🇷 ([mohakhalili71](https://github.com/mohakhalili71))
 - Hao Wu from Japan 🇯🇵 ([wheatup](https://github.com/wheatup))
 - Azkar Moulana 🇱🇰 ([azkarmoulana](https://github.com/azkarmoulana))
 - Henry Huang from China 🇨🇳 ([henryhuang](https://github.com/henryhuang/))
@@ -741,3 +743,12 @@ You can:
 - Nate Marshall from UK ([BaRRaKudaRain](https://github.com/BaRRaKudaRain))
 - Mahdi Harati from Iran 🇮🇷 ([Raika](https://github.com/Raika))
 - Danny Povolotski from Israel 🇮🇱([israelidanny](https://github.com/israelidanny))
+- Roman Travnikov from Russia 🇷🇺 ([TravnikovRN](https://github.com/travnikovrn/))
+- Maria Sosnova from Russia 🇷🇺 ([Masha](https://github.com/masha/))
+- Mohammad Shbool from Jordan 🇯🇴 ([mohshbool](https://github.com/mohshbool/))
+- Javad Ghane from Iran 🇮🇷 ([JavaDroid](https://github.com/javadghane))
+- Kunj B Sharma from India 🇮🇳 ([kunjsharma](https://github.com/kunjsharma))
+- deClare var from China 🇨🇳 ([Copay](https://github.com/Copay))
+- Awais from Pakistan 🇵🇰 ([Awais](https://github.com/awais-vteams))
+- Asad Marmash from Jordan 🇯🇴 ([asadMarmash](https://github.com/asadMarmash/))
+- Ilya Komarov from Russia 🇷🇺 ([Komar0ff](https://github.com/Komar0ff))
