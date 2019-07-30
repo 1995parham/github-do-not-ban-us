@@ -109,6 +109,7 @@ You can:
 - GitHub page are now working for restricted persons.
 
 ## Supporters
+- Usama Tahir 🇵🇰 ([Usama-Tahir](https://github.com/Usama-Tahir))
 - Moni from 🇮🇳 ([monis10](https://github.com/MoniS10))	
 - MoniJS from 🇺🇸 ([MoniJS](https://github.com/MoniJS))
 - Ali Pirpiran from Iran 🇮🇷 ([alipirpiran](https://github.com/alipirpiran))
