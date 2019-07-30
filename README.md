@@ -799,3 +799,4 @@ You can:
 - Erhan Bute from Turkey 🇹🇷 ([erhan](https://github.com/erhan))
 - wencan from China 🇨🇳 ([wencan](https://github.com/wencan))
 - Muhammad Iqbal Fasri from Indonesia 🇮🇩 ([iqbalfasri](https://github.com/iqbalfasri))
+- Davide Bolzoni from Italy 🇮🇹 ([dbbd59](https://github.com/dbbd59))
