@@ -112,7 +112,7 @@ You can:
 
 - GitHub page are now working for restricted persons.
 
-## Supporters
+## Supporters (list sorted alphabetically)
 
 - 1995parham from Iran 🇮🇷 ([1995parham](https://github.com/1995parham))
 - 88250 from China 🇨🇳 ([88250](https://github.com/88250))
