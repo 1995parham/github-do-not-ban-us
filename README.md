@@ -716,6 +716,7 @@ You can:
 - Hal Shin from Canada :canada: ([communitybicycle](https://github.com/communitybicycle))
 - Leandro Lopes Lima from Brazil 🇧🇷 ([limaleandro19999](https://github.com/limaleandro1999))
 - Cássio Almeida from Brazil 🇧🇷 ([kssioalmeida](https://github.com/kssioalmeida))
+- Hanlin Peng from China 🇨🇳 ([lenconda](https://github.com/lenconda))
 - Ryutaro Maejima 🇯🇵 ([dohq](https://github.com/dohq))
 - Arno Jin from China （[arnojin](https://github.com/arnojin)）
 - Brydon from Canada :canada: ([brydon](https://github.com/brydon))
