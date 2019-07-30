@@ -1,6 +1,6 @@
 # Un mensaje a GitHub
 
-[English](./README.md) | [简体中文](./README-CN.md) | Español | [Ελληνικά](./README-GR.md) | [Italiano](./README-IT.md) | [Русский](./README-RU.md) | [فارسی](./README-PER.md) | [Française](./README-FR.md) | [Deutsch](./README-DE.md) | [العربية](./README-AR.md) | [Türkçe](./README-TR.md)
+[English](./README.md) | [简体中文](./README-CN.md) | Español | [Ελληνικά](./README-GR.md) | [Italiano](./README-IT.md) | [Русский](./README-RU.md) | [فارسی](./README-PER.md) | [Française](./README-FR.md) | [Deutsch](./README-DE.md) | [العربية](./README-AR.md) | [Türkçe](./README-TR.md) | [Nederlands](./README-NL.md) | [한국어](./README-KO.md)
 
 ![alt text](./message.png)
 
@@ -48,7 +48,7 @@ Algunos ejemplos de proyectos open-source creados por desarrolladores iraníes:
 - [@soroushchehresa](https://github.com/soroushchehresa)/[**vue-soundcloud**](https://github.com/soroushchehresa/vue-soundcloud)
 - [@soroushchehresa](https://github.com/soroushchehresa)/[**unsplash-wallpapers**](https://github.com/soroushchehresa/unsplash-wallpapers)
 
-Puedes encontrar la lista al completo [aquí](https://github.com/mohebifar/made-in-Irán).
+Puedes encontrar la lista al completo [aquí](https://github.com/mohebifar/made-in-iran).
 
 ## Como puedes ayudarnos
 
@@ -63,9 +63,9 @@ Puedes:
 
 ## Lecturas adicionales
 
-  - [Microsoft enters: GitHub banned Iránian developers!](https://medium.com/@d.aliyamini/microsoft-enters-github-banned-Iránian-developers-843f7c60a146)
-  - [GitHub banned Irán-based users](https://financialtribune.com/articles/sci-tech/99111/github-bans-Irán-based-users)
-  - [GitHub has blocked an Iránian software developer account](https://hub.packtpub.com/github-has-blocked-an-Iránian-software-developers-account)
+  - [Microsoft enters: GitHub banned Iránian developers!](https://medium.com/@d.aliyamini/microsoft-enters-github-banned-iranian-developers-843f7c60a146)
+  - [GitHub banned Irán-based users](https://financialtribune.com/articles/sci-tech/99111/github-bans-iran-based-users)
+  - [GitHub has blocked an Iránian software developer account](https://hub.packtpub.com/github-has-blocked-an-iranian-software-developers-account)
   - [GitHub starts blocking developers in countries facing US trade sanctions](https://www.zdnet.com/article/github-starts-blocking-developers-in-countries-facing-us-trade-sanctions)
 
  ## Defensores

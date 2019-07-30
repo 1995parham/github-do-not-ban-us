@@ -1,6 +1,6 @@
 # Eine Mitteilung an GitHub
 
-[English](./README.md) | [简体中文](./README-CN.md) | [Español ](./README-ES.md) | [Ελληνικά](./README-GR.md) | [Italiano](./README-IT.md) | [Русский](./README-RU.md) | [فارسی](./README-PER.md) | [Française ](./README-FR.md) | Deutsch | [العربية](./README-AR.md) | [Türkçe](./README-TR.md)
+[English](./README.md) | [简体中文](./README-CN.md) | [Español ](./README-ES.md) | [Ελληνικά](./README-GR.md) | [Italiano](./README-IT.md) | [Русский](./README-RU.md) | [فارسی](./README-PER.md) | [Française ](./README-FR.md) | Deutsch | [العربية](./README-AR.md) | [Türkçe](./README-TR.md) | [Nederlands](./README-NL.md) | [한국어](./README-KO.md)
 
 ![alt text](./message.png)
 
@@ -19,7 +19,7 @@ GitHub war bisher eine offene und freie Plattform für jeden. Doch nun hat sich 
 Schlussendlich hoffen wir, dass GitHub's Team:
 
 - uns unsere privaten Repositories herunterladen und/oder veröffentlichen lässt (Kontrolle über Einstellungen).
-- seine Richtlinien zur Einschränkung ändert, soddas sie Benutzer nicht aufgrund ihrer Nationalität einschränken.
+- seine Richtlinien zur Einschränkung ändert, sodass sie Benutzer nicht aufgrund ihrer Nationalität einschränken.
 - seine Entscheidung veröffentlicht und sich für die Situation entschuldigt (genau wie Slack es in der selben Situation getan hat: https://slackhq.com/an-apology-and-an-update)
 
 ## Open-Source-Projekte von Iranischen Entwicklern

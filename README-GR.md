@@ -1,6 +1,6 @@
 # Ένα μήνυμα προς το GitHub
 
-[English](./README.md) | [简体中文](./README-CN.md) | [Español](./README-ES.md) | Ελληνικά | [Italiano](./README-IT.md) | [Русский](./README-RU.md) | [فارسی](./README-PER.md) | [Française](./README-FR.md) | [Deutsch](./README-DE.md) | [العربية](./README-AR.md) | [Türkçe](./README-TR.md)
+[English](./README.md) | [简体中文](./README-CN.md) | [Español](./README-ES.md) | Ελληνικά | [Italiano](./README-IT.md) | [Русский](./README-RU.md) | [فارسی](./README-PER.md) | [Française](./README-FR.md) | [Deutsch](./README-DE.md) | [العربية](./README-AR.md) | [Türkçe](./README-TR.md) | [Nederlands](./README-NL.md) | [한국어](./README-KO.md)
 
 ![alt text](./message.png)
 
@@ -9,7 +9,6 @@
 ![github-octocat](https://user-images.githubusercontent.com/16706911/61997137-7aa7df00-b0b2-11e9-97f1-f452855fe21c.png)
 
 ## Εισαγωγή
-## Introduction
 
 Το GitHub κάποτε ήταν μία ανοιχτή και ελεύθερη πλατφόρμα για όλους, αλλά πλέον έχει αποφασίσει να στερήσει λογαριασμούς από το Ιράν από την ικανότητα του συνεισφέρειν και του αποτελείν κομμάτι του οικοσυστήματος ανοιχτού-λογισμικού. Αν και καταλαβαίνουμε ότι το GitHub μπορεί να προέβη σε αυτήν την απόφαση αφού δέχτηκε πιέσεις από την αμερικανική κυβέρνηση, προσδοκούσαμε μια δράση που να εμπνέει περισσότερο σεβασμό από πλευράς τους.
 

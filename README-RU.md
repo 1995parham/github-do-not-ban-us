@@ -1,6 +1,6 @@
 # Сообщение для GitHub
 
-[English](./README.md) | [简体中文](./README-CN.md) | [Español](./README-ES.md) | [Ελληνικά](./README-GR.md) | [Italiano](./README-IT.md) | Русский | [فارسی](./README-PER.md) | [Française](./README-FR.md) | [Deutsch](./README-DE.md) | [العربية](./README-AR.md) | [Türkçe](./README-TR.md)
+[English](./README.md) | [简体中文](./README-CN.md) | [Español](./README-ES.md) | [Ελληνικά](./README-GR.md) | [Italiano](./README-IT.md) | Русский | [فارسی](./README-PER.md) | [Française](./README-FR.md) | [Deutsch](./README-DE.md) | [العربية](./README-AR.md) | [Türkçe](./README-TR.md) | [Nederlands](./README-NL.md) | [한국어](./README-KO.md)
 
 ![alt text](./message.png)
 
@@ -11,11 +11,11 @@
 
 ## Вступление
 
-GitHub был открытой и свободной платформой для всех, но GitHub решил запретить иранским аккаунтам участвовать в развитии open-source экосистемы. Хотя мы понимаем, что GitHub мог принять такое решение под давлением правительства США, мы ожидали от GitHub более уважительного поведения.
+GitHub был открытой и свободной платформой для всех, но GitHub решил запретить иранским аккаунтам участвовать в развитии open-source экосистемы. Хоть мы и понимаем, что GitHub мог принять такое решение под давлением правительства США, мы ожидали от GitHub более уважительного поведения.
 
-1. GitHub __внезапно__ ограничил нам доступ к приватным репозиториям. Было бы уместно хотя бы уведомление перед блокировкой.
+1. GitHub __внезапно__ ограничил нам доступ к приватным репозиториям. Было бы уместно заранее уведомить перед блокировкой.
 
-2. Команда GitHub решила сделать шаг назад и ограничить наши аккаунты, **основываясь на нашей национальности**, независимо от того, где мы живём. Пока они смогли заблокировать нас только по IP-адресам, как и многие компании из США.
+2. Команда GitHub решила сделать шаг назад и ограничила наши аккаунты, **основываясь на нашей национальности**, независимо от того, где мы живём. Пока, они смогли заблокировать нас только по IP-адресам, как и многие компании из США.
 
 Мы надеемся, что команда GitHub:
 
@@ -75,3 +75,6 @@ GitHub был открытой и свободной платформой для
 - [Behdad Esfahbod: So, recently @github has started disabling accounts of Iranian developers](https://twitter.com/behdadesfahbod/status/1154755351092158465?s=19) on Twitter
 - [Nuxt.js: Our core team member @_pi0_ cannot access our private repositories anymore on @github because of US Sanctions...
 ](https://t.co/4FiLexH9Mf) on Twitter
+
+## сторонников
+[список сторонников](README.md#Supporters)
