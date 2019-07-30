@@ -113,6 +113,8 @@ You can:
 - GitHub page are now working for restricted persons.
 
 ## Supporters
+
+- Martin L. Jensen from Denmark 🇩🇰 ([martinloesethjensen](https://github.com/martinloesethjensen))
 - Usama Tahir 🇵🇰 ([Usama-Tahir](https://github.com/Usama-Tahir))
 - Moni from 🇮🇳 ([monis10](https://github.com/MoniS10))
 - MoniJS from 🇺🇸 ([MoniJS](https://github.com/MoniJS))
