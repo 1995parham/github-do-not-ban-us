@@ -717,6 +717,7 @@ You can:
 - Maximilian Ruta from Germany ([Deltachaos](https://github.com/Deltachaos))
 - Hal Shin from Canada :canada: ([communitybicycle](https://github.com/communitybicycle))
 - Leandro Lopes Lima from Brazil 🇧🇷 ([limaleandro19999](https://github.com/limaleandro1999))
+- Max from Germany 🇩🇪 ([RealCerus](https://github.com/RealCerus))
 - Cássio Almeida from Brazil 🇧🇷 ([kssioalmeida](https://github.com/kssioalmeida))
 - Alexa Jakob from Canada ([wolframalexa](https://github.com/wolframalexa))
 - Chris Sprance from Brazil 🇺🇸 ([csprance](https://github.com/csprance))
