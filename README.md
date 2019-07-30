@@ -48,6 +48,7 @@ Some examples of open-source projects created by Iranian developers:
 - [@wolfengine](https://github.com/wolfengine)/[**wolf.engine**](https://github.com/wolfengine/wolf.engine)
 - [@soroushchehresa](https://github.com/soroushchehresa)/[**vue-soundcloud**](https://github.com/soroushchehresa/vue-soundcloud)
 - [@soroushchehresa](https://github.com/soroushchehresa)/[**unsplash-wallpapers**](https://github.com/soroushchehresa/unsplash-wallpapers)
+- [@MahdiMajidzadeh](https://github.com/MahdiMajidzadeh)/[**bootstrap-v4-rtl**](https://github.com/MahdiMajidzadeh/bootstrap-v4-rtl)
 
 You can find the full list [here](https://github.com/mohebifar/made-in-iran).
 
@@ -729,6 +730,7 @@ You can:
 - Gustavo Ocanto 🇻🇪 ([gocanto](https://github.com/gocanto))
 - Philip Huang from Taiwan 🇹🇼 ([p208p2002](https://github.com/p208p2002))
 - Dima Qiu from China 🇨🇳 ([DimaQiu](https://github.com/qmy777))
+- Mahdi Majidzadeh from Iran 🇮🇷 ([MahdiMajidzadeh](https://github.com/MahdiMajidzadeh))
 - Pest from China 🇨🇳 ([DimaQiu](https://github.com/pestz))
 - Weiyou Zhu from China 🇨🇳 ([zhuweiyou](https://github.com/zhuweiyou))
 - Samuel Chia from China 🇨🇳 ([sosamuel](https://github.com/sosamuel))
