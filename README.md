@@ -741,3 +741,4 @@ You can:
 - Weiyou Zhu from China 🇨🇳 ([zhuweiyou](https://github.com/zhuweiyou))
 - Samuel Chia from China 🇨🇳 ([sosamuel](https://github.com/sosamuel))
 - Nate Marshall from UK ([BaRRaKudaRain](https://github.com/BaRRaKudaRain))
+- Mohamed Messaad from France 🇫🇷 ([shidenkai0](https://github.com/shidenkai0))
