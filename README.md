@@ -719,3 +719,4 @@ You can:
 - Rodrigo Alencar from Brazil 🇧🇷 ([ratox](https://github.com/ratox))
 - ZhangZisu from China 🇨🇳 ([ZhangZisu](https://github.com/ZhangZisu))
 - Gustavo Ocanto 🇻🇪 ([gocanto](https://github.com/gocanto))
+- Dima Qiu from China 🇨🇳 ([DimaQiu](https://github.com/qmy777))
