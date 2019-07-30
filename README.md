@@ -102,7 +102,7 @@ You can:
 - [Conner Orth:Shout out for this terribly sad turn of events for our fellow Iranian developers.](https://twitter.com/conner_orth/status/1154723522729709568) on Twitter
 - [Nat Friedman:We're not doing this because we want to; we're doing it because we have to.](https://twitter.com/natfriedman/status/1155311121038864384) on Twitter
 - [Pooya Eimandar:@github disabled my repos without prior notice.](https://twitter.com/_poei/status/1154994262884454400) on Twitter
-- [Pooya Eimandar:I've been paid github for more than three years and now I can't even export my repos because of my nationality. ](https://www.reddit.com/r/github/comments/cirde7/ive_been_paid_github_for_more_than_three_years/?st=jympkq19&sh=df5e5410) on Reddit
+- [Pooya Eimandar:I've been paying github for more than three years and now I can't even export my repos because of my nationality. ](https://www.reddit.com/r/github/comments/cirde7/ive_been_paid_github_for_more_than_three_years/?st=jympkq19&sh=df5e5410) on Reddit
 
 ## News
 
