@@ -1,0 +1,1 @@
+console.info('Github is for everyone!')
