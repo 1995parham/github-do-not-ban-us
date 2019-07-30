@@ -739,3 +739,5 @@ You can:
 - Weiyou Zhu from China 🇨🇳 ([zhuweiyou](https://github.com/zhuweiyou))
 - Samuel Chia from China 🇨🇳 ([sosamuel](https://github.com/sosamuel))
 - Nate Marshall from UK ([BaRRaKudaRain](https://github.com/BaRRaKudaRain))
+- Reganto from Esperanto ([Reganto](http://github.com/reganto))
+
