@@ -1,6 +1,6 @@
 # 给 GitHub 的一封信
 
-[English](./README.md) | 简体中文 | [Español ](./README-ES.md) | [Ελληνικά](./README-GR.md) | [Italiano](./README-IT.md) | [Русский](./README-RU.md) | [فارسی](./README-PER.md) | [Française ](./README-FR.md) | [Deutsch](./README-DE.md) | [Հայերէն](./README-HY.md) | [العربية](./README-AR.md) | [Türkçe](./README-TR.md) | [Nederlands](./README-NL.md) | [한국어](./README-KO.md)
+[English](./README.md) | 简体中文 | [Español ](./README-ES.md) | [Ελληνικά](./README-GR.md) | [Italiano](./README-IT.md) | [Русский](./README-RU.md) | [فارسی](./README-PER.md) | [Française ](./README-FR.md) | [Deutsch](./README-DE.md) | [Հայերէն](./README-HY.md) | [العربية](./README-AR.md) | [Türkçe](./README-TR.md) | [Nederlands](./README-NL.md) | [한국어](./README-KO.md) | [繁體中文](./README-TW.md)
 
 ![alt text](./message.png)
 
@@ -23,6 +23,7 @@ GitHub 曾经是一个面向所有人的开放、自由的平台，但它现在�
   - **更新**：现在可以公开私有仓库了。
 - 变更他们的限制政策，不得根据用户国籍进行限制。
 - 公开宣布他们的决定并为造成当前的情形而道歉（就像之前发生同样情形时 Slack 做的一样：https://slackhq.com/an-apology-and-an-update ）。
+- **更新** 受限制账户的Github Pages现在可以访问了。
 
 ## 由伊朗开发者主持的开源项目
 
