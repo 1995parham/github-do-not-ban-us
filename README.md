@@ -775,3 +775,4 @@ You can:
 - Yaroslav Likhachev from Russia 🇷🇺 ([traktorist](https://github.com/traktorist))
 - Luiz Filho from Brazil 🇧🇷 ([luizmacfilho](https://github.com/luizmacfilho))
 - Muhammad Usman from Pakistan 🇵🇰 ([Usman](https://github.com/hafizusman530))
+- Raphael Pacheco from Brazil 🇧🇷 ([pacheco7](https://github.com/pacheco7))
