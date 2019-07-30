@@ -816,3 +816,4 @@ You can:
 - Zhiwa from China 🇨🇳 ([zhiwa](https://github.com/aboutmydreams))
 - Zhu Zihao from China 🇨🇳 ([cireu](https://github.com/cireu))
 - Şahin Mersin from Turkey 🇹🇷 ([electrocoder](https://github.com/electrocoder))
+- Khanagyan Tigran from Russia 🇷🇺 ([hanagantig](https://github.com/hanagantig))
