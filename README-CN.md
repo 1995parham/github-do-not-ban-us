@@ -5,6 +5,7 @@
 ![alt text](./message.png)
 
 ~~**提示:** 你可以使用[该扩展](https://github.com/JafarAkhondali/remove-github-restrictions-message)或[该扩展](https://github.com/MohamadKh75/ShutHub)或[该 Tampermonkey 脚本](https://gist.github.com/HirbodBehnam/2e079e187be0b1b6a6bcb734ed88474e)或[Stylish](https://userstyles.org/styles/173827/hide-github-warning)来隐藏这个黄色提示框!~~
+
 **更新:** 这个警告消息现在可以关闭了。
 
 ![github-octocat](https://user-images.githubusercontent.com/16706911/61997137-7aa7df00-b0b2-11e9-97f1-f452855fe21c.png)
