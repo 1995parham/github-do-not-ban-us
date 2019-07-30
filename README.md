@@ -83,6 +83,10 @@ You can:
 - [GitHub builds wall round private repos, makes devs in US-sanctioned countries pay for it](https://www.theregister.co.uk/2019/07/29/github_block/)
 - [GitHub starts blocking developers in countries facing US trade sanctions](https://www.zdnet.com/article/github-starts-blocking-developers-in-countries-facing-us-trade-sanctions/)
 - [GitHub Bans Iran-Based Users](https://financialtribune.com/articles/sci-tech/99111/github-bans-iran-based-users)
+- [GitHub Has Started Blocking Developers From Countries That Face US Trade Sanctions And Restricting Access To The Repository’s Tools](https://appuals.com/github-has-started-blocking-developers-from-countries-that-face-us-trade-sanctions-and-restricting-access-to-the-repositorys-tools/)
+- [GitHub is reportedly blocking access to its site for users in places like Crimea and Iran, which are under US sanctions
+](https://www.businessinsider.com/microsoft-owned-github-reportedly-blocking-people-in-crimea-iran-sanction-2019-7)
+
 ## On Social Networks
 
 - [GitHub banned all Iranian users.](https://www.reddit.com/r/programming/comments/ciey8g/github_banned_all_iranian_users_our_accounts_are/) on Reddit
