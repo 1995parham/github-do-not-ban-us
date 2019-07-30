@@ -16,7 +16,7 @@ GitHub costumava ser uma plataforma aberta e para todos, porém eles decidiram r
 
 1. GitHub restringiu nosso acesso para repositórios privados de repente sendo que nós queríamos, no mínimo, sermos avisados antes que o acesso fosse restringido.
 
-2. O time do GitHub decidiu ir um passo além e restringir os usuários **baseados na Nacionalidade** não importa onde nós vivemos, sendo que els poderiam apenas restringir o acesso através do endereço IP como outras empresas americanas.
+2. O time do GitHub decidiu ir um passo além e restringir os usuários **baseados na Nacionalidade** não importa onde nós vivemos, sendo que eles poderiam apenas restringir o acesso através do endereço IP como outras empresas americanas.
 
 Eventualmente, nós temos esperança que o time do GitHub:
 
@@ -91,5 +91,5 @@ Você pode:
 
 ![nat-friedman](nat-friedman.png)
 
-## apoiadoras
-[apoiadoras](README.md#Supporters)
+## Apoiadores
+[Apoiadores](README.md#Supporters)
