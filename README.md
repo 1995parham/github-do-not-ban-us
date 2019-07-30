@@ -789,5 +789,6 @@ You can:
 - Mariell Hoversholm from Norway 🇳🇴 ([Proximyst](https://github.com/Proximyst))
 - Arthur Rocha from Brazil 🇧🇷 ([arthurrochat](https://github.com/arthurrochat))
 - Bahman Eslami from Netherlands 🇳🇱 ([typoman](https://github.com/typoman))
+- Ali İlteriş Keskin from Turkey 🇹🇷 ([ilteriskeskin](https://github.com/ilteriskeskin))
 - Erhan Bute from Turkey 🇹🇷 ([erhan](https://github.com/erhan))
 - wencan from China 🇨🇳 ([wencan](https://github.com/wencan))
