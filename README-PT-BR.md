@@ -91,5 +91,5 @@ Você pode:
 
 ![nat-friedman](nat-friedman.png)
 
-## Apoiadoras
-[Apoiadoras](README.md#Supporters)
+## Apoiadores
+[Apoiadores](README.md#Supporters)
