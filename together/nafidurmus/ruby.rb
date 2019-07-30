@@ -1,0 +1,1 @@
+puts "Herkes için GitHub"
