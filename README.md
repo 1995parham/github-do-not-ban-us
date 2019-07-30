@@ -26,7 +26,7 @@ Eventually, we are hoping that GitHub's team will:
   **UPDATE:** It is now possible to make private gists public.
 - Change their restriction policies so as to not limit users based on their Nationality.
 - Announce their decision publicly and apologize for making this situation (like what Slack did before in the same situation: https://slackhq.com/an-apology-and-an-update).
-- **UPDATE** GitHub page are now working for restricted persons.
+- **UPDATE** GitHub Pages are now working for restricted persons.
 
 ## Open-source projects made by Iranian developers
 
