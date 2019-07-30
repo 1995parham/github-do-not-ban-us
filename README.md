@@ -711,6 +711,7 @@ You can:
 - Hal Shin from Canada :canada: ([communitybicycle](https://github.com/communitybicycle))
 - Leandro Lopes Lima from Brazil 🇧🇷 ([limaleandro19999](https://github.com/limaleandro1999))
 - Cássio Almeida from Brazil 🇧🇷 ([kssioalmeida](https://github.com/kssioalmeida))
+- Anwesh Budhathoki from Nepal 🇳🇵 ([abperni](https://github.com/abperni))
 - Liu Hui Hao from China 🇨🇳 ([geminate](https://github.com/geminate))
 - Kim Younggeon from Republic of Korea 🇰🇷 ([firefanda](https://github.com/firefanda))
 - Ashhad Sheikh from Pakistan 🇵🇰 ([ashhadsheikh](https://github.com/ashhadsheikh))
