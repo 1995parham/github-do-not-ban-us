@@ -30,6 +30,8 @@ Eventually, we are hoping that GitHub's team will:
 
 Some examples of open-source projects created by Iranian developers:
 
+- [@behrad](https://github.com/behrad)/[**kue**](https://github.com/Automattic/kue)
+- [@behrad](https://github.com/behrad)/[**mosca**](https://github.com/mcollina/mosca)
 - [@harfbuzz](https://github.com/harfbuzz)/[**harfbuzz**](https://github.com/harfbuzz/harfbuzz)
 - [@usablica](https://github.com/usablica)/[**intro.js**](https://github.com/usablica/intro.js)
 - [@lebab](https://github.com/lebab)/[**lebab**](https://github.com/lebab/lebab)
