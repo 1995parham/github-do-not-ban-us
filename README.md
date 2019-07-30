@@ -710,6 +710,7 @@ You can:
 - Hal Shin from Canada :canada: ([communitybicycle](https://github.com/communitybicycle))
 - Leandro Lopes Lima from Brazil 🇧🇷 ([limaleandro19999](https://github.com/limaleandro1999))
 - Cássio Almeida from Brazil 🇧🇷 ([kssioalmeida](https://github.com/kssioalmeida))
+- Ashhad Sheikh from Pakistan 🇵🇰 ([ashhadsheikh](https://github.com/ashhadsheikh))
 - Sora Liu from China 🇨🇳 ([lovesora](https://github.com/lovesora))
 - Rodrigo Alencar from Brazil 🇧🇷 ([ratox](https://github.com/ratox))
 - ZhangZisu from China 🇨🇳 ([ZhangZisu](https://github.com/ZhangZisu))
