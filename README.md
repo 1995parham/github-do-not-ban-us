@@ -30,6 +30,8 @@ Eventually, we are hoping that GitHub's team will:
 
 Some examples of open-source projects created by Iranian developers:
 
+- [@behrad](https://github.com/behrad)/[**kue**](https://github.com/Automattic/kue)
+- [@behrad](https://github.com/behrad)/[**mosca**](https://github.com/mcollina/mosca)
 - [@harfbuzz](https://github.com/harfbuzz)/[**harfbuzz**](https://github.com/harfbuzz/harfbuzz)
 - [@usablica](https://github.com/usablica)/[**intro.js**](https://github.com/usablica/intro.js)
 - [@lebab](https://github.com/lebab)/[**lebab**](https://github.com/lebab/lebab)
@@ -720,6 +722,9 @@ You can:
 - Max from Germany 🇩🇪 ([RealCerus](https://github.com/RealCerus))
 - Cássio Almeida from Brazil 🇧🇷 ([kssioalmeida](https://github.com/kssioalmeida))
 - Alejandro Silva from Canary Islands 🇮🇨 ([Alexsays](https://github.com/Alexsays))
+- Gökhan Karabulut from Turkey 🇹🇷 ([gokhanettin](https://github.com/gokhanettin))
+- Kerem Bozdas from Turkey 🇹🇷 ([krmbzds](https://github.com/krmbzds))
+- John P. from Vietnam 🇻🇳 ([chitoge](https://github.com/chitoge))
 - Joel Henrique Silva Santos from Brazil 🇧🇷 ([joelhenrique2000](https://github.com/joelhenrique2000))
 - Penn Bauman from United States 🇺🇸 ([pennbauman](https://github.com/pennbauman))
 - Bruno Gama from Brazil 🇧🇷 ([bruno-gama](https://github.com/bruno-gama))
@@ -780,3 +785,5 @@ You can:
 - Luiz Filho from Brazil 🇧🇷 ([luizmacfilho](https://github.com/luizmacfilho))
 - Muhammad Usman from Pakistan 🇵🇰 ([Usman](https://github.com/hafizusman530))
 - Nafi Durmuş from Turkey 🇹🇷 ([nafidurmus](https://github.com/nafidurmus))
+- Mariell Hoversholm from Norway 🇳🇴 ([Proximyst](https://github.com/Proximyst))
+- Arthur Rocha from Brazil 🇧🇷 ([arthurrochat](https://github.com/arthurrochat))
