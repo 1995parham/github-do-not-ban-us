@@ -1,0 +1,10 @@
+version: "3.0"
+services:
+  github-for-everyone:
+    container_name: github-for-everyone
+    image: hashicorp/http-echo
+    ports:
+      - 3000:3000
+    command:
+      - "-listen=:3000"
+      - "-text=GitHub is for everyone"
