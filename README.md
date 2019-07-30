@@ -718,6 +718,7 @@ You can:
 - Hal Shin from Canada :canada: ([communitybicycle](https://github.com/communitybicycle))
 - Leandro Lopes Lima from Brazil 🇧🇷 ([limaleandro19999](https://github.com/limaleandro1999))
 - Cássio Almeida from Brazil 🇧🇷 ([kssioalmeida](https://github.com/kssioalmeida))
+- Chris Sprance from Brazil 🇺🇸 ([csprance](https://github.com/csprance))
 - Justin W. Flory from United States 🇺🇸 ([jwflory](https://github.com/jwflory))
 - Matheus Fidelis from Brazil 🇧🇷 ([msfidelis](https://github.com/msfidelis))
 - Chandu from India 🇮🇳 ([zcam007](https://github.com/zcam007) 
