@@ -7,7 +7,7 @@
 ~~**Напомена:** Можете користити [ову екстензију](https://github.com/JafarAkhondali/remove-github-restrictions-message) или [ову екстензију](https://github.com/MohamadKh75/ShutHub) или [ову *Tampermonkey* скрипту](https://gist.github.com/HirbodBehnam/2e079e187be0b1b6a6bcb734ed88474e) или [Stylish](https://userstyles.org/styles/173827/hide-github-warning) да сакријете ову поруку.~~
 **Абдејт:** Порука сада може да се сакрије.
 
-![github-octocat](https://user-images.githubusercontent.com/16706911/61997137-7aa7df00-b0b2-11e9-97f1-f452855fe21c.png)
+![github-octocat](https://user-images.githubusercontent.com/12782371/62160824-168f5000-b32a-11e9-858b-e196b913d17b.png)
 
 ## Увод
 

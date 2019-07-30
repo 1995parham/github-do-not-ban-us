@@ -7,7 +7,7 @@
 ~~**提示:** 你可以使用[此擴充套件](https://github.com/JafarAkhondali/remove-github-restrictions-message)或[此擴充套件](https://github.com/MohamadKh75/ShutHub)或[此Tampermonkey 腳本](https://gist.github.com/HirbodBehnam/2e079e187be0b1b6a6bcb734ed88474e)或[Stylish](https://userstyles.org/styles/173827/hide-github-warning)来隱藏這個黃色提示框!~~
 **更新:** 此警告訊息現在已經被隱藏了。
 
-![github-octocat](https://user-images.githubusercontent.com/16706911/61997137-7aa7df00-b0b2-11e9-97f1-f452855fe21c.png)
+![github-octocat](https://user-images.githubusercontent.com/12782371/62160824-168f5000-b32a-11e9-858b-e196b913d17b.png)
 
 ## 介绍
 
