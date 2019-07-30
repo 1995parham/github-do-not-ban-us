@@ -640,6 +640,7 @@ You can:
 - Andy Chen from Taiwan 🇹🇼 ([amazingandyyy](https://github.com/amazingandyyy))
 - Şahin Mersin from Turkey 🇹🇷 ([electrocoder](https://github.com/electrocoder))
 - Saulo Nunes from Brazil 🇧🇷 ([SauloNunes](https://github.com/SauloNunes))
+- Junior Rocha from Brazil 🇧🇷 ([rotchajunior](https://github.com/rotchajunior))
 - Lucas Alencar from Brazil 🇧🇷 ([alencarlucas](https://github.com/alencarlucas))
 - James Kitching from Scotland 🇬🇧 ([Jachdich](https://github.com/Jachdich))
 - Ragty from China 🇨🇳 ([Ragty](https://github.com/huoji555))
