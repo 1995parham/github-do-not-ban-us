@@ -719,6 +719,7 @@ You can:
 - Leandro Lopes Lima from Brazil 🇧🇷 ([limaleandro19999](https://github.com/limaleandro1999))
 - Max from Germany 🇩🇪 ([RealCerus](https://github.com/RealCerus))
 - Cássio Almeida from Brazil 🇧🇷 ([kssioalmeida](https://github.com/kssioalmeida))
+- John P. from Vietnam 🇻🇳 ([chitoge](https://github.com/chitoge))
 - Joel Henrique Silva Santos from Brazil 🇧🇷 ([joelhenrique2000](https://github.com/joelhenrique2000))
 - Penn Bauman from United States 🇺🇸 ([pennbauman](https://github.com/pennbauman))
 - Bruno Gama from Brazil 🇧🇷 ([bruno-gama](https://github.com/bruno-gama))
@@ -780,3 +781,4 @@ You can:
 - Muhammad Usman from Pakistan 🇵🇰 ([Usman](https://github.com/hafizusman530))
 - Nafi Durmuş from Turkey 🇹🇷 ([nafidurmus](https://github.com/nafidurmus))
 - Mariell Hoversholm from Norway 🇳🇴 ([Proximyst](https://github.com/Proximyst))
+- Arthur Rocha from Brazil 🇧🇷 ([arthurrochat](https://github.com/arthurrochat))
