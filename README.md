@@ -355,6 +355,7 @@ You can:
 - fzsdi from Iran 🇮🇷 ([fzsdi](https://github.com/fzsdi))
 - Fırat Eşki from Turkey 🇹🇷 ([firateski](https://github.com/firateski))
 - Gabriel Starling from Brazil 🇧🇷 ([MadStarling](https://github.com/MadStarling))
+- Gabriel Petry from Brazil 🇧🇷 ([gabrielpetry](https://github.com/gabrielpetry))
 - Galin Kostov from Bulgaria 🇧🇬 ([gvko](https://github.com/gvko))
 - Gaurav Agarwal from India 🇮🇳 ([gauravagarwal2704](https://github.com/gauravagarwal2704))
 - George Ajam from Iraq 🇮🇶 ([geoapi](https://github.com/geoapi))
