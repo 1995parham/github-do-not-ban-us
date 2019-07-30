@@ -8,5 +8,5 @@ func main() {
 }
 
 func GithubForEveryone() {
-	fmt.Println("Github is for everyone!")
+	fmt.Println("GitHub is for everyone!")
 }

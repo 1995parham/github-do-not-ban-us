@@ -1,3 +1,3 @@
 #include <iostream>
 using namespace std;
-int main() { cout << "Github is for everyone\n"; }
+int main() { cout << "GitHub is for everyone\n"; }

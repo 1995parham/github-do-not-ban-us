@@ -1,6 +1,6 @@
 <?php
-class Github {
-    private static $product = 'Github';
+class GitHub {
+    private static $product = 'GitHub';
 	private static $audience = 'everyone';
 	
 	public static function getProduct() {return self::$product;}
@@ -13,11 +13,11 @@ class Github {
 <!DOCTYPE html>
 <html lang="en">
    <head>
-      <title><?=Github::getProduct()?> is for <?=Github::getAudience()?></title>
+      <title><?=GitHub::getProduct()?> is for <?=GitHub::getAudience()?></title>
    </head>
    <body>
-      <div id='<?=Github::getProduct()?>' data-intended-audience='<?=Github::getAudience()?>'>
-         <h1><?=Github::getProduct()?> is for <?=Github::getAudience()?>!</h1>
+      <div id='<?=GitHub::getProduct()?>' data-intended-audience='<?=GitHub::getAudience()?>'>
+         <h1><?=GitHub::getProduct()?> is for <?=GitHub::getAudience()?>!</h1>
       </div>
    </body>
 </html>

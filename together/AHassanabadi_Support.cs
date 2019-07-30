@@ -8,7 +8,7 @@ namespace github_do_not_ban_us
             bool gitHubDontFollowStupidPolitic = true;
             if(gitHubDontFollowStupidPolitic)
             {
-                Console.WriteLine("Github is for everyone"); 
+                Console.WriteLine("GitHub is for everyone"); 
             }
             Console.ReadLine();
         }

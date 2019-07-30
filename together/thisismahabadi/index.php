@@ -1,2 +1,2 @@
 <?php
-echo "Github is for everyone";
+echo "GitHub is for everyone";

@@ -1,6 +1,6 @@
-# Open letter to Github
+# Open letter to GitHub
 
-Hello Github,
+Hello GitHub,
 
 The way you've handled the U.S. trade control law restrictions is terrible. Please revert these ridiculous measures placed upon our fellow developers from the affected countries.
 

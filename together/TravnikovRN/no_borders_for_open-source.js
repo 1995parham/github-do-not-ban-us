@@ -1,2 +1,2 @@
-alert("Github is for everyone !");
-console.info("Github для всех !");
+alert("GitHub is for everyone !");
+console.info("GitHub для всех !");

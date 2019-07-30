@@ -6,7 +6,7 @@ namespace China
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Github is for Everyone !");
+            Console.WriteLine("GitHub is for Everyone !");
             Console.WriteLine("Support from China !");
         }
     }

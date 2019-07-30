@@ -3,5 +3,5 @@
 using namespace std;
 
 int main(){
-	cout<<"Github is for everyone"<<endl;
+	cout<<"GitHub is for everyone"<<endl;
 }

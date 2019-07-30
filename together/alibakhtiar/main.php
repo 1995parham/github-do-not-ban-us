@@ -2,4 +2,4 @@
 
 // php main.php
 
-echo "Github is for everyone\n";
+echo "GitHub is for everyone\n";

@@ -2,7 +2,7 @@ import react from 'react';
 
 export default class index extends react.Component {
   state = {
-    message: 'Github for everyone'
+    message: 'GitHub for everyone'
   };
   render() {
     return (

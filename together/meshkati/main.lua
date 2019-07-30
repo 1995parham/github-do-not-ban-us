@@ -1,1 +1,1 @@
-io.write("Github is for everyone\n")
+io.write("GitHub is for everyone\n")

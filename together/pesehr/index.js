@@ -1,6 +1,6 @@
 
-// Github is for everyone
+// GitHub is for everyone
 // Do not ban Iranian developers
 // Pesehr from Iran 🇮🇷
 
-console.log("Github is for everyone")
+console.log("GitHub is for everyone")

@@ -5,5 +5,5 @@ import (
 )
 
 func main() {
-	fmt.Println("Github is for everyone")
+	fmt.Println("GitHub is for everyone")
 }

@@ -1,1 +1,1 @@
-console.log("Github do not ban us !")
+console.log("GitHub do not ban us !")

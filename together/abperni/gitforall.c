@@ -1,4 +1,4 @@
 #include<stdio.h>
 void main(){
-  printf("Github is for everyone");
+  printf("GitHub is for everyone");
 }

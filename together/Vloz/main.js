@@ -1,2 +1,2 @@
-console.log("Github is for everyone");
-console.log("Github est pour tous");
+console.log("GitHub is for everyone");
+console.log("GitHub est pour tous");

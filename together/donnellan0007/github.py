@@ -1,3 +1,3 @@
-#Github is for everyone
+#GitHub is for everyone
 
-print("Github is for everyone")
+print("GitHub is for everyone")
