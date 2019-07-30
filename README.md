@@ -711,3 +711,6 @@ You can:
 - Leandro Lopes Lima from Brazil 🇧🇷 ([limaleandro19999](https://github.com/limaleandro1999))
 - Cássio Almeida from Brazil 🇧🇷 ([kssioalmeida](https://github.com/kssioalmeida))
 - Sora Liu from China 🇨🇳 ([lovesora](https://github.com/lovesora))
+- Rodrigo Alencar from Brazil 🇧🇷 ([ratox](https://github.com/ratox))
+- ZhangZisu from China 🇨🇳 ([ZhangZisu](https://github.com/ZhangZisu))
+- Gustavo Ocanto 🇻🇪 ([gocanto](https://github.com/gocanto))
