@@ -802,3 +802,4 @@ You can:
 - Muhammad Iqbal Fasri from Indonesia 🇮🇩 ([iqbalfasri](https://github.com/iqbalfasri))
 - Davide Bolzoni from Italy 🇮🇹 ([dbbd59](https://github.com/dbbd59))
 - Saurabh Daware from India 🇮🇳 ([saurabhdaware](https://github.com/saurabhdaware))
+- Jariullah Safi from the U.S. 🇺🇲 ([safijari](https://github.com/safijari))
