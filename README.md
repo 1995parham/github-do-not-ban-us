@@ -811,6 +811,7 @@ You can:
 - Yağızhan Burak Yakar from Turkey 🇹🇷 ([yagizhan49](https://github.com/yagizhan49))
 - Yhlben from China 🇨🇳 ([yhlben](https://github.com/yhlben))
 - YHYJ from China 🇨🇳 ([YHYJ](https://github.com/YHYJ))
+- YouCii from China 🇨🇳 ([YouCii](https://github.com/YouCii))
 - Young Jae Sim from Republic of Korea 🇰🇷 ([Hanul](https://github.com/Hanul))
 - Zakariae EL Mesaoudi from Morocco 🇲🇦 ([zackmeso](https://github.com/zackmeso/))
 - zhangnix from China 🇨🇳 ([spreadnix](https://github.com/spreadnix))
@@ -819,4 +820,3 @@ You can:
 - Zhu Zihao from China 🇨🇳 ([cireu](https://github.com/cireu))
 - Şahin Mersin from Turkey 🇹🇷 ([electrocoder](https://github.com/electrocoder))
 - Khanagyan Tigran from Russia 🇷🇺 ([hanagantig](https://github.com/hanagantig))
-- YouCii from China 🇨🇳 ([YouCii](https://github.com/YouCii))
