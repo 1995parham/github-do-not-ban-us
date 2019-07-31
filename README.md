@@ -298,6 +298,7 @@ You can:
 - Daniel Lalasa ([daniellalasa2](https://github.com/daniellalasa2))
 - Daniil Gentili from Italy and Russia 🇮🇹 🇷🇺 ([danog](https://github.com/danog))
 - Dan Michael O. Heggø 🇳🇴 ([danmichaelo](https://github.com/danmichaelo))
+- Danct12 from Vietnam 🇻🇳 ([Danct12](https://github.com/Danct12))
 - Danny Kamps from The Netherlands 🇳🇱 ([Dkamps18](https://github.com/Dkamps18))
 - Danny Povolotski from Israel 🇮🇱([israelidanny](https://github.com/israelidanny))
 - Darrien Glasser from United States 🇺🇸 ([DarrienG](github.com/DarrienG))
