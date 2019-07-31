@@ -850,3 +850,4 @@ You can:
 - Khanagyan Tigran from Russia 🇷🇺 ([hanagantig](https://github.com/hanagantig))
 - Zoran Young from China 🇨🇳([Zoranner](https://github.com/zoranner))
 - Hamid Mohammadi from Iran 🇮🇷 ([hajitsu](https://github.com/hajitsu))
+- Anya Ellis from United States 🇺🇸 ([SunWithIssues](https://github.com/SunWithIssues))
