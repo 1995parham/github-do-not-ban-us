@@ -150,6 +150,7 @@ You can:
 - Alaa Masoud from Jordan 🇯🇴 ([alaatm](https://github.com/alaatm))
 - Alejandro González-Pérez from Spain 🇪🇸 ([algope](https://github.com/algope))
 - Alejandro Silva from Canary Islands 🇮🇨 ([Alexsays](https://github.com/Alexsays))
+- Aleksandr Yakimenko from Ukraine 🇺🇦 ([alyakimenko](https://github.com/alyakimenko))
 - Alexa Jakob from Canada ([wolframalexa](https://github.com/wolframalexa))
 - Alexander J. from Australia 🇦🇺 ([alexanderj2357](https://github.com/alexanderj2357))
 - Alexander Shelepenok from Belarus 🇧🇾
@@ -234,6 +235,7 @@ You can:
 - Angelo Gazzola from Italy 🇮🇹 ([nglgzz](https://github.com/nglgzz))
 - Angel Uniminin from Iceland 🇮🇸
 - Angus L. Fraser from UK 🇬🇧
+- Anil Chaudhari from Nepal 🇳🇵 ([imanilchaudhari](https://github.com/imanilchaudhari))
 - Antonios Sidiropoulos from Greece 🇬🇷 ([s-i-d-i](https://github.com/s-i-d-i))
 - Anwesh Budhathoki from Nepal 🇳🇵 ([abperni](https://github.com/abperni))
 - Appadeia from the United States 🇺🇸
@@ -427,6 +429,7 @@ You can:
 - James Kitching from Scotland 🇬🇧 ([Jachdich](https://github.com/Jachdich))
 - Jan-Willem Spuij from The Netherlands 🇳🇱 ([jspuij](https://github.com/jspuij))
 - Jan Krüger from Germany 🇩🇪 ([waterfl0w](https://github.com/waterfl0w))
+- Jang Woohyun from Republic of Korea 🇰🇷 ([wkddngus5](https://github.com/wkddngus5))
 - Jariullah Safi from the U.S. 🇺🇲 ([safijari](https://github.com/safijari))
 - Jason C. McDonald from United States 🇺🇸 ([codemouse92](https://github.com/codemouse92))
 - Jason Kraus from the United States 🇺🇸 ([zbyte64](https://github.com/zbyte64))
@@ -660,6 +663,7 @@ You can:
 - Peter Nelson from the United States 🇺🇸 ([pdtnelson](https://github.com/pdtnelson))
 - Peter Stensby from Norway 🇳🇴 ([pstensby](https://github.com/pstensby))
 - pexcn from Taiwan 🇹🇼 ([pexcn](https://github.com/pexcn))
+- Phani Rithvij from India 🇮🇳 ([phanirithvij](https://github.com/phanirithvij))
 - Philip Huang from Taiwan 🇹🇼 ([p208p2002](https://github.com/p208p2002))
 - Piotr Kazimierski from Poland 🇵🇱 ([inquis1t0r](https://github.com/Inquis1t0r/))
 - Pooya Azarpour from Iran 🇮🇷 ([poyaz](https://github.com/poyaz))
@@ -833,3 +837,4 @@ You can:
 - Şahin Mersin from Turkey 🇹🇷 ([electrocoder](https://github.com/electrocoder))
 - Khanagyan Tigran from Russia 🇷🇺 ([hanagantig](https://github.com/hanagantig))
 - Zoran Young from China 🇨🇳([Zoranner](https://github.com/zoranner))
+- Hamid Mohammadi from Iran 🇮🇷 ([hajitsu](https://github.com/hajitsu))

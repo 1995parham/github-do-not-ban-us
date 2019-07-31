@@ -1525,6 +1525,11 @@
     "github": "muhammadyaseen"
   },
   {
+    "name": "Noman Ali Khan",
+    "country": "Pakistan",
+    "github": "nomanalikhan"
+  },
+  {
     "name": "Francisco Sánchez",
     "country": "Chile",
     "github": "fransafu"
@@ -2558,5 +2563,15 @@
     "name": "Amir Muhammad Karimi",
     "country": "Iran",
     "github": "amk9978"
+  },
+  {
+    "name": "Jang Woohyun",
+    "country": "Republic of Korea",
+    "github": "wkddngus5"
+  },
+  {
+    "name":"Phani Rithvij",
+    "country":"India",
+    "github":"phanirithvij"
   }
 ]
