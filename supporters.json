@@ -1,5 +1,10 @@
 [
   {
+    "name": "Divy Srivastava",
+    "country": "India",
+    "github": "DivySrivastava"
+  },
+  {
     "name": "Kyaw Zin Tun",
     "country": "Myanmar",
     "github": "kyawzintun"
@@ -2578,5 +2583,40 @@
     "name":"Antonio Tauro",
     "country":"Switzerland",
     "github":"eyenx"
+  },
+  {
+    "name": "Farrukh Mamatkhalilov",
+    "country": "Uzbekistan",
+    "github": "webstyle"
+  },
+  {
+    "name": "Cong Li",
+    "country": "China",
+    "github": "exqlnet"
+  },
+  {
+    "name": "Sepehr Behroozi",
+    "country": "Iran",
+    "github": "3pehrbehroozi"
+  }
+  ,{
+    "name": "Nikola Pavlica",
+    "country": "Bosnia",
+    "github": "nikp123"
+  },
+  {
+    "name": "Geonho Kim",
+    "country": "Republic of Korea",
+    "github": "gunhoflash"
+  },
+  {
+    "name": "vadxq",
+    "country": "China",
+    "github": "vadxq"
+  }
+  ,{
+    "name": "Garam Choi",
+    "country": "South Korea",
+    "github": "Garamda"
   }
 ]

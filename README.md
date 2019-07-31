@@ -107,7 +107,7 @@ You can:
 
 ## News
 
-- [GitHub allow us to make our private repositories, public](https://github.com/1995parham/github-do-not-ban-us/issues/666)
+- [GitHub allows us to make our private repositories, public](https://github.com/1995parham/github-do-not-ban-us/issues/666)
 
 ![nat-friedman](nat-friedman.png)
 
@@ -136,6 +136,7 @@ You can:
 - Adnan Babakan from Iran 🇮🇷 ([AdnanBabakan](http://github.com/AdnanBabakan))
 - Ahad Chowdhury from Bangladesh 🇧🇩 ([maacpiash](https://github.com/maacpiash))
 - Ahmad Aghazadeh from Iran ([ahmadaghazadeh](https://github.com/ahmadaghazadeh))
+- Ahmad Asjad from India 🇮🇳 ([ahmadasjad](https://github.com/ahmadasjad))
 - Ahmad Chehreghani from Iran 🇮🇷 ([AChehre](https://github.com/Achehre/))
 - Ahmad Habannakeh from Syria 🇸🇾 ([abnud1](https://github.com/abnud1))
 - Ahmad Khani from Iran 🇮🇷 ([engineerahkhani](https://github.com/engineerahkhani))
@@ -222,6 +223,7 @@ You can:
 - Amirhossein Yaghoobi from Iran 🇮🇷 ([amir-yaghoobi](https://github.com/amir-yaghoobi))
 - Amir M. Joshaghani from 🇮🇷 ([AMJoshaghani](https://github.com/amjoshaghani))
 - Amir Masud Zare Bidaki from Iran 🇮🇷 ([amirmasud](https://github.com/amirmasud))
+- Amir Muhammad Karimi from Iran 🇮🇷 ([AMK9978](https://github.com/amk9978/))
 - Amir mohammad Naderi from Iran 🇮🇷 ([amiiir](https://github.com/amiiir))
 - Amir Ramezani from Iran 🇮🇷 ([brightening-eyes](http://github.com/brightening-eyes))
 - Amir Shokri From Iran 🇮🇷 ([amirshnll](https://github.com/amirshnll))
@@ -467,6 +469,7 @@ You can:
 - Khashayar Ghamati from Iran 🇮🇷 ([khashayarghamati](https://github.com/khashayarghamati))
 - Khurram Shehzad from Pakistan 🇵🇰 ([Khurram Shehzad](https://github.com/khurram18))
 - Kiarash Zarinmehr from Iran 🇮🇷 ([Kiarash-Z](https://github.com/Kiarash-Z))
+- Kim Sungjin from Republic of Korea 🇰🇷 ([sjOwOw](https://github.com/sjOwOw))
 - Kim Younggeon from Republic of Korea 🇰🇷 ([firefanda](https://github.com/firefanda))
 - Kitten King from India 🇮🇳 ([kittenking](https://github.com/kittenking))
 - Kittinan from Thailand 🇹🇭 ([kittinan](https://github.com/kittinan))
@@ -800,10 +803,12 @@ You can:
 - Tyler from the United States 🇺🇸 ([arctair](https://github.com/arctair))
 - Udo Kramer from Germany 🇩🇪 ([optikfluffel](https://github.com/optikfluffel))
 - Usama Tahir 🇵🇰 ([Usama-Tahir](https://github.com/Usama-Tahir))
+- vadxq from China 🇨🇳 ([vadxq](https://github.com/vadxq))
 - Vahid Bazzaz from Iran 🇮🇷 ([vahidbazzaz](https://github.com/vahidbazzaz))
 - Vahid Sadeghizadeh from Iran 🇮🇷 ([vsadeghizade](https://github.com/vsadeghizade))
 - Vaibhav Khulbe from India 🇮🇳 ([Kvaibhav01](https://github.com/Kvaibhav01))
 - Val from Philippines 🇵🇭 ([vxzry](https://github.com/vxzry))
+- Valera Padolochniy from Crimea 🇷🇺 ([smokehill](https://github.com/smokehill))
 - Victor Andrade from Brazil 🇧🇷 ([victorapa](https://github.com/victorapa))
 - Victor Borges from Brazil 🇧🇷 ([v-borg](https://github.com/v-borg))
 - Vimiix Yao from China 🇨🇳 ([vimiix](https://github.com/vimiix))
