@@ -839,6 +839,7 @@ You can:
 - YouCii from China 🇨🇳 ([YouCii](https://github.com/YouCii))
 - Young Jae Sim from Republic of Korea 🇰🇷 ([Hanul](https://github.com/Hanul))
 - Zakariae EL Mesaoudi from Morocco 🇲🇦 ([zackmeso](https://github.com/zackmeso/))
+- Zahra V from Canada 🇨🇦 ([r2d2oid](https://github.com/r2d2oid))
 - Zaw Zaw from Myanmar 🇲🇲 ([zawzaww](https://github.com/zawzaww))
 - zhangnix from China 🇨🇳 ([spreadnix](https://github.com/spreadnix))
 - ZhangZisu from China 🇨🇳 ([ZhangZisu](https://github.com/ZhangZisu)
