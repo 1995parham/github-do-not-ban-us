@@ -514,6 +514,7 @@ You can:
 - Mahdi Salmanzadeh from Iran 🇮🇷 ([Salmanzadeh](https://github.com/mahdisn76))
 - Mahmoud Eskandari from Iran 🇮🇷 ([mahmoud](https://github.com/mahmoud-eskandari))
 - Mahuton from Benin 🇧🇯 ([Mahuton](https://github.com/Mahuton))
+- Mandeep Singh from India 🇮🇳 ([meSingh](https://github.com/meSingh))
 - Marco Aceti from Italy 🇮🇹 ([MarcoBuster](https://github.com/MarcoBuster))
 - Mariam Arab from Canada 🇨🇦 ([mariamarab](https://github.com/mariamarab))
 - Marek Fajkus from Czech Republic 🇨🇿 ([turboMack](https://github.com/turboMaCk))
