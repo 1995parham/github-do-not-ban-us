@@ -827,6 +827,7 @@ You can:
 - Wilhelm Behncke from Germany 🇩🇪 ([grebaldi](https://github.com/grebaldi))
 - William from Netherlands 🇳🇱 ([Gusted](https://github.com/Gusted))
 - Wilson Flores [wilsson](https://github.com/wilsson) from 🇵🇪
+- winny from United States 🇺🇸 ([winny-](https://github.com/winny-))
 - X.y. Ren from China 🇨🇳 ([t532](https://github.com/t532))
 - xtlsoft from China 🇨🇳 ([xtlsoft](https://github.com/xtlsoft/))
 - Yang from China 🇨🇳 ([nighca](https://github.com/nighca))
