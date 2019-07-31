@@ -150,6 +150,7 @@ You can:
 - Alaa Masoud from Jordan 🇯🇴 ([alaatm](https://github.com/alaatm))
 - Alejandro González-Pérez from Spain 🇪🇸 ([algope](https://github.com/algope))
 - Alejandro Silva from Canary Islands 🇮🇨 ([Alexsays](https://github.com/Alexsays))
+- Aleksandr Yakimenko from Ukraine 🇺🇦 ([alyakimenko](https://github.com/alyakimenko))
 - Alexa Jakob from Canada ([wolframalexa](https://github.com/wolframalexa))
 - Alexander J. from Australia 🇦🇺 ([alexanderj2357](https://github.com/alexanderj2357))
 - Alexander Shelepenok from Belarus 🇧🇾
