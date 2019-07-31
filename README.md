@@ -419,6 +419,7 @@ You can:
 - Ivanq from Russia 🇷🇺 ([imachug](https://github.com/imachug/))
 - iyotetsuya from Taiwan 🇹🇼 ([iyotetsuya](https://github.com/iyotetsuya))
 - Jack Kamm from the United States 🇺🇸 ([jackkamm](https://github.com/jackkamm))
+- Jalan Jiang from China 🇨🇳 ([JalanJiang](http://jalan.space))
 - James from China 🇨🇳 ([jamesyangget](https://github.com/jamesyangget))
 - James Kitching from Scotland 🇬🇧 ([Jachdich](https://github.com/Jachdich))
 - Jan-Willem Spuij from The Netherlands 🇳🇱 ([jspuij](https://github.com/jspuij))
@@ -819,4 +820,3 @@ You can:
 - Zhu Zihao from China 🇨🇳 ([cireu](https://github.com/cireu))
 - Şahin Mersin from Turkey 🇹🇷 ([electrocoder](https://github.com/electrocoder))
 - Khanagyan Tigran from Russia 🇷🇺 ([hanagantig](https://github.com/hanagantig))
-- JalanJiang from China 🇨🇳 ([JalanJiang](http://jalan.space))
