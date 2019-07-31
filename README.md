@@ -315,6 +315,7 @@ You can:
 - Dima Qiu from China 🇨🇳 ([DimaQiu](https://github.com/qmy777))
 - divinity1437 from Russia 🇷🇺
 - DOBRO from Russia 🇷🇺 ([DOBRO](https://github.com/DOBRO))
+- Don Bisdorf from United States 🇺🇸 ([dbisdorf](https://github.com/dbisdorf))
 - Doyin Olarewaju from Nigeria 🇳🇬 ([gate3](https://github.com/gate3))
 - Dražen Perić from Slovenia 🇸🇮 ([peric](https://github.com/peric))
 - Duncan Sparks from the United States 🇺🇸 ([DuncanSparks](https://github.com/DuncanSparks))
