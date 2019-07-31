@@ -833,3 +833,4 @@ You can:
 - Zhuo Y. Chen from China 🇨🇳([wizcas](https://github.com/wizcas))
 - Şahin Mersin from Turkey 🇹🇷 ([electrocoder](https://github.com/electrocoder))
 - Khanagyan Tigran from Russia 🇷🇺 ([hanagantig](https://github.com/hanagantig))
+- Hamid Mohammadi from Iran 🇮🇷 ([hajitsu](https://github.com/hajitsu))
