@@ -234,6 +234,7 @@ You can:
 - Angelo Gazzola from Italy 🇮🇹 ([nglgzz](https://github.com/nglgzz))
 - Angel Uniminin from Iceland 🇮🇸
 - Angus L. Fraser from UK 🇬🇧
+- Anil Chaudhari from Nepal 🇳🇵 ([imanilchaudhari](https://github.com/imanilchaudhari))
 - Antonios Sidiropoulos from Greece 🇬🇷 ([s-i-d-i](https://github.com/s-i-d-i))
 - Anwesh Budhathoki from Nepal 🇳🇵 ([abperni](https://github.com/abperni))
 - Appadeia from the United States 🇺🇸
