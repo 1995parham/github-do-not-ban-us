@@ -651,7 +651,7 @@ You can:
 - Nobel from Nepal 🇳🇵 ([Coderkoala](https://github.com/coderkoala))
 - Omar2535 from Canada 🇨🇦 ([omar2535](https://github.com/omar2535))
 - Omid Rafiee from Iran 🇮🇷 ([OmidRafiee](https://github.com/OmidRafiee))
-- Ondrej Sulak from Czech Republic CZ ([ondrej23](https://github.com/ondrej23))
+- Ondrej Sulak from Czech Republic 🇨🇿 ([ondrej23](https://github.com/ondrej23))
 - Orestis Ousoultzoglou from Greece 🇬🇷 ([xlxs4](https://github.com/xlxs4))
 - Orçun from Turkey 🇹🇷 ([0x01h](https://github.com/0x01h/))
 - Parham from Iran 🇮🇷 ([parhambz](https://github.com/parhambz))
