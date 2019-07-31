@@ -222,7 +222,7 @@ let emojiTable = {
     .sort()
     .join('\n')
   let readme = String(await readFile('README.md'))
-  readme = readme.replace(/<!-- SUPPORTERS_START -->((.|\n)*)<!-- SUPPORTERS_END -->/,
+  readme = readme.replace(/<!-- SUPPORTERS_START -->.*?<!-- SUPPORTERS_END -->/s,
     `<!-- SUPPORTERS_START -->\n${markdown}\n<!-- SUPPORTERS_END -->`)
   await writeFile('README.md', readme)
 })().catch(console.error)
