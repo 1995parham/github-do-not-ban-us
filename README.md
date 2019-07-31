@@ -466,6 +466,7 @@ You can:
 - Khashayar Ghamati from Iran 🇮🇷 ([khashayarghamati](https://github.com/khashayarghamati))
 - Khurram Shehzad from Pakistan 🇵🇰 ([Khurram Shehzad](https://github.com/khurram18))
 - Kiarash Zarinmehr from Iran 🇮🇷 ([Kiarash-Z](https://github.com/Kiarash-Z))
+- Kim Sungjin from Republic of Korea 🇰🇷 ([sjOwOw](https://github.com/sjOwOw))
 - Kim Younggeon from Republic of Korea 🇰🇷 ([firefanda](https://github.com/firefanda))
 - Kitten King from India 🇮🇳 ([kittenking](https://github.com/kittenking))
 - Kittinan from Thailand 🇹🇭 ([kittinan](https://github.com/kittinan))
