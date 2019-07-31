@@ -107,7 +107,7 @@ You can:
 
 ## News
 
-- [GitHub allow us to make our private repositories, public](https://github.com/1995parham/github-do-not-ban-us/issues/666)
+- [GitHub allows us to make our private repositories, public](https://github.com/1995parham/github-do-not-ban-us/issues/666)
 
 ![nat-friedman](nat-friedman.png)
 
