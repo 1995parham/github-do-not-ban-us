@@ -672,6 +672,7 @@ You can:
 - Ragty from China 🇨🇳 ([Ragty](https://github.com/huoji555))
 - Rahmanism from Iran 🇮🇷 ([Rahmansim](https://github.com/Rahmanism))
 - rajabiseraji from Iran 🇮🇷
+- Rafael Silvério Amaral from Brazil 🇧🇷 ([rafaelsilverioit](https://github.com/rafaelsilverioit))
 - Ran Luo from China 🇨🇳
 - Raphael Pacheco from Brazil 🇧🇷 ([pacheco7](https://github.com/pacheco7))
 - Rashad Ansari from Iran 🇮🇷 ([RashadAnsari](https://github.com/RashadAnsari))
