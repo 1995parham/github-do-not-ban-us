@@ -136,6 +136,7 @@ You can:
 - Adnan Babakan from Iran 🇮🇷 ([AdnanBabakan](http://github.com/AdnanBabakan))
 - Ahad Chowdhury from Bangladesh 🇧🇩 ([maacpiash](https://github.com/maacpiash))
 - Ahmad Aghazadeh from Iran ([ahmadaghazadeh](https://github.com/ahmadaghazadeh))
+- Ahmad Asjad from India 🇮🇳 ([ahmadasjad](https://github.com/ahmadasjad))
 - Ahmad Chehreghani from Iran 🇮🇷 ([AChehre](https://github.com/Achehre/))
 - Ahmad Habannakeh from Syria 🇸🇾 ([abnud1](https://github.com/abnud1))
 - Ahmad Khani from Iran 🇮🇷 ([engineerahkhani](https://github.com/engineerahkhani))
@@ -842,4 +843,3 @@ You can:
 - Khanagyan Tigran from Russia 🇷🇺 ([hanagantig](https://github.com/hanagantig))
 - Zoran Young from China 🇨🇳([Zoranner](https://github.com/zoranner))
 - Hamid Mohammadi from Iran 🇮🇷 ([hajitsu](https://github.com/hajitsu))
-- Ahmad Asjad from India 🇮🇳 ([ahmadasjad](https://github.com/ahmadasjad))
