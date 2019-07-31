@@ -712,6 +712,7 @@ You can:
 - Saeed Mohagheghi from Iran 🇮🇷 ([saeedmhq](https://github.com/saeedmhq))
 - Saeed Salhi from Iran 🇮🇷 ([1SaeedSalehi](https://github.com/1saeedsalehi/))
 - Saeid Doroudi from Iran 🇮🇷 ([doroudi](https://github.com/doroudi))
+- SaiKumar Immadi from India 🇮🇳 ([s-xync](https://github.com/s-xync/))
 - Saleh from Saudi Arabia 🇸🇦 ([qirh](https://github.com/qirh/))
 - Saleh Salehizadeh from Iran 🇮🇷 ([SirSaleh](https://github.com/SirSaleh))
 - Saleh Souzanchi from Iran 🇮🇷 ([zoghal](https://github.com/zoghal))
