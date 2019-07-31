@@ -342,6 +342,7 @@ You can:
 - Fabian Dellwing from Germany 🇩🇪 ([fdellwing](https://github.com/fdellwing))
 - Fahim from Bangladesh 🇧🇩
 - Faiyaz Shaikh from India 🇮🇳 ([Faiyaz Shaikh](https://github.com/yTakkar))
+- Farrukh Mamatkhalilov from Uzbekistan 🇺🇿 ([webstyle](http://github.com/webstyle))
 - Farid Forootan Shad from Iran 🇮🇷 ([faridfor](https://github.com/faridfor))
 - Farshad Jahanmanesh from Iran 🇮🇷 ([farshadjahanmanesh](https://github.com/farshadjahanmanesh/))
 - Farshid Roohi from Iran 🇮🇷 ([farshidroohi](https://github.com/farshidroohi))
