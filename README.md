@@ -236,8 +236,8 @@ You can:
 - Angel Uniminin from Iceland 🇮🇸
 - Angus L. Fraser from UK 🇬🇧
 - Anil Chaudhari from Nepal 🇳🇵 ([imanilchaudhari](https://github.com/imanilchaudhari))
-- Antonios Sidiropoulos from Greece 🇬🇷 ([s-i-d-i](https://github.com/s-i-d-i))
 - Antonio Tauro from Switzerland 🇨🇭 ([eyenx](https://github.com/eyenx))
+- Antonios Sidiropoulos from Greece 🇬🇷 ([s-i-d-i](https://github.com/s-i-d-i))
 - Anwesh Budhathoki from Nepal 🇳🇵 ([abperni](https://github.com/abperni))
 - Appadeia from the United States 🇺🇸
 - Ardy A from Turkey 🇹🇷 ([ardyln](https://github.com/ardyln))
