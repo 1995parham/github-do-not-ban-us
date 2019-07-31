@@ -391,6 +391,7 @@ You can:
 - Hamid Rahmani from Iran 🇮🇷 ([hamiiiiiiid](https://github.com/Hamiiiiiiid))
 - HamidReza Adib from Iran 🇮🇷 ([hamidrezaadib](https://github.com/hamidrezaadib))
 - Hamidreza Moallem Taheri from Iran 🇮🇷 ([hrmt2000](https://github.com/hrmt2000))
+- Hamid Mohammadi from Iran 🇮🇷 ([hajitsu](https://github.com/hajitsu))
 - Hamid Taheri from Iran 🇮🇷 ([H4mit](https://github.com/h4mit/))
 - Hanlin Peng from China 🇨🇳 ([lenconda](https://github.com/lenconda))
 - Hannes Oberreiter from Austria 🇦🇹 ([HannesOberreiter](https://github.com/HannesOberreiter))
@@ -838,4 +839,3 @@ You can:
 - Şahin Mersin from Turkey 🇹🇷 ([electrocoder](https://github.com/electrocoder))
 - Khanagyan Tigran from Russia 🇷🇺 ([hanagantig](https://github.com/hanagantig))
 - Zoran Young from China 🇨🇳([Zoranner](https://github.com/zoranner))
-- Hamid Mohammadi from Iran 🇮🇷 ([hajitsu](https://github.com/hajitsu))
