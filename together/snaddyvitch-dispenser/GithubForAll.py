@@ -1,1 +1,1 @@
-print("Github For All! 🤗")
+print("GitHub For All! 🤗")

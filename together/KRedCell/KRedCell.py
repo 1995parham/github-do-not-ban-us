@@ -2,7 +2,7 @@ ENCODDE = '''
 result = []
 Freedom = sum(map(lambda x:ord(x), [char for char in "FREE"])) - sum(map(lambda x:ord(x), [char for char in "DOM"]))
 
-for char in map(lambda x: ord(x), "Github is for everyone"):
+for char in map(lambda x: ord(x), "GitHub is for everyone"):
     result.append((5 * char) - Free)
 
 text = []

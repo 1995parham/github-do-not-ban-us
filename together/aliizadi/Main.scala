@@ -1,3 +1,3 @@
 object Main extends App {
-  println("Github is for everyone")
+  println("GitHub is for everyone")
 }

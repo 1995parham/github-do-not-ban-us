@@ -6,7 +6,7 @@ namespace GithHubForEveryOne
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Github is for everyone");
+            Console.WriteLine("GitHub is for everyone");
         }
     }
 }

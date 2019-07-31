@@ -1,6 +1,6 @@
 Imports System
 
-Module Github
+Module GitHub
     Sub Main(args as String())
         Console.WritleLine("GitHub is for everyone")
     End Sub

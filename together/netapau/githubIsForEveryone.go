@@ -1,7 +1,7 @@
 /*
  * @author netapau.
  * @version 1.0.
- * @description Github is for everyone
+ * @description GitHub is for everyone
  * @createDate 2019-07-29.
  * @from planet earth
  */

@@ -14,7 +14,7 @@ void kmain(void)
         putc(' ', i);
     }
     
-    const char txt[] = "Github for Everyone";
+    const char txt[] = "GitHub for Everyone";
     
     // print at the middle of our screen
     i = 12 * 80 + 40 - sizeof(txt)/2;

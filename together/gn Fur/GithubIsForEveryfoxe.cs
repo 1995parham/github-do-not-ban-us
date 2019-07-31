@@ -6,7 +6,7 @@ namespace GithubIsForEveryfoxe
 	{
 		static void Main(string[] args)
 		{
-			Console.WriteLine("Github is for everyfoxe.");
+			Console.WriteLine("GitHub is for everyfoxe.");
 			Console.ReadKey();
 		}
 	}

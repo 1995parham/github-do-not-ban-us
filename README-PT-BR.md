@@ -7,7 +7,7 @@
 ~~**Dica:** Você pode usar [essa extensão](https://github.com/JafarAkhondali/remove-github-restrictions-message) ou [essa extensão](https://github.com/MohamadKh75/ShutHub) ou [esse script tampermonkey](https://gist.github.com/HirbodBehnam/2e079e187be0b1b6a6bcb734ed88474e) ou [Stylish](https://userstyles.org/styles/173827/hide-github-warning) para esconder esse bloco amarelo!~~
 **Atualização:** A mensagem de alerta pode ser removida agora.
 
-![github-octocat](https://user-images.githubusercontent.com/16706911/61997137-7aa7df00-b0b2-11e9-97f1-f452855fe21c.png)
+![github-octocat](https://user-images.githubusercontent.com/12782371/62160824-168f5000-b32a-11e9-858b-e196b913d17b.png)
 
 ## Introdução
 

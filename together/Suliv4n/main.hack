@@ -1,6 +1,6 @@
 <<__EntryPoint>>
 function main(): noreturn
 {
-  echo "Github is for everyone!";
+  echo "GitHub is for everyone!";
   exit(0);
 }

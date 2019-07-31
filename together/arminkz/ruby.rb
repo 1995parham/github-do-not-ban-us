@@ -1,1 +1,1 @@
-puts 'Github is for Everyone !'
+puts 'GitHub is for Everyone !'

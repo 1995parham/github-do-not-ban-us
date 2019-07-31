@@ -1,8 +1,8 @@
 one = True;
 
-"""Github is""" 
+"""GitHub is""" 
 for every in range(one):
-    print("Github is for everyone !")
+    print("GitHub is for everyone !")
 
 
 #Support From Turkey ! 

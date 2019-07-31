@@ -1,7 +1,7 @@
 class GithubManager{
 
     fun doASAP() {
-        println(Log.ASSERT, "TASK", "Stop restrict developers accounts, Github is the free world!")
+        println(Log.ASSERT, "TASK", "Stop restrict developers accounts, GitHub is the free world!")
     }
 
     fun getMessage() {

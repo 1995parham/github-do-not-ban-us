@@ -6,4 +6,4 @@ interface Process {
 
 declare const process: Process;
 
-process.stdout.write('Github is for everyone!');
+process.stdout.write('GitHub is for everyone!');

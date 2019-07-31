@@ -1,1 +1,1 @@
-console.log("Github cho tất cả mọi người!");
+console.log("GitHub cho tất cả mọi người!");

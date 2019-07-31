@@ -8,7 +8,7 @@
 
 **更新:** 这个警告消息现在可以关闭了。
 
-![github-octocat](https://user-images.githubusercontent.com/16706911/61997137-7aa7df00-b0b2-11e9-97f1-f452855fe21c.png)
+![github-octocat](https://user-images.githubusercontent.com/12782371/62160824-168f5000-b32a-11e9-858b-e196b913d17b.png)
 
 ## 介绍
 
@@ -58,7 +58,7 @@ GitHub 曾经是一个面向所有人的开放、自由的平台，但它现在�
 
 - 加星并在社交平台上分享这个仓库，加上 #githubForEveryone 这个话题。
 - 在 “together” 文件夹中添加一个以你的用户名命名的文件夹。
-- 编写一份输出为“Github is for everyone”的代码（可以使用任何你想要的语言）。
+- 编写一份输出为“GitHub is for everyone”的代码（可以使用任何你想要的语言）。
 - 提交一个 PR。
 - 在支持者列表中添加你的名字和国籍。
 

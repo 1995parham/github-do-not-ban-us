@@ -1,4 +1,4 @@
-// Github is for everyone
+// GitHub is for everyone
 // Do not ban Iranian developers
 // Shahrokh Moghimi from Iran 🇮🇷
 
@@ -6,7 +6,7 @@ import react from 'react';
 
 export default class index extends react.Component {
   state = {
-    message: 'Github is for everyone'
+    message: 'GitHub is for everyone'
   };
   render() {
     return (

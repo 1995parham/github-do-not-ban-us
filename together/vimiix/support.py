@@ -1,6 +1,6 @@
 """
 Keep Developers separate from stupid politics. 
-Make Github global again!
+Make GitHub global again!
 """
 
 print("GitHub for everyone!")

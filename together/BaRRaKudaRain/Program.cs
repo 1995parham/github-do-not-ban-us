@@ -1,5 +1,5 @@
 using System;
-namespace Github
+namespace GitHub
 {
     class DoNotBanUs
     {

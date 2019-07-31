@@ -1,11 +1,11 @@
 /*
     * By Mohammad Hussein Tavakoli Bina
-    * To condemn ban of Iranian open source community from Github
+    * To condemn ban of Iranian open source community from GitHub
  */
 #include <stdio.h>
 
 int main()
 {
-    printf("Github is for Everyone!");
+    printf("GitHub is for Everyone!");
     return 0;
 }
