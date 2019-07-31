@@ -427,6 +427,7 @@ You can:
 - James Kitching from Scotland 🇬🇧 ([Jachdich](https://github.com/Jachdich))
 - Jan-Willem Spuij from The Netherlands 🇳🇱 ([jspuij](https://github.com/jspuij))
 - Jan Krüger from Germany 🇩🇪 ([waterfl0w](https://github.com/waterfl0w))
+- Jang Woohyun from Republic of Korea 🇰🇷 ([wkddngus5](https://github.com/wkddngus5))
 - Jariullah Safi from the U.S. 🇺🇲 ([safijari](https://github.com/safijari))
 - Jason C. McDonald from United States 🇺🇸 ([codemouse92](https://github.com/codemouse92))
 - Jason Kraus from the United States 🇺🇸 ([zbyte64](https://github.com/zbyte64))
