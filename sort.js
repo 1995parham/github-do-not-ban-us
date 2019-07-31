@@ -225,4 +225,4 @@ let emojiTable = {
   readme = readme.replace(/<!-- SUPPORTERS_START -->((.|\n)*)<!-- SUPPORTERS_END -->/,
     `<!-- SUPPORTERS_START -->\n${markdown}\n<!-- SUPPORTERS_END -->`)
   await writeFile('README.md', readme)
-})()
+})().catch(console.error)
