@@ -101,6 +101,6 @@ GitHub는 모두에게 자유롭고 열려있는 플랫폼이었습니다. 그�
 
 ## 서포터
 
-[README.md#supporters](README.md#supporters)
+[README.md#supporters-list-sorted-alphabetically](README.md#supporters-list-sorted-alphabetically)
 
 ****
