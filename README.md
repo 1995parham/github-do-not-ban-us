@@ -827,5 +827,6 @@ You can:
 - zaykl from China 🇨🇳 ([zaykl](https://github.com/zaykl))
 - Zhiwa from China 🇨🇳 ([zhiwa](https://github.com/aboutmydreams))
 - Zhu Zihao from China 🇨🇳 ([cireu](https://github.com/cireu))
+- Zhuo Y. Chen from China 🇨🇳([wizcas](https://github.com/wizcas))
 - Şahin Mersin from Turkey 🇹🇷 ([electrocoder](https://github.com/electrocoder))
 - Khanagyan Tigran from Russia 🇷🇺 ([hanagantig](https://github.com/hanagantig))
