@@ -660,6 +660,7 @@ You can:
 - Peter Nelson from the United States 🇺🇸 ([pdtnelson](https://github.com/pdtnelson))
 - Peter Stensby from Norway 🇳🇴 ([pstensby](https://github.com/pstensby))
 - pexcn from Taiwan 🇹🇼 ([pexcn](https://github.com/pexcn))
+- Phani Rithvij from India 🇮🇳 ([phanirithvij](https://github.com/phanirithvij))
 - Philip Huang from Taiwan 🇹🇼 ([p208p2002](https://github.com/p208p2002))
 - Piotr Kazimierski from Poland 🇵🇱 ([inquis1t0r](https://github.com/Inquis1t0r/))
 - Pooya Azarpour from Iran 🇮🇷 ([poyaz](https://github.com/poyaz))
