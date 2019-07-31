@@ -5,6 +5,11 @@
     "github": "DanCodes"
   },
   {
+    "name": "dykow",
+    "country": "Poland",
+    "github": "dykow"
+  },
+  {
     "name": "Divy Srivastava",
     "country": "India",
     "github": "DivySrivastava"
@@ -2618,10 +2623,45 @@
     "name": "vadxq",
     "country": "China",
     "github": "vadxq"
-  }
-  ,{
+  },
+  {
     "name": "Garam Choi",
     "country": "South Korea",
     "github": "Garamda"
+  },
+  {
+    "name": "Mandeep Singh",
+    "country": "India",
+    "github": "meSingh"
+  },
+  {
+    "name": "Eray Aydın",
+    "country": "Turkey",
+    "github": "erayaydin"
+  },
+  {
+	  "name": "Gunyoung Yoon",
+	  "country": "Republic of Korea",
+	  "github": "Dry8r3aD"
+  },
+  {
+    "name": "Donghoon Song",
+    "country": "Republic of Korea",
+    "github": "Donghoon759"
+  },
+  {
+    "name": "Keenan Pautler",
+    "country": "United States",
+    "github": "kepa4"
+  },
+  {
+    "name": "Yebin Yu",
+    "country": "Republic of Korea",
+    "github": "yuyaebean"
+  },
+  {
+    "name": "Jeremy Monson",
+    "country": "USA",
+    "github": "monsonjeremy"
   }
 ]
