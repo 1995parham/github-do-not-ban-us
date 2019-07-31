@@ -800,6 +800,7 @@ You can:
 - Tyler from the United States 🇺🇸 ([arctair](https://github.com/arctair))
 - Udo Kramer from Germany 🇩🇪 ([optikfluffel](https://github.com/optikfluffel))
 - Usama Tahir 🇵🇰 ([Usama-Tahir](https://github.com/Usama-Tahir))
+- vadxq from China 🇨🇳 ([vadxq](https://github.com/vadxq))
 - Vahid Bazzaz from Iran 🇮🇷 ([vahidbazzaz](https://github.com/vahidbazzaz))
 - Vahid Sadeghizadeh from Iran 🇮🇷 ([vsadeghizade](https://github.com/vsadeghizade))
 - Vaibhav Khulbe from India 🇮🇳 ([Kvaibhav01](https://github.com/Kvaibhav01))
