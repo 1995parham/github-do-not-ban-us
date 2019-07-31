@@ -2613,10 +2613,15 @@
     "name": "vadxq",
     "country": "China",
     "github": "vadxq"
-  }
-  ,{
+  },
+  {
     "name": "Garam Choi",
     "country": "South Korea",
     "github": "Garamda"
+  },
+  {
+    "name": "Yebin Yu",
+    "country": "Republic of Korea",
+    "github": "yuyaebean"
   }
 ]
