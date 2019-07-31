@@ -690,6 +690,7 @@ You can:
 - Robert Verst from Germany 🇩🇪([rverst](https://github.com/rverst))
 - Rodrigo Alencar from Brazil 🇧🇷 ([ratox](https://github.com/ratox))
 - Rodrigo Alencar from Brazil 🇧🇷 ([victorperin](https://github.com/victorperin))
+- Rodrigo Bermudez Schettino from Mexico 🇲🇽 ([rodrigobdz](https://github.com/rodrigobdz))
 - Rogério dos Santos Fernandes from Brazil 🇧🇷 ([spartanroger](https://github.com/spartanroger))
 - Rohit Joshi from Nepal 🇳🇵 ([rohitjoshi21](https://github.com/rohitjoshi21))
 - Romain from France 🇫🇷 ([maoschanz](https://github.com/maoschanz))
