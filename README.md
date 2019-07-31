@@ -832,3 +832,4 @@ You can:
 - Zhuo Y. Chen from China 🇨🇳([wizcas](https://github.com/wizcas))
 - Şahin Mersin from Turkey 🇹🇷 ([electrocoder](https://github.com/electrocoder))
 - Khanagyan Tigran from Russia 🇷🇺 ([hanagantig](https://github.com/hanagantig))
+- Amir Muhammad Karimi from Iran 🇮🇷 ([AMK9978](https://github.com/amk9978/))
