@@ -1,5 +1,15 @@
 [
   {
+    "name": "DanCodes",
+    "country": "United Kingdom",
+    "github": "DanCodes"
+  },
+  {
+    "name": "dykow",
+    "country": "Poland",
+    "github": "dykow"
+  },
+  {
     "name": "Divy Srivastava",
     "country": "India",
     "github": "DivySrivastava"
@@ -2613,10 +2623,114 @@
     "name": "vadxq",
     "country": "China",
     "github": "vadxq"
-  }
-  ,{
+  },
+  {
     "name": "Garam Choi",
     "country": "South Korea",
     "github": "Garamda"
+  },
+  {
+    "name": "Sercan Solmaz",
+    "country": "Türkiye",
+    "github": "srcnslmz"
+  },
+  {
+    "name": "Jürno Ader",
+    "country": "Estonia",
+    "github": "Jyrno42"
+  },
+  {
+    "name": "Mandeep Singh",
+    "country": "India",
+    "github": "meSingh"
+  },
+  {
+    "name": "Eray Aydın",
+    "country": "Turkey",
+    "github": "erayaydin"
+  },
+  {
+	  "name": "Gunyoung Yoon",
+	  "country": "Republic of Korea",
+	  "github": "Dry8r3aD"
+  },
+  {
+    "name": "Donghoon Song",
+    "country": "Republic of Korea",
+    "github": "Donghoon759"
+  },
+  {
+    "name": "Keenan Pautler",
+    "country": "United States",
+    "github": "kepa4"
+  },
+  {
+    "name": "Yebin Yu",
+    "country": "Republic of Korea",
+    "github": "yuyaebean"
+  },
+  {
+    "name": "Jeremy Monson",
+    "country": "USA",
+    "github": "monsonjeremy"
+  },
+  {
+    "name": "Zahra V",
+    "country": "Canada",
+    "github": "r2d2oid"
+  },
+  {
+    "name": "Mj",
+    "country": "Philippines",
+    "github": "jhynzar"
+  },
+  {
+    "name": "Shi Jiale",
+    "country": "China",
+    "github": "mzzx"
+  },
+  {
+    "name": "long G",
+    "country": "China",
+    "github": "10ngui"
+  },
+  {
+    "name": "Takashi Yoshimura",
+    "country": "Japan",
+    "github": "YoshiTheChinchilla"
+  },
+  {
+    "name": "Soyaine",
+    "country": "China",
+    "github": "soyaine"
+  },
+  {
+    "name": "Gerbi G",
+    "country": "Guatemala",
+    "github": "gerbi"
+  },
+  {
+    "name": "Bora Jeon",
+    "country": "Republic of Korea",
+    "github": "boraJeon"
+  },
+    "name": "Paul Lee",
+    "country": "Republic of Korea",
+    "github": "swaniris"
+  },
+  {
+    "name": "Haocun Ni",
+    "country": "China",
+    "github": "EndureBlaze"
+  },
+  {
+  	"name" : "Antoine MICELI",
+  	"country" : "France",
+  	"github" : "amiceli"
+  },
+  {
+    "name": "Taxo Rubio",
+    "country": "Spain",
+    "github": "Groctel"
   }
 ]
