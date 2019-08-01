@@ -788,6 +788,7 @@ You can:
 - Sora Liu from China 🇨🇳 ([lovesora](https://github.com/lovesora))
 - Soroush Chehresa from Iran 🇮🇷 ([soroushchehresa](https://github.com/soroushchehresa))
 - Soroush Kavousi from Iran 🇮🇷 ([bitianist](https://github.com/bitianist))
+- Soyaine from China 🇨🇳 ([Soyaine](https://github.com/soyaine))
 - speccius from UK 🇬🇧
 - Stephen Yin from China 🇨🇳 ([hacker0limbo](https://github.com/hacker0limbo))
 - Stijn Segers from Belgium 🇧🇪 ([Borromini](https://github.com/Borromini))
