@@ -9,7 +9,7 @@ English | [简体中文](./README-CN.md) | [Español ](./README-ES.md) | [Ελλ
 We are so thankful for your support. This repository always shows that people are all together against unfortunate happening around the world.
 As GitHub revised some of the previous restrictions, we decided to reduce this repository's activity. Of course, it does not mean that we agree with the sanctions and the GitHub.
 We will post a conclusion and explain more soon, please wait for that.
-The campaign will be terminated Thursday 1 August 23:59 (Tehran Time GMT +4:30). After this time we won't merge any new PR. 
+The campaign will be terminated **Thursday 1 August 23:59 (Tehran Time GMT +4:30)**. After this time we won't merge any new PR. 
 Once again thanks for your support and kindness
 Please wait for our final conclusion
 
