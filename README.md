@@ -242,6 +242,7 @@ You can:
 - Angelo Gazzola from Italy 🇮🇹 ([nglgzz](https://github.com/nglgzz))
 - Angus L. Fraser from UK 🇬🇧
 - Anil Chaudhari from Nepal 🇳🇵 ([imanilchaudhari](https://github.com/imanilchaudhari))
+- Antonio Tauro from Switzerland 🇨🇭 ([eyenx](https://github.com/eyenx))
 - Antonios Sidiropoulos from Greece 🇬🇷 ([s-i-d-i](https://github.com/s-i-d-i))
 - Anwesh Budhathoki from Nepal 🇳🇵 ([abperni](https://github.com/abperni))
 - Anya Ellis from United States 🇺🇸 ([SunWithIssues](https://github.com/SunWithIssues))
@@ -404,6 +405,8 @@ You can:
 - Hamid Taheri from Iran 🇮🇷 ([H4mit](https://github.com/h4mit/))
 - HamidReza Adib from Iran 🇮🇷 ([hamidrezaadib](https://github.com/hamidrezaadib))
 - Hamidreza Moallem Taheri from Iran 🇮🇷 ([hrmt2000](https://github.com/hrmt2000))
+- Hamid Mohammadi from Iran 🇮🇷 ([hajitsu](https://github.com/hajitsu))
+- Hamid Taheri from Iran 🇮🇷 ([H4mit](https://github.com/h4mit/))
 - Hanlin Peng from China 🇨🇳 ([lenconda](https://github.com/lenconda))
 - Hannes Oberreiter from Austria 🇦🇹 ([HannesOberreiter](https://github.com/HannesOberreiter))
 - Hao Wu from Japan 🇯🇵 ([wheatup](https://github.com/wheatup))
