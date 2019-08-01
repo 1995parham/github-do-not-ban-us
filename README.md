@@ -670,6 +670,7 @@ You can:
 - Parsa Samadnejad from Iran 🇮🇷 ([TroddenSpade](https://github.com/troddenspade))
 - Parsa Torbati from Iran 🇮🇷 ([poyynt](https://github.com/poyynt))
 - Pashootan Vaezipoor from Iran and Canada 🇮🇷 🇨🇦 ([CpHaddock](https://github.com/CpHaddock))
+- Paul Lee from Republic of Korea 🇰🇷 ([swaniris](https://github.com/swaniris))
 - Penn Bauman from United States 🇺🇸 ([pennbauman](https://github.com/pennbauman))
 - Persian Prince from Iran 🇮🇷 ([persianpros](https://github.com/persianpros))
 - pesehr from Iran 🇮🇷 ([pesehr](https://github.com/pesehr))
@@ -865,3 +866,4 @@ You can:
 - Long Gui from China 🇨🇳([10ngui](https://github.com/10ngui)) 
 - Jukoo from Africa/Senegal :sn: ([Jukoo](https://github.com/jukoo))
 - Gerbi G from Guatemala 🇬🇹([gerbi](https://github.com/gerbi))
+- Haocun Ni from China 🇨🇳([EndureBlaze](https://github.com/EndureBlaze))

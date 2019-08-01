@@ -2705,8 +2705,17 @@
     "github": "gerbi"
   },
   {
-      "name": "Bora Jeon",
-      "country": "Republic of Korea",
-      "github": "boraJeon"
+    "name": "Bora Jeon",
+    "country": "Republic of Korea",
+    "github": "boraJeon"
+  },
+    "name": "Paul Lee",
+    "country": "Republic of Korea",
+    "github": "swaniris"
+  },
+  {
+    "name": "Haocun Ni",
+    "country": "China",
+    "github": "EndureBlaze"
   }
 ]
