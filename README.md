@@ -116,6 +116,7 @@ You can:
 ## Supporters (list sorted alphabetically)
 
 - 1995parham from Iran 🇮🇷 ([1995parham](https://github.com/1995parham))
+- iAlex11 from Spain 🇪🇸 ([iAlex11](https://github.com/iAlex11))
 - 88250 from China 🇨🇳 ([88250](https://github.com/88250))
 - a764934018 from China 🇨🇳 ([a764934018](https://github.com/a764934018))
 - Abdelhak Bougouffa from Algeria 🇩🇿 ([abougouffa](https://abougouffa.github.io))
