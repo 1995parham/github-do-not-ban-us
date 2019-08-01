@@ -797,6 +797,7 @@ You can:
 - Sukka from China 🇨🇳 ([SukkaW](https://github.com/SukkaW))
 - Sutan Gading Fadhillah Nasution from Indonesia 🇮🇩 ([sutanlab](https://github.com/sutanlab))
 - Taher Ahmadi from Iran 🇮🇷 ([taherahmadi](https://github.com/taherahmadi))
+- Takashi Yoshimura from Japan 🇯🇵 ([YoshiTheChinchilla](https://github.com/YoshiTheChinchilla))
 - Tariqul Islam from Bangladesh 🇧🇩 ([ta-riq](https://github.com/ta-riq))
 - Taskeren from China 🇨🇳 ([nitu2003](https://github.com/nitu2003))
 - Thomas from United States 🇺🇸 ([Hakerh400](https://github.com/Hakerh400))
