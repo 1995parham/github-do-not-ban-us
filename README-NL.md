@@ -2,6 +2,14 @@
 
 [English](./README.md) | [简体中文](./README-CN.md) | [Español ](./README-ES.md) | [Ελληνικά](./README-GR.md) | [Italiano](./README-IT.md) | [Русский](./README-RU.md) | [فارسی](./README-PER.md) | [Française ](./README-FR.md) | [Deutsch](./README-DE.md) | [Հայերէն](./README-HY.md) | [Српски](./README-SR.md) | [العربية](./README-AR.md) | [Türkçe](./README-TR.md) | [Português do Brasil](./README-PT-BR.md) | [Nederlands](./README-NL.md) | [한국어](./README-KO.md)
 
+**Aandacht!**
+We zijn zo dankbaar voor je steun. Deze repository laat altijd zien dat mensen allemaal samen zijn tegen ongelukkige gebeurtenissen over de hele wereld.
+Omdat GitHub enkele van de vorige beperkingen heeft herzien, hebben we besloten de activiteit van deze repository te verminderen. Het betekent natuurlijk niet dat we het eens zijn met de sancties en de GitHub.
+We zullen een conclusie plaatsen en binnenkort meer uitleggen, wacht daar alstublieft op.
+De campagne wordt beëindigd ** donderdag 1 augustus 23:59 uur (Tehran Time GMT +4: 30) **. Na deze tijd zullen we geen nieuwe PR meer samenvoegen.
+Nogmaals bedankt voor je steun en vriendelijkheid
+Wacht alstublieft op onze definitieve conclusie
+
 ![alt text](./message.png)
 
 ~~**Tip:** Je kan [deze extensie](https://github.com/JafarAkhondali/remove-github-restrictions-message) of [deze extensie](https://github.com/MohamadKh75/ShutHub) of [dit tampermonkey script](https://gist.github.com/HirbodBehnam/2e079e187be0b1b6a6bcb734ed88474e) of [Stylish](https://userstyles.org/styles/173827/hide-github-warning) om warning box te verwijderen~~
