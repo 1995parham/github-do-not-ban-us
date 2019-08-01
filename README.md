@@ -795,6 +795,7 @@ You can:
 - Sepehr Taghdisian from Iran 🇮🇷 ([septag](https://github.com/septag))
 - Sepideh Abadpour from Iran ([Sepideh Abadpour](https://github.com/SepidehAbadpour))
 - Serene Husni from Jordan and Canada 🇯🇴 🇨🇦
+- Seul Kim from Republic of Korea 🇰🇷 ([lexifdev](https://github.com/lexifdev))
 - Seyed Abbas Ghomi from Iran 🇮🇷 ([SeyedAbbasGhomi](https://github.com/SeyedAbbasGhomi))
 - Seyed Ali Salmabadi from Iran 🇮🇷 ([salis77](https://github.com/salis77))
 - Seyed Ali Shahrokhi from Iran 🇮🇷 ([Alishahrokhiii](https://github.com/Alishahrokhiii))
