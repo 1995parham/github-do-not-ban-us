@@ -570,6 +570,7 @@ You can:
 - Milad Nekofar ([nekofar](https://github.com/nekofar))
 - Minabsapi from France 🇫🇷 ([Minabsapi](https://github.com/Minabsapi))
 - Mindaugas Vaitiekūnas from Lithuania 🇱🇹 ([mindaugasw](https://github.com/mindaugasw))
+- Mj from Philippines 🇵🇭 ([jhynzar](https://github.com/jhynzar))
 - Mohamad Fadavi ([fadavi](https://github.com/fadavi))
 - MohamadKh75 from Iran 🇮🇷 ([MohamadKh75](https://github.com/MohamadKh75))
 - Mohamed Anees from India 🇮🇳 ([mohamedanees6](https://github.com/mohamedanees6))
