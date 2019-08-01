@@ -465,6 +465,7 @@ You can:
 - Jason Kraus from the United States 🇺🇸 ([zbyte64](https://github.com/zbyte64))
 - Javad Ghane from Iran 🇮🇷 ([JavaDroid](https://github.com/javadghane))
 - Javad Gholampoor from Iran 🇮🇷 ([javad10170](https://github.com/javad10170))
+- Jean-Paul Lescouzères from France 🇫🇷 ([soykje](https://github.com/soykje))
 - Jennifer Shehane from United States 🇺🇸 ([jennifer-shehane](https://github.com/jennifer-shehane))
 - Jihwan Oh from Republic of Korea 🇰🇷 ([fureweb-com](https://github.com/fureweb-com))
 - Jingping Fang from China 🇨🇳 ([Codesman.fang](https://github.com/fangjingping))
