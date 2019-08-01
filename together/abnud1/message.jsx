@@ -6,4 +6,4 @@ function Message(props){
     )
 } 
 
-render(<Message message="Github is for everyone!"/>,document.getElementById("root"));
+render(<Message message="GitHub is for everyone!"/>,document.getElementById("root"));

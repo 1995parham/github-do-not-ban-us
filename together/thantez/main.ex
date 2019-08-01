@@ -1,1 +1,1 @@
-IO.puts 'Github is for everyone'
+IO.puts 'GitHub is for everyone'

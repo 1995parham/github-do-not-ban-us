@@ -3,4 +3,4 @@
 
 (defn -main
   [& args]
-  (println "Github is for everyone!"))
+  (println "GitHub is for everyone!"))

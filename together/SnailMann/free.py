@@ -1,4 +1,4 @@
 """
 Open source resources should not be limited!
 """
-print('Github is for everyone')
+print('GitHub is for everyone')

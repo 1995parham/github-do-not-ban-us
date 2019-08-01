@@ -1,1 +1,1 @@
-console.log("Github herkes içindir!")
+console.log("GitHub herkes içindir!")

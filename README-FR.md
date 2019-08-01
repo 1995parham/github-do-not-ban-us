@@ -4,9 +4,11 @@
 
 ![alt text](./message.png)
 
-Astuce: vous pouvez utiliser [cette extension](https://github.com/JafarAkhondali/remove-github-restrictions-message) ou [cette extension](https://github.com/MohamadKh75/ShutHub) pour cacher cette boite jaune!
+~~Astuce: vous pouvez utiliser [cette extension](https://github.com/JafarAkhondali/remove-github-restrictions-message) ou [cette extension](https://github.com/MohamadKh75/ShutHub) pour cacher cette boite jaune!~~
 
-![github-octocat](https://user-images.githubusercontent.com/16706911/61997137-7aa7df00-b0b2-11e9-97f1-f452855fe21c.png)
+MISE À JOUR : Le message d'avertissement est maintenant désactivable.
+
+![github-octocat](https://user-images.githubusercontent.com/12782371/62160824-168f5000-b32a-11e9-858b-e196b913d17b.png)
 
 
 ## Introduction
@@ -67,4 +69,4 @@ Vous pouvez:
 - [GitHub starts blocking developers in countries facing US trade sanctions](https://www.zdnet.com/article/github-starts-blocking-developers-in-countries-facing-us-trade-sanctions)
 
 ## Supporters
-[README.md](./README.md#Supporters)
+[Voir les supporters sur README.md](./README.md#Supporters)

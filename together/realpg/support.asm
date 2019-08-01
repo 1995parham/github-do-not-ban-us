@@ -1,5 +1,5 @@
 DATA   SEGMENT
-PRINT  DB "Github is for everyone!", 0AH, 0DH, '$'
+PRINT  DB "GitHub is for everyone!", 0AH, 0DH, '$'
 DATA   ENDS
 
 STACK  SEGMENT   STACK

@@ -1,6 +1,6 @@
 
 fn main(){
-    println!("Github is for everyone!");
-    println!("¡Github es para todos!");
-    println!("みなの　Github!");
+    println!("GitHub is for everyone!");
+    println!("¡GitHub es para todos!");
+    println!("みなの　GitHub!");
 }

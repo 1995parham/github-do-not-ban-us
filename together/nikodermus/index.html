@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+        <meta http-equiv="X-UA-Compatible" content="ie=edge" />
+        <link
+            href="https://fonts.googleapis.com/css?family=Ultra"
+            rel="stylesheet"
+        />
+        <style>
+            html,body,div,span,applet,object,iframe,h1,h2,h3,h4,h5,h6,p,blockquote,pre,a,abbr,acronym,address,big,cite,code,del,dfn,em,img,ins,kbd,q,s,samp,small,strike,strong,sub,sup,tt,var,dl,dt,dd,ol,ul,li,fieldset,form,label,legend,table,caption,tbody,tfoot,thead,tr,th,td{margin:0;padding:0;border:0;outline:0;font-weight:inherit;font-style:inherit;font-family:inherit;font-size:100%;vertical-align:baseline}body{line-height:1;color:#000;background:#fff}ol,ul{list-style:none}table{border-collapse:separate;border-spacing:0;vertical-align:middle}caption,th,td{text-align:left;font-weight:400;vertical-align:middle}a img{border:none}*,::after,::before{-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;-webkit-transform:translateZ(0);-moz-transform:translateZ(0);-o-transform:translateZ(0);-ms-transform:translateZ(0);transform:translateZ(0);-webkit-transition:.25 all ease;-moz-transition:.25 all ease;-o-transition:.25 all ease;-ms-transition:.25 all ease;transition:.25 all ease}:hover,::after:hover,::before:hover,:active,::after:active,::before:active,:focus,::after:focus,::before:focus{-webkit-transition:.25 all ease;-moz-transition:.25 all ease;-o-transition:.25 all ease;-ms-transition:.25 all ease;transition:.25 all ease}html,body{height:100%;width:100%;font-family:sans-serif;overflow-x:hidden;max-width:100vw}body,img{object-fit:contain;max-width:100%}body{display:-webkit-box;display:-moz-box;display:-webkit-flex;display:-ms-flexbox;display:box;display:flex;-webkit-box-pack:center;-moz-box-pack:center;-o-box-pack:center;-ms-flex-pack:center;-webkit-justify-content:center;justify-content:center;-webkit-box-align:center;-moz-box-align:center;-o-box-align:center;-ms-flex-align:center;-webkit-align-items:center;align-items:center;background:url(../resources/bg.jpg);cursor:url(http://cur.cursors-4u.net/toons/too-4/too343.cur),default!important}.unfair{font-size:3rem;font-family:'Ultra',serif;font-weight:400;color:#eae70a;text-transform:uppercase;text-shadow:0 0 15px #031529}.unfair span{display:inline-block;-webkit-transition:-webkit-transform .2s;-moz-transition:-moz-transform .2s;-o-transition:-o-transform .2s;-ms-transition:-ms-transform .2s;transition:transform .2s;cursor:url(http://cur.cursors-4u.net/toons/too-4/too344.cur),default!important}.unfair span:hover{-webkit-transform:translateY(-20px) rotate(10deg) scale(2);-moz-transform:translateY(-20px) rotate(10deg) scale(2);-o-transform:translateY(-20px) rotate(10deg) scale(2);-ms-transform:translateY(-20px) rotate(10deg) scale(2);transform:translateY(-20px) rotate(10deg) scale(2)}
+        </style>
+        <script>
+            let goIran;
+
+            function fillSpan(elem) {
+                elem.innerHTML = [...elem.textContent.trim()]
+                    .map(letter => `<span>${letter}</span>`)
+                    .join('');
+            }
+
+            window.onload = () => {
+                goIran = document.querySelector('.unfair');
+                fillSpan(goIran);
+            };
+        </script>
+        <title>Make Software Free!</title>
+    </head>
+
+    <body>
+
+        <h3>GitHub for</h3>
+        <h2 class="unfair">
+            Everyone
+        </h2>
+    </body>
+</html>

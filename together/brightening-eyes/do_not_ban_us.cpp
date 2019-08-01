@@ -2,5 +2,5 @@
 
 int main()
 {
-	std::cout<<"Github is for everyone.";
+	std::cout<<"GitHub is for everyone.";
 }

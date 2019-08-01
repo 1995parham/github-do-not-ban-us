@@ -1,4 +1,4 @@
-namespace Github
+namespace GitHub
 {
     class Program
     {

@@ -2,7 +2,7 @@
 
 $eol = PHP_SAPI === 'cli' ? PHP_EOL : '<br>'.PHP_EOL;
 
-echo "Github is for everyone!".$eol;
+echo "GitHub is for everyone!".$eol;
 echo "This script will broadcast this message to all your Telegram chats.".$eol;
 echo "Unfortunately, since Telegram was blocked directly by the Iranian government, you might need to set a proxy to use it.".$eol.$eol;
 echo "If you encounter any connection errors while running this script, add your own MTProxy+socks5/HTTP proxy to the settings :(".$eol.$eol;
@@ -71,7 +71,7 @@ $MadelineProto->loop(function () use ($MadelineProto) {
         $params []= [
             'peer' => $peer, 
             'message' => "#githubForEveryone\n".
-                        "Github do not ban us iranians from open source world 🇮🇷\n\n".
+                        "GitHub do not ban us iranians from open source world 🇮🇷\n\n".
                         "https://github.com/1995parham/github-do-not-ban-us",
             'media' => [
                 '_' => 'inputMediaUploadedPhoto',

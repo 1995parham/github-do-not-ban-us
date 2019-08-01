@@ -6,7 +6,7 @@
 
 Tip: Du kannst [diese Erweiterung](https://github.com/JafarAkhondali/remove-github-restrictions-message) oder [diese Erweiterung](https://github.com/MohamadKh75/ShutHub) benutzen, um die gelbe Box zu verstecken!
 
-![github-octocat](https://user-images.githubusercontent.com/16706911/61997137-7aa7df00-b0b2-11e9-97f1-f452855fe21c.png)
+![github-octocat](https://user-images.githubusercontent.com/12782371/62160824-168f5000-b32a-11e9-858b-e196b913d17b.png)
 
 ## Einführung
 
@@ -19,7 +19,7 @@ GitHub war bisher eine offene und freie Plattform für jeden. Doch nun hat sich 
 Schlussendlich hoffen wir, dass GitHub's Team:
 
 - uns unsere privaten Repositories herunterladen und/oder veröffentlichen lässt (Kontrolle über Einstellungen).
-- seine Richtlinien zur Einschränkung ändert, soddas sie Benutzer nicht aufgrund ihrer Nationalität einschränken.
+- seine Richtlinien zur Einschränkung ändert, sodass sie Benutzer nicht aufgrund ihrer Nationalität einschränken.
 - seine Entscheidung veröffentlicht und sich für die Situation entschuldigt (genau wie Slack es in der selben Situation getan hat: https://slackhq.com/an-apology-and-an-update)
 
 ## Open-Source-Projekte von Iranischen Entwicklern

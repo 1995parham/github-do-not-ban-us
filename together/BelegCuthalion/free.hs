@@ -1,4 +1,4 @@
 module Main
   where
 
-main=putStrLn "Github is for everyone"
+main=putStrLn "GitHub is for everyone"

@@ -1,4 +1,4 @@
 void main() {
-  print('Github do not ban us!');
-  print('Github Sayeb Sala7!');
+  print('GitHub do not ban us!');
+  print('GitHub Sayeb Sala7!');
 }

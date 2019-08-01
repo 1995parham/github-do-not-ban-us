@@ -6,7 +6,7 @@
 
           // 
           console.log(`GitHub is for everyone !`);
-          console.log(`Github lina el koll !`);
+          console.log(`GitHub lina el koll !`);
           console.log(`جيت هوب لكل الناس !`);
           console.log(`Freedom for developers !`);
           console.log(`Al 7oriya lil mobarmijin !`);

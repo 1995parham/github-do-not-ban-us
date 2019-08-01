@@ -1,3 +1,3 @@
 #!/bin/bash
 
-echo -e "Github is for everyone"
+echo -e "GitHub is for everyone"

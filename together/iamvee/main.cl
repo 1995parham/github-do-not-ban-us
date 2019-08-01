@@ -1,1 +1,1 @@
-(format t "Github is for everyone~%")
+(format t "GitHub is for everyone~%")

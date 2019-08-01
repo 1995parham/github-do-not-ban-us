@@ -1,1 +1,1 @@
-paste("Github", "is", "for", "everyone!", sep=" ")
+paste("GitHub", "is", "for", "everyone!", sep=" ")

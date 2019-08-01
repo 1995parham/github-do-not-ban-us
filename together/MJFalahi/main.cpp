@@ -6,6 +6,6 @@ using namespace std;
 
 int main()
 {
-	cout << "Github is for everyone";
+	cout << "GitHub is for everyone";
 	return 0;
 }
