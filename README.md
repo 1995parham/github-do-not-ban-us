@@ -32,6 +32,7 @@ Eventually, we are hoping that GitHub's team will:
 
 Some examples of open-source projects created by Iranian developers:
 
+- [@thedevs-network](https://github.com/thedevs-network)/[**kutt**](https://github.com/thedevs-network/kutt)
 - [@behrad](https://github.com/behrad)/[**kue**](https://github.com/Automattic/kue)
 - [@behrad](https://github.com/behrad)/[**mosca**](https://github.com/mcollina/mosca)
 - [@harfbuzz](https://github.com/harfbuzz)/[**harfbuzz**](https://github.com/harfbuzz/harfbuzz)
@@ -834,6 +835,7 @@ You can:
 - Valera Padolochniy from Crimea 🇷🇺 ([smokehill](https://github.com/smokehill))
 - Victor Andrade from Brazil 🇧🇷 ([victorapa](https://github.com/victorapa))
 - Victor Borges from Brazil 🇧🇷 ([v-borg](https://github.com/v-borg))
+- Tom W from Australia 🇦🇺 ([Tomicktwo](https://github.com/tomicktwo/))
 - Vimiix Yao from China 🇨🇳 ([vimiix](https://github.com/vimiix))
 - Vincent Hyvert from France 🇫🇷 ([vinceh121](https://github.com/vinceh121/))
 - Vincent Weevers from Netherlands 🇳🇱 ([vweevers](https://github.com/vweevers))
