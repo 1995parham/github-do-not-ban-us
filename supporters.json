@@ -2722,5 +2722,10 @@
   	"name" : "Antoine MICELI",
   	"country" : "France",
   	"github" : "amiceli"
-  }
+  },
+  {
+    "name": "Taxo Rubio",
+    "country": "Spain",
+    "github": "Groctel"
+  },
 ]

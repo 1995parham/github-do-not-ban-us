@@ -14,15 +14,15 @@ GitHub solía ser una plataforma abierta y libre para todos, pero ha decidido re
 A pesar de que entendemos que GitHub ha podido tomar esta decisión debido a la presión del gobierno estadounidense, esperábamos una acción más respetuosa por parte de GitHub.
 
 
-1) GitHub ha restringido repentinamente nuestro acceso a los repositorios privados, pero nos hubiese gustado que nos advirtiera antes de limitar nuestro acceso.
+1) GitHub ha restringido repentinamente nuestro acceso a los repositorios privados, pero nos habría gustado que nos advirtiera antes de limitar nuestro acceso.
 
 2) El equipo de GitHub ha decidido dar un paso más allá y nos ha restringido **basándose en nuestra nacionalidad** sin importar dónde vivimos, mientras que podrían haber restringido nuestras direcciones IP como otras compañías con base en Estados Unidos.
 
 
 Eventualmente, esperamos que el equipo de GitHub:
 - nos deje descargar nuestros repositorios privados y también hacerlos públicos.
-- cambien sus políticas de restricción para no limitar a los usuarios basándose en su nacionalidad.
-- anuncien su decisión públicamente y se disculpen por crear esta situación (como slack hizo en la misma situación  https://slackhq.com/an-apology-and-an-update).
+- cambie sus políticas de restricción para no limitar a los usuarios basándose en su nacionalidad.
+- anuncie su decisión públicamente y se disculpe por crear esta situación (como slack hizo en la misma situación  https://slackhq.com/an-apology-and-an-update).
 
 
 ## Proyectos Open-source creados por desarrolladores iraníes
@@ -52,7 +52,7 @@ Puedes encontrar la lista al completo [aquí](https://github.com/mohebifar/made-
 
 ## Cómo puedes ayudarnos
 
-Puedes difundir el mensaje en todos los sitios que puedas, y mantener el Software Libre "como la libertad de expresión".
+Puedes difundir el mensaje en todos los sitios que puedas y mantener el Software Libre "como la libertad de expresión".
 Puedes:
 
 - Darnos una estrella y compartir este repositorio en las redes sociales con el hashtag #githubForEveryone
