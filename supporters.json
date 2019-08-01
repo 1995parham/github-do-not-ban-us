@@ -2630,6 +2630,11 @@
     "github": "Garamda"
   },
   {
+    "name": "Sercan Solmaz",
+    "country": "Türkiye",
+    "github": "srcnslmz"
+  },
+  {
     "name": "Jürno Ader",
     "country": "Estonia",
     "github": "Jyrno42"
@@ -2727,5 +2732,10 @@
   	"name" : "Jorge Baumann",
   	"country" : "Spain",
   	"github" : "baumannzone"
-  }	
+  },
+  {
+    "name": "Taxo Rubio",
+    "country": "Spain",
+    "github": "Groctel"
+  }
 ]

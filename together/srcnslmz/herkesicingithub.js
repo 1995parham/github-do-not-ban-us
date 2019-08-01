@@ -1,0 +1,1 @@
+console.log('Herkes için GitHub')
