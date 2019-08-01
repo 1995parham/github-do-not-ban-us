@@ -22,5 +22,5 @@ const { promises: { readFile, writeFile } } = require('fs');
     .sort((a, b) => {
       let [bufa, bufb] = [Buffer.from(a.toLowerCase()), Buffer.from(b.toLowerCase())]
       return Number(bufa.readBigUInt64BE(2) - bufb.readBigUInt64BE(2))
-    })).join('\n'))
+    })).join('\n').concat('\n'))
 })().catch(console.error)
