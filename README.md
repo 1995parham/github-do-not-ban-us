@@ -5,6 +5,14 @@
 
 English | [简体中文](./README-CN.md) | [Español ](./README-ES.md) | [Ελληνικά](./README-GR.md) | [Italiano](./README-IT.md) | [Русский](./README-RU.md) | [فارسی](./README-PER.md) | [Français ](./README-FR.md) | [Deutsch](./README-DE.md) | [Հայերէն](./README-HY.md) | [Српски](./README-SR.md) | [العربية](./README-AR.md) | [Türkçe](./README-TR.md) | [Português do Brasil](./README-PT-BR.md) | [Nederlands](./README-NL.md) | [한국어](./README-KO.md) | [日本語](./README-JA.md) | [नेपाल](./README-NP.md) | [繁體中文](./README-TW.md)
 
+**Attention!**
+We are so thankful for your support. This repository always shows that people are all together against unfortunate happening around the world.
+As GitHub revised some of the previous restrictions, we decided to reduce this repository's activity. Of course, it does not mean that we agree with the sanctions and the GitHub.
+We will post a conclusion and explain more soon, please wait for that.
+The campaign will be terminated Thusday 1 Aguest 23:59 (Tehran Time GMT +4:30). After this time we won't merge any new PR. 
+Once again thanks for your support and kindness
+Please wait for our final conclusion
+
 ![alt text](./message.png)
 
 ~~**Tip:** You can use [this extension](https://github.com/JafarAkhondali/remove-github-restrictions-message) or [this extension](https://github.com/MohamadKh75/ShutHub) or [this tampermonkey script](https://gist.github.com/HirbodBehnam/2e079e187be0b1b6a6bcb734ed88474e) or [Stylish](https://userstyles.org/styles/173827/hide-github-warning) to hide this yellow box!~~
