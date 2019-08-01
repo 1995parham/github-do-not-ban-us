@@ -3,7 +3,7 @@
     "name": "Shivam Chahar",
     "country": "India",
     "github": "chaharshivam"
-  },	
+  },
   {
     "name": "DanCodes",
     "country": "United Kingdom",
@@ -2719,6 +2719,7 @@
     "country": "Republic of Korea",
     "github": "boraJeon"
   },
+  {
     "name": "Paul Lee",
     "country": "Republic of Korea",
     "github": "swaniris"
@@ -2742,5 +2743,10 @@
     "name": "Taxo Rubio",
     "country": "Spain",
     "github": "Groctel"
+  },
+  {
+    "name": "Guilherme Garnier",
+    "country": "Brazil",
+    "github": "ggarnier"
   }
 ]
