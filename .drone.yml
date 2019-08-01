@@ -1,0 +1,9 @@
+kind: pipeline
+name: default
+
+steps:
+  - name: sort
+    image: node
+    commands:
+      - node sort.js
+      - git diff --quiet README.md
