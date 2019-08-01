@@ -367,6 +367,7 @@ You can:
 - Gabriel Starling from Brazil 🇧🇷 ([MadStarling](https://github.com/MadStarling))
 - Gabriel Petry from Brazil 🇧🇷 ([gabrielpetry](https://github.com/gabrielpetry))
 - Galin Kostov from Bulgaria 🇧🇬 ([gvko](https://github.com/gvko))
+- Garam Choi from South Korea 🇰🇷 ([Garamda](https://github.com/Garamda))
 - Gaurav Agarwal from India 🇮🇳 ([gauravagarwal2704](https://github.com/gauravagarwal2704))
 - George Ajam from Iraq 🇮🇶 ([geoapi](https://github.com/geoapi))
 - George Ho from Hong Kong 🇭🇰 ([eigenfoo](https://github.com/eigenfoo))
