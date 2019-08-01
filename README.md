@@ -702,6 +702,7 @@ You can:
 - Reza Bayat from Iran 🇮🇷 ([RezaBayat](https://github.com/rezabayat76))
 - Reza Hosseinzadeh from Iran 🇮🇷 ([Rezamax](https://github.com/rezamax))
 - Reza Kakhki from Iran 🇮🇷 ([elk-cloner](https://github.com/elk-cloner/))
+- Reza Tayebi from Iran 🇮🇷 ([RezaT1994](https://github.com/RezaT1994/))
 - ri7nz from Indonesia 🇮🇩 ([ri7nz](https://github.com/ri7nz))
 - Richard Merryfield from the United States 🇺🇸([labadore](https://gitlab.com/labadore))
 - Ri Hyŏk Su from DPR Korea 🇰🇵
@@ -853,3 +854,4 @@ You can:
 - Zoran Young from China 🇨🇳([Zoranner](https://github.com/zoranner))
 - Hamid Mohammadi from Iran 🇮🇷 ([hajitsu](https://github.com/hajitsu))
 - Anya Ellis from United States 🇺🇸 ([SunWithIssues](https://github.com/SunWithIssues))
+- Gerbi G from Guatemala 🇬🇹([gerbi](https://github.com/gerbi))
