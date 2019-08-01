@@ -14,15 +14,17 @@ GitHub solía ser una plataforma abierta y libre para todos, pero ha decidido re
 A pesar de que entendemos que GitHub ha podido tomar esta decisión debido a la presión del gobierno estadounidense, esperábamos una acción más respetuosa por parte de GitHub.
 
 
-1) GitHub ha restringido repentinamente nuestro acceso a los repositorios privados, pero por lo menos nos hubiese gustado que nos hubiese advertido antes de limitar nuestro acceso.
+1) GitHub ha restringido repentinamente nuestro acceso a los repositorios privados, pero por lo menos nos habría gustado que nos advirtiera antes de limitar nuestro acceso.
+
 
 2) El equipo de GitHub ha decidido dar un paso más allá y nos ha restringido **basándose en nuestra nacionalidad**, sin importar dónde vivimos, mientras que simplemente podrían haber restringido nuestras direcciones IP como hicieron otras compañías con base en Estados Unidos.
 
 
 Eventualmente, esperamos que el equipo de GitHub:
-- Nos deje descargar nuestros repositorios privados y también hacerlos públicos. **Actualización**: Ya es posible hacer los repositorios privados, públicos, ~~aunque esta opción no está disponible todavía en los gists privados (conteniendo archivos de configuración de IDEs, etc...)~~. **Actualización**: Ya es posible hacer los gists privados, públicos.
-- Cambien sus políticas de restricción para no limitar a los usuarios basándose en su nacionalidad.
-- Anuncien su decisión públicamente y se disculpen por crear esta situación (como hizo Slack: https://slackhq.com/an-apology-and-an-update).
+
+- Nos deje descargar nuestros repositorios privados y también hacerlos públicos.
+- Cambie sus políticas de restricción para no limitar a los usuarios basándose en su nacionalidad. **Actualización**: Ya es posible hacer los repositorios privados, públicos, ~~aunque esta opción no está disponible todavía en los gists privados (conteniendo archivos de configuración de IDEs, etc...)~~. **Actualización**: Ya es posible hacer los gists privados, públicos.
+- Anuncie su decisión públicamente y se disculpe por crear esta situación (como slack hizo en la misma situación  https://slackhq.com/an-apology-and-an-update).
 
 
 ## Proyectos de código abierto creados por desarrolladores Iraníes
@@ -55,7 +57,7 @@ Puedes encontrar la lista al completo [aquí](https://github.com/mohebifar/made-
 
 ## Cómo puedes ayudarnos
 
-Puedes difundir el mensaje en todos los sitios que puedas, y mantener el Software Libre "como la libertad de expresión".
+Puedes difundir el mensaje en todos los sitios que puedas y mantener el Software Libre "como la libertad de expresión".
 Puedes:
 
 - Darnos una estrella y compartir este repositorio en las redes sociales con el hashtag **#githubForEveryone**.
