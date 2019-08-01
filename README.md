@@ -861,6 +861,7 @@ You can:
 - Zoran Young from China 🇨🇳([Zoranner](https://github.com/zoranner))
 - Hamid Mohammadi from Iran 🇮🇷 ([hajitsu](https://github.com/hajitsu))
 - Anya Ellis from United States 🇺🇸 ([SunWithIssues](https://github.com/SunWithIssues))
+- Joway Wang from China 🇨🇳 ([joway](https://github.com/joway))
 - Long Gui from China 🇨🇳([10ngui](https://github.com/10ngui)) 
 - Jukoo from Africa/Senegal :sn: ([Jukoo](https://github.com/jukoo))
 - Gerbi G from Guatemala 🇬🇹([gerbi](https://github.com/gerbi))
