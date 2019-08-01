@@ -1,0 +1,1 @@
+console.log("GitHub cho tất cả mọi người!");

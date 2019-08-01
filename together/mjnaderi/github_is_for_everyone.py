@@ -22,4 +22,4 @@ def cprint(*args, sep=' ', end='\n', file=None, color=None):
 
 for color in Color.colors:
     # A message from developers community
-    cprint('Github is for everyone!', color=color)
+    cprint('GitHub is for everyone!', color=color)

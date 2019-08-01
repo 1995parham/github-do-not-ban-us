@@ -1,13 +1,14 @@
 # 给 GitHub 的一封信
 
-[English](./README.md) | 简体中文 | [Español ](./README-ES.md) | [Ελληνικά](./README-GR.md) | [Italiano](./README-IT.md) | [Русский](./README-RU.md) | [فارسی](./README-PER.md) | [Française ](./README-FR.md) | [Deutsch](./README-DE.md) | [Հայերէն](./README-HY.md) | [العربية](./README-AR.md) | [Türkçe](./README-TR.md) | [Nederlands](./README-NL.md) | [한국어](./README-KO.md)
+[English](./README.md) | [简体中文](./README-CN.md) | [Español ](./README-ES.md) | [Ελληνικά](./README-GR.md) | [Italiano](./README-IT.md) | [Русский](./README-RU.md) | [فارسی](./README-PER.md) | [Française ](./README-FR.md) | [Deutsch](./README-DE.md) | [Հայերէն](./README-HY.md) | [Српски](./README-SR.md) | [العربية](./README-AR.md) | [Türkçe](./README-TR.md) | [Português do Brasil](./README-PT-BR.md) | [Nederlands](./README-NL.md) | [한국어](./README-KO.md)
 
 ![alt text](./message.png)
 
 ~~**提示:** 你可以使用[该扩展](https://github.com/JafarAkhondali/remove-github-restrictions-message)或[该扩展](https://github.com/MohamadKh75/ShutHub)或[该 Tampermonkey 脚本](https://gist.github.com/HirbodBehnam/2e079e187be0b1b6a6bcb734ed88474e)或[Stylish](https://userstyles.org/styles/173827/hide-github-warning)来隐藏这个黄色提示框!~~
+
 **更新:** 这个警告消息现在可以关闭了。
 
-![github-octocat](https://user-images.githubusercontent.com/16706911/61997137-7aa7df00-b0b2-11e9-97f1-f452855fe21c.png)
+![github-octocat](https://user-images.githubusercontent.com/12782371/62160824-168f5000-b32a-11e9-858b-e196b913d17b.png)
 
 ## 介绍
 
@@ -23,6 +24,7 @@ GitHub 曾经是一个面向所有人的开放、自由的平台，但它现在�
   - **更新**：现在可以公开私有仓库了。
 - 变更他们的限制政策，不得根据用户国籍进行限制。
 - 公开宣布他们的决定并为造成当前的情形而道歉（就像之前发生同样情形时 Slack 做的一样：https://slackhq.com/an-apology-and-an-update ）。
+- **更新** 受限制账户的Github Pages现在可以访问了。
 
 ## 由伊朗开发者主持的开源项目
 
@@ -56,12 +58,13 @@ GitHub 曾经是一个面向所有人的开放、自由的平台，但它现在�
 
 - 加星并在社交平台上分享这个仓库，加上 #githubForEveryone 这个话题。
 - 在 “together” 文件夹中添加一个以你的用户名命名的文件夹。
-- 编写一份输出为“Github is for everyone”的代码（可以使用任何你想要的语言）。
+- 编写一份输出为“GitHub is for everyone”的代码（可以使用任何你想要的语言）。
 - 提交一个 PR。
 - 在支持者列表中添加你的名字和国籍。
 
 ## 拓展阅读
 
+  - [GitHub CEO 正式回应账号访问受限事件！](https://mp.weixin.qq.com/s/ykXvqYJmic7to6vXkkQTng)
   - [美国对外实行制裁，致多个地区 GitHub 账号使用受限！](https://mp.weixin.qq.com/s/JB4TyNRSMVJ5I39rDDBWeg)
   - [微软插手：GitHub 限制伊朗开发者！](https://medium.com/@d.aliyamini/microsoft-enters-github-banned-iranian-developers-843f7c60a146)
   - [GitHub 禁止伊朗用户](https://financialtribune.com/articles/sci-tech/99111/github-bans-iran-based-users)

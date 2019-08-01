@@ -1,3 +1,3 @@
 #!/usr/bin/env ruby
 
-puts 'Github is for everyone'
+puts 'GitHub is for everyone'

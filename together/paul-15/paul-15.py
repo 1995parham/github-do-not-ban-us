@@ -1,2 +1,2 @@
 while True:
-  print("Github is for everyone!")
+  print("GitHub is for everyone!")

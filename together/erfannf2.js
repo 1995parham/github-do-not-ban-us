@@ -3,7 +3,7 @@ var app = express();
 
 // Routes
 app.get('/', function(req, res) {
-  res.send('Github for Everyone! No to racism.');
+  res.send('GitHub for Everyone! No to racism.');
 });
 
 // Listen

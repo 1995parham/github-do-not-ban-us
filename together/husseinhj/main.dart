@@ -1,7 +1,7 @@
-// Github is for everyone
+// GitHub is for everyone
 // Do not ban Iranian developers
 // Husseinhj from Iran 🇮🇷
 
 void main() {
-  print('Github is for everyone');
+  print('GitHub is for everyone');
 }

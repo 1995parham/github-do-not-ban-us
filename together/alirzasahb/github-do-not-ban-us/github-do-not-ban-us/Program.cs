@@ -6,7 +6,7 @@ namespace github_do_not_ban_us
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Github is for everyone");
+            Console.WriteLine("GitHub is for everyone");
             Console.ReadLine();
         }
     }

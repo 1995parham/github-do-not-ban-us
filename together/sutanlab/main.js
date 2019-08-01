@@ -1,4 +1,4 @@
-// Github is for everyone
+// GitHub is for everyone
 // Do not ban Iranian developers
 // Sutan Gading Fadhillah Nasution from Indonesia 🇮🇩
-window.alert("Github For Everyone !!");
+window.alert("GitHub For Everyone !!");

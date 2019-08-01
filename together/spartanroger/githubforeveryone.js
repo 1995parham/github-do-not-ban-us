@@ -1,1 +1,1 @@
-console.log('Github é para todos!')
+console.log('GitHub é para todos!')
