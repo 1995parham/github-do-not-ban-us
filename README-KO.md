@@ -63,7 +63,7 @@ GitHub는 모두에게 자유롭고 열려있는 플랫폼이었습니다. 그�
 - username이 있는 폴더를 ["together" folder](together)에 추가하십시오.
 - "GItHub is for everyone" 을 원하는 언어로 작성해주세요.
 - 풀 리퀘스트를 만드세요.
-- 이름과 국적을 [서포터 섹션](#supporters)에 추가하세요.
+- 이름과 국적을 [서포터 섹션](#supporters-list-sorted-alphabetically)에 추가하세요.
 
 ## 더 읽어보기
 
@@ -101,6 +101,6 @@ GitHub는 모두에게 자유롭고 열려있는 플랫폼이었습니다. 그�
 
 ## 서포터
 
-[README.md#supporters-list-sorted-alphabetically](README.md#supporters-list-sorted-alphabetically)
+[README.md#supporters-list-sorted-alphabetically-list-sorted-alphabetically](README.md#supporters-list-sorted-alphabetically-list-sorted-alphabetically)
 
 ****

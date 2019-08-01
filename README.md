@@ -68,7 +68,7 @@ You can:
 - Add a folder with your username in ["together" folder](together).
 - Write a piece of code that prints "GitHub is for everyone" (in any language you wish).
 - Create a pull request.
-- Add your name and your country to the [supporters section](#supporters).
+- Add your name and your country to the [supporters section](#supporters-list-sorted-alphabetically).
 
 ## Further Readings
 

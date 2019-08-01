@@ -60,7 +60,7 @@ GitHub はあらゆる人々にとってオープンで自由なプラットフ�
 - ["together" フォルダ](together) の中に、あなたのユーザネームでフォルダを作る
 - "GitHub is for everyone" と出力するコードを（あなたの好きな言語で）書く
 - Pull Request をする
-- [サポーター セクション](README.md#supporters) にあなたの名前と国を追加する
+- [サポーター セクション](README.md#supporters-list-sorted-alphabetically) にあなたの名前と国を追加する
 
 ## 本件に関する記事
 
@@ -76,5 +76,5 @@ GitHub はあらゆる人々にとってオープンで自由なプラットフ�
 
 ## サポーター
 
-[README.md#supporters](README.md#supporters)
+[README.md#supporters-list-sorted-alphabetically](README.md#supporters-list-sorted-alphabetically)
 

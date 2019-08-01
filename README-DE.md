@@ -69,4 +69,4 @@ Du kannst:
 
 ## Unterstützer
 
-[README.md](README.md#supporters)
+[README.md](README.md#supporters-list-sorted-alphabetically)

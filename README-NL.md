@@ -60,7 +60,7 @@ Jij kan:
 - Voeg een map met uw gebruikersnaam toe aan ["together" map] (samen).
 - Schrijf een stukje code met de tekst "GitHub is voor iedereen" (in elke gewenste taal).
 - Maak een pull-verzoek.
-- Voeg uw naam en uw land toe aan de [supporters sectie](#supporters).
+- Voeg uw naam en uw land toe aan de [supporters sectie](#supporters-list-sorted-alphabetically).
 
 ## Further Readings
 

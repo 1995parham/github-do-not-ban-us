@@ -92,4 +92,4 @@ Você pode:
 ![nat-friedman](nat-friedman.png)
 
 ## Apoiadores
-[Apoiadores](README.md#Supporters)
+[Apoiadores](README.md#supporters-list-sorted-alphabetically)

@@ -109,4 +109,4 @@
   ](https://t.co/4FiLexH9Mf) on Twitter
 
 ## <div dir="rtl"> حمایت‌کنندگان</div>
-[README.md](README.md#supporters)
+[README.md](README.md#supporters-list-sorted-alphabetically)
