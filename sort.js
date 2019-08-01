@@ -14,11 +14,13 @@ const { promises: { readFile, writeFile } } = require('fs');
       }
       if (!supportorsStart) {
         newReadme.push(line)
-      }
-      if (supportorsStart && line.startsWith('- ')) {
+      } else if (line.startsWith('- ')) {
         supporters.push(line)
       }
     })
   await writeFile('README.md', newReadme.concat('', supporters
-    .sort()).join('\n'))
+    .sort((a, b) => {
+      let [bufa, bufb] = [Buffer.from(a.toLowerCase()), Buffer.from(b.toLowerCase())]
+      return Number(bufa.readBigUInt64BE(0) - bufb.readBigUInt64BE(0))
+    })).join('\n'))
 })().catch(console.error)
