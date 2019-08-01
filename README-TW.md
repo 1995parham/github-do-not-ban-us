@@ -62,4 +62,4 @@ GitHub 曾經是一個對所有人都開放且自由的平台，但它現在卻�
 
 ## 支持者列表
 
-備註：請前往[原文檔](./README.md#supporters)。
+備註：請前往[原文檔](./README.md#supporters-list-sorted-alphabetically)。

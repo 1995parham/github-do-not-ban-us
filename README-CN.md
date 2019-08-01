@@ -90,4 +90,4 @@ GitHub 曾经是一个面向所有人的开放、自由的平台，但它现在�
 
 ## 支持者列表
 
-译注：请前往[原文档](./README.md#supporters)查看。
+译注：请前往[原文档](./README.md#supporters-list-sorted-alphabetically)查看。

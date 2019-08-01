@@ -92,4 +92,4 @@ Tam listeye [buradan](https://github.com/mohebifar/made-in-iran) ulaşabilirsini
 
 ## Destekleyenler
 
-[Destekleyenler](README.md#supporters)
+[Destekleyenler](README.md#supporters-list-sorted-alphabetically)
