@@ -852,3 +852,4 @@ You can:
 - Zoran Young from China 🇨🇳([Zoranner](https://github.com/zoranner))
 - Hamid Mohammadi from Iran 🇮🇷 ([hajitsu](https://github.com/hajitsu))
 - Anya Ellis from United States 🇺🇸 ([SunWithIssues](https://github.com/SunWithIssues))
+- Joway Wang from China 🇨🇳 ([joway](https://github.com/joway))
