@@ -866,3 +866,4 @@ You can:
 - Long Gui from China 🇨🇳([10ngui](https://github.com/10ngui)) 
 - Jukoo from Africa/Senegal :sn: ([Jukoo](https://github.com/jukoo))
 - Gerbi G from Guatemala 🇬🇹([gerbi](https://github.com/gerbi))
+- Haocun Ni from China 🇨🇳([EndureBlaze](https://github.com/EndureBlaze))
