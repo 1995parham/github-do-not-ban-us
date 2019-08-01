@@ -67,6 +67,11 @@ Some examples of open-source projects created by Iranian developers:
 
 You can find the full list [here](https://github.com/mohebifar/made-in-iran).
 
+## Alternatives
+- [Gitlab](https://gitlab.com/) [#858](https://github.com/1995parham/github-do-not-ban-us/issues/858)
+- [Gitee](https://gitee.com/) [#1010](https://github.com/1995parham/github-do-not-ban-us/issues/1010)
+- [Gitfoo](https://gitfoo.com/) [#913](https://github.com/1995parham/github-do-not-ban-us/issues/913)
+
 ## How you can support us
 
 You can spread the message everywhere you can, and keep the Free Software "as in Free speech".
