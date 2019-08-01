@@ -1,6 +1,6 @@
 # Un mensaje a GitHub
 
-[English](./README.md) | [简体中文](./README-CN.md) | Español | [Ελληνικά](./README-GR.md) | [Italiano](./README-IT.md) | [Русский](./README-RU.md) | [فارسی](./README-PER.md) | [Française](./README-FR.md) | [Deutsch](./README-DE.md) | [العربية](./README-AR.md) | [Türkçe](./README-TR.md) | [Nederlands](./README-NL.md) | [한국어](./README-KO.md)
+[English](./README.md) | [简体中文](./README-CN.md) | [Español ](./README-ES.md) | [Ελληνικά](./README-GR.md) | [Italiano](./README-IT.md) | [Русский](./README-RU.md) | [فارسی](./README-PER.md) | [Française ](./README-FR.md) | [Deutsch](./README-DE.md) | [Հայերէն](./README-HY.md) | [Српски](./README-SR.md) | [العربية](./README-AR.md) | [Türkçe](./README-TR.md) | [Português do Brasil](./README-PT-BR.md) | [Nederlands](./README-NL.md) | [한국어](./README-KO.md)
 
 ![alt text](./message.png)
 
@@ -10,13 +10,13 @@ Consejo: ¡Puedes usar [esta extensión](https://github.com/MohamadKh75/ShutHub)
 
 ## Introducción
 
-GitHub solía ser una plataforma abierta y libre para todos, pero ha decidió restringir la contribución de las cuentas iraníes desplazándolas del ecosistema de open-source.
+GitHub solía ser una plataforma abierta y libre para todos, pero ha decidido restringir la contribución de las cuentas iraníes desplazándolas del ecosistema de open-source.
 A pesar de que entendemos que GitHub ha podido tomar esta decisión debido a la presión del gobierno estadounidense, esperábamos una acción más respetuosa por parte de GitHub.
 
 
 1) GitHub ha restringido repentinamente nuestro acceso a los repositorios privados, pero nos hubiese gustado que nos advirtiera antes de limitar nuestro acceso.
 
-2) El equipo de GitHub ha decidido dar un paso más allá y nos ha restringido **basándose en nuestra nacionalidad** sin importar donde vivimos, mientras que podrían haber restringido nuestras direcciones IP como otras compañías con base en Estados Unidos.
+2) El equipo de GitHub ha decidido dar un paso más allá y nos ha restringido **basándose en nuestra nacionalidad** sin importar dónde vivimos, mientras que podrían haber restringido nuestras direcciones IP como otras compañías con base en Estados Unidos.
 
 
 Eventualmente, esperamos que el equipo de GitHub:
@@ -50,12 +50,12 @@ Algunos ejemplos de proyectos open-source creados por desarrolladores iraníes:
 
 Puedes encontrar la lista al completo [aquí](https://github.com/mohebifar/made-in-iran).
 
-## Como puedes ayudarnos
+## Cómo puedes ayudarnos
 
 Puedes difundir el mensaje en todos los sitios que puedas, y mantener el Software Libre "como la libertad de expresión".
 Puedes:
 
-- Estrella y compartir este repositorio en plataformas sociales con #githubForEveryone
+- Darnos una estrella y compartir este repositorio en las redes sociales con el hashtag #githubForEveryone
 - Incluir un directorio con tu nombre de usuario en el directorio "together".
 - Escribir algo de código que imprima "GitHub is for everyone" (en el lenguaje que desees).
 - Crear una petición de pull.
