@@ -770,6 +770,7 @@ You can:
 - Shailen Naidoo za ([ShailenNaidoo](https://github.com/ShailenNaidoo/hydrogen))
 - Shakiba Moshiri from Iran 🇮🇷 ([k-five](https://github.com/k-five))
 - Shayan Karami from Iran 🇮🇷 ([Shayank](https://github.com/Shayank))
+- Shi Jiale from China 🇨🇳 ([mzzx](https://github.com/mzzx))
 - shitoudev from China 🇨🇳 ([shitoudev](https://github.com/shitoudev))
 - Shreyas Minocha from India 🇮🇳 ([shreyasminocha](ahttps://github.com/shreyasminoch))
 - Siamak A.Motlagh from Iran 🇮🇷 ([blacksrc](https://github.com/blacksrc))
