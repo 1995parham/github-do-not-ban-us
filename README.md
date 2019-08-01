@@ -867,3 +867,4 @@ You can:
 - Jukoo from Africa/Senegal :sn: ([Jukoo](https://github.com/jukoo))
 - Gerbi G from Guatemala 🇬🇹([gerbi](https://github.com/gerbi))
 - Haocun Ni from China 🇨🇳([EndureBlaze](https://github.com/EndureBlaze))
+- Yoann Potinet from France 🇫🇷 ([intelligide](https://github.com/intelligide))
