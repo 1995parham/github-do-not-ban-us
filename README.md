@@ -229,6 +229,7 @@ You can:
 - Amirfeqhi from Iran 🇮🇷([amirfeqhi](https://github.com/amirfeqhi))
 - AmirhoseiN Aliakbarian Iran 🇮🇷 ([amirhoseinaliakbarian](https://github.com/amirhoseinaliakbarian))
 - Amirhossein Yaghoobi from Iran 🇮🇷 ([amir-yaghoobi](https://github.com/amir-yaghoobi))
+- Ammar Abdulhamid from Nigeria 🇳🇬 ([ammarpad](https://github.com/ammarpad))
 - Anand Chowdhary from India and Netherlands 🇮🇳 🇳🇱 ([AnandChowdhary](https://github.com/AnandChowdhary))
 - Andreas Basurto from the United States 🇺🇸 ([nitrohorse](https://github.com/nitrohorse))
 - Andrii Kovalchuk from Ukraine 🇺🇦 ([tieorange](https://github.com/tieorange/))
