@@ -21,6 +21,6 @@ const { promises: { readFile, writeFile } } = require('fs');
   await writeFile('README.md', newReadme.concat('', supporters
     .sort((a, b) => {
       let [bufa, bufb] = [Buffer.from(a.toLowerCase()), Buffer.from(b.toLowerCase())]
-      return Number(bufa.readBigUInt64BE(0) - bufb.readBigUInt64BE(0))
+      return Number(bufa.readBigUInt64BE(2) - bufb.readBigUInt64BE(2))
     })).join('\n'))
 })().catch(console.error)
