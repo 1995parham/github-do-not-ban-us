@@ -872,6 +872,7 @@ You can:
 - Yağızhan Burak Yakar from Turkey 🇹🇷 ([yagizhan49](https://github.com/yagizhan49))
 - Yhlben from China 🇨🇳 ([yhlben](https://github.com/yhlben))
 - YHYJ from China 🇨🇳 ([YHYJ](https://github.com/YHYJ))
+- Yi Cao from China 🇨🇳 ([xiaoyu2006](https://github.com/xiaoyu2006))
 - Yoann Potinet from France 🇫🇷 ([intelligide](https://github.com/intelligide))
 - YouCii from China 🇨🇳 ([YouCii](https://github.com/YouCii))
 - Young Jae Sim from Republic of Korea 🇰🇷 ([Hanul](https://github.com/Hanul))
