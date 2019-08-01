@@ -39,4 +39,4 @@ void usage(void)
 	cout << "Usage: github_is_for_everyone\n";
 }
 
-void github_is_for_everyone(void) { cout << "Github is for everyone.\n"; }
+void github_is_for_everyone(void) { cout << "GitHub is for everyone.\n"; }

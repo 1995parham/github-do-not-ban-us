@@ -1,12 +1,12 @@
 # Un messaggio a GitHub
 
-[English](./README.md) | [简体中文](./README-CN.md) | [Español](./README-ES.md) | [Ελληνικά](./README-GR.md) | Italiano | [Русский](./README-RU.md) | [فارسی](./README-PER.md) | [Française](./README-FR.md) | [Deutsch](./README-DE.md) | [العربية](./README-AR.md) | [Türkçe](./README-TR.md) | [Nederlands](./README-NL.md) | [한국어](./README-KO.md)
+[English](./README.md) | [简体中文](./README-CN.md) | [Español ](./README-ES.md) | [Ελληνικά](./README-GR.md) | [Italiano](./README-IT.md) | [Русский](./README-RU.md) | [فارسی](./README-PER.md) | [Française ](./README-FR.md) | [Deutsch](./README-DE.md) | [Հայերէն](./README-HY.md) | [Српски](./README-SR.md) | [العربية](./README-AR.md) | [Türkçe](./README-TR.md) | [Português do Brasil](./README-PT-BR.md) | [Nederlands](./README-NL.md) | [한국어](./README-KO.md)
 
 ![alt text](./message.png)
 
 Suggerimento: Puoi usare [questa estensione](https://github.com/MohamadKh75/ShutHub) per nascondere questo box giallo!
 
-![github-octocat](https://user-images.githubusercontent.com/16706911/61997137-7aa7df00-b0b2-11e9-97f1-f452855fe21c.png)
+![github-octocat](https://user-images.githubusercontent.com/12782371/62160824-168f5000-b32a-11e9-858b-e196b913d17b.png)
 
 ## Introduzione
 

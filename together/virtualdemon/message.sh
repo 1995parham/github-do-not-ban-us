@@ -1,2 +1,2 @@
 #!/usr/bin/env bash
-printf "Github is for everyone\n"
+printf "GitHub is for everyone\n"

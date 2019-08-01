@@ -1,1 +1,1 @@
-console.info('Github is for everyone!')
+console.info('GitHub is for everyone!')

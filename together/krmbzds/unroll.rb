@@ -8,7 +8,7 @@ scroll = %q(
 \_|                |
   |     2019-07-29 |
   |                |
-  |  Github        |
+  |  GitHub        |
   |   is for       |
   |    everyone!   |
   |                |

@@ -1,5 +1,5 @@
 console.log([
-    'Github',
+    'GitHub',
     'for',
     'everyone',
 ].join(' '));

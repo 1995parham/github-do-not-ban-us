@@ -1,2 +1,2 @@
 console.log(`GitHub is for everyone!`)
-console.log(`Github li-na el koll!`)
+console.log(`GitHub li-na el koll!`)

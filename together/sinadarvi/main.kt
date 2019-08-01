@@ -1,3 +1,3 @@
 fun main(){
-    println("Github is for everyone")
+    println("GitHub is for everyone")
 }

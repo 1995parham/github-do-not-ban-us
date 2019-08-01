@@ -1,5 +1,5 @@
 package main
 
 func main() {
-	println("Github is for everyone")
+	println("GitHub is for everyone")
 }

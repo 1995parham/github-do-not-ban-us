@@ -10,4 +10,4 @@ function github(theMessage){
 }
 
 
-github('Github is for everyone!');
+github('GitHub is for everyone!');

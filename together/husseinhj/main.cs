@@ -1,6 +1,6 @@
 ﻿using System;
 
-// Github is for everyone
+// GitHub is for everyone
 // Do not ban Iranian developers
 // Husseinhj from Iran 🇮🇷
 
@@ -10,7 +10,7 @@ namespace GithubIsForEveryOne
     {
         public static void Main(string[] args)
         {
-            Console.WriteLine("Github is for everyone");
+            Console.WriteLine("GitHub is for everyone");
         }
     }
 }

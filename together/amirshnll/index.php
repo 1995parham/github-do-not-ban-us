@@ -1,6 +1,6 @@
 <?php
 	
 	// Amir Shokri [ https://github.com/amirshnll ]
-	echo "Github is for everyone";
+	echo "GitHub is for everyone";
 
 ?>

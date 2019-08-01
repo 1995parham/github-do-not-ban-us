@@ -1,12 +1,12 @@
-export default class Github {
-  static purpose: string = "Github is for everyone";
-  private static instance: Github;
+export default class GitHub {
+  static purpose: string = "GitHub is for everyone";
+  private static instance: GitHub;
   private constructor() {}
-  static create(): Github {
-    if (!Github.instance) {
-      Github.instance = new Github();
+  static create(): GitHub {
+    if (!GitHub.instance) {
+      GitHub.instance = new GitHub();
     }
-    console.log(Github.purpose);
-    return Github.instance;
+    console.log(GitHub.purpose);
+    return GitHub.instance;
   }
 }

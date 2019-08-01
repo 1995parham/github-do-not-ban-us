@@ -1,5 +1,5 @@
 #include <stdio.h>
 
 int main(){
-	printf("Github is for everyone!");
+	printf("GitHub is for everyone!");
 }

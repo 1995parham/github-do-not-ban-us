@@ -1,2 +1,2 @@
 # Do not ban Iranian developers
-print('Github is for everyone')
+print('GitHub is for everyone')

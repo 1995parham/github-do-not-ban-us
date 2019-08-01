@@ -1,7 +1,7 @@
 <?php
 
-// Github is for everyone
+// GitHub is for everyone
 // Do not ban Iranian developers
 // Siamak a.Motlagh from Iran 🇮🇷
 
-die("Github is for everyone!");
+die("GitHub is for everyone!");

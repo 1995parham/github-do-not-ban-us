@@ -1,3 +1,3 @@
 const showSupport = () => {
-    console.log("Github is for everyone")
+    console.log("GitHub is for everyone")
 }

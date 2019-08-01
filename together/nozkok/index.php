@@ -1,1 +1,1 @@
-<?php echo "Github is for everyone" ?>
+<?php echo "GitHub is for everyone" ?>
