@@ -64,7 +64,7 @@ Puedes:
 - Incluir una carpeta con tu nombre de usuario en el [directorio "together"](https://github.com/1995parham/github-do-not-ban-us/blob/master/together).
 - Escribir una pieza de código que imprima "GitHub is for everyone" (*GitHub es para todos, en inglés*) (en el lenguaje que desees).
 - Crear un *pull request*.
-- Incluir tu nombre y tu país en la [sección de apoyo en el README.md](https://github.com/1995parham/github-do-not-ban-us/blob/master/README.md#supporters-list-sorted-alphabetically-list-sorted-alphabetically) del repositorio (en inglés).
+- Incluir tu nombre y tu país en la [sección de apoyo en el README.md](https://github.com/1995parham/github-do-not-ban-us/blob/master/README.md#supporters-list-sorted-alphabetically) del repositorio (en inglés).
 
 ## Lecturas adicionales (en Inglés)
 
